@@ -4,27 +4,27 @@
 translate spanish mas_bookmarks_unbookmark_c42f8f06:
 
     # m 1dsa "Okay, [player].{w=0.2}.{w=0.2}.{w=0.2}{nw}"
-    m 1dsa ""
+    m 1dsa "Vale, [player].{w=0.2}.{w=0.2}.{w=0.2}{nw}"
 
 # game/event-handler.rpy:3718
 translate spanish mas_bookmarks_unbookmark_73747bba:
 
     # m 3hua "All done!"
-    m 3hua ""
+    m 3hua "¡Hecho!"
 
 translate spanish strings:
 
     # game/event-handler.rpy:3320
     old "{b}Unseen{/b}"
-    new ""
+    new "{b}No visto{/b}"
 
     # game/event-handler.rpy:3322
     old "Bookmarks"
-    new ""
+    new "Marcalibros"
 
     # game/event-handler.rpy:3323
     old "Hey, [m_name]..."
-    new ""
+    new "Oye, [m_name]..."
 
     # game/event-handler.rpy:3325
     old "Menu Android"
