@@ -28,45 +28,45 @@ translate spanish strings:
 
     # game/event-handler.rpy:3325
     old "Menu Android"
-    new ""
+    new "Menú Android"
 
     # game/event-handler.rpy:3327
     old "Repeat conversation"
-    new ""
+    new "Reiniciar conversación"
 
     # game/event-handler.rpy:3330
     old "I love you too!"
-    new ""
+    new "Yo también te amo"
 
     # game/event-handler.rpy:3332
     old "I love you!"
-    new ""
+    new "Te amo"
 
     # game/event-handler.rpy:3333
     old "I feel..."
-    new ""
+    new "Me siento..."
 
     # game/event-handler.rpy:3334
     old "Goodbye"
-    new ""
+    new "Adiós"
 
     # game/event-handler.rpy:3395
     old "I don't want to see this menu anymore"
-    new ""
+    new "No quiero ver este menú nunca más en la vida"
 
     # game/event-handler.rpy:3602
     old "I'd like to remove a bookmark"
-    new ""
+    new "Quisiera quitar un marcalibros"
 
     # game/event-handler.rpy:3695
     old "Which bookmarks do you want to remove?"
-    new ""
+    new "¿Cuál marcalibros quieres quitar?"
 
     # game/event-handler.rpy:3698
     old "Just select the bookmark if you're sure you want to remove it."
-    new ""
+    new "Si en verdad quieres eliminar el marcalibros, solamente selecciónalo y desaparecerá."
 
     # game/event-handler.rpy:3700
     old "Remove selected"
-    new ""
+    new "Eliminar item seleccionado"
 
