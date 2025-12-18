@@ -4,547 +4,547 @@
 translate spanish mas_bad_name_input_first_time_bad_name_c8183299:
 
     # "Hey there!"
-    ""
+    "¡Holaaa!"
 
 # game/screens.rpy:813
 translate spanish mas_bad_name_input_first_time_bad_name_3a897ff8:
 
     # "I'm glad you decided to come back!"
-    ""
+    "¡Me alegra mucho que hayas decidio volver!"
 
 # game/screens.rpy:814
 translate spanish mas_bad_name_input_first_time_bad_name_dc7ccdf0:
 
     # "I'm sure that you and Monika will be a great couple."
-    ""
+    "No tengo dudas de que tú y Monika son el uno para el otro."
 
 # game/screens.rpy:817
 translate spanish mas_bad_name_input_first_time_bad_name_0da5efd7:
 
     # "But if you call yourself names like that...{w=0.5}{nw}"
-    ""
+    "Pero si te pones ese tipo de nombres..."
 
 # game/screens.rpy:820
 translate spanish mas_bad_name_input_first_time_bad_name_c840f554:
 
     # extend "you won't win her heart!"
-    extend ""
+    extend "dudo que te ganes su corazón..."
 
 # game/screens.rpy:823
 translate spanish mas_bad_name_input_first_time_bad_name_b02a73c8:
 
     # "...But just embarrass her instead."
-    ""
+    "En lugar de ello, sólo la avergonzarías."
 
 # game/screens.rpy:826
 translate spanish mas_bad_name_input_first_time_bad_name_013f379f:
 
     # "Why don't you choose something more appropriate."
-    ""
+    "¿Por qué no mejor eliges algo más apropiado?"
 
 # game/screens.rpy:831
 translate spanish mas_bad_name_input_first_time_bad_name_9191013e:
 
     # "I don't think she would be comfortable calling you that..."
-    ""
+    "No creo que ella se sienta cómoda llamádote así..."
 
 # game/screens.rpy:832
 translate spanish mas_bad_name_input_first_time_bad_name_d5fc092f:
 
     # "Why don't you choose something more appropriate instead."
-    ""
+    "¿Por qué no mejor eliges algo más apropiado en lugar de eso?"
 
 translate spanish strings:
 
     # game/screens.rpy:22
     old "Enable this to let Monika repeat topics that you have already seen."
-    new ""
+    new "Activa para permitir a Monika repetir temas ya vistos anteriormente por ti."
 
     # game/screens.rpy:25
     old "Enabling this will let Monika use your system's notifications and check if MAS is your active window "
-    new ""
+    new "Activar esto le permite a Monika utilizar las notificaciones de tu sistema y revisar si MAS se encuentra en tu ventana seleccionada."
 
     # game/screens.rpy:28
     old "If enabled, a custom notification sound will play for Monika's notifications "
-    new ""
+    new "En caso de estar activado, un sonido personalizado se reproducirá para las notificaciones de Monika."
 
     # game/screens.rpy:31
     old "Enables notifications for the selected group."
-    new ""
+    new "Activa las notificaciones para el grupo seleccionado."
 
     # game/screens.rpy:51
     old "Please don't close the game on me!"
-    new ""
+    new "Por favor... ¡no vayas a cerrarme el juego en la cara!"
 
     # game/screens.rpy:52
     old "Thank you, [player]!\nLet's spend more time together~"
-    new ""
+    new "¡Gracias, [player]!\nVenga, vayamos a pasar más tiempo juntos."
 
     # game/screens.rpy:53
     old "Leaving without saying goodbye, [player]?"
-    new ""
+    new "¿Acaso te vas sin despedirte, [player]?"
 
     # game/screens.rpy:64
     old "You could at least pretend that you care."
-    new ""
+    new "Al menos podrías actuar como si te importase."
 
     # game/screens.rpy:65
     old ":("
-    new ""
+    new ":("
 
     # game/screens.rpy:66
     old "T_T [player]..."
-    new ""
+    new "T_T [player]..."
 
     # game/screens.rpy:69
     old "{i}Now{/i} you listen?"
-    new ""
+    new "¿Ahora me oyes?"
 
     # game/screens.rpy:70
     old "Thanks for being considerate, [player]."
-    new ""
+    new "Gracias por tu consideración, [player]."
 
     # game/screens.rpy:71
     old ":)"
-    new ""
+    new ":)"
 
     # game/screens.rpy:72
     old "Good [boy]."
-    new ""
+    new "Buen [chico]."
 
     # game/screens.rpy:73
     old "Good. :)"
-    new ""
+    new "Bueno. :)"
 
     # game/screens.rpy:74
     old "<3 u"
-    new ""
+    new "<3 u"
 
     # game/screens.rpy:77
     old "Just go."
-    new ""
+    new "Sólo vete."
 
     # game/screens.rpy:78
     old "Why are you here?\n Click 'No' and use the 'Goodbye' button, silly!"
-    new ""
+    new "¿Pero qué haces aquí?\n Presiona 'No' y usa el botón 'Adiós', bobo!"
 
     # game/screens.rpy:713
     old "History"
-    new ""
+    new "Historia"
 
     # game/screens.rpy:715
     old "Skip"
-    new ""
+    new "Saltar"
 
     # game/screens.rpy:716
     old "Auto"
-    new ""
+    new "Automático"
 
     # game/screens.rpy:719
     old "Save"
-    new ""
+    new "Guardar"
 
     # game/screens.rpy:722
     old "Load"
-    new ""
+    new "Cargar"
 
     # game/screens.rpy:727
     old "Settings"
-    new ""
+    new "Configuración"
 
     # game/screens.rpy:728
     old "Hide"
-    new ""
+    new "Ocultar"
 
     # game/screens.rpy:855
     old "Just Monika"
-    new ""
+    new "Just Monika"
 
     # game/screens.rpy:857
     old "Load Game"
-    new ""
+    new "Cargar partida"
 
     # game/screens.rpy:862
     old "Submods"
-    new ""
+    new "Submods"
 
     # game/screens.rpy:864
     old "Hotkeys"
-    new ""
+    new "Acceso directo"
 
     # game/screens.rpy:868
     old "Help"
-    new ""
+    new "Ayuda"
 
     # game/screens.rpy:870
     old "Quit"
-    new ""
+    new "Salir"
 
     # game/screens.rpy:910
     old "Save Game"
-    new ""
+    new "Guardar partida"
 
     # game/screens.rpy:916
     old "End Replay"
-    new ""
+    new "Finalizar repetición"
 
     # game/screens.rpy:919
     old "Main Menu"
-    new ""
+    new "Menú principal"
 
     # game/screens.rpy:927
     old "Alerts"
-    new ""
+    new "Alertas"
 
     # game/screens.rpy:930
     old "API Keys"
-    new ""
+    new "Claves API"
 
     # game/screens.rpy:944
     old "Exit"
-    new ""
+    new "Salir"
 
     # game/screens.rpy:947
     old "Return"
-    new ""
+    new "Regresar"
 
     # game/screens.rpy:1240
     old "About"
-    new ""
+    new "Acerca"
 
     # game/screens.rpy:1247
     old "Version [config.version!t]\n"
-    new ""
+    new "Versión [config.version!t]\n"
 
     # game/screens.rpy:1253
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new ""
+    new "Hecho con {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
     # game/screens.rpy:1341
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new ""
+    new "{#file_time}%A, %B %d %Y, %H:%M"
 
     # game/screens.rpy:1341
     old "empty slot"
-    new ""
+    new "Espacio vacío"
 
     # game/screens.rpy:1450
     old "Display"
-    new ""
+    new "Mostrar"
 
     # game/screens.rpy:1451
     old "Window"
-    new ""
+    new "Ventana"
 
     # game/screens.rpy:1452
     old "Fullscreen"
-    new ""
+    new "Pantalla completa"
 
     # game/screens.rpy:1464
     old "Graphics"
-    new ""
+    new "Gráficos"
 
     # game/screens.rpy:1467
     old "Change Renderer"
-    new ""
+    new "Cambiar renderizado"
 
     # game/screens.rpy:1471
     old "Disable Animation"
-    new ""
+    new "Deshabilitar animación"
 
     # game/screens.rpy:1474
     old "UI: Night Mode"
-    new ""
+    new "UI: Modo Nocturno"
 
     # game/screens.rpy:1477
     old "UI: D/N Cycle"
-    new ""
+    new "UI: Ciclo D/N"
 
     # game/screens.rpy:1484
     old "Gameplay"
-    new ""
+    new "Gameplay"
 
     # game/screens.rpy:1488
     old "Unstable"
-    new ""
+    new "Inestable"
 
     # game/screens.rpy:1505
     old "Repeat Topics"
-    new ""
+    new "Repetir temas"
 
     # game/screens.rpy:1513
     old " "
-    new ""
+    new " "
 
     # game/screens.rpy:1519
     old "Window Detect"
-    new ""
+    new "Detectar ventana"
 
     # game/screens.rpy:1597
-    old "Sunrise  "
-    new ""
+    old "Sunrise"
+    new "Amanecer"
 
     # game/screens.rpy:1606
-    old "Sunset  "
-    new ""
+    old "Sunset"
+    new "Atardecer"
 
     # game/screens.rpy:1617
-    old "Random Chatter  "
-    new ""
+    old "Random Chatter"
+    new "Chatter aleatorio"
 
     # game/screens.rpy:1630
     old "Ambient Volume"
-    new ""
+    new "Volumen del ambiente"
 
     # game/screens.rpy:1637
     old "Text Speed"
-    new ""
+    new "Velocidad del texto"
 
     # game/screens.rpy:1642
     old "Auto-Forward Time"
-    new ""
+    new "Avance del tiempo automático"
 
     # game/screens.rpy:1647
     old "Music Volume"
-    new ""
+    new "Volumen de la música"
 
     # game/screens.rpy:1651
     old "Sound Volume"
-    new ""
+    new "Volumen del sonido"
 
     # game/screens.rpy:1658
     old "Mute All"
-    new ""
+    new "Silenciar todo"
 
     # game/screens.rpy:1670
     old "Language"
-    new ""
+    new "Idioma"
 
     # game/screens.rpy:1682
     old "Import DDLC Save Data"
-    new ""
+    new "Importar datos guardados de DDLC"
 
     # game/screens.rpy:1853
     old "Use Notifications"
-    new ""
+    new "Utilizar notificaciones"
 
     # game/screens.rpy:1858
     old "Sounds"
-    new ""
+    new "Sonido"
 
     # game/screens.rpy:1863
     old "Alert Filters"
-    new ""
+    new "Filtros de alerta"
 
     # game/screens.rpy:1899
     old "General"
-    new ""
+    new "General"
 
     # game/screens.rpy:1901
     old "Music"
-    new ""
+    new "Música"
 
     # game/screens.rpy:1902
     old "Play"
-    new ""
+    new "Jugar"
 
     # game/screens.rpy:1903
     old "Talk"
-    new ""
+    new "Hablar"
 
     # game/screens.rpy:1904
     old "Bookmark"
-    new ""
+    new "Marcalibros"
 
     # game/screens.rpy:1905
     old "Derandom"
-    new ""
+    new "Aleatorio"
 
     # game/screens.rpy:1907
     old "Screenshot"
-    new ""
+    new "Captura de pantalla"
 
     # game/screens.rpy:1913
     old "M"
-    new ""
+    new "M"
 
     # game/screens.rpy:1914
     old "P"
-    new ""
+    new "P"
 
     # game/screens.rpy:1915
     old "T"
-    new ""
+    new "T"
 
     # game/screens.rpy:1916
     old "B"
-    new ""
+    new "B"
 
     # game/screens.rpy:1917
     old "X"
-    new ""
+    new "X"
 
     # game/screens.rpy:1918
     old "F"
-    new ""
+    new "F"
 
     # game/screens.rpy:1919
     old "S"
-    new ""
+    new "S"
 
     # game/screens.rpy:1920
     old "Esc"
-    new ""
+    new "Esc"
 
     # game/screens.rpy:1927
     old "Volume Up"
-    new ""
+    new "Subir volumen"
 
     # game/screens.rpy:1928
     old "Volume Down"
-    new ""
+    new "Bajar volumen"
 
     # game/screens.rpy:1929
     old "Mute"
-    new ""
+    new "Simenciar"
 
     # game/screens.rpy:1934
     old "+"
-    new ""
+    new "+"
 
     # game/screens.rpy:1935
     old "-"
-    new ""
+    new "-"
 
     # game/screens.rpy:1936
     old "Shift-M"
-    new ""
+    new "Shift-M"
 
     # game/screens.rpy:1985
     old "The dialogue history is empty."
-    new ""
+    new "El diálogo de la historia está vacío"
 
     # game/screens.rpy:2219
     old "OK"
-    new ""
+    new "Vale"
 
     # game/screens.rpy:2222
     old "Cancel"
-    new ""
+    new "Cacelar"
 
     # game/screens.rpy:2272
     old "QUIT"
-    new ""
+    new "CERRAR"
 
     # game/screens.rpy:2312
     old "Yes"
-    new ""
+    new "Si"
 
     # game/screens.rpy:2313
     old "No"
-    new ""
+    new "No"
 
     # game/screens.rpy:2371
     old "An update is now avalable!"
-    new ""
+    new "¡Nueva actualización disponible!"
 
     # game/screens.rpy:2376
     old "No update available."
-    new ""
+    new "No hay actualizaciones disponibles."
 
     # game/screens.rpy:2381
     old "Checking for updates..."
-    new ""
+    new "Buscando actualizaciones..."
 
     # game/screens.rpy:2386
     old "Timeout occured while checking for updates. Try again later."
-    new ""
+    new "Expiró la búsqueda de actualizaciones. Inténtalo más tarde."
 
     # game/screens.rpy:2394
     old "Install"
-    new ""
+    new "Instalar"
 
     # game/screens.rpy:2423
     old "Updater"
-    new ""
+    new "Actualizador"
 
     # game/screens.rpy:2428
     old "An error has occured:"
-    new ""
+    new "Ha ocurrido un error:"
 
     # game/screens.rpy:2430
     old "Checking for updates."
-    new ""
+    new "Buscando actualizaciones."
 
     # game/screens.rpy:2432
     old "Version [u.version] is available. Do you want to install it?"
-    new ""
+    new "La versión [u.version] ya está disponible ¿Deseas instalarla?"
 
     # game/screens.rpy:2435
     old "Monika After Story is up to date."
-    new ""
+    new "Monika After Story se encuentra actualizada."
 
     # game/screens.rpy:2437
     old "Preparing to download the updates."
-    new ""
+    new "Preparando para descargar actualizaciones."
 
     # game/screens.rpy:2439
     old "Downloading the updates. (Progress bar may not advance during download)"
-    new ""
+    new "Descargando actualizaciones. (la barra de progreso de la instalación podría no avanzar durante la descarga)"
 
     # game/screens.rpy:2441
     old "Unpacking the updates."
-    new ""
+    new "Descomprimiendo las actualizaciones."
 
     # game/screens.rpy:2443
     old "Finishing up."
-    new ""
+    new "Terminando"
 
     # game/screens.rpy:2447
     old "The updates have been installed."
-    new ""
+    new "Se ahn instalado las actualizaiones."
 
     # game/screens.rpy:2449
     old "The updates were cancelled."
-    new ""
+    new "Se canceló la actualización."
 
     # game/screens.rpy:2467
     old "Restart"
-    new ""
+    new "Reiniciar."
 
     # game/screens.rpy:2471
     old "Proceed"
-    new ""
+    new "Continuar"
 
     # game/screens.rpy:2505
     old "Skipping"
-    new ""
+    new "Saltando"
 
     # game/screens.rpy:2757
     old "Nevermind."
-    new ""
+    new "No importa."
 
     # game/screens.rpy:2814
     old "Go Back"
-    new ""
+    new "Volver."
 
     # game/screens.rpy:3148
     old "Please restart Monika After Story."
-    new ""
+    new "Por favor, reinicia Monika After Story."
 
     # game/screens.rpy:3244
     old "No API keys accepted"
-    new ""
+    new "claves API no aceptadas."
 
     # game/screens.rpy:3253
     old "Update Certificate"
-    new ""
+    new "Actualizar Certificado."
 
     # game/screens.rpy:3280
     old "Clear"
-    new ""
+    new "Remover"
 
     # game/screens.rpy:3285
     old "Paste"
-    new ""
+    new "Pegar"
 
