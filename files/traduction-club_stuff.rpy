@@ -4,241 +4,241 @@
 translate spanish notas_93bf7240:
 
     # "I finally have a custom sprite system working <3"
-    ""
+    "Por fin tengo un sistema personalizado de sprites funcional <3"
 
 # game/traduction-club_stuff.rpy:30
 translate spanish notas_db194647:
 
     # "Byeeee!"
-    ""
+    "¡Chaooo!"
 
 # game/traduction-club_stuff.rpy:31
 translate spanish notas_23b45565:
 
     # m "Oh maan..."
-    m ""
+    m "Vaya hombre..."
 
 # game/traduction-club_stuff.rpy:36
 translate spanish changelog_34c5bb88:
 
     # "MAS updated to 0.12.17 and port v1.1"
-    ""
+    "MAS se actualizó a la versión 0.12.17 y al port v1.1"
 
 # game/traduction-club_stuff.rpy:37
 translate spanish changelog_65f54d03:
 
     # "Release 1.1: 'The True Version' - English Edition."
-    ""
+    "Edición 1.1: 'La versión auténtica' - Edición en Inglés."
 
 # game/traduction-club_stuff.rpy:38
 translate spanish changelog_48df5a71:
 
     # "Fixed the bug with an incorrect animation when kissing Moni."
-    ""
+    "Se ha solucionado el bug de la animación errónea al besar a Moni."
 
 # game/traduction-club_stuff.rpy:39
 translate spanish changelog_d19dc1e0:
 
     # "SFX for NOU also fixed."
-    ""
+    "SFX para NOU también ha sido arreglado."
 
 # game/traduction-club_stuff.rpy:40
 translate spanish changelog_1634c7f1:
 
     # "Chess difficulty improved."
-    ""
+    "Se aumentó la dificultad del Ajedrez."
 
 # game/traduction-club_stuff.rpy:41
 translate spanish changelog_3276aeb0:
 
     # "Dynamic button to gift spritepacks."
-    ""
+    "Botón dinámico para obsequiar packs de sprites."
 
 # game/traduction-club_stuff.rpy:42
 translate spanish changelog_60ed50fc:
 
     # "Redesign of the custom gift screen."
-    ""
+    "Se rediseñó la pantalla del obsequio personalizado."
 
 # game/traduction-club_stuff.rpy:43
 translate spanish changelog_fc0932dc:
 
     # "(BETA) Custom sprites are now available. If you don't know how to use them, ask on the Discord server. (Android/data/com.test.mas/files/saves/android/sprites/)"
-    ""
+    "Spites personalizadas (BETA) ya disponibles. Si es que no sabes cómo utilizarlas, consulta en el servidor de Discord. (Android/data/com.test.mas/files/saves/android/sprites/)"
 
 # game/traduction-club_stuff.rpy:44
 translate spanish changelog_f54e18cc:
 
-    # "ando also the same mod_assets into 'Android/data/com.test.mas/files/game/'."
-    ""
+    # "and also the same mod_assets into 'Android/data/com.test.mas/files/game/'."
+    "Y también las mismas mod_assets dentro de 'Android/data/com.test.mas/files/game/'."
 
 # game/traduction-club_stuff.rpy:45
 translate spanish changelog_43822a9f:
 
     # "'custom_bgm' fixed and now works properly. ('Android/data/com.test.mas/files/game/custom_bgm/')"
-    ""
+    "'custom_bgm' arreglado y funcionando correctamente. ('Android/data/com.test.mas/files/game/custom_bgm/')"
 
 # game/traduction-club_stuff.rpy:46
 translate spanish changelog_1f27063f:
 
     # "Update date: 07/10/2025"
-    ""
+    "Fecha de actualización: 07/10/25"
 
 # game/traduction-club_stuff.rpy:47
 translate spanish changelog_08c03b30:
 
     # "Port by just6889 (Traduction Club!)"
-    ""
+    "Port desarrollado por just6889 (Traduction Club!)"
 
 # game/traduction-club_stuff.rpy:48
 translate spanish changelog_eef3114c:
 
     # "{a=https://traduction-club.live/}{color=#00f}Traduction Club page here{/color}{/a}."
-    ""
+    "{a=https://traduction-club.live/}{color=#00f}Traduction Club page here{/color}{/a}."
 
 # game/traduction-club_stuff.rpy:69
 translate spanish affectionmenu_b1e15d93:
 
     # "The affection of [persistent._mas_monika_nickname] is [store._mas_getAffection()] points."
-    ""
+    "El afecto de [persistent._mas_monika_nickname] representa [store._mas_getAffection()] puntos."
 
 translate spanish strings:
 
     # game/traduction-club_stuff.rpy:7
     old "Gifts"
-    new ""
+    new "Obsequios"
 
     # game/traduction-club_stuff.rpy:7
     old "Affect"
-    new ""
+    new "Afecto"
 
     # game/traduction-club_stuff.rpy:7
     old "Changelog"
-    new ""
+    new "Registro de cambios"
 
     # game/traduction-club_stuff.rpy:7
     old "Just's Notes (porter)"
-    new ""
+    new "Notas de Just (porteador)"
 
     # game/traduction-club_stuff.rpy:7
     old "(BETA - may not work, you need to know the process) Update mod_assets and sprites"
-    new ""
+    new "(BETA podría no funcionar, debes conocer el proceso) Actualiza mod_assets y las sprites"
 
     # game/traduction-club_stuff.rpy:75
     old "Write a Gift"
-    new ""
+    new "Escribe un obsequio"
 
     # game/traduction-club_stuff.rpy:75
     old "Predefined Gifts"
-    new ""
+    new "Obsequios predeterminados"
 
     # game/traduction-club_stuff.rpy:75
     old "Dynamic gift menu (All posible sprites)"
-    new ""
+    new "Menú de obsequios dinámicos (todos los sprites posibles)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Black and White)"
-    new ""
+    new "Cinta (blanco y negro)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Bronze)"
-    new ""
+    new "Cinta (bronce)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Brown)"
-    new ""
+    new "Cinta (marrón)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Gradient)"
-    new ""
+    new "Cinta (degradado)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Low-Poly Gradient)"
-    new ""
+    new "Cinta (degradado geométrico) "
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Rainbow Gradient)"
-    new ""
+    new "Cinta (degradado arcoíris)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (White Polka Dots on Red)"
-    new ""
+    new "Cinta (Blanco con rojo a lunares)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Starry Black Sky)"
-    new ""
+    new "Cinta (cielo negro estrellado)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Starry Red Sky)"
-    new ""
+    new "Cinta (cielo rojo estrellado)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Blue and White Stripes)"
-    new ""
+    new "Cinta (azul con franjas blancas)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Pink and White Stripes)"
-    new ""
+    new "Cinta (rosa con franjas blancas)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Transgender Pride Themed)"
-    new ""
+    new "Cinta (orgullo transgénero)"
 
     # game/traduction-club_stuff.rpy:145
     old "Hairclip (Crescent Moon)"
-    new ""
+    new "Broche de cabello (luna menguante)"
 
     # game/traduction-club_stuff.rpy:145
     old "Hairclip (Ghost)"
-    new ""
+    new "Broche de cabello (espectro)"
 
     # game/traduction-club_stuff.rpy:145
     old "Hairclip (Pumpkin)"
-    new ""
+    new "Broche de cabello (calabaza)"
 
     # game/traduction-club_stuff.rpy:145
     old "Hairclip (Bat)"
-    new ""
+    new "Broche de cabello (murciélago)"
 
     # game/traduction-club_stuff.rpy:145
     old "Choker (Chain, Silver)"
-    new ""
+    new "Gargantilla (cadena plateada)"
 
     # game/traduction-club_stuff.rpy:145
     old "Choker (Daisy, White)"
-    new ""
+    new "Gargantilla (margarita blanca)"
 
     # game/traduction-club_stuff.rpy:145
     old "Choker (Emerald, Green)"
-    new ""
+    new "Gargantilla (verde esmeralda)"
 
     # game/traduction-club_stuff.rpy:145
     old "Choker (Glitter Bead, Silver)"
-    new ""
+    new "Gargantilla (cuentas con brillos plateadas)"
 
     # game/traduction-club_stuff.rpy:145
     old "Choker (Ribbon, Red)"
-    new ""
+    new "Gargantilla (cinta roja)"
 
     # game/traduction-club_stuff.rpy:145
     old "Choker (Ruffles, Red)"
-    new ""
+    new "Gargantilla (pliegues rojos)"
 
     # game/traduction-club_stuff.rpy:145
     old "Choker (Silk, White)"
-    new ""
+    new "Gargantilla (seda blanca)"
 
     # game/traduction-club_stuff.rpy:145
     old "Choker (Spiked, Star)"
-    new ""
+    new "Gargantilla (estrella en puntas)"
 
     # game/traduction-club_stuff.rpy:145
     old "Choker (Spiral, Black)"
-    new ""
+    new "Gargantilla (espiral negro)"
 
     # game/traduction-club_stuff.rpy:145
     old "Choker (Thread, Ribbon)"
-    new ""
+    new "Gargantilla (cinta hilada)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Black, mini)"
@@ -246,59 +246,59 @@ translate spanish strings:
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Dark pink, mini)"
-    new ""
+    new "Cinta (negra en minitura)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Gray, mini)"
-    new ""
+    new "Cinta (gris e miniatura)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Orange, mini)"
-    new ""
+    new "Cinta (naranja en miniatura)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Pale green, mini)"
-    new ""
+    new "Cinta (verde agua en miniatura)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Pink, mini)"
-    new ""
+    new "Cinta (rosa en miniatura)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Purple, mini)"
-    new ""
+    new "Cinta (morada en miniatura)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Red, mini)"
-    new ""
+    new "Cinta (roja en miniatura)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Royal blue, mini)"
-    new ""
+    new "Cinta (azul klein en miniatura)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Sky blue, mini)"
-    new ""
+    new "Cinta (azul cielo en miniatura)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (White, mini)"
-    new ""
+    new "Cinta (blanco en miniatura)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Yellow, mini)"
-    new ""
+    new "Cinta (amarillo en miniatura)"
 
     # game/traduction-club_stuff.rpy:145
     old "Bralette (Red, Ruffles)"
-    new ""
+    new "Sostén (pliegues rojos)"
 
     # game/traduction-club_stuff.rpy:145
     old "Button Up (Flowered)"
-    new ""
+    new "Abotonado (floreado)"
 
     # game/traduction-club_stuff.rpy:145
     old "Dress (Dark blue, sparkly)"
-    new ""
+    new "Vestido (azul oscuro brillante)"
 
     # game/traduction-club_stuff.rpy:145
     old "Heart-Cut Bikini (Black)"
@@ -306,7 +306,7 @@ translate spanish strings:
 
     # game/traduction-club_stuff.rpy:145
     old "Heart-Cut Bikini (Green)"
-    new ""
+    new "Bikini en forma de corazón (verde)"
 
     # game/traduction-club_stuff.rpy:145
     old "Heart-Cut Bikini (Pink)"
