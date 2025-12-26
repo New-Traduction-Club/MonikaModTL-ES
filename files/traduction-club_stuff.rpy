@@ -242,7 +242,7 @@ translate spanish strings:
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Black, mini)"
-    new ""
+    new "Cinta (negra en miniatura)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Dark pink, mini)"
@@ -250,7 +250,7 @@ translate spanish strings:
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Gray, mini)"
-    new "Cinta (gris e miniatura)"
+    new "Cinta (gris en miniatura)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Orange, mini)"
@@ -302,7 +302,7 @@ translate spanish strings:
 
     # game/traduction-club_stuff.rpy:145
     old "Heart-Cut Bikini (Black)"
-    new ""
+    new "Bikini en forma de corazón (negro)"
 
     # game/traduction-club_stuff.rpy:145
     old "Heart-Cut Bikini (Green)"
@@ -310,353 +310,353 @@ translate spanish strings:
 
     # game/traduction-club_stuff.rpy:145
     old "Heart-Cut Bikini (Pink)"
-    new ""
+    new "Bikini en forma de corazón (rosa)"
 
     # game/traduction-club_stuff.rpy:145
     old "Heart-Cut Bikini (Purple)"
-    new ""
+    new "Bikini en forma de corazón (morado)"
 
     # game/traduction-club_stuff.rpy:145
     old "Heart-Cut Bikini (White)"
-    new ""
+    new "Bikini en forma de corazón (blanco)"
 
     # game/traduction-club_stuff.rpy:145
     old "Heart-Cut Bikini (Yellow)"
-    new ""
+    new "Bikini en forma de corazón (amarillo)"
 
     # game/traduction-club_stuff.rpy:145
     old "Shuchi'in Academy Uniform"
-    new ""
+    new "'Shuchi' con uniforme escolar"
 
     # game/traduction-club_stuff.rpy:145
     old "Sleeveless Turtleneck (Black)"
-    new ""
+    new "jersey de cuello cisne sin mangas (negro)"
 
     # game/traduction-club_stuff.rpy:145
     old "T-Shirt (Jurassic Park)"
-    new ""
+    new "Camiseta (Parque Jurásico)"
 
     # game/traduction-club_stuff.rpy:145
     old "T-Shirt (Jurassic World)"
-    new ""
+    new "Camiseta (Parque Jurásico)"
 
     # game/traduction-club_stuff.rpy:145
     old "V-cut Crossed Straps Tanktop (White)"
-    new ""
+    new "Camiseta de tirantes cruzados en V (blanca)"
 
     # game/traduction-club_stuff.rpy:145
     old "Pearl earrings"
-    new ""
+    new "Pendientes de perlas"
 
     # game/traduction-club_stuff.rpy:145
     old "Piercings (Black-silver)"
-    new ""
+    new "Piercing (negro plateado)"
 
     # game/traduction-club_stuff.rpy:145
     old "Dress (Green)"
-    new ""
+    new "Vestido (verde)"
 
     # game/traduction-club_stuff.rpy:145
     old "Jacket (Brown)"
-    new ""
+    new "Chaqueta (marrón)"
 
     # game/traduction-club_stuff.rpy:145
     old "Shirt (Put on a happy face)"
-    new ""
+    new "Camisa (Pon una carita feliz)"
 
     # game/traduction-club_stuff.rpy:145
     old "Shirt (Blue)"
-    new ""
+    new "Camisa (azul)"
 
     # game/traduction-club_stuff.rpy:145
     old "Shirt (Rest Here)"
-    new ""
+    new "Camisa (recuéstate aquí)"
 
     # game/traduction-club_stuff.rpy:145
     old "Sweater Vest (Blue)"
-    new ""
+    new "Chaleco (azul)"
 
     # game/traduction-club_stuff.rpy:145
     old "Tanktop (White)"
-    new ""
+    new "C"
 
     # game/traduction-club_stuff.rpy:145
     old "Turtleneck Sweater (Beige)"
-    new ""
+    new "Suéter con cuello cisne (beis)"
 
     # game/traduction-club_stuff.rpy:145
     old "Hoodie (Green)"
-    new ""
+    new "Sudadera (verde)"
 
     # game/traduction-club_stuff.rpy:145
     old "YoRHa No.2 Type B"
-    new ""
+    new "YoRHa No.2 clase B"
 
     # game/traduction-club_stuff.rpy:145
     old "Anchor Necklace"
-    new ""
+    new "Collar de ancla"
 
     # game/traduction-club_stuff.rpy:145
     old "Animal Crossing Necklace"
-    new ""
+    new "Collar de Animal Crossing"
 
     # game/traduction-club_stuff.rpy:145
     old "Cactus Necklace"
-    new ""
+    new "Collar de cactus"
 
     # game/traduction-club_stuff.rpy:145
     old "Gold Chain Necklace"
-    new ""
+    new "Collar cadena dorada"
 
     # game/traduction-club_stuff.rpy:145
     old "Snail Shell Necklace"
-    new ""
+    new "Collar de caracolas"
 
     # game/traduction-club_stuff.rpy:145
     old "Purple Star Necklace"
-    new ""
+    new "Collar de estrella morada"
 
     # game/traduction-club_stuff.rpy:145
     old "Sunflower Necklace"
-    new ""
+    new "Collar de girasol"
 
     # game/traduction-club_stuff.rpy:145
     old "Triforce Necklace"
-    new ""
+    new "Collar de trifuerza"
 
     # game/traduction-club_stuff.rpy:145
     old "Hairclip (Cherry)"
-    new ""
+    new "Broche de pelo (cereza)"
 
     # game/traduction-club_stuff.rpy:145
     old "Hairclip (Heart)"
-    new ""
+    new "Broche de pelo (corazón)"
 
     # game/traduction-club_stuff.rpy:145
     old "Hairclip (8th Note)"
-    new ""
+    new "Broche de pelo (corchea)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Coffee)"
-    new ""
+    new "Cinta (café)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Gold)"
-    new ""
+    new "Cinta (dorada)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Hot Pink)"
-    new ""
+    new "Cinta (rosa eléctrico)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Lilac)"
-    new ""
+    new "Cinta (lila)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Lime Green)"
-    new ""
+    new "Cinta (verde lima)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Navy Blue)"
-    new ""
+    new "Cinta (azul marino)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Orange)"
-    new ""
+    new "Cinta (naranja)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Royal Purple)"
-    new ""
+    new "Cinta (púrpura de Tiro)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Sky Blue)"
-    new ""
+    new "Cinta (azul cielo)"
 
     # game/traduction-club_stuff.rpy:145
     old "Kimono (Pink)"
-    new ""
+    new Kimono (rosa)
 
     # game/traduction-club_stuff.rpy:145
     old "Pullover (Black and White Stripe)"
-    new ""
+    new "Jersey (negro con franjas blancas)"
 
     # game/traduction-club_stuff.rpy:145
     old "Bow (Black)"
-    new ""
+    new "Lazo (negro)"
 
     # game/traduction-club_stuff.rpy:145
     old "Pullover (Wine Asymmetrical)"
-    new ""
+    new "Jersey (vino, asimétrico)"
 
     # game/traduction-club_stuff.rpy:145
     old "Flower (Pink)"
-    new ""
+    new "Flor (rosa)"
 
     # game/traduction-club_stuff.rpy:145
     old "Twin Ribbon (Blue)"
-    new ""
+    new "Doble cinta (azules)"
 
     # game/traduction-club_stuff.rpy:145
     old "Twin Ribbon (Green)"
-    new ""
+    new "Doble cinta /verde)"
 
     # game/traduction-club_stuff.rpy:145
     old "Twin Ribbon (Pink)"
-    new ""
+    new "Doble cinta (rosa)"
 
     # game/traduction-club_stuff.rpy:145
     old "Twin Ribbon (Yellow)"
-    new ""
+    new "Doble cinta (amarilla)"
 
     # game/traduction-club_stuff.rpy:145
     old "Bikini (Shell)"
-    new ""
+    new "Bikini (caracola)"
 
     # game/traduction-club_stuff.rpy:145
     old "Hatsune Miku"
-    new ""
+    new "Hatsune Miku"
 
     # game/traduction-club_stuff.rpy:145
     old "Sakuya Izayoi"
-    new ""
+    new "Sakuya Izayoi"
 
     # game/traduction-club_stuff.rpy:145
     old "Sweater (Shoulderless)"
-    new ""
+    new "Jersey (sin hombros)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (8-bit Blue)"
-    new ""
+    new "Cinta (azul 8 bits)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (8-bit Emerald)"
-    new ""
+    new "Cinta (verde esmeralda 8 bits)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (8-bit White)"
-    new ""
+    new "Cinta (blanca 8 bits)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Amdek Amber)"
-    new ""
+    new "Cinta (pantalla Amdek Amber)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Game Boy Green)"
-    new ""
+    new "Cinta (verde Game Boy)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (8-bit Purple)"
-    new ""
+    new "Cinta (morado 8 bits)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (8-bit Red)"
-    new ""
+    new "Cinta (rojo 8 bits)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Super Game Boy Green)"
-    new ""
+    new "Cinta (verde Super Game Boy)"
 
     # game/traduction-club_stuff.rpy:145
     old "Heart Choker"
-    new ""
+    new "Gargantilla de corazón"
 
     # game/traduction-club_stuff.rpy:145
     old "Choker (Flowered)"
-    new ""
+    new "Gargantilla (floreada)"
 
     # game/traduction-club_stuff.rpy:145
     old "Choker (Simple)"
-    new ""
+    new "Gargantilla (simple)"
 
     # game/traduction-club_stuff.rpy:145
     old "Bunny Scrunchie (Blue)"
-    new ""
+    new "Goma de conejito (azul)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Black, s-type)"
-    new ""
+    new "Cinta (negra, ondulada)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Blue, s-type)"
-    new ""
+    new "Cinta (azul, ondulada)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Dark Purple, s-type)"
-    new ""
+    new "Cinta (morado oscuro, ondulada)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (White, s-type)"
-    new ""
+    new "Cinta (blanca, ondulada)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Emerald, s-type)"
-    new ""
+    new "Cinta (verde esmeralda, ondulada)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Gray, s-type)"
-    new ""
+    new "Cinta (gris, ondulada)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Green, s-type)"
-    new ""
+    new "Cinta (verde, ondulada)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Light Purple, s-type)"
-    new ""
+    new "Cinta (púrpura claro, ondulada)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Peach, s-type)"
-    new ""
+    new "Cinta (melocotón, ondulada)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Pink, s-type)"
-    new ""
+    new "Cinta (rosa, ondulada)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Platinum, s-type)"
-    new ""
+    new "Cinta (platinada, ondulada)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Red, s-type)"
-    new ""
+    new "Cinta (roja, ondulada)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Ruby, s-type)"
-    new ""
+    new "Cinta (carmín, ondulada)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Sapphire, s-type)"
-    new ""
+    new "Cinta (azul zafiro, ondulada)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Silver, s-type)"
-    new ""
+    new "Cinta (plateada, ondulada)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Teal, s-type)"
-    new ""
+    new "Cinta (verde azulado, ondulada)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Wine, s-type)"
-    new ""
+    new "Cinta (vino, ondulada)"
 
     # game/traduction-club_stuff.rpy:145
     old "Ribbon (Yellow, s-type)"
-    new ""
+    new "Cinta (amarilla, ondulada)"
 
     # game/traduction-club_stuff.rpy:145
     old "White and Navy Blue Dress"
-    new ""
+    new "Vestido negro con azul marino"
 
     # game/traduction-club_stuff.rpy:145
     old "Shirt (Pink)"
-    new ""
+    new "Camisa (rosa)"
 
     # game/traduction-club_stuff.rpy:868
     old "Custom sprites updated.\nA restart is required to apply\nthese changes."
-    new ""
+    new "Se actualizaron los sprires personalizados.\nSe requiere reinicio para aplicar\nlos cambios."
 
     # game/traduction-club_stuff.rpy:925
     old "Please select a language"
-    new ""
+    new "Por favor, elige un idioma"
 
