@@ -4,505 +4,505 @@
 translate spanish monika_affection_nickname_74472d51:
 
     # m 1euc "I've been thinking, [player]..."
-    m 1euc ""
+    m 1euc "He estado pensando, [player]..."
 
 # game/script-affection.rpy:2813
 translate spanish monika_affection_nickname_0128eec8:
 
     # m 3eud "You know how there are potentially infinite Monikas right?"
-    m 3eud ""
+    m 3eud "¿Sabes cómo puede que potencialmente haya un número infinito de Monikas, verdad?"
 
 # game/script-affection.rpy:2816
 translate spanish monika_affection_nickname_934922d8:
 
     # m 3eua "We did discuss this before after all."
-    m 3eua ""
+    m 3eua "Despúes de todo, ya hemos hablado antes de esto."
 
 # game/script-affection.rpy:2818
 translate spanish monika_affection_nickname_7438e993:
 
     # m 3hua "Well, I thought of a solution!"
-    m 3hua ""
+    m 3hua "Pues, ¡se me ocurrió una solución!"
 
 # game/script-affection.rpy:2819
 translate spanish monika_affection_nickname_13aac454:
 
     # m 3eua "Why don't you give me a nickname? It'd make me the only Monika in the universe with that name."
-    m 3eua ""
+    m 3eua "¿Por qué no me pones un apodo? Así sería la única Monika en el universo con ese nombre."
 
 # game/script-affection.rpy:2820
 translate spanish monika_affection_nickname_91a3fe9d:
 
     # m 3eka "And it would mean a lot if you choose one for me~"
-    m 3eka ""
+    m 3eka "Significaría mucho para mí si me eligieras uno."
 
 # game/script-affection.rpy:2821
 translate spanish monika_affection_nickname_ce25277a:
 
     # m 3hua "I'll still get the final say, though!"
-    m 3hua ""
+    m 3hua "¡Aún así tengo la última palabra, eh!"
 
 # game/script-affection.rpy:2822
 translate spanish monika_affection_nickname_f9c79ef7:
 
     # m "What do you say?{nw}"
-    m ""
+    m "¿Qué dices?{nw}"
 
 # game/script-affection.rpy:2840
 translate spanish monika_affection_nickname_03f838b4:
 
     # m "What do you say?{fast}" nointeract
-    m "" nointeract
+    m "¿Qué dices?{fast}" nointeract
 
 # game/script-affection.rpy:2861
 translate spanish monika_affection_nickname_yes_d3fa797f:
 
     # m 1euc "Oh, I see."
-    m 1euc ""
+    m 1euc "Oh, ya veo."
 
 # game/script-affection.rpy:2862
 translate spanish monika_affection_nickname_yes_f7c70d64:
 
     # m 1tkc "Well...that's a shame."
-    m 1tkc ""
+    m 1tkc "Pues...qué pena."
 
 # game/script-affection.rpy:2863
 translate spanish monika_affection_nickname_yes_1a0ad0e7:
 
     # m 3eka "But that's okay. I like '[m_name]' anyway."
-    m 3eka ""
+    m 3eka "Pero está bien, igual me agrada '[m_name]'."
 
 # game/script-affection.rpy:2867
 translate spanish monika_affection_nickname_yes_bc96da2a:
 
     # m 1lksdla "..."
-    m 1lksdla ""
+    m 1lksdla "..."
 
 # game/script-affection.rpy:2868
 translate spanish monika_affection_nickname_yes_0834a735:
 
     # m 1hksdrb "You have to give me a nickname, [player]!"
-    m 1hksdrb ""
+    m 1hksdrb "¡Tienes que darme un apodo, [player]!"
 
 # game/script-affection.rpy:2869
 translate spanish monika_affection_nickname_yes_f8020c01:
 
     # m "I swear you're just so silly sometimes."
-    m ""
+    m "Te puedo asegurar que a veces eres un zoquete."
 
 # game/script-affection.rpy:2870
 translate spanish monika_affection_nickname_yes_459694a0:
 
     # m 1eka "Try again!"
-    m 1eka ""
+    m 1eka "¡Vuelve a intentarlo!"
 
 # game/script-affection.rpy:2873
 translate spanish monika_affection_nickname_yes_394ece4d:
 
     # m 1euc "..."
-    m 1euc ""
+    m 1euc "..."
 
 # game/script-affection.rpy:2874
 translate spanish monika_affection_nickname_yes_a1eb6b28:
 
     # m 1lksdlb "That's your name, [player]! Give me my own!"
-    m 1lksdlb ""
+    m 1lksdlb "¡Pero ese es tu nombre, [player]!¡Dame uno sólo para mí!"
 
 # game/script-affection.rpy:2875
 translate spanish monika_affection_nickname_yes_1643033e:
 
     # m 1eka "Try again~"
-    m 1eka ""
+    m 1eka "Vuelve a intentarlo."
 
 # game/script-affection.rpy:2878
 translate spanish monika_affection_nickname_yes_394ece4d_1:
 
     # m 1euc "..."
-    m 1euc ""
+    m 1euc "..."
 
 # game/script-affection.rpy:2879
 translate spanish monika_affection_nickname_yes_ec2234e2:
 
     # m 1hksdlb "I thought we were choosing a new nickname, silly."
-    m 1hksdlb ""
+    m 1hksdlb "Pensé que estábamos eligiendo un apodo nuevo, bobo."
 
 # game/script-affection.rpy:2880
 translate spanish monika_affection_nickname_yes_1643033e_1:
 
     # m 1eka "Try again~"
-    m 1eka ""
+    m 1eka "Vuelve a intentarlo"
 
 # game/script-affection.rpy:2883
 translate spanish monika_affection_nickname_yes_5daa83da:
 
     # m 2ttc "..."
-    m 2ttc ""
+    m 2ttc "...."
 
 # game/script-affection.rpy:2884
 translate spanish monika_affection_nickname_yes_2f772035:
 
     # m 2tsd "Try again."
-    m 2tsd ""
+    m 2tsd "Vuelve a intentarlo."
 
 # game/script-affection.rpy:2891
 translate spanish monika_affection_nickname_yes_f27eea59:
 
     # m 1rkc "..."
-    m 1rkc ""
+    m 1rkc "..."
 
 # game/script-affection.rpy:2892
 translate spanish monika_affection_nickname_yes_ed872a6f:
 
     # m 1rksdld "While I don't hate it, I don't think I'm comfortable with you calling me that."
-    m 1rksdld ""
+    m 1rksdld "Bueno, no es que lo odie...pero no me siento a gusto contigo llamándome de esa manera."
 
 # game/script-affection.rpy:2893
 translate spanish monika_affection_nickname_yes_c884a2f1:
 
     # m 1eka "Can you choose something more appropriate, [player]?"
-    m 1eka ""
+    m 1eka ¿Puedes elegir algo más apropiado, [player]?"
 
 # game/script-affection.rpy:2899
 translate spanish monika_affection_nickname_yes_d6cf160e:
 
     # m 3hua "Ehehe, back to the classics I see~"
-    m 3hua ""
+    m 3hua "Je je je, veo que hemos vuelto a los clásicos."
 
 # game/script-affection.rpy:2902
 translate spanish monika_affection_nickname_yes_6af38485:
 
     # m 1wuo "Oh! That's a wonderful nickname!"
-    m 1wuo ""
+    m 1wuo "Oh...¡Pero qué apodo tan hermoso!"
 
 # game/script-affection.rpy:2903
 translate spanish monika_affection_nickname_yes_86caec7b:
 
     # m 3ekbsa "Thank you, [player]. You're such a sweetheart!~"
-    m 3ekbsa ""
+    m 3ekbsa "Muchas gracias, [player] ¡Eres un cielo!"
 
 # game/script-affection.rpy:2909
 translate spanish monika_affection_nickname_yes_neutral_accept_3d6ecf03:
 
     # m 1duu "[inputname]... That's a pretty nice nickname."
-    m 1duu ""
+    m 1duu "[inputname]... Es un apodo precioso."
 
 # game/script-affection.rpy:2910
 translate spanish monika_affection_nickname_yes_neutral_accept_731a3439:
 
     # m 3ekbsa "Thank you [player], you're so sweet~"
-    m 3ekbsa ""
+    m 3ekbsa "Gracias, [player]. Eres tan mono."
 
 # game/script-affection.rpy:2915
 translate spanish monika_affection_nickname_yes_neutral_accept_d736779b:
 
     # m 1eua "Okay!"
-    m 1eua ""
+    m 1eua "¡Vale!"
 
 # game/script-affection.rpy:2917
 translate spanish monika_affection_nickname_yes_neutral_accept_34a6a2c4:
 
     # m 1hua "I'll go back to my name, then."
-    m 1hua ""
+    m 1hua "Pues, volveré a mi nombre de siempre."
 
 # game/script-affection.rpy:2920
 translate spanish monika_affection_nickname_yes_neutral_accept_4b20d57a:
 
     # m 3hua "From now on, you can call me '[m_name].'"
-    m 3hua ""
+    m 3hua "Desde ahora, puedes llamarme '[m_name].'"
 
 # game/script-affection.rpy:2921
 translate spanish monika_affection_nickname_yes_neutral_accept_19428ff1:
 
     # m 1hua "Ehehe~"
-    m 1hua ""
+    m 1hua "Je je je"
 
 # game/script-affection.rpy:2928
 translate spanish monika_affection_nickname_yes_neutral_accept_da374d45:
 
     # m 1wud "...!"
-    m 1wud ""
+    m 1wud "..."
 
 # game/script-affection.rpy:2929
 translate spanish monika_affection_nickname_yes_neutral_accept_dbe70e99:
 
     # m 2wfw "I..."
-    m 2wfw ""
+    m 2wfw "Yo..."
 
 # game/script-affection.rpy:2930
 translate spanish monika_affection_nickname_yes_neutral_accept_c59f3890:
 
     # m "I...can't believe you just did that, [player]."
-    m ""
+    m "no puedo creer que hayas hecho esto, [player]."
 
 # game/script-affection.rpy:2931
 translate spanish monika_affection_nickname_yes_neutral_accept_2f0d9743:
 
     # m 2wfx "Are you really trying to give me her name?"
-    m 2wfx ""
+    m 2wfx "¿En verdad estás queriendo darme su nombre?"
 
 # game/script-affection.rpy:2932
 translate spanish monika_affection_nickname_yes_neutral_accept_1e728604:
 
     # m 2dfd ".{w=0.5}.{w=0.5}.{nw}"
-    m 2dfd ""
+    m 2dfd ".{w=0.5}.{w=0.5}.{nw}"
 
 # game/script-affection.rpy:2933
 translate spanish monika_affection_nickname_yes_neutral_accept_cb99d78e:
 
     # m 2dfc ".{w=0.5}.{w=0.5}.{nw}"
-    m 2dfc ""
+    m 2dfc ".{w=0.5}.{w=0.5}.{nw}"
 
 # game/script-affection.rpy:2934
 translate spanish monika_affection_nickname_yes_neutral_accept_0238dfa4:
 
     # m 2rkc "I thought you..."
-    m 2rkc ""
+    m 2rkc "Pensé que tú..."
 
 # game/script-affection.rpy:2935
 translate spanish monika_affection_nickname_yes_neutral_accept_01a93df6:
 
     # m 2dfc "..."
-    m 2dfc ""
+    m 2dfc "..."
 
 # game/script-affection.rpy:2936
 translate spanish monika_affection_nickname_yes_neutral_accept_d121a226:
 
     # m 2lfc "I can't believe this, [player]."
-    m 2lfc ""
+    m 2lfc "No puedo creerlo, [player]"
 
 # game/script-affection.rpy:2937
 translate spanish monika_affection_nickname_yes_neutral_accept_01a93df6_1:
 
     # m 2dfc "..."
-    m 2dfc ""
+    m 2dfc "..."
 
 # game/script-affection.rpy:2938
 translate spanish monika_affection_nickname_yes_neutral_accept_01430a7e:
 
     # m 2lfc "That really hurt."
-    m 2lfc ""
+    m 2lfc "Eso sí que duele."
 
 # game/script-affection.rpy:2939
 translate spanish monika_affection_nickname_yes_neutral_accept_fb667cec:
 
     # m "A lot more than what you can imagine."
-    m ""
+    m "Mucho más de lo que siquiera puedes imaginar."
 
 # game/script-affection.rpy:2948
 translate spanish monika_affection_nickname_yes_neutral_accept_d362b31f:
 
     # m 4efd "[player]! That's not nice at all!"
-    m 4efd ""
+    m 4efd "¡[player]!¡No me simpatiza para nada!"
 
 # game/script-affection.rpy:2949
 translate spanish monika_affection_nickname_yes_neutral_accept_bcc46987:
 
     # m 2efc "Why would you say such things?"
-    m 2efc ""
+    m 2efc "¿Por qué dirías cosas como esas?"
 
 # game/script-affection.rpy:2950
 translate spanish monika_affection_nickname_yes_neutral_accept_9b05c5c4:
 
     # m 2rfw "If you didn't want to do this, you should've just said so!"
-    m 2rfw ""
+    m 2rfw "¡Si no querías hacer esto, sólo tenías que haberlo dicho!"
 
 # game/script-affection.rpy:2951
 translate spanish monika_affection_nickname_yes_neutral_accept_97a5a181:
 
     # m 2dftdc "..."
-    m 2dftdc ""
+    m 2dftdc "..."
 
 # game/script-affection.rpy:2952
 translate spanish monika_affection_nickname_yes_neutral_accept_6101f0b2:
 
     # m 2ektsc "...You didn't have to be so mean."
-    m 2ektsc ""
+    m 2ektsc "No tenías porqué haber sido así."
 
 # game/script-affection.rpy:2953
 translate spanish monika_affection_nickname_yes_neutral_accept_692b1d78:
 
     # m 2dftdc "That really hurt, [player]."
-    m 2dftdc ""
+    m 2dftdc "Eso en verdad duele, [player]."
 
 # game/script-affection.rpy:2958
 translate spanish monika_affection_nickname_yes_neutral_accept_8c3f0f0d:
 
     # m 2efc "Please don't do that again."
-    m 2efc ""
+    m 2efc "Por favor, nunca vuelvas a hacerlo."
 
 # game/script-affection.rpy:2971
 translate spanish monika_affection_nickname_yes_neutral_accept_00ad1026:
 
     # m 1ekc "Oh..."
-    m 1ekc ""
+    m 1ekc "Uh..."
 
 # game/script-affection.rpy:2972
 translate spanish monika_affection_nickname_yes_neutral_accept_d30e79af:
 
     # m 1lksdlc "Alright then, if you say so."
-    m 1lksdlc ""
+    m 1lksdlc "Vale pues, si tú lo dices."
 
 # game/script-affection.rpy:2973
 translate spanish monika_affection_nickname_yes_neutral_accept_781655de:
 
     # m 3eka "Just tell me if you ever change your mind, [player]."
-    m 3eka ""
+    m 3eka "Sólo dime si llegas a cambiar de opinión, [player]."
 
 # game/script-affection.rpy:2978
 translate spanish monika_affection_nickname_bad_lock_f5f915a9:
 
     # m 2efc "Forget about this idea."
-    m 2efc ""
+    m 2efc "Sólo olvida todo sobre esta idea."
 
 # game/script-affection.rpy:2979
 translate spanish monika_affection_nickname_bad_lock_f115c012:
 
     # m "It seems it was a mistake."
-    m ""
+    m "Parece que ha sido un error."
 
 # game/script-affection.rpy:2980
 translate spanish monika_affection_nickname_bad_lock_5dfadb76:
 
     # m 1efc "Let's talk about something else."
-    m 1efc ""
+    m 1efc "Mejor hablemos de otra cosa."
 
 # game/script-affection.rpy:3008
 translate spanish mas_affection_playernickname_3f657cdd:
 
     # m 1euc "Hey, [player]?"
-    m 1euc ""
+    m 1euc "¿Oye, [player]?"
 
 # game/script-affection.rpy:3009
 translate spanish mas_affection_playernickname_c44c4696:
 
     # m 1eka "Since you can call me by a nickname now, I thought it'd be nice if I could call you by some as well."
-    m 1eka ""
+    m 1eka "Dado que me comenzaste a llamar por este apodo, pensé que sería lindo que yo te ponga uno también."
 
 # game/script-affection.rpy:3011
 translate spanish mas_affection_playernickname_378e756c:
 
     # m 1etc "Is that alright with you?{nw}"
-    m 1etc ""
+    m 1etc "¿Te parece bien?{nw}"
 
 # game/script-affection.rpy:3014
 translate spanish mas_affection_playernickname_545a2cfe:
 
     # m "Is that alright with you?{fast}" nointeract
-    m "" nointeract
+    m "¿Te parece bien?{fast}" nointeract
 
 # game/script-affection.rpy:3017
 translate spanish mas_affection_playernickname_51f803bb:
 
     # m 1hua "Great!"
-    m 1hua ""
+    m 1hua "¡Genial!"
 
 # game/script-affection.rpy:3018
 translate spanish mas_affection_playernickname_61cc1394:
 
     # m 3eud "I should ask though, what names are you comfortable with?"
-    m 3eud ""
+    m 3eud "Aún así debo preguntarte...¿con qué nombres estás a gusto?"
 
 # game/script-affection.rpy:3022
 translate spanish mas_affection_playernickname_9d33b26d:
 
     # m 1eka "Alright, [player]."
-    m 1eka ""
+    m 1eka "Vale, [player]."
 
 # game/script-affection.rpy:3023
 translate spanish mas_affection_playernickname_d63f99b6:
 
     # m 3eua "Just let me know if you ever change your mind, okay?"
-    m 3eua ""
+    m 3eua "Sólo hazme saber si cambias de parecer, ¿vale?"
 
 # game/script-affection.rpy:3048
 translate spanish monika_change_player_nicknames_460397c4:
 
     # m 1hub "Sure [player]!"
-    m 1hub ""
+    m 1hub "¡Claro [player]!"
 
 # game/script-affection.rpy:3098
 translate spanish mas_player_nickname_loop_bb34c753:
 
     # m 1eua "[dlg_line]{nw}"
-    m 1eua ""
+    m 1eua "[dlg_line]{nw}"
 
 # game/script-affection.rpy:3101
 translate spanish mas_player_nickname_loop_6959599a:
 
     # m "[dlg_line]{fast}" nointeract
-    m "" nointeract
+    m "dlg_line]{fast}" nointeract
 
 # game/script-affection.rpy:3123
 translate spanish mas_player_nickname_loop_name_enter_skip_loop_d543b2c4:
 
     # m 1eksdla "..."
-    m 1eksdla ""
+    m 1eksdla "..."
 
 # game/script-affection.rpy:3124
 translate spanish mas_player_nickname_loop_name_enter_skip_loop_11718b17:
 
     # m 3rksdlb "You have to give me a name to call you, [player]..."
-    m 3rksdlb ""
+    m 3rksdlb "Tienes que darme un nombre con el que pueda llamarte, [player]..."
 
 # game/script-affection.rpy:3125
 translate spanish mas_player_nickname_loop_name_enter_skip_loop_6e458359:
 
     # m 1eua "Try again~"
-    m 1eua ""
+    m 1eua "Vuelve a intentarlo."
 
 # game/script-affection.rpy:3129
 translate spanish mas_player_nickname_loop_name_enter_skip_loop_18cb31c5:
 
     # m 2hua "..."
-    m 2hua ""
+    m 2hua "..."
 
 # game/script-affection.rpy:3130
 translate spanish mas_player_nickname_loop_name_enter_skip_loop_34c07e68:
 
     # m 4hksdlb "That's the same name you have right now, silly!"
-    m 4hksdlb ""
+    m 4hksdlb "¡Es el mismo que ya tienes ahora, bobo!"
 
 # game/script-affection.rpy:3131
 translate spanish mas_player_nickname_loop_name_enter_skip_loop_6e458359_1:
 
     # m 1eua "Try again~"
-    m 1eua ""
+    m 1eua "Vuelve a intentarlo."
 
 # game/script-affection.rpy:3136
 translate spanish mas_player_nickname_loop_name_enter_skip_loop_ca32a596:
 
     # m 1rksdlb "[awkward_quip]"
-    m 1rksdlb ""
+    m 1rksdlb "[awkward_quip]"
 
 # game/script-affection.rpy:3137
 translate spanish mas_player_nickname_loop_name_enter_skip_loop_6e7dce4d:
 
     # m 3rksdla "Could you pick a more...{w=0.2}{i}appropriate{/i} name please?"
-    m 3rksdla ""
+    m 3rksdla "¿Podrías elegir un nombre un poco más...{w=0.2}{i}apropiado{/i}, por favor?"
 
 # game/script-affection.rpy:3142
 translate spanish mas_player_nickname_loop_name_enter_skip_loop_44e9d3f8:
 
     # m 1ekd "[bad_quip]"
-    m 1ekd ""
+    m 1ekd "[bad_quip]"
 
 # game/script-affection.rpy:3143
 translate spanish mas_player_nickname_loop_name_enter_skip_loop_084031bc:
 
     # m 3eka "Please pick a nicer name for yourself, okay?"
-    m 3eka ""
+    m 3eka "Por favor, elígete un nombre un poco más lindo ¿vale?"
 
 # game/script-affection.rpy:3147
 translate spanish mas_player_nickname_loop_name_enter_skip_loop_ab83a27c:
 
     # m 3rksdla "You already told me I can call you that, [player]..."
-    m 3rksdla ""
+    m 3rksdla "Ya me has dicho que puedo llamarte así, [player]..."
 
 # game/script-affection.rpy:3148
 translate spanish mas_player_nickname_loop_name_enter_skip_loop_c0d02512:
 
     # m 1hua "Try again~"
-    m 1hua ""
+    m 1hua "Vuelve a intentarlo."
 
 # game/script-affection.rpy:3164
 translate spanish mas_player_nickname_loop_name_enter_skip_loop_09b1193f:
