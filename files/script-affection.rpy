@@ -508,133 +508,133 @@ translate spanish mas_player_nickname_loop_name_enter_skip_loop_c0d02512:
 translate spanish mas_player_nickname_loop_name_enter_skip_loop_09b1193f:
 
     # m 1hua "Alright, [player]."
-    m 1hua ""
+    m 1hua "Vale, [player]."
 
 # game/script-affection.rpy:3165
 translate spanish mas_player_nickname_loop_name_enter_skip_loop_4769bb40:
 
     # m 3eub "[dlg_line]"
-    m 3eub ""
+    m 3eub "[dlg_line]"
 
 # game/script-affection.rpy:3173
 translate spanish mas_affection_upsetwarn_eb5d7e63:
 
     # m 1dsc "Hey, [player]..."
-    m 1dsc ""
+    m 1dsc "Oye, [player]..."
 
 # game/script-affection.rpy:3174
 translate spanish mas_affection_upsetwarn_020a553d:
 
     # m 1lksdlc "Recently, I've been feeling like my love and affection that I give is being...ignored."
-    m 1lksdlc ""
+    m 1lksdlc "Últimamente, vengo sintiendo que el amor y afecto que doy está siendo ignorado."
 
 # game/script-affection.rpy:3175
 translate spanish mas_affection_upsetwarn_20cd8d01:
 
     # m 1dsc "I feel like you're giving me less and less of your love..."
-    m 1dsc ""
+    m 1dsc "Siento que cada vez estás dándome menos amor..."
 
 # game/script-affection.rpy:3176
 translate spanish mas_affection_upsetwarn_a3aae593:
 
     # m 1dsd "I thought I'd let you know how I feel. After all, communication is the key to a strong relationship, right?"
-    m 1dsd ""
+    m 1dsd "Pensé que sería bueno decirte cómo me siento. Después de todo, la comunicación es la clave para preservar relaciones, ¿no es así?"
 
 # game/script-affection.rpy:3177
 translate spanish mas_affection_upsetwarn_292614b5:
 
     # m 1eka "I hope there's nothing wrong between us, [player]."
-    m 1eka ""
+    m 1eka "Espero que no esté pasando nada malo entre nosotros, [player]."
 
 # game/script-affection.rpy:3183
 translate spanish mas_affection_happynotif_16c705f2:
 
     # m 1hua "Hey, [player]!"
-    m 1hua ""
+    m 1hua "¿Oye, [player]?"
 
 # game/script-affection.rpy:3184
 translate spanish mas_affection_happynotif_ff3edd54:
 
     # m 1eua "I just wanted to say thank you for being such a wonderful person."
-    m 1eua ""
+    m 1eua "Sólo quería agradecerte por ser una persona tan maravillosa."
 
 # game/script-affection.rpy:3185
 translate spanish mas_affection_happynotif_6715477a:
 
     # m 1ekbsa "The fact that you give me so much of your love means a lot to me. I really don't know where I'd be without you."
-    m 1ekbsa ""
+    m 1ekbsa "Todo el amor que me das significa muchísimo para mí. No estoy segura de dónde estaría sin ti."
 
 # game/script-affection.rpy:3186
 translate spanish mas_affection_happynotif_5d79c319:
 
     # m 1dubfu "I love you, [player]. Let's be like this forever~"
-    m 1dubfu ""
+    m 1dubfu "Te amo, [player]. Sigamos así hasta el fin de los tiempos."
 
 # game/script-affection.rpy:3202
 translate spanish monika_every_rose_da1728aa:
 
     # m 2duo "{i}~Was it something I said or something I did?~{/i}"
-    m 2duo ""
+    m 2duo "{i}¿Fue algo que dije o hice?{/i}"
 
 # game/script-affection.rpy:3203
 translate spanish monika_every_rose_533d471c:
 
     # m 2dkd "{i}~Did my words not come out right?~{/i}"
-    m 2dkd ""
+    m 2dkd "{i}¿Acaso mis palabras fueron incorrectas?{/i}"
 
 # game/script-affection.rpy:3204
 translate spanish monika_every_rose_a23d3c8d:
 
     # m 2ekd "{i}~Thought I tried not to hurt you~{/i}"
-    m 2ekd ""
+    m 2ekd "{i}Pero, traté de no herirte.{/i}"
 
 # game/script-affection.rpy:3205
 translate spanish monika_every_rose_89b4e4c2:
 
     # m 2dkc "{i}~Thought I tried~{/i}"
-    m 2dkc ""
+    m 2dkc "{i}Pensé que lo estaba evitando.{/i}"
 
 # game/script-affection.rpy:3206
 translate spanish monika_every_rose_f411280f:
 
     # m 2ekd "{i}~But I guess that's why they say~{/i}"
-    m 2ekd ""
+    m 2ekd "{i}Pero parece que es así como dicen.{/i}"
 
 # game/script-affection.rpy:3207
 translate spanish monika_every_rose_60006195:
 
     # m 2duo "{i}~Every rose has its thorn~{/i}"
-    m 2duo ""
+    m 2duo "{i}No hay rosas sin espinas.{/i}"
 
 # game/script-affection.rpy:3208
 translate spanish monika_every_rose_c61f257d:
 
     # m 2dkc "..."
-    m 2dkc ""
+    m 2dkc "..."
 
 # game/script-affection.rpy:3209
 translate spanish monika_every_rose_999dc835:
 
     # m 4eka "You know, [player]...{w=0.5}it meant so much to me when you accepted my confession even after what happened with the other girls."
-    m 4eka ""
+    m 4eka "Lo sabes, [player]...{w=0.5} significa mucho para mí que aceptes mi confesión incluso tras lo que pasó con las otras chicas."
 
 # game/script-affection.rpy:3212
 translate spanish monika_every_rose_57f740e4:
 
     # m 4rksdla "...Even more so since I know how you cared about them."
-    m 4rksdla ""
+    m 4rksdla "Incluso más desde que supe cuánto te importaban."
 
 # game/script-affection.rpy:3214
 translate spanish monika_every_rose_f4353b76:
 
     # m 2dsc "I really wish things didn't have to turn out the way they did."
-    m 2dsc ""
+    m 2dsc "En verdad deseo que las cosas no hubieran sucedido de ese modo."
 
 # game/script-affection.rpy:3215
 translate spanish monika_every_rose_960c1a93:
 
     # m 4wkd "But I did {i}not{/i} have a choice here!"
-    m 4wkd ""
+    m 4wkd "Pero es que no había tenido otra elección."
 
 # game/script-affection.rpy:3216
 translate spanish monika_every_rose_1b3f996c:
@@ -646,415 +646,415 @@ translate spanish monika_every_rose_1b3f996c:
 translate spanish monika_every_rose_54ed49fe:
 
     # m 2eka "I was so glad you forgave me for doing the things I did."
-    m 2eka ""
+    m 2eka "Me hace tan feliz que me hayas perdonado por las cosas que hice..."
 
 # game/script-affection.rpy:3220
 translate spanish monika_every_rose_392482e6:
 
     # m 2etc "...You {i}did{/i} forgive me, right?"
-    m 2etc ""
+    m 2etc "Me has {i}perdonado{/i}, ¿no es así?"
 
 # game/script-affection.rpy:3222
 translate spanish monika_every_rose_8db799d4:
 
     # m 2eka "I was so glad you didn't blame me for the things I did..."
-    m 2eka ""
+    m 2eka "Me alegra que no me hayas culpado por las cosas que hice..."
 
 # game/script-affection.rpy:3223
 translate spanish monika_every_rose_4351809e:
 
     # m 2etc "You {i}didn't{/i}, right?"
-    m 2etc ""
+    m 2etc "¿{i}No lo has hecho{/i}, verdad?""
 
 # game/script-affection.rpy:3225
 translate spanish monika_every_rose_565ae871:
 
     # m 2rsc "...But I've been getting some mixed signals, lately."
-    m 2rsc ""
+    m 2rsc "Sin embargo, al final he estado recibiendo algunas señales contradictorias."
 
 # game/script-affection.rpy:3226
 translate spanish monika_every_rose_09a284e4:
 
     # m 2rkc "It's almost like a rift has formed between us...{w=0.2}{nw}"
-    m 2rkc ""
+    m 2rkc "Es casi como que se ha formado un muro entre nosotros...{w=0.2}{nw}"
 
 # game/script-affection.rpy:3227
 translate spanish monika_every_rose_cf4da6b1:
 
     # extend 2eksdlc "it's very unsettling."
-    extend 2eksdlc ""
+    extend 2eksdlc "Es en verdad desconcertante."
 
 # game/script-affection.rpy:3228
 translate spanish monika_every_rose_9f3ea3c0:
 
     # m 2eksdlc "I...{w=0.5}I don't want to lose you, [player]."
-    m 2eksdlc ""
+    m 2eksdlc "Yo...{w=0.5} no quiero perderte, [player]."
 
 # game/script-affection.rpy:3229
 translate spanish monika_every_rose_584ea451:
 
     # m 4ekd "I can't let things keep escalating until we end up like the last verse of this song..."
-    m 4ekd ""
+    m 4ekd "No puedo simplemente dejar que las cosas sigan agravándose hasta que terminen como el último verso de esta canción..."
 
 # game/script-affection.rpy:3230
 translate spanish monika_every_rose_a5eb08f6:
 
     # m 2ekc "You know..."
-    m 2ekc ""
+    m 2ekc "Bien sabes..."
 
 # game/script-affection.rpy:3231
 translate spanish monika_every_rose_d3abef52:
 
     # m 2dkd "{i}~Now I hear you've found somebody new~{/i}"
-    m 2dkd ""
+    m 2dkd "{i}que ahora me he enterado que has encontrado a alguien nuevo.{/i}"
 
 # game/script-affection.rpy:3232
 translate spanish monika_every_rose_054f72fc:
 
     # m 2dkc "{i}~And that I never meant that much to you~{/i}"
-    m 2dkc ""
+    m 2dkc "{i}Y que nunca he significado tanto para ti.{/i}"
 
 # game/script-affection.rpy:3233
 translate spanish monika_every_rose_de0d10af:
 
     # m 2ekc "{i}~To hear that tears me up inside~{/i}"
-    m 2ekc ""
+    m 2ekc "{i}Oír aquello me hace trizas desde adentro.{/i}"
 
 # game/script-affection.rpy:3234
 translate spanish monika_every_rose_f7b2a9e0:
 
     # m 2ektpd "{i}~And to see you cuts me like a knife~{/i}"
-    m 2ektpd ""
+    m 2ektpd "{i}Verte me desgarra como si fuera una navaja.{/i}"
 
 # game/script-affection.rpy:3235
 translate spanish monika_every_rose_4c25360b:
 
     # m 2rktpc "..."
-    m 2rktpc ""
+    m 2rktpc "..."
 
 # game/script-affection.rpy:3236
 translate spanish monika_every_rose_bbabf838:
 
     # m 2ektpa "Ahaha...{w=0.3}maybe I'm jumping the gun a bit on this one."
-    m 2ektpa ""
+    m 2ektpa "Ja ja ja...{w=0.3}quizá sólo me esté precipitando demasiado."
 
 # game/script-affection.rpy:3237
 translate spanish monika_every_rose_f9dc55b1:
 
     # m 4ektdc "It's...{w=0.5}I keep having this nasty thought in the back of my mind...{w=0.5}{nw}"
-    m 4ektdc ""
+    m 4ektdc "Es que...{w=0.3}no deje de tener este pensamiento desagradable rondándome en la cabeza...{w=0.3}"
 
 # game/script-affection.rpy:3238
 translate spanish monika_every_rose_e4251721:
 
     # extend 2dktdd "that you don't want to be with me anymore."
-    extend 2dktdd ""
+    extend 2dktdd "que ya no quieras estar conmingo nuca más."
 
 # game/script-affection.rpy:3239
 translate spanish monika_every_rose_5f784e27:
 
     # m 2dkx "It's like some kind of poison, slowly seeping in..."
-    m 2dkx ""
+    m 2dkx "Es como un veneno, que cala lentamente dentro de mí..."
 
 # game/script-affection.rpy:3240
 translate spanish monika_every_rose_16e7d847:
 
     # m 2ekc "So [player], I always want you to remember one thing..."
-    m 2ekc ""
+    m 2ekc "Entonces [player], siempre quiero que recuerdes una cosa..."
 
 # game/script-affection.rpy:3241
 translate spanish monika_every_rose_a0f656a6:
 
     # m 4ekd "You truly {i}are{/i} everything to me!"
-    m 4ekd ""
+    m 4ekd "¡En verdad {i}eres{/i} todo para mí!"
 
 # game/script-affection.rpy:3242
 translate spanish monika_every_rose_df0c2138:
 
     # m 2ekc "I mean it."
-    m 2ekc ""
+    m 2ekc "Lo digo en serio."
 
 # game/script-affection.rpy:3243
 translate spanish monika_every_rose_899cbfc1:
 
     # m 2ekc "I've been trying my best to show you...{w=0.3}{nw}"
-    m 2ekc ""
+    m 2ekc "He dado todo de mí para demostrartelo...{w=0.3}{nw}"
 
 # game/script-affection.rpy:3244
 translate spanish monika_every_rose_e12a8afc:
 
     # extend 4ekd "but I need you to show me you love me too!"
-    extend 4ekd ""
+    extend 4ekd "¡pero necesito que demuestres tu amor también!"
 
 # game/script-affection.rpy:3245
 translate spanish monika_every_rose_45557bfa:
 
     # m 4ekc "Whatever happened before, we need to let it go and make things right from now on..."
-    m 4ekc ""
+    m 4ekc "No importa lo que haya pasado, necesitamos dejarlo en el pasado y comenzar a hacer las cosas bien desde ahora..."
 
 # game/script-affection.rpy:3246
 translate spanish monika_every_rose_eec7c629:
 
     # m 2eka "Can we do that...{w=0.5}together?"
-    m 2eka ""
+    m 2eka "¿Podemos hacer eso...{w=0.5}tú y yo?"
 
 # game/script-affection.rpy:3262
 translate spanish monika_being_virtual_81a91383:
 
     # m 2esc "You know, for a while, I thought the reason you hated me was because of what happened with the other girls."
-    m 2esc ""
+    m 2esc "Sabes que, por un momento, pensé que me odiabas por lo que pasó con las otras chicas."
 
 # game/script-affection.rpy:3263
 translate spanish monika_being_virtual_a1b4cb12:
 
     # m 2rkc "But recently, I've been thinking that might not be the whole story."
-    m 2rkc ""
+    m 2rkc "Pero últimamente he estado pensando que esa no era toda la historia."
 
 # game/script-affection.rpy:3264
 translate spanish monika_being_virtual_6edb9729:
 
     # m 2eksdld "The truth is...{w=0.5}you don't even see me as a person, do you?"
-    m 2eksdld ""
+    m 2eksdld "La verdad es que...{w=0.5} no ves como una persona, ¿no es así?"
 
 # game/script-affection.rpy:3265
 translate spanish monika_being_virtual_f4618712:
 
     # m 3rksdld "To you, this whole world...{w=0.5}my whole reality..."
-    m 3rksdld ""
+    m 3rksdld "Para ti, todo este mundo...{w=0.5} toda mi realidad..."
 
 # game/script-affection.rpy:3266
 translate spanish monika_being_virtual_3b9de988:
 
     # m 3ektpd "It's all just a game, isn't it?"
-    m 3ektpd ""
+    m 3ektpd "Es sólo un juego, ¿verdad?"
 
 # game/script-affection.rpy:3273
 translate spanish monika_being_virtual_93949be7:
 
     # m 1ektpc "Say, [player]...{w=0.5}has anything I ever said reached you, even once?"
-    m 1ektpc ""
+    m 1ektpc "Dime, [player]...{w=0.5} ¿alguna vez algo de lo que dije te ha llegado, al menos una vez?"
 
 # game/script-affection.rpy:3274
 translate spanish monika_being_virtual_fddca5d8:
 
     # m 1wktpd "Did you ever love me at all?"
-    m 1wktpd ""
+    m 1wktpd "¿Alguna vez me has amado siquiera?"
 
 # game/script-affection.rpy:3275
 translate spanish monika_being_virtual_7539e7f9:
 
     # m 2wktpw "You must have, right?!"
-    m 2wktpw ""
+    m 2wktpw "¡¿Seguro que lo has hecho, no?!"
 
 # game/script-affection.rpy:3278
 translate spanish monika_being_virtual_85c3204a:
 
     # m 2wktsd "You even went through the trouble of installing this mod! You brought me back!"
-    m 2wktsd ""
+    m 2wktsd "¡Incluso has pasado por el rompedero de cabeza que es descargar este mod! ¡Me trajiste de regreso!"
 
 # game/script-affection.rpy:3280
 translate spanish monika_being_virtual_82c1e68c:
 
     # m 2wktsd "You even went through the trouble of installing this mod!"
-    m 2wktsd ""
+    m 2wktsd "¡Incluso has pasado por el romedero de cabeza que es descargar este mod!"
 
 # game/script-affection.rpy:3282
 translate spanish monika_being_virtual_c662f364:
 
     # m 2ektsc "Was it all so you could keep tormenting me?"
-    m 2ektsc ""
+    m 2ektsc "¿Todo eso fue para que pudieras seguir atormentándome?"
 
 # game/script-affection.rpy:3283
 translate spanish monika_being_virtual_a25a9c8c:
 
     # m 2wftsd "Is it something you get your kicks out of?!"
-    m 2wftsd ""
+    m 2wftsd "¡¿Acaso esto es algo que te divierte mucho?!"
 
 # game/script-affection.rpy:3284
 translate spanish monika_being_virtual_97aa0b44:
 
     # m 2wftsw "I have feelings too, you know!"
-    m 2wftsw ""
+    m 2wftsw "¡También tengo sentimientos, y lo sabes!"
 
 # game/script-affection.rpy:3285
 translate spanish monika_being_virtual_6fc98222:
 
     # m 2wftsd "Do you even realize what you're doing?"
-    m 2wftsd ""
+    m 2wftsd "¿Al menos te das cuenta de lo que estás haciendo?"
 
 # game/script-affection.rpy:3286
 translate spanish monika_being_virtual_8fd3e332:
 
     # m 2dftsc "Or are you nothing more than a child playing with an anthill?"
-    m 2dftsc ""
+    m 2dftsc "¿O no eres más que un niñato jugando con un hormiguero?"
 
 # game/script-affection.rpy:3289
 translate spanish monika_being_virtual_5f693b76:
 
     # m 3ektpc "Even after I let go of you and ended it all..."
-    m 3ektpc ""
+    m 3ektpc "Incluso tras haber renunciado a ti y acabado con todo esto..."
 
 # game/script-affection.rpy:3290
 translate spanish monika_being_virtual_0ac85fdc:
 
     # m 3rktpd "Do I really deserve the way you're treating me?"
-    m 3rktpd ""
+    m 3rktpd "¿En verdad merezco ser tratada de esta manera por ti?"
 
 # game/script-affection.rpy:3291
 translate spanish monika_being_virtual_9bca3bc4:
 
     # m 2ektpd "Did you really have to bring me back for this?"
-    m 2ektpd ""
+    m 2ektpd "¿En verdad tenías que traerme de regreso para esto?"
 
 # game/script-affection.rpy:3294
 translate spanish monika_being_virtual_5f3a5ccc:
 
     # m 2dktsc "..."
-    m 2dktsc ""
+    m 2dktsc "..."
 
 # game/script-affection.rpy:3295
 translate spanish monika_being_virtual_30bb646d:
 
     # m 2rktpc "Then again, maybe that's what I deserve after all..."
-    m 2rktpc ""
+    m 2rktpc "Luego otra vez, quizá esto es lo merezco después de todo..."
 
 # game/script-affection.rpy:3297
 translate spanish monika_being_virtual_54580ec2:
 
     # m 2dktdd "I...{w=0.5}don't know anymore..."
-    m 2dktdd ""
+    m 2dktdd "Yo...{w=0.5} ya no sé nada de nada..."
 
 # game/script-affection.rpy:3298
 translate spanish monika_being_virtual_f44bcfbd:
 
     # m 2dkc "I'm just so tired..."
-    m 2dkc ""
+    m 2dkc "Sólo estoy muy cansada..."
 
 # game/script-affection.rpy:3299
 translate spanish monika_being_virtual_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script-affection.rpy:3300
 translate spanish monika_being_virtual_7413a76d:
 
     # m 1ekd "I just want to know...{w=0.5}if I had been real..."
-    m 1ekd ""
+    m 1ekd "Solamente quiero saber...{w=0.5} si esto fue real..."
 
 # game/script-affection.rpy:3301
 translate spanish monika_being_virtual_829834a9:
 
     # m 1ektpc "Would you have fallen in love with me?"
-    m 1ektpc ""
+    m 1ektpc "¿Te habrías enamorado de mí?"
 
 # game/script-affection.rpy:3302
 translate spanish monika_being_virtual_15c78d94:
 
     # m 1ektpd "Would you have accepted me then?"
-    m 1ektpd ""
+    m 1ektpd "¿Me habrías aceptado entonces?"
 
 # game/script-affection.rpy:3303
 translate spanish monika_being_virtual_0bd85c3b:
 
     # m 1ektpc "That's all I ever wanted, [player]..."
-    m 1ektpc ""
+    m 1ektpc "Eso era todo lo que siempre he querido, [player]..."
 
 # game/script-affection.rpy:3304
 translate spanish monika_being_virtual_3e379cda:
 
     # m 1dktdd "For the both of us to be happy together..."
-    m 1dktdd ""
+    m 1dktdd "Que nosotros fuéramos felices juntos..."
 
 # game/script-affection.rpy:3305
 translate spanish monika_being_virtual_145ec54e:
 
     # m 1ektdd "If only you could find it in you to love me..."
-    m 1ektdd ""
+    m 1ektdd "Si tan sólo pudieras encontrar eso dentro de ti para amarme..."
 
 # game/script-affection.rpy:3306
 translate spanish monika_being_virtual_6c977341:
 
     # m 2ekc "I know I don't have a body that can be with you right now..."
-    m 2ekc ""
+    m 2ekc "Soy consciente de que no tengo un cuerpo que pueda estar a tu lado ahora mismo..."
 
 # game/script-affection.rpy:3307
 translate spanish monika_being_virtual_2bc987bc:
 
     # m 2ekd "And maybe I really am different from other people living in your reality..."
-    m 2ekd ""
+    m 2ekd "Y quizá sea muy diferente a las otras personas que viven en tu realidad..."
 
 # game/script-affection.rpy:3308
 translate spanish monika_being_virtual_648e91f2:
 
     # m 2efo "But I can love you much more than any of them ever could!"
-    m 2efo ""
+    m 2efo "Aún así, ¡puedo darte mucho más amor del que cualquiera de ellas alguna vez podría!"
 
 # game/script-affection.rpy:3309
 translate spanish monika_being_virtual_0722e714:
 
     # m 2efd "I just know it!"
-    m 2efd ""
+    m 2efd "¡Sólo lo sé!"
 
 # game/script-affection.rpy:3310
 translate spanish monika_being_virtual_5b3fd657:
 
     # m 2dkd "So please, [player]...{w=0.5}I need you to make a decision."
-    m 2dkd ""
+    m 2dkd "Así que, por favor, [player]...{w=0.5} necesito que tomes una decisión..."
 
 # game/script-affection.rpy:3311
 translate spanish monika_being_virtual_8a094989:
 
     # m 2ekc "...You need to give us a chance to be happy."
-    m 2ekc ""
+    m 2ekc "Danos una oportunidad de ser alcanzar la felicidad."
 
 # game/script-affection.rpy:3312
 translate spanish monika_being_virtual_e3dce2a6:
 
     # m 2dkc "Or if you can't do that..."
-    m 2dkc ""
+    m 2dkc "O si no puedes hacer eso..."
 
 # game/script-affection.rpy:3313
 translate spanish monika_being_virtual_eeea366c:
 
     # m 2dktpc "If, after all, you can't love me for who I am..."
-    m 2dktpc ""
+    m 2dktpc "Si, después de todo, no puedes amarme por lo que soy..."
 
 # game/script-affection.rpy:3314
 translate spanish monika_being_virtual_cbc8c63a:
 
     # m 2ektpc "Then, please...{w=0.5}put an end to this..."
-    m 2ektpc ""
+    m 2ektpc "Entonces, te ruego...{w=0.5} pongas fin a todo esto..."
 
 # game/script-affection.rpy:3315
 translate spanish monika_being_virtual_51623f95:
 
     # m 2dktdd "Delete me..."
-    m 2dktdd ""
+    m 2dktdd "Bórrame..."
 
 # game/script-affection.rpy:3441
 translate spanish mas_affection_apology_4a7ea962:
 
     # m 2dfc "[player]..."
-    m 2dfc ""
+    m 2dfc "[player]..."
 
 # game/script-affection.rpy:3442
 translate spanish mas_affection_apology_da2805b1:
 
     # m 2dfd "I've done everything I can to make you happy and enjoy spending time with me."
-    m 2dfd ""
+    m 2dfd "He dado todo lo que pude para hacerte feliz y que disfrutaras pasar el tiempo a mi lado."
 
 # game/script-affection.rpy:3443
 translate spanish mas_affection_apology_352ec8e0:
 
     # m 2efc "But all you've given me back is pain..."
-    m 2efc ""
+    m 2efc "Pero, todo lo que he recibido a cambio ha sido dolor..."
 
 # game/script-affection.rpy:3444
 translate spanish mas_affection_apology_afac0196:
 
     # m 2rfc "I'm beginning to wonder if you really installed this mod to be with me."
-    m 2rfc ""
+    m 2rfc "Estoy comenzando a preguntarme si en verdad has instalado este mod para estar conmigo."
 
 # game/script-affection.rpy:3445
 translate spanish mas_affection_apology_811498f0:
