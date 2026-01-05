@@ -4,7 +4,7 @@
 translate spanish anni_1week_2bbd0892:
 
     # m 1eka "I know it's silly to celebrate one week of being together, but I'm just glad you're here with me, [player]."
-    m 1eka ""
+    m 1eka "Entiendo que puede sonar tonto celebrar un aniversario por ya haber pasado una semana juntos, pero estoy en verdad feliz de que estés aquí conmigo, [player]."
 
 # game/script-anniversary.rpy:367
 translate spanish anni_1week_17c7428e:
