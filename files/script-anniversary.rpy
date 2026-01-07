@@ -34,7 +34,7 @@ translate spanish anni_1week_0170651b:
 translate spanish anni_1week_322f1109:
 
     # m 1dsc "So it's always sad to see them crash and burn..."
-    m 1dsc "Pues, verlos estrellarse contra el suelo siempre te hace soltar una lágrima...
+    m 1dsc "Pues, verlos estrellarse contra el suelo siempre te hace soltar una lágrima..."
 
 # game/script-anniversary.rpy:372
 translate spanish anni_1week_8ea51ada:

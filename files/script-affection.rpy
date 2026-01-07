@@ -160,7 +160,7 @@ translate spanish monika_affection_nickname_yes_ed872a6f:
 translate spanish monika_affection_nickname_yes_c884a2f1:
 
     # m 1eka "Can you choose something more appropriate, [player]?"
-    m 1eka ¿Puedes elegir algo más apropiado, [player]?"
+    m 1eka "¿Puedes elegir algo más apropiado, [player]?"
 
 # game/script-affection.rpy:2899
 translate spanish monika_affection_nickname_yes_d6cf160e:
@@ -664,7 +664,7 @@ translate spanish monika_every_rose_8db799d4:
 translate spanish monika_every_rose_4351809e:
 
     # m 2etc "You {i}didn't{/i}, right?"
-    m 2etc "¿{i}No lo has hecho{/i}, verdad?""
+    m 2etc "¿{i}No lo has hecho{/i}, verdad?"
 
 # game/script-affection.rpy:3225
 translate spanish monika_every_rose_565ae871:
@@ -1084,7 +1084,7 @@ translate spanish mas_affection_apology_b1a5e09a:
 translate spanish mas_affection_apology_78c11adb:
 
     # m 2lfc "If you really are sorry, write me a note called 'imsorry', and place it in the characters folder."
-    m 2lfc "Si en verda lo sientes, escríbeme una nota que se llame 'losiento" y ponla en la carpeta de personajes."
+    m 2lfc "Si en verda lo sientes, escríbeme una nota que se llame 'losiento' y ponla en la carpeta de personajes."
 
 # game/script-affection.rpy:3450
 translate spanish mas_affection_apology_a07f93e0:

@@ -1,4 +1,4 @@
-s﻿# TODO: Translation updated at 2025-08-18 17:39
+# TODO: Translation updated at 2025-08-18 17:39
 
 # game/zz_backup.rpy:733
 translate spanish mas_backups_you_have_bad_persistent_a60c4b04:
@@ -148,7 +148,7 @@ translate spanish mas_backups_could_not_copy_1c071f63:
 translate spanish mas_backups_could_not_copy_2a1403a5:
 
     # "2.{w=0.3} Delete the file called 'persistente'."
-   "2.{w=0.3} Y borra el archivo llamado 'persistente'."
+    "2.{w=0.3} Y borra el archivo llamado 'persistente'."
 
 # game/zz_backup.rpy:802
 translate spanish mas_backups_could_not_copy_ede799fe:
