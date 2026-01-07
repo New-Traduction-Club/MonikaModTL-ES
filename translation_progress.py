@@ -13,7 +13,7 @@ def contar_traduccion():
     original_text = None
     bloque_vacio = False
 
-    for archivo in glob.glob("files/*.rpy"):
+    for archivo in glob.glob("files/**/*.rpy", recursive=True):
         with open(archivo, encoding="utf-8") as f:
             for linea in f:
                 l = linea.strip()
