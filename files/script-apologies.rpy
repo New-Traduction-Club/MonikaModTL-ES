@@ -34,7 +34,7 @@ translate spanish monika_playerapologizes_4e36e53e:
 translate spanish monika_playerapologizes_d34aaa8b:
 
     # m 2rkc "Oh..."
-    m 2rkc "Oh..."
+    m 2rkc "Ah..."
 
 # game/script-apologies.rpy:134
 translate spanish monika_playerapologizes_2c38324a:
@@ -46,7 +46,7 @@ translate spanish monika_playerapologizes_2c38324a:
 translate spanish monika_playerapologizes_46d27d65:
 
     # m 2dkc "Nevermind."
-    m 2dkc "Olvídalo."
+    m 2dkc "Déjalo."
 
 # game/script-apologies.rpy:138
 translate spanish monika_playerapologizes_14f172d2:
@@ -76,7 +76,7 @@ translate spanish monika_playerapologizes_2b59356a:
 translate spanish mas_apology_generic_b17560b9:
 
     # m 1ekc "...{w=1}Oh."
-    m 1ekc "... {w=1}Oh."
+    m 1ekc "... {w=1}Ah."
 
 # game/script-apologies.rpy:202
 translate spanish mas_apology_generic_72e6e15b:
@@ -215,7 +215,7 @@ translate spanish mas_apology_generic_682d7033:
 translate spanish mas_apology_generic_4ce09855:
 
     # m 2rfc "It'd mean a lot more to me if you would just admit what you did."
-    m 2rfc "Significaría mucho más para mí si simplemente admitieras lo que hiciste."
+    m 2rfc "Significaría mucho más para mí si simplemente admitieras lo que has hecho."
 
 # game/script-apologies.rpy:243
 translate spanish mas_apology_generic_d4d96ee0:
@@ -239,13 +239,13 @@ translate spanish mas_apology_bad_nickname_19678289:
 translate spanish mas_apology_bad_nickname_7ab16605:
 
     # m 2ekd "That really hurt, [player]..."
-    m 2ekd "Eso me dolió de verdad, [player]..."
+    m 2ekd "Me ha dolido mucho, [player]..."
 
 # game/script-apologies.rpy:281
 translate spanish mas_apology_bad_nickname_9369cee7:
 
     # m 2dsc "I accept your apology, but please don't do that again. Okay?"
-    m 2dsc "Acepto tu disculpa, pero por favor, no vuelvas a hacerlo. ¿Vale?"
+    m 2dsc "Acepto tu disculpa, pero por favor, no vuelvas a hacerlo, ¿vale?"
 
 # game/script-apologies.rpy:286
 translate spanish mas_apology_bad_nickname_9e77f516:
@@ -287,7 +287,7 @@ translate spanish mas_apology_bad_nickname_c03d819d:
 translate spanish mas_apology_bad_nickname_53dea8fc:
 
     # m 2dfc "I trusted you to give me a good nickname to make me more unique, but you just threw it back in my face..."
-    m 2dfc "Confiaba en que me pusieras un buen apodo para hacerme más única, pero me lo has tirado a la cara..."
+    m 2dfc "Confiaba en que me pusieras un buen apodo para hacerme más única, pero no escarmientas..."
 
 # game/script-apologies.rpy:297
 translate spanish mas_apology_bad_nickname_c3264321:
