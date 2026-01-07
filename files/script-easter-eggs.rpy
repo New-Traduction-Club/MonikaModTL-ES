@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/script-easter-eggs.rpy:201
 translate spanish natsuki_name_scare_hungry_3c3fbef0:
 

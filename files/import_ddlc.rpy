@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/import_ddlc.rpy:80
 translate spanish import_ddlc_persistent_6fbb781f:
 

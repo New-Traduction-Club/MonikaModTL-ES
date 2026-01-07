@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/script-python.rpy:134
 translate spanish monika_ptod_tip000_64c2ee4e:
 

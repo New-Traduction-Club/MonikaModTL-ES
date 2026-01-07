@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/zz_poems.rpy:348
 translate spanish monika_showpoem_ccc4d9a5:
 

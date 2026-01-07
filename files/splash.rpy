@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/splash.rpy:192
 translate spanish splashscreen_0320a168:
 

@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/script-holidays.rpy:147
 translate spanish mas_lingerie_intro_aebae8b5:
 

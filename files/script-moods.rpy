@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/script-moods.rpy:122
 translate spanish mas_mood_hungry_bdd630c1:
 

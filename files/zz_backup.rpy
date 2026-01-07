@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2025-08-18 17:39
 
 # game/zz_backup.rpy:733
 translate spanish mas_backups_you_have_bad_persistent_a60c4b04:

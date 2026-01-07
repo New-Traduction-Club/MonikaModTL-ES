@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/script-ch30.rpy:1694
 translate spanish continue_event_1bf0e8eb:
 

@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/script-compliments.rpy:145
 translate spanish mas_compliment_beautiful_2_fd001416:
 

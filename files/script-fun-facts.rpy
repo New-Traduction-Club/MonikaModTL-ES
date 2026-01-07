@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/script-fun-facts.rpy:51
 translate spanish monika_fun_facts_open_5cef2e8c:
 

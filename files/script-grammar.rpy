@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/script-grammar.rpy:65
 translate spanish monika_gtod_tip000_5f6140e7:
 

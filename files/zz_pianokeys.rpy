@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/zz_pianokeys.rpy:110
 translate spanish mas_piano_start_6251b7f0:
 

@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/script-affection.rpy:2812
 translate spanish monika_affection_nickname_74472d51:
 

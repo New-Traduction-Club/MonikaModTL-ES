@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/script-anniversary.rpy:366
 translate spanish anni_1week_2bbd0892:
 

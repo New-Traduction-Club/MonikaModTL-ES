@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/script-stories.rpy:244
 translate spanish monika_short_stories_menu_8e25506b:
 

@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/Submods/location_selector/Locatons/Furnished_spaceroom4.rpy:326
 translate spanish V4_room_installed_cae8a1f2:
 

@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/zz_weather.rpy:1173
 translate spanish monika_change_weather_24a6fc8b:
 

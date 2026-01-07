@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/script-songs.rpy:290
 translate spanish monika_sing_song_pool_menu_7ad23832:
 

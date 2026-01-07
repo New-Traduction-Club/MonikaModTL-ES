@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/zz_selector.rpy:3933
 translate spanish mas_selector_generic_sidebar_select_acs_3dd0f7cb:
 

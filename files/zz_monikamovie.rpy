@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/zz_monikamovie.rpy:203
 translate spanish mas_monikamovie_a8bb27b9:
 

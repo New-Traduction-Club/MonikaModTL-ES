@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/zz_cardgames.rpy:3968
 translate spanish monika_introduce_nou_house_rules_7813486e:
 

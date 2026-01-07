@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/script-islands-event.rpy:2010
 translate spanish mas_monika_islands_3e3b6f6f:
 

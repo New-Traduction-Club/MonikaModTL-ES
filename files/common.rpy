@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 translate spanish strings:
 
     # renpy/common/00accessibility.rpy:28

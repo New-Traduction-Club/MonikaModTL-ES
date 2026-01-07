@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/script-brbs.rpy:224
 translate spanish mas_brb_generic_low_aff_callback_b6ca521c:
 

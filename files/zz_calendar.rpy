@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/zz_calendar.rpy:2164
 translate spanish mas_show_calendar_detail_9c5ff161:
 

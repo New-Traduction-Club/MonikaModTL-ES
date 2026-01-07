@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/zz_consumables.rpy:1398
 translate spanish mas_consumables_generic_get_1640fa5f:
 

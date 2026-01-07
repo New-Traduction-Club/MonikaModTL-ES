@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/script-story-events.rpy:22
 translate spanish mas_gender_43ce0390:
 

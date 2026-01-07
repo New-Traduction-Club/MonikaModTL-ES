@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/zz_games.rpy:253
 translate spanish mas_pick_a_game_0bd97190:
 

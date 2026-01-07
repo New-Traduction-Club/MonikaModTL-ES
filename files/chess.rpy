@@ -1,5 +1,4 @@
-a﻿# TODO: Translation updated at 2025-08-18 17:39
-
+a﻿
 # game/chess.rpy:716
 translate spanish game_chess_f85b6700:
 

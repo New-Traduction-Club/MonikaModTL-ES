@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/pong.rpy:481
 translate spanish game_pong_a10d17dc:
 

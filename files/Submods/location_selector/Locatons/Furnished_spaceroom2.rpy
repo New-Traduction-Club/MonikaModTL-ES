@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/Submods/location_selector/Locatons/Furnished_spaceroom2.rpy:290
 translate spanish Furnished_spaceroom2_switch_dlg_0ca7e94f:
 

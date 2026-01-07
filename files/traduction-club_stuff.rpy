@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/traduction-club_stuff.rpy:29
 translate spanish notas_93bf7240:
 

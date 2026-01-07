@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/zz_dockingstation.rpy:2119
 translate spanish mas_dockstat_ready_to_go_71510bb3:
 

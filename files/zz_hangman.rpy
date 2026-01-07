@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/zz_hangman.rpy:360
 translate spanish mas_hangman_game_select_diff_0176af25:
 

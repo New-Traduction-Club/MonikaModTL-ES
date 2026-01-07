@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/zz_reactions.rpy:960
 translate spanish mas_reaction_gift_connector_test_a9001fe0:
 

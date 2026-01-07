@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/script-apologies.rpy:126
 translate spanish monika_playerapologizes_33623fba:
 

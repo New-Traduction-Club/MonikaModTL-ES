@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/screens.rpy:810
 translate spanish mas_bad_name_input_first_time_bad_name_c8183299:
 

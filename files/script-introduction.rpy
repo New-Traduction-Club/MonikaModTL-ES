@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/script-introduction.rpy:15
 translate spanish introduction_c0409347:
 

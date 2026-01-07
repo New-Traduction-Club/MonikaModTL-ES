@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/event-handler.rpy:3717
 translate spanish mas_bookmarks_unbookmark_c42f8f06:
 

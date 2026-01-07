@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/script-greetings.rpy:318
 translate spanish greeting_sweetheart_2060fe5d:
 

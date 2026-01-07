@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 translate spanish strings:
 
     # game/zz_apikeys.rpy:34

@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/script-farewells.rpy:263
 translate spanish bye_leaving_already_93baf031:
 

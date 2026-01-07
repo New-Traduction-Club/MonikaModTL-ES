@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-18 17:39
-
+﻿
 # game/zz_backgrounds.rpy:3293
 translate spanish monika_change_background_74680220:
 
