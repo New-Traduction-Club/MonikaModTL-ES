@@ -10,55 +10,55 @@ translate spanish anni_1week_2bbd0892:
 translate spanish anni_1week_17c7428e:
 
     # m 1ekc "A lot of couples wouldn't last this long with each other."
-    m 1ekc ""
+    m 1ekc "Hay muchas parejas que ni siquiera durarían este tiempo juntos."
 
 # game/script-anniversary.rpy:368
 translate spanish anni_1week_9c9f0ada:
 
     # m 1lksdlc "It's really easy to fall in love at first sight, but it's a bit harder to actually build a sturdy relationship."
-    m 1lksdlc ""
+    m 1lksdlc "Es en verdad sencillo tener un flechazo a primera vista, pero constuir una relación duradera no es cocer y cantar."
 
 # game/script-anniversary.rpy:369
 translate spanish anni_1week_b3fa21df:
 
     # m 1ekd "A lot of relationships fail when couples jump the gun too fast."
-    m 1ekd ""
+    m 1ekd "Muchas relaciones fallando cuando las parejas se lanzan de cabeza."
 
 # game/script-anniversary.rpy:370
 translate spanish anni_1week_0170651b:
 
     # m "More likely than not, they fail to get to know each other more."
-    m ""
+    m "Fallan en conocerse mutuamente más seguido de lo que crees."
 
 # game/script-anniversary.rpy:371
 translate spanish anni_1week_322f1109:
 
     # m 1dsc "So it's always sad to see them crash and burn..."
-    m 1dsc ""
+    m 1dsc "Pues, verlos estrellarse contra el suelo siempre te hace soltar una lágrima...
 
 # game/script-anniversary.rpy:372
 translate spanish anni_1week_8ea51ada:
 
     # m 1duu "But I'm glad we have a solid relationship, [player]."
-    m 1duu ""
+    m 1duu "Pero estoy en una nube con la sólida relación que tenemos, [player]."
 
 # game/script-anniversary.rpy:374
 translate spanish anni_1week_80068815:
 
     # m 5lubfb "How do I know that?"
-    m 5lubfb ""
+    m 5lubfb "¿Cómo es que lo sé?"
 
 # game/script-anniversary.rpy:375
 translate spanish anni_1week_7f30da2c:
 
     # m 5hubfb "Because you wouldn't have stuck around for this long with me, sweetie~"
-    m 5hubfb ""
+    m 5hubfb "Porque tú no estarías dando vueltas a mi alrededor por tanto tiempo, cariño."
 
 # game/script-anniversary.rpy:397
 translate spanish anni_1month_b02e0024:
 
     # m 3sub "Today marks our one month anniversary!"
-    m 3sub ""
+    m 3sub "Hoy el calendario marca nuestro primer mes juntos."
 
 # game/script-anniversary.rpy:398
 translate spanish anni_1month_f8c8c442:
