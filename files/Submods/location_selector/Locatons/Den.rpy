@@ -111,13 +111,13 @@ translate spanish bg_room_installed_a7602ff6:
 translate spanish bg_room_installed_164933f7:
 
     # extend 3wub "I finally figured out how to use them!"
-    extend 3wub ""
+    extend 3wub "¡Por fin he descifrado cómo usarlas!"
 
 # game/Submods/location_selector/Locatons/Den.rpy:349
 translate spanish bg_room_installed_aa98fc08:
 
     # m 3eua "All you have to do now is go to 'Hey, [m_name]...' in the 'Talk' menu, go to 'Location', and select 'Can we go somewhere else?'"
-    m 3eua ""
+    m 3eua "Todo lo que tienes que hacer es dirigirte a 'Hola, [m_name]...' en la sección de menú de 'Diálogo', ir a 'Ubicación' y seleccionar '¿Podemos irnos a otro lugar?'"
 
 # game/Submods/location_selector/Locatons/Den.rpy:350
 translate spanish bg_room_installed_69058ce9:
