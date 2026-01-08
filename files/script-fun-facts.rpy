@@ -1683,7 +1683,7 @@ translate spanish mas_fun_fact_round_earth_6228f0d4:
 translate spanish mas_fun_fact_round_earth_b4861dcd:
 
     # m "[player], do you think the Earth is round or flat?{fast}" nointeract
-    m "" nointeract
+    m "[player], ¿crees que la Tierra es redonda o plana?{fast}" nointeract
 
 # game/script-fun-facts.rpy:879
 translate spanish mas_fun_fact_round_earth_17122ba3:
