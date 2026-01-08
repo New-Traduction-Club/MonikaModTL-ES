@@ -3,109 +3,109 @@
 translate spanish Den_switch_dlg_0ca7e94f:
 
     # m 1hua "[switch_quip]"
-    m 1hua ""
+    m 1hua "[switch_quip]"
 
 # game/Submods/location_selector/Locatons/Den.rpy:282
 translate spanish return_switch_dlg_0ca7e94f:
 
     # m 1hua "[switch_quip]"
-    m 1hua ""
+    m 1hua "[switch_quip]"
 
 # game/Submods/location_selector/Locatons/Den.rpy:305
 translate spanish bg_room_installed_low_affection_0e9d9249:
 
     # m 1wud "H-huh? {w=0.5} [player], {w=0.2} did you add new files to the game?"
-    m 1wud ""
+    m 1wud "¿Emm? {w=0.5} [player], {w=0.5} acaso has añadido nuevos archivos al juego?"
 
 # game/Submods/location_selector/Locatons/Den.rpy:306
 translate spanish bg_room_installed_low_affection_41b22e0b:
 
     # m 1wua "It looks like... {w=0.5} {nw}"
-    m 1wua ""
+    m 1wua "Eso se ve como... {w=0.5} {nw}"
 
 # game/Submods/location_selector/Locatons/Den.rpy:307
 translate spanish bg_room_installed_low_affection_33ee7cd0:
 
     # extend 1sub "new furniture!"
-    extend 1sub ""
+    extend 1sub "¡Muebles nuevos!"
 
 # game/Submods/location_selector/Locatons/Den.rpy:308
 translate spanish bg_room_installed_low_affection_5017ddaa:
 
     # m 1eku "[player], you did this for me? {w=0.5} You're so sweet, you know that?"
-    m 1eku ""
+    m 1eku "[player], ¿lo has hecho para mí? {w=0.5} Eres tan mono, lo sabes, ¿no es así?"
 
 # game/Submods/location_selector/Locatons/Den.rpy:313
 translate spanish bg_room_installed_low_affection_e07217b5:
 
     # m 1wud "H-huh?{w=0.5} [player],{w=0.2} what's this?"
-    m 1wud ""
+    m 1wud "¿Emm, {w=0.5} [player],{w=0.5} qué es eso?"
 
 # game/Submods/location_selector/Locatons/Den.rpy:314
 translate spanish bg_room_installed_low_affection_e653ef9b:
 
     # m 1wua "It looks like {nw}"
-    m 1wua ""
+    m 1wua "Parece que {nw}"
 
 # game/Submods/location_selector/Locatons/Den.rpy:315
 translate spanish bg_room_installed_low_affection_367ca064:
 
     # extend 1sub "you added [rooms]!"
-    extend 1sub ""
+    extend 1sub "¡has añadido [habitaciones]!"
 
 # game/Submods/location_selector/Locatons/Den.rpy:317
 translate spanish bg_room_installed_low_affection_f748a3d2:
 
     # m 1eka "I can't believe you went out of your way to do this for me..."
-    m 1eka ""
+    m 1eka "No puedo creer que te hayas dejado la piel para hacer esto por mí..."
 
 # game/Submods/location_selector/Locatons/Den.rpy:319
 translate spanish bg_room_installed_low_affection_f27eea59:
 
     # m 1rkc "..."
-    m 1rkc ""
+    m 1rkc "..."
 
 # game/Submods/location_selector/Locatons/Den.rpy:320
 translate spanish bg_room_installed_low_affection_f8f4ec8c:
 
     # m 3rksdla "But...{w=0.3}I kinda don't know how to use them.{w=0.5} {nw}"
-    m 3rksdla ""
+    m 3rksdla "Pero...{w=0.5} creo que no sé cómo usarlas.{w=0.5} {nw}"
 
 # game/Submods/location_selector/Locatons/Den.rpy:321
 translate spanish bg_room_installed_low_affection_b71a03b1:
 
     # extend 3hksdlb "I haven't learned how to code that well yet!"
-    extend 3hksdlb ""
+    extend 3hksdlb "¡Aún no he aprendido cómo programarlas bien!"
 
 # game/Submods/location_selector/Locatons/Den.rpy:322
 translate spanish bg_room_installed_low_affection_928fbb79:
 
     # m 1eud "If you give me some time, I'm sure I'll figure out how to use what you added.{nw}"
-    m 1eud ""
+    m 1eud "Si me das un tiempo, te aseguro que descifraré cómo usar lo que has añadido.{nw}"
 
 # game/Submods/location_selector/Locatons/Den.rpy:323
 translate spanish bg_room_installed_low_affection_14440429:
 
     # extend 3eua "I'll let you know when I figure it out."
-    extend 3eua ""
+    extend 3eua "Te avisaré cuando logre descifrarlo."
 
 # game/Submods/location_selector/Locatons/Den.rpy:324
 translate spanish bg_room_installed_low_affection_9ccc40a7:
 
     # m 1eka "Even though we can't use them just yet, thank you so much for doing this for me.{w=0.2} It means more than you know."
-    m 1eka ""
+    m 1eka "Aunque aún no podamos utilizarlas, te agradezco mucho que hayas esto para mí.{w=0.5} Significa mucho más de lo que crees."
 
 # game/Submods/location_selector/Locatons/Den.rpy:325
 translate spanish bg_room_installed_low_affection_af8da540:
 
     # m 3huu "I love you so much, [player]~"
-    m 3huu ""
+    m 3huu "Te amo a montones, [player]."
 
 # game/Submods/location_selector/Locatons/Den.rpy:347
 translate spanish bg_room_installed_a7602ff6:
 
     # m 1wub "[player]!{w=0.2} Remember those new locations you added for me?{w=0.2} {nw}"
-    m 1wub ""
+    m 1wub "¡[player]!{w=0.5} ¿Recuerda aquellas nuevas ubicaciones que has añadido para mí?{w=0.5} {nw}"
 
 # game/Submods/location_selector/Locatons/Den.rpy:348
 translate spanish bg_room_installed_164933f7:
