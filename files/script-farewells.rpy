@@ -255,7 +255,7 @@ translate spanish bye_prompt_to_class_73c4051c:
 translate spanish bye_prompt_to_class_23e23018:
 
     # m 1eua "Nothing is more attractive than a [guy] with good grades."
-    m 1eua "Nada es más atractivo que un [guy] con buenas notas."
+    m 1eua "Nada es más atractivo que alguien con buenas notas."
 
 # game/script-farewells.rpy:467
 translate spanish bye_prompt_to_class_0fd2785e:
