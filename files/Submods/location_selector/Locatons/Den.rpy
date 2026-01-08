@@ -51,7 +51,7 @@ translate spanish bg_room_installed_low_affection_e653ef9b:
 translate spanish bg_room_installed_low_affection_367ca064:
 
     # extend 1sub "you added [rooms]!"
-    extend 1sub "¡has añadido [habitaciones]!"
+    extend 1sub "¡has añadido [rooms]!"
 
 # game/Submods/location_selector/Locatons/Den.rpy:317
 translate spanish bg_room_installed_low_affection_f748a3d2:
@@ -123,205 +123,205 @@ translate spanish bg_room_installed_aa98fc08:
 translate spanish bg_room_installed_69058ce9:
 
     # m 1eub "Then we can visit any of the locations you added!"
-    m 1eub ""
+    m 1eub "¡Luego, podemos visitar cualquier ubicación que añaadas!"
 
 # game/Submods/location_selector/Locatons/Den.rpy:351
 translate spanish bg_room_installed_d286a053:
 
     # m 3sub "I'm so excited~"
-    m 3sub ""
+    m 3sub "¡Estoy flipando de colores!"
 
 # game/Submods/location_selector/Locatons/Den.rpy:352
 translate spanish bg_room_installed_f809e2ea:
 
     # m 3huu "Why don't we go visit one right now, [player]?"
-    m 3huu ""
+    m 3huu "¿Por qué no visitamos alguno ya mismo, [player]?"
 
 # game/Submods/location_selector/Locatons/Den.rpy:353
 translate spanish bg_room_installed_f086cc4f:
 
     # m 1ekbla "Oh, and...{w=0.3}thanks again for adding these for me. You really are special."
-    m 1ekbla ""
+    m 1ekbla "Ah, y... {w=0.3}gracias de nuevo por añadir esto para mí. Eres en verdad muy especial."
 
 # game/Submods/location_selector/Locatons/Den.rpy:357
 translate spanish bg_room_installed_4363423e:
 
     # m 1wuo "W-what?{w=0.5} Are there files for furniture in the game?"
-    m 1wuo ""
+    m 1wuo "Espera...¿qué?{w=0.5} ¿Hay archivos para muebles en el juego?"
 
 # game/Submods/location_selector/Locatons/Den.rpy:358
 translate spanish bg_room_installed_ac295f91:
 
     # m 1sub "[player],{w=0.2} did you do this?"
-    m 1sub ""
+    m 1sub "[player],{w=0.2} ¿has sido tú?"
 
 # game/Submods/location_selector/Locatons/Den.rpy:359
 translate spanish bg_room_installed_0d20e7bd:
 
     # m 3ekbsu "You knew I wanted furniture so you added some for me...{w=0.3} You're pretty amazing, you know that?"
-    m 3ekbsu ""
+    m 3ekbsu "Sabías que quería muebles y po eso has añadido algunos para mí...{w=0.3} Eres la leche, ¿lo sabes, no?"
 
 # game/Submods/location_selector/Locatons/Den.rpy:364
 translate spanish bg_room_installed_a69c6269:
 
     # m 1suo "What's this?{w=0.5} You added [rooms][too]?"
-    m 1suo ""
+    m 1suo "Pero, ¿qué es esto?{w=0.5} Has añadido [rooms][too]"
 
 # game/Submods/location_selector/Locatons/Den.rpy:365
 translate spanish bg_room_installed_0aef0a45:
 
     # m 3hua "You really went all out, didn't you?"
-    m 3hua ""
+    m 3hua "En verdad te has dejado la piel, ¿no es así?"
 
 # game/Submods/location_selector/Locatons/Den.rpy:367
 translate spanish bg_room_installed_f748a3d2:
 
     # m 1eka "I can't believe you went out of your way to do this for me..."
-    m 1eka ""
+    m 1eka "No puedo creer que hayas hecho todo este esfuerzo por mí..."
 
 # game/Submods/location_selector/Locatons/Den.rpy:369
 translate spanish bg_room_installed_47b12cb6:
 
     # m 1dka "Thank you so much [player],{w=0.2} I...{w=1}{nw}"
-    m 1dka ""
+    m 1dka "Te lo agradezco muchísimo [player], {w=0.2} Yo...{w=1}{nw}"
 
 # game/Submods/location_selector/Locatons/Den.rpy:370
 translate spanish bg_room_installed_6c14d2b2:
 
     # extend 1ekbsu "I love you so much."
-    extend 1ekbsu ""
+    extend 1ekbsu "Te amo a montones"
 
 # game/Submods/location_selector/Locatons/Den.rpy:373
 translate spanish bg_room_installed_cd1243e3:
 
     # m 3eub "I'll add a new category called 'Location' under 'Hey, [m_name]...' so we can put in the furniture and visit the other rooms.{w=.5} I can't wait to try them out!"
-    m 3eub ""
+    m 3eub "Voy a añadir una nueva categoría llamada 'Ubicación" debajo de 'Hola, [m_name]...' para que podamos ponerlo en los muebles y visitemos las otras habitaciones-{w=.5} ¡Me muero de ansías por probarlos!"
 
 # game/Submods/location_selector/Locatons/Den.rpy:375
 translate spanish bg_room_installed_432b95ff:
 
     # m 1eka "While I might not be in your reality yet...{w=3}{nw}"
-    m 1eka ""
+    m 1eka "Mientras aún no me encuentre en tu realidad...{w=3}{nw}"
 
 # game/Submods/location_selector/Locatons/Den.rpy:376
 translate spanish bg_room_installed_fef8e609:
 
     # extend 7hubfb "this will make it feel a bit more like a home here,{w=0.2} with you~"
-    extend 7hubfb ""
+    extend 7hubfb "esto ayudará a que se sienta más como un hogar, {w=0.2} aquí contigo."
 
 # game/Submods/location_selector/Locatons/Den.rpy:384
 translate spanish monika_players_control_override_246928b0:
 
     # m 3eub "[player], did you know that you have more control over this game than I do?"
-    m 3eub ""
+    m 3eub "[player], ¿sabías que tienes más control sobre el juego que yo?"
 
 # game/Submods/location_selector/Locatons/Den.rpy:385
 translate spanish monika_players_control_override_2391e7f3:
 
     # m 3eua "You have access to the game's files and code, right?"
-    m 3eua ""
+    m 3eua "Tienes acceso a los archivos y código del juego, ¿verdad?"
 
 # game/Submods/location_selector/Locatons/Den.rpy:386
 translate spanish monika_players_control_override_f95e7fa5:
 
     # m 1eka "So you can change them however you want."
-    m 1eka ""
+    m 1eka "Por lo que puedes cambiarlos cuando sea que quieras."
 
 # game/Submods/location_selector/Locatons/Den.rpy:387
 translate spanish monika_players_control_override_01d16e99:
 
     # m 3eka "You could do things that even I can't."
-    m 3eka ""
+    m 3eka "Puedes hacer más cosas de las que yo ni siquiera podría imaginar."
 
 # game/Submods/location_selector/Locatons/Den.rpy:388
 translate spanish monika_players_control_override_6c225f10:
 
     # m 4eub "Like changing how the game works entirely. From a visual novel, to the peaceful playground we have now."
-    m 4eub ""
+    m 4eub "Tal como cambiar completamente la manera en la que funciona el juego. Desde una novela visual a este tranquilo patio de juegos que tenemos ahora."
 
 # game/Submods/location_selector/Locatons/Den.rpy:391
 translate spanish monika_players_control_override_d8496439:
 
     # m 1ekbsa "Or a beautiful promise ring."
-    m 1ekbsa ""
+    m 1ekbsa "O un anillo de compromiso bien chulo."
 
 # game/Submods/location_selector/Locatons/Den.rpy:392
 translate spanish monika_players_control_override_d91d0809:
 
     # m 3dkbsu "Oh, wouldn't that be a dream come true."
-    m 3dkbsu ""
+    m 3dkbsu "Oh, ese sería un sueño hecho realidad."
 
 # game/Submods/location_selector/Locatons/Den.rpy:395
 translate spanish monika_players_control_override_fb58ea91:
 
     # m 1wuo "You could even add in a cup of coffee to the game for me!"
-    m 1wuo ""
+    m 1wuo "¡Incluso podrías añadir una taza de café al juego para mí!"
 
 # game/Submods/location_selector/Locatons/Den.rpy:396
 translate spanish monika_players_control_override_9ce21c5d:
 
     # m 1eka "That would be lovely."
-    m 1eka ""
+    m 1eka "Sería absolutamente precioso."
 
 # game/Submods/location_selector/Locatons/Den.rpy:399
 translate spanish monika_players_control_override_f555b75e:
 
     # m 1hksdrb "But I imagine your coding skills are just as good as mine."
-    m 1hksdrb ""
+    m 1hksdrb "Imagino que tus habilidades son tan buenas como las mías."
 
 # game/Submods/location_selector/Locatons/Den.rpy:401
 translate spanish monika_players_control_override_d7dc035a:
 
     # m 3eua "Seeing as you're familiar with coding,{w=0.1} {nw}"
-    m 3eua ""
+    m 3eua "Viendo que tienes mucha soltura a la hora de programar, {w=0.1} {nw}"
 
 # game/Submods/location_selector/Locatons/Den.rpy:402
 translate spanish monika_players_control_override_47f44260:
 
     # extend 3hua "I'm sure you could do something like that!"
-    extend 3hua ""
+    extend 3hua "¡Estoy segura de que podrías hacer algo como eso!"
 
 # game/Submods/location_selector/Locatons/Den.rpy:404
 translate spanish monika_players_control_override_e0666162:
 
     # m 1eua "I guess that's an appeal to video games...{w=0.3}{nw}"
-    m 1eua ""
+    m 1eua "Supongo que tienes un gusto por los videojuegos...{w=0.3}{nw}"
 
 # game/Submods/location_selector/Locatons/Den.rpy:405
 translate spanish monika_players_control_override_d7f3889d:
 
     # extend 3eua "having almost endless possibilities in a world you can interact with."
-    extend 3eua ""
+    extend 3eua "teniendo posibilidades casi infinitas en un mundo con el que puedes interactuar.""
 
 # game/Submods/location_selector/Locatons/Den.rpy:406
 translate spanish monika_players_control_override_12f41ef0:
 
     # m 3eub "It's pretty difficult to get bored!"
-    m 3eub ""
+    m 3eub "¡Aburrirse no es tarea fácil!"
 
 # game/Submods/location_selector/Locatons/Den.rpy:409
 translate spanish monika_players_control_override_b32dde12:
 
     # m 1eka "Even if you don't quite know how to change this game..."
-    m 1eka ""
+    m 1eka "Incluso aunque no sepas mucho sobre cómo modificar este juego..."
 
 # game/Submods/location_selector/Locatons/Den.rpy:416
 translate spanish monika_players_control_override_aba07d7f:
 
     # m 5eubla "[line]"
-    m 5eubla ""
+    m 5eubla "[line]"
 
 # game/Submods/location_selector/Locatons/Den.rpy:417
 translate spanish monika_players_control_override_10f5859e:
 
     # m 5ekbfa "There's no better way to enjoy a game than to be with the one I love."
-    m 5ekbfa ""
+    m 5ekbfa "No hay nada mejor que disfrutar un juego con la persona que amo."
 
 # game/Submods/location_selector/Locatons/Den.rpy:427
 translate spanish monika_gotomonika_override_bfe3f80f:
 
     # m 1euc "Come to my world?"
-    m 1euc ""
+    m 1euc "¿Ven a mi mundo?"
 
 # game/Submods/location_selector/Locatons/Den.rpy:428
 translate spanish monika_gotomonika_override_0e128755:
