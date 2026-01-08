@@ -39,7 +39,7 @@ translate spanish bye_goodbye_79512b41:
 translate spanish bye_goodbye_459f738d:
 
     # m 6rkc "Oh...{w=1} Goodbye."
-    m 6rkc "Oh...{w=1} Adiós."
+    m 6rkc "Ah...{w=1} Adiós."
 
 # game/script-farewells.rpy:288
 translate spanish bye_goodbye_8427e069:
@@ -153,7 +153,7 @@ translate spanish bye_going_to_sleep_7785a314:
 translate spanish bye_going_to_sleep_91269047:
 
     # m 6rkc "Oh...goodnight, [player]."
-    m 6rkc "Oh... buenas noches, [player]."
+    m 6rkc "Ah... buenas noches, [player]."
 
 # game/script-farewells.rpy:423
 translate spanish bye_going_to_sleep_53e2c55e:
@@ -315,7 +315,7 @@ translate spanish bye_prompt_to_class_e4d31296:
 translate spanish bye_prompt_to_class_9bed9272:
 
     # m 6rkc "Oh, okay [player]..."
-    m 6rkc "Oh, vale, [player]..."
+    m 6rkc "Ah, vale, [player]..."
 
 # game/script-farewells.rpy:482
 translate spanish bye_prompt_to_class_438d7b17:
@@ -357,7 +357,7 @@ translate spanish bye_prompt_to_work_be2e842d:
 translate spanish bye_prompt_to_work_4b2392ec:
 
     # m 1hksdlb "Oh! Alright! I was starting to get really comfortable, ahaha."
-    m 1hksdlb "¡Oh! ¡Vale! Empezaba a ponerme muy cómoda, ja, ja, ja."
+    m 1hksdlb "¡Ah! ¡Vale! Empezaba a ponerme muy cómoda, ja, ja, ja."
 
 # game/script-farewells.rpy:514
 translate spanish bye_prompt_to_work_1844826f:
@@ -429,7 +429,7 @@ translate spanish bye_prompt_to_work_a2b647d4:
 translate spanish bye_prompt_to_work_13225f2c:
 
     # m 2ekc "Oh... You've been here quite a while now...and now you're going to work?"
-    m 2ekc "Oh... Has estado aquí un buen rato... ¿y ahora te vas a trabajar?"
+    m 2ekc "Ah... Has estado aquí un buen rato... ¿y ahora te vas a trabajar?"
 
 # game/script-farewells.rpy:528
 translate spanish bye_prompt_to_work_f0b2b95a:
@@ -471,7 +471,7 @@ translate spanish bye_prompt_to_work_db4d0af6:
 translate spanish bye_prompt_to_work_d7b8c526:
 
     # m 6rkc "Oh...{w=1} Okay."
-    m 6rkc "Oh...{w=1} Vale."
+    m 6rkc "Ah...{w=1} Vale."
 
 # game/script-farewells.rpy:539
 translate spanish bye_prompt_to_work_36a1f75b:
@@ -663,7 +663,7 @@ translate spanish bye_haveagoodday_ac19e7c0:
 translate spanish bye_haveagoodday_9af8387d:
 
     # m 6rkc "Oh."
-    m 6rkc "Oh."
+    m 6rkc "Ah."
 
 # game/script-farewells.rpy:893
 translate spanish bye_haveagoodday_5b4ad1e5:
@@ -765,7 +765,7 @@ translate spanish bye_goodevening_16505863:
 translate spanish bye_goodevening_7cb3059e:
 
     # m 6dkc "Oh...{w=1}okay."
-    m 6dkc "Oh...{w=1} vale."
+    m 6dkc "Ah...{w=1} vale."
 
 # game/script-farewells.rpy:963
 translate spanish bye_goodevening_bda570d6:
@@ -921,7 +921,7 @@ translate spanish bye_long_absence_ab16ccfb:
 translate spanish bye_long_absence_49daeda3:
 
     # m 1eub "Oh!"
-    m 1eub "¡Oh!"
+    m 1eub "¡Ah!"
 
 # game/script-farewells.rpy:1059
 translate spanish bye_long_absence_bfe300a4:
@@ -981,7 +981,7 @@ translate spanish bye_long_absence_c419f5a0:
 translate spanish bye_long_absence_c106db43:
 
     # m 1esc "Oh..."
-    m 1esc "Oh..."
+    m 1esc "Ah..."
 
 # game/script-farewells.rpy:1073
 translate spanish bye_long_absence_34d34313:
@@ -1011,7 +1011,7 @@ translate spanish bye_long_absence_40070795:
 translate spanish bye_long_absence_add3b684:
 
     # m 3euc "Oh wow, that's a long time."
-    m 3euc "Oh, vaya, es mucho tiempo."
+    m 3euc "Ah, vaya, es mucho tiempo."
 
 # game/script-farewells.rpy:1081
 translate spanish bye_long_absence_0c790c85:
@@ -1203,7 +1203,7 @@ translate spanish bye_long_absence_4f65cd23:
 translate spanish bye_long_absence_b96e9cd2:
 
     # m 3eka "Oh... Alright, [player]."
-    m 3eka "Oh... Está bien, [player]."
+    m 3eka "Ah... Está bien, [player]."
 
 # game/script-farewells.rpy:1124
 translate spanish bye_long_absence_fe89d552:
@@ -1413,7 +1413,7 @@ translate spanish bye_going_somewhere_4ef5e129:
 translate spanish bye_going_somewhere_normalplus_flow_aff_check_159340c3:
 
     # m 1hub "Oh, okay!"
-    m 1hub "¡Oh, vale!"
+    m 1hub "¡Ah, vale!"
 
 # game/script-farewells.rpy:1260
 translate spanish bye_going_somewhere_normalplus_flow_aff_check_5e17b156:
@@ -1491,7 +1491,7 @@ translate spanish bye_going_somewhere_leavemenu_dc0b4ce9:
 translate spanish bye_going_somewhere_leavemenu_6253beb6:
 
     # m 1ekd "Oh,{w=0.3} all right. Maybe next time?"
-    m 1ekd "Oh,{w=0.3} está bien. ¿Quizás la próxima vez?"
+    m 1ekd "Ah,{w=0.3} está bien. ¿Quizás la próxima vez?"
 
 # game/script-farewells.rpy:1297
 translate spanish bye_going_somewhere_leavemenu_bf314d3a:
@@ -1737,13 +1737,13 @@ translate spanish bye_prompt_game_e19277ee:
 translate spanish bye_prompt_eat_a4a6d4ef:
 
     # m 1eua "Oh, what are you going to eat?{nw}"
-    m 1eua "Oh, ¿qué vas a comer?{nw}"
+    m 1eua "Ah, ¿qué vas a comer?{nw}"
 
 # game/script-farewells.rpy:1458
 translate spanish bye_prompt_eat_f29f84e8:
 
     # m "Oh, what are you going to eat?{fast}" nointeract
-    m "Oh, ¿qué vas a comer?{fast}" nointeract
+    m "Ah, ¿qué vas a comer?{fast}" nointeract
 
 # game/script-farewells.rpy:1474
 translate spanish bye_prompt_eat_86b779bf:
@@ -1953,7 +1953,7 @@ translate spanish bye_prompt_restart_edfc8cf0:
 translate spanish bye_prompt_workout_834d1736:
 
     # m 1eua "Oh, going to the gym, [player]?{w=0.3} Or perhaps for a jog?"
-    m 1eua "Oh, ¿vas al gimnasio, [player]?{w=0.3} ¿O quizás a correr?"
+    m 1eua "Ah, ¿vas al gimnasio, [player]?{w=0.3} ¿O quizás a correr?"
 
 # game/script-farewells.rpy:1756
 translate spanish bye_prompt_workout_770cf7e3:
@@ -2007,7 +2007,7 @@ translate spanish bye_prompt_workout_0bd97190:
 translate spanish bye_going_shopping_87e9dc6c:
 
     # m 1eud "Oh, going to do some shopping, [player]?"
-    m 1eud "Oh, ¿vas a ir de compras, [player]?"
+    m 1eud "Ah, ¿vas a ir de compras, [player]?"
 
 # game/script-farewells.rpy:1796
 translate spanish bye_going_shopping_a52476a6:
