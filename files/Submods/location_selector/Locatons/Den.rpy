@@ -291,7 +291,7 @@ translate spanish monika_players_control_override_e0666162:
 translate spanish monika_players_control_override_d7f3889d:
 
     # extend 3eua "having almost endless possibilities in a world you can interact with."
-    extend 3eua "teniendo posibilidades casi infinitas en un mundo con el que puedes interactuar.""
+    extend 3eua "teniendo posibilidades casi infinitas en un mundo con el que puedes interactuar."
 
 # game/Submods/location_selector/Locatons/Den.rpy:406
 translate spanish monika_players_control_override_12f41ef0:
