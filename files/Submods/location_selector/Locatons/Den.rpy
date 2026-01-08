@@ -159,7 +159,7 @@ translate spanish bg_room_installed_ac295f91:
 translate spanish bg_room_installed_0d20e7bd:
 
     # m 3ekbsu "You knew I wanted furniture so you added some for me...{w=0.3} You're pretty amazing, you know that?"
-    m 3ekbsu "Sabías que quería muebles y po eso has añadido algunos para mí...{w=0.3} Eres la leche, ¿lo sabes, no?"
+    m 3ekbsu "Sabías que quería muebles y por eso has añadido algunos para mí...{w=0.3} Eres la leche, ¿lo sabes, no?"
 
 # game/Submods/location_selector/Locatons/Den.rpy:364
 translate spanish bg_room_installed_a69c6269:
