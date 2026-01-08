@@ -1,4 +1,4 @@
-a﻿
+
 # game/chess.rpy:716
 translate spanish game_chess_f85b6700:
 
