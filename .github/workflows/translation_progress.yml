@@ -3,7 +3,7 @@ name: Actualizar progreso de traducción
 on:
   push:
     paths:
-      - 'files/*.rpy'
+      - 'files/**/*.rpy'
       - 'translation_progress.py'
 
 jobs:
