@@ -591,7 +591,7 @@ translate spanish strings:
 
     # game/Submods/location_selector/Locatons/Den.rpy:265
     old "You like my awards, [player]?"
-    new "¿Te gustan mis "
+    new "¿Te gustan mis insignias, [player]?"
 
     # game/Submods/location_selector/Locatons/Den.rpy:265
     old "It matches my eyes~"
@@ -599,7 +599,7 @@ translate spanish strings:
 
     # game/Submods/location_selector/Locatons/Den.rpy:276
     old "Just the two of us~"
-    new ""
+    new "Sólo tú y yo."
 
     # game/Submods/location_selector/Locatons/Den.rpy:276
     old "Miss the classic look?"
