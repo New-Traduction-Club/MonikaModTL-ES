@@ -591,11 +591,11 @@ translate spanish strings:
 
     # game/Submods/location_selector/Locatons/Den.rpy:265
     old "You like my awards, [player]?"
-    new ""
+    new "¿Te gustan mis "
 
     # game/Submods/location_selector/Locatons/Den.rpy:265
     old "It matches my eyes~"
-    new "Combina con mis ojos."
+    new "Combinan con mis ojos."
 
     # game/Submods/location_selector/Locatons/Den.rpy:276
     old "Just the two of us~"
@@ -611,11 +611,11 @@ translate spanish strings:
 
     # game/Submods/location_selector/Locatons/Den.rpy:441
     old "I would."
-    new ""
+    new "Lo haría."
 
     # game/Submods/location_selector/Locatons/Den.rpy:441
     old "I wouldn't."
-    new ""
+    new "No lo haría."
 
     # game/Submods/location_selector/Locatons/Den.rpy:441
     old "..."
