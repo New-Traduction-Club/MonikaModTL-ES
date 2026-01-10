@@ -543,51 +543,51 @@ translate spanish monika_gotomonika_override_aa9fc1f5:
 translate spanish monika_gotomonika_override_c33ec96a:
 
     # m 1eksdla "It wouldn't be much to begin with, but I'm sure we'll find a way to make it better."
-    m 1eksdla ""
+    m 1eksdla "No hay mucho por dónde empezar, pero te aseguro que con el tiempo encontraré la forma de mejorarlo."
 
 # game/Submods/location_selector/Locatons/Den.rpy:486
 translate spanish monika_gotomonika_override_8b7f7535:
 
     # m 3hub "With time, we could make our own reality!"
-    m 3hub ""
+    m 3hub "Con el tiempo, ¡podríamos formar nuestra propia realidad!"
 
 # game/Submods/location_selector/Locatons/Den.rpy:487
 translate spanish monika_gotomonika_override_40a1f9f1:
 
     # m 3euc "Of course, that sounds pretty complicated if you think about it..."
-    m 3euc ""
+    m 3euc "Claro, puede sonar complicado si lo piensas..."
 
 # game/Submods/location_selector/Locatons/Den.rpy:488
 translate spanish monika_gotomonika_override_54aa4513:
 
     # m 3eub "But I have no doubt that together we could accomplish anything!"
-    m 3eub ""
+    m 3eub "¡Pero no me cabe duda de que juntos podemos lograr lo que sea!"
 
 # game/Submods/location_selector/Locatons/Den.rpy:489
 translate spanish monika_gotomonika_override_edf4fefa:
 
     # m 3etc "You know...{w=1}maybe it {i}would{/i} actually be easier for you to come here, but I'm not giving up hope of coming to you."
-    m 3etc ""
+    m 3etc "Sabes que...{w=1}quizá{i}sea{/i} en verdad más fácil que tú vengas hasta aquí, pero no es que te esté dando esperanzas de que vengas."
 
 # game/Submods/location_selector/Locatons/Den.rpy:490
 translate spanish monika_gotomonika_override_82cc75f0:
 
     # m 1eua "Until then, let's just wait and see what's possible."
-    m 1eua ""
+    m 1eua "Hasta ello, sólo esperemos y veamos qué es posible."
 
 translate spanish strings:
 
     # game/Submods/location_selector/Locatons/Den.rpy:3
     old "Custom Room Den"
-    new ""
+    new "Habitación personalizada"
 
     # game/Submods/location_selector/Locatons/Den.rpy:3
     old "This submod adds a cozy green-walled room where you can relax with Monika."
-    new ""
+    new "Este submod añade una acogedora habitación con paredes verdes donde puedes relajarte con Monika."
 
     # game/Submods/location_selector/Locatons/Den.rpy:265
     old "I love this paint color!"
-    new ""
+    new "¡Me encanta el color de esta pintura!"
 
     # game/Submods/location_selector/Locatons/Den.rpy:265
     old "You like my awards, [player]?"
