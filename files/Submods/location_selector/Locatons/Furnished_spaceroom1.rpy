@@ -590,7 +590,7 @@ translate spanish strings:
 
     # game/Submods/location_selector/Locatons/Furnished_spaceroom1.rpy:297
     old "The minimalist look!"
-    new "¡La pinta minimalista!"
+    new "¡El aspecto minimalista!"
 
     # game/Submods/location_selector/Locatons/Furnished_spaceroom1.rpy:297
     old "Just a few touches~"
