@@ -56,7 +56,7 @@ translate spanish bg_room_installed_low_affection_367ca064_1:
 translate spanish bg_room_installed_low_affection_f748a3d2_1:
 
     # m 1eka "I can't believe you went out of your way to do this for me..."
-    m 1eka "No puedo creer que te hayas dejado la piel para esto para mí..."
+    m 1eka "No puedo creer que te hayas dejado la piel por hacer esto para esto para mí..."
 
 # game/Submods/location_selector/Locatons/Furnished_spaceroom1.rpy:352
 translate spanish bg_room_installed_low_affection_f27eea59_1:
@@ -518,7 +518,7 @@ translate spanish monika_gotomonika_override_70dfae49_1:
 translate spanish monika_gotomonika_override_4f9e186f_1:
 
     # m 4hua "I mean, technology does tend to advance pretty quickly, so we might be able to see each other before we know it!"
-    m 4hua "Me refiero a que tiende a avanzar rápido, ¡por lo que podrías vernos cara a cara antes de que lo que pensamos!"
+    m 4hua "Me refiero a que tiende a avanzar rápido, ¡por lo que podríamos vernos cara a cara antes de que lo que pensamos!"
 
 # game/Submods/location_selector/Locatons/Furnished_spaceroom1.rpy:513
 translate spanish monika_gotomonika_override_1ecb5913_1:
