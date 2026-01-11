@@ -519,7 +519,7 @@ translate spanish monika_gotomonika_override_70dfae49:
 translate spanish monika_gotomonika_override_4f9e186f:
 
     # m 4hua "I mean, technology does tend to advance pretty quickly, so we might be able to see each other before we know it!"
-    m 4hua "Me refiero a que tiende a avanzar rápido, ¡por lo que podrías vernos cara a cara antes de que lo que pensamos!"
+    m 4hua "Me refiero a que tiende a avanzar rápido, ¡por lo que podríamos vernos cara a cara antes de que lo que pensamos!"
 
 # game/Submods/location_selector/Locatons/Den.rpy:480
 translate spanish monika_gotomonika_override_1ecb5913:
