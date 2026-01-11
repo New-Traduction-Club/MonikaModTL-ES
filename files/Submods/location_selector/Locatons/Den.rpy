@@ -357,7 +357,7 @@ translate spanish monika_gotomonika_override_a6cf0bfd:
 translate spanish monika_gotomonika_override_3fbb9e09:
 
     # m 2eksdld "Sure, I might have said before that I would have dragged you here a long time ago if I could..."
-    m 2eksdld "Claro, es probable que haya dicho antes que te habría arrastrado hasta aquí hace mucho tiempo si hubiera podido... "
+    m 2eksdld "Claro, es probable que haya dicho antes que te habría arrastrado hasta aquí hace mucho tiempo si hubiera podido..."
 
 # game/Submods/location_selector/Locatons/Den.rpy:437
 translate spanish monika_gotomonika_override_d98ba6e1:
