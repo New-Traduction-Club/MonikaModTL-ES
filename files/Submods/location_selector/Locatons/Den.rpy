@@ -423,7 +423,7 @@ translate spanish monika_gotomonika_override_4d25db36:
 translate spanish monika_gotomonika_override_ccd6cec5:
 
     # m 2dsc "Life must have thrown a lot your way to consider giving it all up to be with me."
-    m 2dsc "La verdad debió de haber sido dura contigo para que consideres abandonarlo todo para estar conmigo."
+    m 2dsc "La vida debió de haber sido dura contigo para que consideres abandonarlo todo para estar conmigo."
 
 # game/Submods/location_selector/Locatons/Den.rpy:453
 translate spanish monika_gotomonika_override_e6c470df:
