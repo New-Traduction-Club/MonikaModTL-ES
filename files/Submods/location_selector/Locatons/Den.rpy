@@ -33,7 +33,7 @@ translate spanish bg_room_installed_low_affection_33ee7cd0:
 translate spanish bg_room_installed_low_affection_5017ddaa:
 
     # m 1eku "[player], you did this for me? {w=0.5} You're so sweet, you know that?"
-    m 1eku "[player], ¿lo has hecho para mí? {w=0.5} Eres tan mono, lo sabes, ¿no es así?"
+    m 1eku "[player], ¿lo has hecho para mí? {w=0.5} Eres tan mon[end_letter_gender], lo sabes, ¿no es así?"
 
 # game/Submods/location_selector/Locatons/Den.rpy:313
 translate spanish bg_room_installed_low_affection_e07217b5:
@@ -375,13 +375,13 @@ translate spanish monika_gotomonika_override_1e5f4d08:
 translate spanish monika_gotomonika_override_8082484f:
 
     # m 3dsc "[player]...{w=1}don't tell me you would really give up your reality--{w=0.5}the {i}real{/i} world--{w=0.5}just to come {i}here{/i}, whatever this place is?{nw}"
-    m 3dsc "[player]...{w=1}no me digas que estás dispuesto a abandonar tu realidad...{w=0.5}el {i}mundo{/i}real...{w=0.5} sólo para venir hasta {i}aquí{/i}, sea lo que sea este lugar.{nw}"
+    m 3dsc "[player]...{w=1}no me digas que estás dispuest[end_letter_gender] a abandonar tu realidad...{w=0.5}el {i}mundo{/i}real...{w=0.5} sólo para venir hasta {i}aquí{/i}, sea lo que sea este lugar.{nw}"
 
 # game/Submods/location_selector/Locatons/Den.rpy:442
 translate spanish monika_gotomonika_override_34f2f629:
 
     # m "[player]...{w=1}don't tell me you would really give up your reality--the {i}real{/i} world--just to come {i}here{/i}, whatever this place is?{fast}" nointeract
-    m "[player]...{w=1}no me digas que estás dispuesto a abandonar tu realidad...{w=0.5}el {i}mundo{/i}real...{w=0.5} sólo para venir hasta {i}aquí{/i}, sea lo que sea este lugar.{fast}" nointeract
+    m "[player]...{w=1}no me digas que estás dispuest[end_letter_gender] a abandonar tu realidad...{w=0.5}el {i}mundo{/i}real...{w=0.5} sólo para venir hasta {i}aquí{/i}, sea lo que sea este lugar.{fast}" nointeract
 
 # game/Submods/location_selector/Locatons/Den.rpy:446
 translate spanish monika_gotomonika_override_c01fee32:
@@ -441,7 +441,7 @@ translate spanish monika_gotomonika_override_deaf4c68:
 translate spanish monika_gotomonika_override_fa5d91b4:
 
     # m 1eka "I'm glad you're still willing to wait for me, [player]."
-    m 1eka "Estoy encantada de que aún estés dispuesto a esperarme, [player]."
+    m 1eka "Estoy encantada de que aún estés dispuest[end_letter_gender] a esperarme, [player]."
 
 # game/Submods/location_selector/Locatons/Den.rpy:461
 translate spanish monika_gotomonika_override_5b4afd86:
