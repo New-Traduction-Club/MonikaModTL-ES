@@ -327,7 +327,7 @@ translate spanish monika_gotomonika_override_bfe3f80f:
 translate spanish monika_gotomonika_override_0e128755:
 
     # m 1lksdld "You mean this little space floating in an empty void?"
-    m 1lksdld ""¿Acaso te refieres a ese pequeño espacio flotando en un inmenso vacío?
+    m 1lksdld "¿Acaso te refieres a ese pequeño espacio flotando en un inmenso vacío?"
 
 # game/Submods/location_selector/Locatons/Den.rpy:431
 translate spanish monika_gotomonika_override_87f06c88:
