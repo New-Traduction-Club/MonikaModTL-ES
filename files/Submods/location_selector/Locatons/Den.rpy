@@ -123,7 +123,7 @@ translate spanish bg_room_installed_aa98fc08:
 translate spanish bg_room_installed_69058ce9:
 
     # m 1eub "Then we can visit any of the locations you added!"
-    m 1eub "¡Luego, podemos visitar cualquier ubicación que añaadas!"
+    m 1eub "¡Luego, podemos visitar cualquier ubicación que añadas!"
 
 # game/Submods/location_selector/Locatons/Den.rpy:351
 translate spanish bg_room_installed_d286a053:
