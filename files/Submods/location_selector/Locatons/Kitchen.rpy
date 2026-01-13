@@ -3,37 +3,37 @@
 translate spanish Kitchen_switch_dlg_0ca7e94f:
 
     # m 1hua "[switch_quip]"
-    m 1hua ""
+    m 1hua "[switch_quip]"
 
 # game/Submods/location_selector/Locatons/Kitchen.rpy:229
 translate spanish return_switch_dlg_0ca7e94f_5:
 
     # m 1hua "[switch_quip]"
-    m 1hua ""
+    m 1hua "[switch_quip]"
 
 # game/Submods/location_selector/Locatons/Kitchen.rpy:252
 translate spanish bg_room_installed_low_affection_0e9d9249_5:
 
     # m 1wud "H-huh? {w=0.5} [player], {w=0.2} did you add new files to the game?"
-    m 1wud ""
+    m 1wud "¿Emm? {w=0.5} [player], {w=0.5} acaso has añadido nuevos archivos al juego?"
 
 # game/Submods/location_selector/Locatons/Kitchen.rpy:253
 translate spanish bg_room_installed_low_affection_41b22e0b_5:
 
     # m 1wua "It looks like... {w=0.5} {nw}"
-    m 1wua ""
+    m 1wua "Eso se ve como... {w=0.5} {nw}"
 
 # game/Submods/location_selector/Locatons/Kitchen.rpy:254
 translate spanish bg_room_installed_low_affection_33ee7cd0_5:
 
     # extend 1sub "new furniture!"
-    extend 1sub ""
+    extend 1sub "¡Muebles nuevos!"
 
 # game/Submods/location_selector/Locatons/Kitchen.rpy:255
 translate spanish bg_room_installed_low_affection_5017ddaa_5:
 
     # m 1eku "[player], you did this for me? {w=0.5} You're so sweet, you know that?"
-    m 1eku ""
+    m 1eku "[player], ¿lo has hecho para mí? {w=0.5} Eres tan mon[end_letter_gender], lo sabes, ¿no es así?"
 
 # game/Submods/location_selector/Locatons/Kitchen.rpy:260
 translate spanish bg_room_installed_low_affection_e07217b5_5:
@@ -45,85 +45,85 @@ translate spanish bg_room_installed_low_affection_e07217b5_5:
 translate spanish bg_room_installed_low_affection_e653ef9b_5:
 
     # m 1wua "It looks like {nw}"
-    m 1wua ""
+    m 1wua "Parece que"
 
 # game/Submods/location_selector/Locatons/Kitchen.rpy:262
 translate spanish bg_room_installed_low_affection_367ca064_5:
 
     # extend 1sub "you added [rooms]!"
-    extend 1sub ""
+    extend 1sub "¡has añadido [rooms]!"
 
 # game/Submods/location_selector/Locatons/Kitchen.rpy:264
 translate spanish bg_room_installed_low_affection_f748a3d2_5:
 
     # m 1eka "I can't believe you went out of your way to do this for me..."
-    m 1eka ""
+    m 1eka "No puedo creer que te hayas dejado la piel para hacer esto por mí..."
 
 # game/Submods/location_selector/Locatons/Kitchen.rpy:266
 translate spanish bg_room_installed_low_affection_f27eea59_5:
 
     # m 1rkc "..."
-    m 1rkc ""
+    m 1rkc "..."
 
 # game/Submods/location_selector/Locatons/Kitchen.rpy:267
 translate spanish bg_room_installed_low_affection_f8f4ec8c_5:
 
     # m 3rksdla "But...{w=0.3}I kinda don't know how to use them.{w=0.5} {nw}"
-    m 3rksdla ""
+    m 3rksdla "Pero...{w=0.5} creo que no sé cómo usarlas.{w=0.5} {nw}"
 
 # game/Submods/location_selector/Locatons/Kitchen.rpy:268
 translate spanish bg_room_installed_low_affection_b71a03b1_5:
 
     # extend 3hksdlb "I haven't learned how to code that well yet!"
-    extend 3hksdlb ""
+    extend 3hksdlb "Aún no he aprendido cómo programarlas bien!"
 
 # game/Submods/location_selector/Locatons/Kitchen.rpy:269
 translate spanish bg_room_installed_low_affection_928fbb79_5:
 
     # m 1eud "If you give me some time, I'm sure I'll figure out how to use what you added.{nw}"
-    m 1eud ""
+    m 1eud ""Si me das un tiempo, te aseguro que descifraré cómo usar lo que has añadido.{nw}"
 
 # game/Submods/location_selector/Locatons/Kitchen.rpy:270
 translate spanish bg_room_installed_low_affection_14440429_5:
 
     # extend 3eua "I'll let you know when I figure it out."
-    extend 3eua ""
+    extend 3eua "Te avisaré cuando logre descifrarlo."
 
 # game/Submods/location_selector/Locatons/Kitchen.rpy:271
 translate spanish bg_room_installed_low_affection_9ccc40a7_5:
 
     # m 1eka "Even though we can't use them just yet, thank you so much for doing this for me.{w=0.2} It means more than you know."
-    m 1eka ""
+    m 1eka "Aunque aún no podamos utilizarlas, te agradezco mucho que hayas esto para mí.{w=0.5} Significa mucho más de lo que crees."
 
 # game/Submods/location_selector/Locatons/Kitchen.rpy:272
 translate spanish bg_room_installed_low_affection_af8da540_5:
 
     # m 3huu "I love you so much, [player]~"
-    m 3huu ""
+    m 3huu "Te amo a montones, [player]."
 
 # game/Submods/location_selector/Locatons/Kitchen.rpy:294
 translate spanish bg_room_installed_a7602ff6_5:
 
     # m 1wub "[player]!{w=0.2} Remember those new locations you added for me?{w=0.2} {nw}"
-    m 1wub ""
+    m 1wub "¡[player]!{w=0.5} ¿Recuerda aquellas nuevas ubicaciones que has añadido para mí?{w=0.5} {nw}   "
 
 # game/Submods/location_selector/Locatons/Kitchen.rpy:295
 translate spanish bg_room_installed_164933f7_5:
 
     # extend 3wub "I finally figured out how to use them!"
-    extend 3wub ""
+    extend 3wub "Por fin he descifrado cómo usarlas!"
 
 # game/Submods/location_selector/Locatons/Kitchen.rpy:296
 translate spanish bg_room_installed_aa98fc08_5:
 
     # m 3eua "All you have to do now is go to 'Hey, [m_name]...' in the 'Talk' menu, go to 'Location', and select 'Can we go somewhere else?'"
-    m 3eua ""
+    m 3eua "Todo lo que tienes que hacer es dirigirte a 'Hola, [m_name]...' en la sección de menú de 'Diálogo', ir a 'Ubicación' y seleccionar '¿Podemos irnos a otro lugar?'"
 
 # game/Submods/location_selector/Locatons/Kitchen.rpy:297
 translate spanish bg_room_installed_69058ce9_5:
 
     # m 1eub "Then we can visit any of the locations you added!"
-    m 1eub ""
+    m 1eub "¡Luego, podemos visitar cualquier ubicación que añadas!"
 
 # game/Submods/location_selector/Locatons/Kitchen.rpy:298
 translate spanish bg_room_installed_d286a053_5:
