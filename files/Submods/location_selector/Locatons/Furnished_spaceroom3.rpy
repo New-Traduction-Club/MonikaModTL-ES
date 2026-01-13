@@ -129,7 +129,7 @@ translate spanish bg_room_installed_69058ce9_3:
 translate spanish bg_room_installed_d286a053_3:
 
     # m 3sub "I'm so excited~"
-    m 3sub ""
+    m 3sub "¡Estoy flipando de colores!"
 
 # game/Submods/location_selector/Locatons/Furnished_spaceroom3.rpy:369
 translate spanish bg_room_installed_f809e2ea_3:
