@@ -129,7 +129,7 @@ translate spanish bg_room_installed_69058ce9_5:
 translate spanish bg_room_installed_d286a053_5:
 
     # m 3sub "I'm so excited~"
-    m 3sub ""
+    m 3sub "¡Estoy flipando de colores!"
 
 # game/Submods/location_selector/Locatons/Kitchen.rpy:299
 translate spanish bg_room_installed_f809e2ea_5:
