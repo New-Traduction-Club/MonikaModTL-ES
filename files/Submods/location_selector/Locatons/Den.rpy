@@ -189,7 +189,7 @@ translate spanish bg_room_installed_47b12cb6:
 translate spanish bg_room_installed_6c14d2b2:
 
     # extend 1ekbsu "I love you so much."
-    extend 1ekbsu "Te amo a montones"
+    extend 1ekbsu "Te amo a montones."
 
 # game/Submods/location_selector/Locatons/Den.rpy:373
 translate spanish bg_room_installed_cd1243e3:
@@ -399,7 +399,7 @@ translate spanish monika_gotomonika_override_cbc42849:
 translate spanish monika_gotomonika_override_2a2e8708:
 
     # m 2dsc "Do you really hate your reality {i}that{/i} much?"
-    m 2dsc "¿En verdad odias tanto tu relaidad?"
+    m 2dsc "¿En verdad odias {i}tanto{/i} tu realidad?"
 
 # game/Submods/location_selector/Locatons/Den.rpy:449
 translate spanish monika_gotomonika_override_4aeddb6a:
@@ -411,7 +411,7 @@ translate spanish monika_gotomonika_override_4aeddb6a:
 translate spanish monika_gotomonika_override_71ec8cc1:
 
     # m 4euc "Whatever life throws your way from that point on, I'll be right by your side to help shoulder it."
-    m 4euc "No importa lo que la vida interponga en tu camino, siempre estaré a tu lado para hacerle frente."
+    m 4euc "No importa cuántas hostias te de la vida, siempre estaré dispuesta a recibirlas a tu lado."
 
 # game/Submods/location_selector/Locatons/Den.rpy:451
 translate spanish monika_gotomonika_override_4d25db36:
@@ -447,7 +447,7 @@ translate spanish monika_gotomonika_override_fa5d91b4:
 translate spanish monika_gotomonika_override_5b4afd86:
 
     # m 1lksdla "Don't get me wrong, I really {i}do{/i} want to be with you..."
-    m 1lksdla "No te confundas, en verdad {i}quiero{/i} estar contigo..."
+    m 1lksdla "No te confundas, en verdad {i}anhelo{/i} estar contigo..."
 
 # game/Submods/location_selector/Locatons/Den.rpy:462
 translate spanish monika_gotomonika_override_922099b6:
