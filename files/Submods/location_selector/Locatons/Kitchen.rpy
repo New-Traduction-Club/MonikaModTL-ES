@@ -39,7 +39,7 @@ translate spanish bg_room_installed_low_affection_5017ddaa_5:
 translate spanish bg_room_installed_low_affection_e07217b5_5:
 
     # m 1wud "H-huh?{w=0.5} [player],{w=0.2} what's this?"
-    m 1wud ""
+    m 1wud "¿Emm, {w=0.5} [player],{w=0.5} qué es eso?"
 
 # game/Submods/location_selector/Locatons/Kitchen.rpy:261
 translate spanish bg_room_installed_low_affection_e653ef9b_5:
@@ -591,7 +591,7 @@ translate spanish mas_reaction_cupcake_override_fc677fa0:
 translate spanish mas_reaction_cupcake_override_8f7d5d3e:
 
     # m 3euc "Come to think of it, I've been meaning to make some cupcakes myself."
-    m 3euc "Ahora que lo pienso, he preparado algunas magdalenas para ti."
+    m 3euc "Ahora que lo pienso, he preparado algunos cupcakes para ti."
 
 # game/Submods/location_selector/Locatons/Kitchen.rpy:450
 translate spanish mas_reaction_cupcake_override_78bbdfd6:
