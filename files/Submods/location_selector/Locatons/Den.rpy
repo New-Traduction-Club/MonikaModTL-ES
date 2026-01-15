@@ -417,7 +417,7 @@ translate spanish monika_gotomonika_override_71ec8cc1:
 translate spanish monika_gotomonika_override_4d25db36:
 
     # m 4eud "Even now, if you're having a rough day, you can come talk to me about it anytime."
-    m 4eud "Incluso ahora,  si estás teniendo un día de perros puedes charlar conmigo sobre eso en cualquier momento que lo necesites."
+    m 4eud "Incluso ahora, si estás teniendo un día de perros puedes charlar conmigo sobre eso en cualquier momento que lo necesites."
 
 # game/Submods/location_selector/Locatons/Den.rpy:452
 translate spanish monika_gotomonika_override_ccd6cec5:
