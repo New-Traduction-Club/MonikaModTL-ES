@@ -111,7 +111,7 @@ translate spanish bg_room_installed_a7602ff6_2:
 translate spanish bg_room_installed_164933f7_2:
 
     # extend 3wub "I finally figured out how to use them!"
-    extend 3wub "Por fin he descifrado cómo usarlas!"
+    extend 3wub "¡Por fin he descifrado cómo usarlas!"
 
 # game/Submods/location_selector/Locatons/Furnished_spaceroom2.rpy:369
 translate spanish bg_room_installed_aa98fc08_2:
