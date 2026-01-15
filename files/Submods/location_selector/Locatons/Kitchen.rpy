@@ -45,7 +45,7 @@ translate spanish bg_room_installed_low_affection_e07217b5_5:
 translate spanish bg_room_installed_low_affection_e653ef9b_5:
 
     # m 1wua "It looks like {nw}"
-    m 1wua "Parece que"
+    m 1wua "Parece que... {nw}"
 
 # game/Submods/location_selector/Locatons/Kitchen.rpy:262
 translate spanish bg_room_installed_low_affection_367ca064_5:
