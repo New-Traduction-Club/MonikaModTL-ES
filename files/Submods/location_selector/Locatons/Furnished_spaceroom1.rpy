@@ -164,7 +164,7 @@ translate spanish bg_room_installed_0d20e7bd_1:
 translate spanish bg_room_installed_a69c6269_1:
 
     # m 1suo "What's this?{w=0.5} You added [rooms][too]?"
-    m 1suo "Pero, ¿qué es esto?{w=0.5} Has añadido [rooms][too]"
+    m 1suo "Pero, ¿qué es esto?{w=0.5} ¿También Has añadido [rooms][too]?"
 
 # game/Submods/location_selector/Locatons/Furnished_spaceroom1.rpy:398
 translate spanish bg_room_installed_0aef0a45_1:
