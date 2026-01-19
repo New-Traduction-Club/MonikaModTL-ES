@@ -3,7 +3,7 @@
 translate spanish V4_room_installed_cae8a1f2:
 
     # m 1suo "Oh my gosh..."
-    m 1suo "Oh Dios mío..."
+    m 1suo "Oh, Dios mío..."
 
 # game/Submods/location_selector/Locatons/Furnished_spaceroom4.rpy:327
 translate spanish V4_room_installed_e22d381e:
