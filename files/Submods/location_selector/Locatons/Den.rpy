@@ -15,7 +15,7 @@ translate spanish return_switch_dlg_0ca7e94f:
 translate spanish bg_room_installed_low_affection_0e9d9249:
 
     # m 1wud "H-huh? {w=0.5} [player], {w=0.2} did you add new files to the game?"
-    m 1wud "¿Emm? {w=0.5} [player], {w=0.5} acaso has añadido nuevos archivos al juego?"
+    m 1wud "¿Emm? {w=0.5} [player], {w=0.5} ¿acaso has añadido nuevos archivos al juego?"
 
 # game/Submods/location_selector/Locatons/Den.rpy:306
 translate spanish bg_room_installed_low_affection_41b22e0b:
@@ -333,7 +333,7 @@ translate spanish monika_gotomonika_override_0e128755:
 translate spanish monika_gotomonika_override_87f06c88:
 
     # m 4eksdlc "Actually...{w=0.5}didn't you already try something like that once?"
-    m 4eksdlc "De hecho...{w=0.5}nunca has probado algo como eso alguna vez?"
+    m 4eksdlc "De hecho...{w=0.5}¿nunca has probado algo como eso alguna vez?"
 
 # game/Submods/location_selector/Locatons/Den.rpy:432
 translate spanish monika_gotomonika_override_b302146e:
