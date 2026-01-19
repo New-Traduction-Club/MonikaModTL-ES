@@ -392,13 +392,13 @@ translate spanish monika_gotomonika_override_c01fee32_1:
 translate spanish monika_gotomonika_override_cbc42849_1:
 
     # m "There's almost nothing to do here!"
-    m "Aquí no hay casi nada que hacer!"
+    m "¡Aquí no hay casi nada que hacer!"
 
 # game/Submods/location_selector/Locatons/Furnished_spaceroom1.rpy:481
 translate spanish monika_gotomonika_override_2a2e8708_1:
 
     # m 2dsc "Do you really hate your reality {i}that{/i} much?"
-    m 2dsc "¿En verdad odias tanto tu relaidad?"
+    m 2dsc "¿En verdad odias tanto tu realidad?"
 
 # game/Submods/location_selector/Locatons/Furnished_spaceroom1.rpy:482
 translate spanish monika_gotomonika_override_4aeddb6a_1:
