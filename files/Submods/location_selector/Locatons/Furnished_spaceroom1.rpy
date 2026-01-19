@@ -122,7 +122,7 @@ translate spanish bg_room_installed_aa98fc08_1:
 translate spanish bg_room_installed_69058ce9_1:
 
     # m 1eub "Then we can visit any of the locations you added!"
-    m 1eub "¡Luego, podemos visitar cualquier ubicación que añaadas!"
+    m 1eub "¡Luego, podemos visitar cualquier ubicación que añadas!"
 
 # game/Submods/location_selector/Locatons/Furnished_spaceroom1.rpy:384
 translate spanish bg_room_installed_d286a053_1:
