@@ -501,133 +501,133 @@ translate spanish monika_death_1e147973:
 translate spanish monika_death_0a6b3816:
 
     # m 1eka "Thanks for hearing me out, [player]."
-    m 1eka ""
+    m 1eka "Gracias por escucharme, [player]."
 
 # game/script-topics.rpy:966
 translate spanish monika_selfesteem_2e53136f:
 
     # m 3eua "Do you love yourself, [player]?"
-    m 3eua ""
+    m 3eua "¿Te amas a ti mism[end_letter_gender], [player]?"
 
 # game/script-topics.rpy:967
 translate spanish monika_selfesteem_5f2f8a80:
 
     # m 1lksdlb "I don't mean in a conceited way."
-    m 1lksdlb ""
+    m 1lksdlb "No me refiero en una manera engreída."
 
 # game/script-topics.rpy:968
 translate spanish monika_selfesteem_e5cf121b:
 
     # m 1eka "Like, are you comfortable with who you are?{nw}"
-    m 1eka ""
+    m 1eka "Sino más bien, ¿estás cómod[end_letter_gender] con quien eres?{nw}"
 
 # game/script-topics.rpy:971
 translate spanish monika_selfesteem_992f015e:
 
     # m "Like, are you comfortable with who you are?{fast}" nointeract
-    m "" nointeract
+    m "Sino más bien, ¿estás cómod[end_letter_gender] con quien eres?{fast}" nointeract
 
 # game/script-topics.rpy:974
 translate spanish monika_selfesteem_bd0c71a5:
 
     # m 1hua "I'm glad you aren't miserable inside, [player]."
-    m 1hua ""
+    m 1hua "Me alegra que no estés destrozad[end_letter_gender] en tu interior, [player]."
 
 # game/script-topics.rpy:977
 translate spanish monika_selfesteem_7758c3c2:
 
     # m 1ekc "I really have been concerned for you lately..."
-    m 1ekc ""
+    m 1ekc "En verdad me he preocupado por ti últimamente..."
 
 # game/script-topics.rpy:979
 translate spanish monika_selfesteem_520d36f6:
 
     # m 1hua "I wasn't too worried because of how good you've made me feel lately."
-    m 1hua ""
+    m 1hua "No he estado demasiado preocupada debido a lo bien que me has hecho sentir en este último tiempo."
 
 # game/script-topics.rpy:981
 translate spanish monika_selfesteem_3a4fbbd5:
 
     # m 1eka "Your happiness means everything to me, after all."
-    m 1eka ""
+    m 1eka "Tu felicicdad lo es todo para mí, después de todo."
 
 # game/script-topics.rpy:983
 translate spanish monika_selfesteem_f19860da:
 
     # m 2ekc "Depression and a low self-esteem often root from a feeling that you don't deserve any kind of affection."
-    m 2ekc ""
+    m 2ekc "La depresión y la baja autoestima a menudo nace desde un semtimiento de no ser digno de ninguna clase de afecto."
 
 # game/script-topics.rpy:984
 translate spanish monika_selfesteem_5f69a65a:
 
     # m 2lksdlc "It's a horrible cocktail of feelings to have bottled in you."
-    m 2lksdlc ""
+    m 2lksdlc "Es un horrendo mejunje de sentimientos reprimidos en tu interior."
 
 # game/script-topics.rpy:985
 translate spanish monika_selfesteem_a4045de0:
 
     # m 4eka "If you have any friends that you think might be suffering from those, try to reach out and say something nice."
-    m 4eka ""
+    m 4eka "Si tienes algún amigo que creas que está sufriendo por ello, intenta extender una mano y decirle algo amable."
 
 # game/script-topics.rpy:986
 translate spanish monika_selfesteem_82cf98a1:
 
     # m 4hua "A small compliment could make a world of difference for them!"
-    m 4hua ""
+    m 4hua "¡Un pequeño cumplido puede hacer tamaña diferencia en ellos!"
 
 # game/script-topics.rpy:987
 translate spanish monika_selfesteem_50fdc00c:
 
     # m 1eua "If it gives them a bit of relief, you'd have done a great thing."
-    m 1eua ""
+    m 1eua "Si eso les da un poco de alivio, ya habrás hecho algo grande."
 
 # game/script-topics.rpy:988
 translate spanish monika_selfesteem_a4eb284b:
 
     # m 1eka "And even if it doesn't, at least you tried rather than staying silent."
-    m 1eka ""
+    m 1eka "E incluso si no lo hace, haberlo intentado vale mil veces más que quedarse en silencio."
 
 # game/script-topics.rpy:991
 translate spanish monika_selfesteem_00863575:
 
     # m 1ekc "That's...really sad to hear, [player]..."
-    m 1ekc ""
+    m 1ekc "Oír eso es...en verdad acongojante, [player]..."
 
 # game/script-topics.rpy:994
 translate spanish monika_selfesteem_80eeed97:
 
     # m 1ekc "I had strongly suspected it to be honest..."
-    m 1ekc ""
+    m 1ekc "He sospechado con todas mis fuerzas para serte honesta..."
 
 # game/script-topics.rpy:996
 translate spanish monika_selfesteem_6e304460:
 
     # m 1ekc "And to think I missed it while you've been making me so happy..."
-    m 1ekc ""
+    m 1ekc "Y pensar que no lo he notado mientras tú me hacías tan feliz..."
 
 # game/script-topics.rpy:998
 translate spanish monika_selfesteem_ba529a40:
 
     # m "I'll always love you, [player], but I think it's important to love yourself."
-    m ""
+    m "Siempre te amaré, [player], pero creo que es importante amarse a uno mismo."
 
 # game/script-topics.rpy:999
 translate spanish monika_selfesteem_262bf87b:
 
     # m 1eka "You need to start with the little things that you like about yourself."
-    m 1eka ""
+    m 1eka "Debes comenzar por las cosas pequeñas que te gustan de ti."
 
 # game/script-topics.rpy:1000
 translate spanish monika_selfesteem_a4809bc7:
 
     # m 3hua "It can be something silly, or a skill that you take pride in!"
-    m 3hua ""
+    m 3hua "¡Pueden tanto cosas tontas, como también habilidades que te llenen de orgullo!"
 
 # game/script-topics.rpy:1001
 translate spanish monika_selfesteem_4db789c5:
 
     # m 3eua "Over time, you build your confidence little by little until you've built yourself into someone you'd love."
-    m 3eua ""
+    m 3eua "Con el tiempo, reforzarás tu confianza poquito a poco hasta que te transformes en alguien al que ames."
 
 # game/script-topics.rpy:1002
 translate spanish monika_selfesteem_5ec787a8:
