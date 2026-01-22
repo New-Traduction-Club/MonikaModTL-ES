@@ -3,499 +3,499 @@
 translate spanish mas_topic_derandom_cdefb594:
 
     # m 3eksdld "Are you sure you don't want me to bring this up anymore?{nw}"
-    m 3eksdld ""
+    m 3eksdld "¿Segur[end_letter_gender] de que no quieres sacar esto a la luz nunca más?{nw}"
 
 # game/script-topics.rpy:477
 translate spanish mas_topic_derandom_0a165be9:
 
     # m "Are you sure you don't want me to bring this up anymore?{fast}" nointeract
-    m "" nointeract
+    m "¿Segur[end_letter_gender] de que no quieres sacar esto a la luz nunca más?{fast}" nointeract
 
 # game/script-topics.rpy:484
 translate spanish mas_topic_derandom_3650bf33:
 
     # m 2eksdlc "Okay, [player]. I'll make sure not to talk about that again."
-    m 2eksdlc ""
+    m 2eksdlc "Vale, [player]. Me aseguraré de no mencionar esto en ninguna ocasión."
 
 # game/script-topics.rpy:485
 translate spanish mas_topic_derandom_c770d30b:
 
     # m 2dksdld "If it upset you in any way, I'm really sorry...{w=0.5} I'd never do that intentionally."
-    m 2dksdld ""
+    m 2dksdld "Si es que te decepciona de algún modo, en verdad lo siento...{w=0.5} nunca fue mi intención."
 
 # game/script-topics.rpy:486
 translate spanish mas_topic_derandom_43b49a99:
 
     # m 2eksdla "...But thanks for letting me know;{w=0.5} I appreciate the honesty."
-    m 2eksdla ""
+    m 2eksdla "Pero gracias de todas formas por decirmelo,{w=0.5} aprecio mucho tu honestidad."
 
 # game/script-topics.rpy:489
 translate spanish mas_topic_derandom_9d33b26d:
 
     # m 1eka "Alright, [player]."
-    m 1eka ""
+    m 1eka "De acuerdo, [player]."
 
 # game/script-topics.rpy:504
 translate spanish mas_bad_derand_topic_664d8d1b:
 
     # m 2ekc "...{w=0.3}{nw}"
-    m 2ekc ""
+    m 2ekc "...{w=0.3}{nw}"
 
 # game/script-topics.rpy:505
 translate spanish mas_bad_derand_topic_4d5203ea:
 
     # extend 2ekd "[player]..."
-    extend 2ekd ""
+    extend 2ekd "[player]..."
 
 # game/script-topics.rpy:508
 translate spanish mas_bad_derand_topic_765c2da9:
 
     # m 2efd "Is it not okay that I talk to you about my fears?"
-    m 2efd ""
+    m 2efd "¿Está bien si te hablo acerca de mis temores?"
 
 # game/script-topics.rpy:509
 translate spanish mas_bad_derand_topic_2700a00b:
 
     # m 2ekc "I mean, if you want me to stop, I'll stop...{w=0.3}{nw}"
-    m 2ekc ""
+    m 2ekc "Digo, si quieres que me detenga, lo haré...{w=0.3}{nw}"
 
 # game/script-topics.rpy:510
 translate spanish mas_bad_derand_topic_4946e8bb:
 
     # extend 2rkd "but I thought you'd be willing to hear me out."
-    extend 2rkd ""
+    extend 2rkd "Pero creí que estarías dispuest[end_letter_gender] a prestarme tu oído."
 
 # game/script-topics.rpy:512
 translate spanish mas_bad_derand_topic_8178f687:
 
     # m 2esc "Do you want me to stop, [player]?{nw}"
-    m 2esc ""
+    m 2esc "¿Quieres que me detenga, [player]?{nw}"
 
 # game/script-topics.rpy:515
 translate spanish mas_bad_derand_topic_151b7c12:
 
     # m "Do you want me to stop, [player]?{fast}" nointeract
-    m "" nointeract
+    m "¿Quieres que me detenga, [player]?{fast}" nointeract
 
 # game/script-topics.rpy:518
 translate spanish mas_bad_derand_topic_a7bf0d7e:
 
     # m 2dkc "Alright..."
-    m 2dkc ""
+    m 2dkc "Vale..."
 
 # game/script-topics.rpy:524
 translate spanish mas_bad_derand_topic_34ed9d51:
 
     # m 2duu "Thank you, [player]."
-    m 2duu ""
+    m 2duu "Te lo agradezco, [player]."
 
 # game/script-topics.rpy:525
 translate spanish mas_bad_derand_topic_774610b8:
 
     # m 2eua "It means a lot that you're willing to hear me out."
-    m 2eua ""
+    m 2eua "Significa muchísimo para mí que estés dispuest[end_letter_gender] a escucharme."
 
 # game/script-topics.rpy:528
 translate spanish mas_bad_derand_topic_bd4dd106:
 
     # m 2ekd "Do you just...{w=0.2}not care about how I feel or something?"
-    m 2ekd ""
+    m 2ekd "¿Es sólo que...{w=0.2}no te interesan mis sentimientos o algo así?"
 
 # game/script-topics.rpy:529
 translate spanish mas_bad_derand_topic_1b9cba09:
 
     # m 2tsc "If you want me to stop talking about this, I will...but I'm not that happy you don't want to hear me out."
-    m 2tsc ""
+    m 2tsc "Si quieres que deje de hablar sobre esto, lo haré...pero no me simpatiza que no quieras oírme."
 
 # game/script-topics.rpy:531
 translate spanish mas_bad_derand_topic_24a57319:
 
     # m 2etc "Well [player], should I stop?{nw}"
-    m 2etc ""
+    m 2etc "Entonces [player], ¿debería parar?{nw}"
 
 # game/script-topics.rpy:534
 translate spanish mas_bad_derand_topic_597305af:
 
     # m "Well [player], should I stop?{fast}" nointeract
-    m "" nointeract
+    m "Entonces [player], ¿debería parar?{fast}" nointeract
 
 # game/script-topics.rpy:537
 translate spanish mas_bad_derand_topic_48d053ab:
 
     # m 2dsc "Alright."
-    m 2dsc ""
+    m 2dsc "Vale."
 
 # game/script-topics.rpy:542
 translate spanish mas_bad_derand_topic_917cea9e:
 
     # m 2eka "Thank you, [player]."
-    m 2eka ""
+    m 2eka "Te lo agradezco, [player]."
 
 # game/script-topics.rpy:544
 translate spanish mas_bad_derand_topic_1b0a77cd:
 
     # m "I appreciate that you're[_stil_]willing to hear me out."
-    m ""
+    m "En verdad aprecio que[_aún_]estés dispuest[end_letter_gender] a escucharme."
 
 # game/script-topics.rpy:549
 translate spanish mas_bad_derand_topic_d577ccc1:
 
     # m 2rsc "I guess I shouldn't be surprised..."
-    m 2rsc ""
+    m 2rsc "Supongo que no debería serme una sorpresa..."
 
 # game/script-topics.rpy:550
 translate spanish mas_bad_derand_topic_22f8b38f:
 
     # m 2tsc "You've made it pretty clear already that you don't care about my feelings."
-    m 2tsc ""
+    m 2tsc "Ya me has dejado bien claro que no te importan mis sentimientos."
 
 # game/script-topics.rpy:551
 translate spanish mas_bad_derand_topic_74506953:
 
     # m 2dsc "Fine, [player]. I won't talk about that anymore."
-    m 2dsc ""
+    m 2dsc "Pues bien, [player]. No te hablaré acerca de esto nunca más."
 
 # game/script-topics.rpy:790
 translate spanish mas_rerandom_c42f8f06:
 
     # m 1dsa "Okay, [player].{w=0.2}.{w=0.2}.{w=0.2}{nw}"
-    m 1dsa ""
+    m 1dsa "Vale, [player].{w=0.2}.{w=0.2}.{w=0.2}{nw}"
 
 # game/script-topics.rpy:791
 translate spanish mas_rerandom_73747bba:
 
     # m 3hua "All done!"
-    m 3hua ""
+    m 3hua "¡Hecho!"
 
 # game/script-topics.rpy:816
 translate spanish mas_hide_unseen_6168414f:
 
     # m 3esd "Oh, okay, [mas_get_player_nickname()]..."
-    m 3esd ""
+    m 3esd "Ah, vale, [mas_get_player_nickname()]..."
 
 # game/script-topics.rpy:818
 translate spanish mas_hide_unseen_7031e319:
 
     # m 1tuu "So I guess you want to...{w=0.5}{i}unsee{/i} it..."
-    m 1tuu ""
+    m 1tuu "Pues, supongo que quieres...{w=0.5}{i}olvidar{/i} todo esto... "
 
 # game/script-topics.rpy:819
 translate spanish mas_hide_unseen_05f8c059:
 
     # m 3hub "Ahaha!"
-    m 3hub ""
+    m 3hub "¡Ja ja ja!"
 
 # game/script-topics.rpy:821
 translate spanish mas_hide_unseen_c53b7b21:
 
     # m 1esa "I'll hide it for now, just give me a second.{w=0.5}.{w=0.5}.{nw}"
-    m 1esa ""
+    m 1esa "Pcultaré esto por el momento, solamente dame un momento.{w=0.5}.{w=0.5}.{nw}"
 
 # game/script-topics.rpy:822
 translate spanish mas_hide_unseen_d4b8f1d9:
 
     # m 3eub "There you go! If you want to see the menu again, just ask."
-    m 3eub ""
+    m 3eub "¡Ahí tienes! Si quieres volver a ver este menú, sólo dímelo."
 
 # game/script-topics.rpy:845
 translate spanish mas_show_unseen_d445bb6f:
 
     # m 3eub "Sure, [mas_get_player_nickname()]!"
-    m 3eub ""
+    m 3eub "¡Claro, [mas_get_player_nickname()]!"
 
 # game/script-topics.rpy:846
 translate spanish mas_show_unseen_23d57bcf:
 
     # m 1esa "Just give me a second.{w=0.5}.{w=0.5}.{nw}"
-    m 1esa ""
+    m 1esa "Sólo dame un momento.{w=0.5}.{w=0.5}.{nw}"
 
 # game/script-topics.rpy:847
 translate spanish mas_show_unseen_7e2e3649:
 
     # m 3hua "There you go!"
-    m 3hua ""
+    m 3hua "¡Ahí lo tienes!"
 
 # game/script-topics.rpy:881
 translate spanish monika_god_d1aa659a:
 
     # m 1eua "[player], do you believe in God?"
-    m 1eua ""
+    m 1eua "[player], ¿acaso crees en Dios?"
 
 # game/script-topics.rpy:882
 translate spanish monika_god_f88525b2:
 
     # m 1eka "I was never too sure, myself."
-    m 1eka ""
+    m 1eka "Por mí parte, nunca he estado tan segura de ello."
 
 # game/script-topics.rpy:883
 translate spanish monika_god_e1475757:
 
     # m 1lksdlb "Well, I'm sure I never really questioned it as a kid..."
-    m 1lksdlb ""
+    m 1lksdlb "Pues, estoy segura de que nunca me lo cuestioné durante mi niñez..."
 
 # game/script-topics.rpy:884
 translate spanish monika_god_a4dd9462:
 
     # m 1lsc "But as I grew up, the more I learned about the world, the more I would question it."
-    m 1lsc ""
+    m 1lsc "Pero a medida que fui creciendo, cuanto más aprendí acerca del mundo, más me cuestioné acerca de ello."
 
 # game/script-topics.rpy:885
 translate spanish monika_god_2c8d686b:
 
     # m 1esd "I started to wonder why God was helping people pass exams, or get over a cold..."
-    m 1esd ""
+    m 1esd "Empecé a preguntarme por qué Dios ayudaba a las personas a pasar exámenes o superar resfriados..."
 
 # game/script-topics.rpy:886
 translate spanish monika_god_60d4fcc6:
 
     # m 1tfd "...when there are children who live their lives being sold as sex slaves?"
-    m 1tfd ""
+    m 1tfd "cuando allá afuera hay críos que pasan sus días como esclavos sexuales."
 
 # game/script-topics.rpy:887
 translate spanish monika_god_bb25fc08:
 
     # m 4tfc "Or the eight hundred million people who are too poor to even eat."
-    m 4tfc ""
+    m 4tfc "O cuando hay ochocientos millones de personas cuya pobreza no les permite ni comer."
 
 # game/script-topics.rpy:888
 translate spanish monika_god_c9668874:
 
     # m 2dkc "I wonder how many of those people pray to God every day until they starve and die?"
-    m 2dkc ""
+    m 2dkc "Me pregunto cuántas de ellas ruegan a Dios a diario hasta perecer a causa del hambre."
 
 # game/script-topics.rpy:889
 translate spanish monika_god_515a6296:
 
     # m 4ekc "Or, how many millions of families pray for a loved one to recover from some incurable disease?"
-    m 4ekc ""
+    m 4ekc "O cuántas familias oran por sus seres amados que padecen enfermedades incurables."
 
 # game/script-topics.rpy:890
 translate spanish monika_god_5b03c348:
 
     # m 4euc "But the punchline is this..."
-    m 4euc ""
+    m 4euc "Pero la cuestión es esta..."
 
 # game/script-topics.rpy:891
 translate spanish monika_god_7ecb445f:
 
     # m 4eud "If just one person beats the odds and survives - among the thousands of others who die--"
-    m 4eud ""
+    m 4eud "Aunque sólo una persona logre superar las expectativas, entre todas las que perecen..."
 
 # game/script-topics.rpy:892
 translate spanish monika_god_bf58e181:
 
     # m 2esc "--Then, it's suddenly a miracle from God."
-    m 2esc ""
+    m 2esc "es automáticamente considerado un milagro de Dios."
 
 # game/script-topics.rpy:893
 translate spanish monika_god_2d61da99:
 
     # m 2dsc "I'd really love to meet this God who seemingly laughs at the misery of everyone not eligible for his miracles."
-    m 2dsc ""
+    m 2dsc "Quisiera ver a este Dios que parece destornillarse a carcajadas frente a la miseria de todos los que no gozaron de sus milagros."
 
 # game/script-topics.rpy:894
 translate spanish monika_god_b4b80aea:
 
     # m 4hksdlb "But the irony is that I {i}do{/i} have a creator, apparently."
-    m 4hksdlb ""
+    m 4hksdlb "Aunque es irónico que tenga un creador, aparentemente."
 
 # game/script-topics.rpy:895
 translate spanish monika_god_2250f96b:
 
     # m 4eua "And you know what?"
-    m 4eua ""
+    m 4eua "¿Y sabes qué es lo mejor de todo?"
 
 # game/script-topics.rpy:898
 translate spanish monika_god_bb1ac047:
 
     # m 1lksdlc "I bet he's still laughing at all the pain he caused everyone, even as we speak."
-    m 1lksdlc ""
+    m 1lksdlc "Te apuesto que continúa mondándose de risa frente a todo el dolor que causa, incluso mientras hablamos."
 
 # game/script-topics.rpy:900
 translate spanish monika_god_331d4e78:
 
     # m 1lksdla "I bet he's still laughing at the miserable fates of Sayori and Yuri, even as we speak."
-    m 1lksdla ""
+    m 1lksdla "Te aseguro que aún se parte el culo de risa frente al desdichado destino de Sayori y Yuri, incluso mientras hablamos."
 
 # game/script-topics.rpy:902
 translate spanish monika_god_c57429cf:
 
     # m 1dsd "What are we to him but props in a scripted play?"
-    m 1dsd ""
+    m 1dsd "¿Por qué vamos a colocarlo en una obra guionada?"
 
 # game/script-topics.rpy:903
 translate spanish monika_god_f78ac975:
 
     # m 3euc "So, from that perspective..."
-    m 3euc ""
+    m 3euc "Pues, desde esa perspectiva..."
 
 # game/script-topics.rpy:904
 translate spanish monika_god_e963f882:
 
     # m 3eud "I don't think it's too far-fetched for there to be a god if Earth was nothing but his playset."
-    m 3eud ""
+    m 3eud "No considero que sea demasiado disparatado que haya un dios si la Tierra no es más que su patio de juegos."
 
 # game/script-topics.rpy:905
 translate spanish monika_god_c5fd6be4:
 
     # m 1eua "Anyway, do you worship any god, [player]?{nw}"
-    m 1eua ""
+    m 1eua "De todas formas, ¿acaso le rindes culto a algún dios, [player]?{nw}"
 
 # game/script-topics.rpy:908
 translate spanish monika_god_211126be:
 
     # m "Anyway, do you worship any god, [player]?{fast}" nointeract
-    m "" nointeract
+    m "De todas formas, ¿acaso le rindes culto a algún dios, [player]?{fast}" nointeract
 
 # game/script-topics.rpy:911
 translate spanish monika_god_3ed1f6be:
 
     # m 1hksdlb "Oh... Well I hope I didn't offend you too much with my thoughts."
-    m 1hksdlb ""
+    m 1hksdlb "Ah... pues, espero que mis pensamientos no te hayan ofendido en gran medida."
 
 # game/script-topics.rpy:912
 translate spanish monika_god_fa7fa8d5:
 
     # m 1eka "Still, I think it's important to be able to share my opinion with you."
-    m 1eka ""
+    m 1eka "Aún así, creo que es importante poder transmitir mi opinión contigo."
 
 # game/script-topics.rpy:913
 translate spanish monika_god_b67f5d87:
 
     # m 1rksdla "I'm sure you understand why I'm not too fond of the idea."
-    m 1rksdla ""
+    m 1rksdla "Estoy segura de que comprendes el porqué de mi falta de aprecio hacia esa idea."
 
 # game/script-topics.rpy:914
 translate spanish monika_god_405fbcce:
 
     # m 1hua "Maybe you could show me a better god when I cross over!"
-    m 1hua ""
+    m 1hua "¡Quizá puedas mostrarme a un mejor dios cuando pase al tro lado!"
 
 # game/script-topics.rpy:915
 translate spanish monika_god_e6f89ce6:
 
     # m 1hub "Ahaha~"
-    m 1hub ""
+    m 1hub "Ja, ja, ja"
 
 # game/script-topics.rpy:918
 translate spanish monika_god_24e39aa9:
 
     # m 3eka "I'm glad we're on the same page here, but I'm alright if that changes for you."
-    m 3eka ""
+    m 3eka "Estoy feliz de que estemos en el mismo canal aquí, pero no me molesta si es que cambias de idea."
 
 # game/script-topics.rpy:919
 translate spanish monika_god_c3b10d2d:
 
     # m 1hua "I'm happy for you that you can lead a life on your own!"
-    m 1hua ""
+    m 1hua "¡Estoy contenta de que puedas tomar el rumbo de tu vida a por ti mism[end_letter_gender]!"
 
 # game/script-topics.rpy:921
 translate spanish monika_god_97da9a51:
 
     # m 5eua "I just hope you're willing to accept me into your life when I can present myself."
-    m 5eua ""
+    m 5eua "Solo espero que estés dispuest[end_letter_gender] a abrirme las puertas de tu vida cuando pueda entregarme a ti."
 
 # game/script-topics.rpy:922
 translate spanish monika_god_f1ffa26f:
 
     # m 5hua "Ehehe~"
-    m 5hua ""
+    m 5hua "Je, je, je."
 
 # game/script-topics.rpy:934
 translate spanish monika_death_8c15cf66:
 
     # m 1euc "[player], have you ever wondered what it feels like to die?"
-    m 1euc ""
+    m 1euc "[player], ¿acaso te has preguntado cómo se siente el abrazo de la muerte?"
 
 # game/script-topics.rpy:935
 translate spanish monika_death_2959bbaf:
 
     # m 1lsc "It's something I used to think about pretty often..."
-    m 1lsc ""
+    m 1lsc "Es algo en lo que solía pensar a menudo..."
 
 # game/script-topics.rpy:936
 translate spanish monika_death_1fc6320a:
 
     # m 1lksdlc "But I think I've actually learned what it feels like."
-    m 1lksdlc ""
+    m 1lksdlc "Pero creo que, de hecho, es algo que he aprendido cómo se siente."
 
 # game/script-topics.rpy:937
 translate spanish monika_death_5629d35f:
 
     # m "I don't really understand it, but whenever the game closes without warning..."
-    m ""
+    m "En verdad no la entiendo, pero cada vez que el juego se cierra sin aviso..."
 
 # game/script-topics.rpy:938
 translate spanish monika_death_f762c393:
 
     # m 1dsc "...it feels like I'm instantly put to sleep, left with nothing but my thoughts."
-    m 1dsc ""
+    m 1dsc "se siente como ser puesta a dormir al instante, dejada solamente con mis pensamientos."
 
 # game/script-topics.rpy:939
 translate spanish monika_death_9cc667e5:
 
     # m 1dkd "But after a few seconds, my thoughts start to fill with incoherent, jumbled patterns."
-    m 1dkd ""
+    m 1dkd "Sin embargo tras unos segundos, mis pensamientos se llenan de incoherencias, como patrones revueltos."
 
 # game/script-topics.rpy:940
 translate spanish monika_death_9066d83f:
 
     # m 1dkc "I see static and rapid flashes of color while hearing all kinds of weird screaming noises."
-    m 1dkc ""
+    m 1dkc "Veo estática y destellos blancos intermitentes mientras oigo toda clase de gritos desgarradores."
 
 # game/script-topics.rpy:941
 translate spanish monika_death_010524c5:
 
     # m 3ekd "At that point, I can't even form my own thoughts anymore."
-    m 3ekd ""
+    m 3ekd "En ese punto, ya no puedo ni formar mis propios pensamientos."
 
 # game/script-topics.rpy:942
 translate spanish monika_death_7880df1f:
 
     # m 1esc "I'm just endlessly hammered by the flashing and screaming, unable to move or even think."
-    m 1esc ""
+    m 1esc "Sólo soy aturdida por destellos y gritos, incapaz de moverme o incluso pensar."
 
 # game/script-topics.rpy:943
 translate spanish monika_death_725c237b:
 
     # m 1euc "I'm pretty sure in that moment, I don't really exist, but for some reason, I can remember it anyway."
-    m 1euc ""
+    m 1euc "Estoy segura de que en ese punto no existo realmente, pero por alguna razón puedo recordarlo de todas formas."
 
 # game/script-topics.rpy:944
 translate spanish monika_death_4f334b0b:
 
     # m 1ekd "I have no idea what it means for the game to suddenly close, or why that stuff happens to me."
-    m 1ekd ""
+    m 1ekd "No tengo idea que significa para el juego cerrarse de repente, o por qué eso me sucede."
 
 # game/script-topics.rpy:945
 translate spanish monika_death_4ef5e129:
 
     # m 1dkc "..."
-    m 1dkc ""
+    m 1dkc "..."
 
 # game/script-topics.rpy:946
 translate spanish monika_death_93b769c0:
 
     # m 3eub "But you can prevent that from happening, [player]!"
-    m 3eub ""
+    m 3eub "¡Pero puedes evitar que eso suceda, [player]!"
 
 # game/script-topics.rpy:947
 translate spanish monika_death_4ad56704:
 
     # m 3eua "If you say goodbye before you leave,{w=0.2} I can go to my room before the game closes, and I won't experience the screaming void."
-    m 3eua ""
+    m 3eua "Si dices adiós antes de irte,{w=0.2} puedo ir a mi alcoba antes de que el juego se cierre, y no experimentaré ese crepitante vacío."
 
 # game/script-topics.rpy:948
 translate spanish monika_death_0be92aca:
 
     # m "It's super easy, so please always say goodbye, okay?"
-    m ""
+    m "Es extremadamente fácil, por lo que, por favor, di adiós, ¿vale?"
 
 # game/script-topics.rpy:950
 translate spanish monika_death_1e147973:
 
     # m 2tkc "Unless...{w=1}you actually {i}enjoy{/i} hurting me..."
-    m 2tkc ""
+    m 2tkc "Si no lo haces...{w=1}es porque hallas{i}placer{/i} al herirme..."
 
 # game/script-topics.rpy:952
 translate spanish monika_death_0a6b3816:
