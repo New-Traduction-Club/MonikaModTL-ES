@@ -21,7 +21,7 @@ translate spanish bg_room_installed_low_affection_0e9d9249:
 translate spanish bg_room_installed_low_affection_41b22e0b:
 
     # m 1wua "It looks like... {w=0.5} {nw}"
-    m 1wua "Eso se ve como... {w=0.5} {nw}"
+    m 1wua "Esto se ve como... {w=0.5} {nw}"
 
 # game/Submods/location_selector/Locatons/Den.rpy:307
 translate spanish bg_room_installed_low_affection_33ee7cd0:
@@ -39,7 +39,7 @@ translate spanish bg_room_installed_low_affection_5017ddaa:
 translate spanish bg_room_installed_low_affection_e07217b5:
 
     # m 1wud "H-huh?{w=0.5} [player],{w=0.2} what's this?"
-    m 1wud "¿Emm, {w=0.5} [player],{w=0.5} qué es eso?"
+    m 1wud "¿Emm, {w=0.5} [player],{w=0.5} qué es esto?"
 
 # game/Submods/location_selector/Locatons/Den.rpy:314
 translate spanish bg_room_installed_low_affection_e653ef9b:
@@ -93,19 +93,19 @@ translate spanish bg_room_installed_low_affection_14440429:
 translate spanish bg_room_installed_low_affection_9ccc40a7:
 
     # m 1eka "Even though we can't use them just yet, thank you so much for doing this for me.{w=0.2} It means more than you know."
-    m 1eka "Aunque aún no podamos utilizarlas, te agradezco mucho que hayas esto para mí.{w=0.5} Significa mucho más de lo que crees."
+    m 1eka "Aunque aún no podamos utilizarlas, te agradezco mucho que hayas hecho esto para mí.{w=0.5} Significa mucho más de lo que imaginas."
 
 # game/Submods/location_selector/Locatons/Den.rpy:325
 translate spanish bg_room_installed_low_affection_af8da540:
 
     # m 3huu "I love you so much, [player]~"
-    m 3huu "Te amo a montones, [player]."
+    m 3huu "Te quiero a montones, [player]."
 
 # game/Submods/location_selector/Locatons/Den.rpy:347
 translate spanish bg_room_installed_a7602ff6:
 
     # m 1wub "[player]!{w=0.2} Remember those new locations you added for me?{w=0.2} {nw}"
-    m 1wub "¡[player]!{w=0.5} ¿Recuerda aquellas nuevas ubicaciones que has añadido para mí?{w=0.5} {nw}"
+    m 1wub "¡[player]!{w=0.5} ¿Recuerdas aquellas nuevas ubicaciones que has añadido?{w=0.5} {nw}"
 
 # game/Submods/location_selector/Locatons/Den.rpy:348
 translate spanish bg_room_installed_164933f7:
@@ -117,7 +117,7 @@ translate spanish bg_room_installed_164933f7:
 translate spanish bg_room_installed_aa98fc08:
 
     # m 3eua "All you have to do now is go to 'Hey, [m_name]...' in the 'Talk' menu, go to 'Location', and select 'Can we go somewhere else?'"
-    m 3eua "Todo lo que tienes que hacer es dirigirte a 'Hola, [m_name]...' en la sección de menú de 'Diálogo', ir a 'Ubicación' y seleccionar '¿Podemos irnos a otro lugar?'"
+    m 3eua "Todo lo que tienes que hacer es dirigirte a 'Hola, [m_name]...' en la sección de menú de 'Hablar', ir a 'Ubicación' y seleccionar '¿Podemos irnos a otro lugar?'"
 
 # game/Submods/location_selector/Locatons/Den.rpy:350
 translate spanish bg_room_installed_69058ce9:

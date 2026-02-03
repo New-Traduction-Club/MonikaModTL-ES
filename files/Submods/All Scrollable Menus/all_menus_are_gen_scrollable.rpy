@@ -3,7 +3,7 @@ translate spanish strings:
 
     # game/Submods/All Scrollable Menus/all_menus_are_gen_scrollable.rpy:4
     old "A submod which converts all menus to gen-scrollable-menus so Monika's face is never hidden."
-    new "Un submod que convierte a todos los menús en desplazables para evitar que la cara de Monika se oculte."
+    new "Un submod que convierte a todos los menús en desplazables para evitar que Monika se oculte."
 
     # game/Submods/All Scrollable Menus/all_menus_are_gen_scrollable.rpy:58
     old "Use Gen Scrollable Menu"
