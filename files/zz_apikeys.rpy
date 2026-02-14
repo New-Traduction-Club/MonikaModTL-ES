@@ -7,5 +7,5 @@ translate spanish strings:
 
     # game/zz_apikeys.rpy:38
     old "Ok"
-    new "Ok"
+    new "Vale"
 
