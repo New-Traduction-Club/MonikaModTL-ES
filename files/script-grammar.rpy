@@ -1011,3 +1011,7 @@ translate spanish strings:
     old "The Oxford Comma"
     new "La coma de Oxford"
 
+    # game/script-grammar.rpy:49
+    old "grammar tips"
+    new ""
+

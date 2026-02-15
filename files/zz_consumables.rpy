@@ -405,3 +405,7 @@ translate spanish strings:
     old "Are you running out of anything?"
     new "¿Te estás quedando sin algo?"
 
+    # game/zz_consumables.rpy:1822
+    old "supplies"
+    new ""
+

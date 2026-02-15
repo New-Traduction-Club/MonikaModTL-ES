@@ -42,7 +42,7 @@ translate spanish mas_background_change_e162a061:
     m 1eua "Pues... ¡aquí estamos!"
 
 # game/zz_backgrounds.rpy:3435
-translate spanish mas_ background_change_e43af2ef:
+translate spanish mas_background_change_e43af2ef:
 
     # m "Let me know if you want to go somewhere else, okay?"
     m "Sólo házmelo saber si es quieres ir a algún otro lugar, ¿vale?"

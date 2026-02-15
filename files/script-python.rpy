@@ -1289,3 +1289,7 @@ translate spanish strings:
     old "{0} in MAS"
     new "{0} en MAS"
 
+    # game/script-python.rpy:118
+    old "python tips"
+    new ""
+

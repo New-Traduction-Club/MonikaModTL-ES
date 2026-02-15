@@ -81,7 +81,7 @@ translate spanish bg_room_installed_low_affection_b71a03b1_3:
 translate spanish bg_room_installed_low_affection_928fbb79_3:
 
     # m 1eud "If you give me some time, I'm sure I'll figure out how to use what you added.{nw}"
-    m 1eud ""Si me das un tiempo, te aseguro que descifraré cómo usar lo que has añadido.{nw}"
+    m 1eud "Si me das un tiempo, te aseguro que descifraré cómo usar lo que has añadido.{nw}"
 
 # game/Submods/location_selector/Locatons/Furnished_spaceroom3.rpy:340
 translate spanish bg_room_installed_low_affection_14440429_3:
@@ -195,7 +195,7 @@ translate spanish bg_room_installed_6c14d2b2_3:
 translate spanish bg_room_installed_cd1243e3_3:
 
     # m 3eub "I'll add a new category called 'Location' under 'Hey, [m_name]...' so we can put in the furniture and visit the other rooms.{w=.5} I can't wait to try them out!"
-    m 3eub "Voy a añadir una nueva categoría llamada 'Ubicación" debajo de 'Hola, [m_name]...' para que podamos ponerlo en los muebles y visitemos las otras habitaciones-{w=.5} ¡Me muero de ansías por probarlos!"
+    m 3eub "Voy a añadir una nueva categoría llamada 'Ubicación' debajo de 'Hola, [m_name]...' para que podamos ponerlo en los muebles y visitemos las otras habitaciones-{w=.5} ¡Me muero de ansías por probarlos!"
 
 # game/Submods/location_selector/Locatons/Furnished_spaceroom3.rpy:392
 translate spanish bg_room_installed_432b95ff_3:
@@ -231,7 +231,7 @@ translate spanish monika_players_control_override_f95e7fa5_3:
 translate spanish monika_players_control_override_01d16e99_3:
 
     # m 3eka "You could do things that even I can't."
-    m 3eka Puedes hacer más cosas de las que yo ni siquiera podría imaginar.""
+    m 3eka "Puedes hacer más cosas de las que yo ni siquiera podría imaginar."
 
 # game/Submods/location_selector/Locatons/Furnished_spaceroom3.rpy:405
 translate spanish monika_players_control_override_6c225f10_3:

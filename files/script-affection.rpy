@@ -1543,7 +1543,7 @@ translate spanish strings:
 
     # game/script-affection.rpy:3064
     old "Pick the names you'd like me to call you."
-    new ""Escoge los nombres con los que te gustaría que te llame.
+    new "Escoge los nombres con los que te gustaría que te llame."
 
     # game/script-affection.rpy:3071
     old "Deselect the names you don't want me to call you anymore."

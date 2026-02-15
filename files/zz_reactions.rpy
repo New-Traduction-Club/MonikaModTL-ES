@@ -9,7 +9,7 @@ translate spanish mas_reaction_gift_connector_test_a9001fe0:
 translate spanish mas_reaction_gift_connector1_14de3291:
 
     # m 1sublo "Oh! There was something else you wanted to give me?"
-    m 1sublo "¡Oh! ¿Había algo más que querías darme?"""
+    m 1sublo "¡Oh! ¿Había algo más que querías darme?"
 
 # game/zz_reactions.rpy:970
 translate spanish mas_reaction_gift_connector1_997901be:

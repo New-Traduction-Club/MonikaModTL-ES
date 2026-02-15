@@ -1181,3 +1181,7 @@ translate spanish strings:
     old "100 Years"
     new ""
 
+    # game/script-anniversary.rpy:348
+    old "anniversary"
+    new ""
+

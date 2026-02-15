@@ -101,6 +101,36 @@ translate spanish affectionmenu_b1e15d93:
     # "The affection of [persistent._mas_monika_nickname] is [store._mas_getAffection()] points."
     "El afecto de [persistent._mas_monika_nickname] representa [store._mas_getAffection()] puntos."
 
+# game/traduction-club_stuff.rpy:30
+translate spanish notas_a8995553:
+
+    # "Now we can use persistents from Ale, Chloe or Cara's ports!!!"
+    ""
+
+# game/traduction-club_stuff.rpy:37
+translate spanish changelog_ba80fe81:
+
+    # "MAS 0.12.17 | Port v3.1.0"
+    ""
+
+# game/traduction-club_stuff.rpy:38
+translate spanish changelog_ea83a37d:
+
+    # "Port Release 3.1.0: 'I always come back'."
+    ""
+
+# game/traduction-club_stuff.rpy:39
+translate spanish changelog_fe63e116:
+
+    # "Fixed related problems of persistents of another ports, like Cara's port."
+    ""
+
+# game/traduction-club_stuff.rpy:40
+translate spanish changelog_6cfa0be2:
+
+    # "Added a fade in animation to some elements of GUI and improved minor things."
+    ""
+
 translate spanish strings:
 
     # game/traduction-club_stuff.rpy:7
@@ -473,7 +503,7 @@ translate spanish strings:
 
     # game/traduction-club_stuff.rpy:145
     old "Kimono (Pink)"
-    new Kimono (rosa)
+    new "Kimono (rosa)"
 
     # game/traduction-club_stuff.rpy:145
     old "Pullover (Black and White Stripe)"
@@ -658,4 +688,12 @@ translate spanish strings:
     # game/traduction-club_stuff.rpy:925
     old "Please select a language"
     new "Por favor, elige un idioma"
+
+    # game/traduction-club_stuff.rpy:80
+    old "Predefined Sprites"
+    new ""
+
+    # game/traduction-club_stuff.rpy:80
+    old "Sprites gift menu (All posible sprites)"
+    new ""
 

@@ -153,7 +153,7 @@ translate spanish bg_room_installed_low_affection_af8da540_4:
 translate spanish bg_room_installed_a7602ff6_4:
 
     # m 1wub "[player]!{w=0.2} Remember those new locations you added for me?{w=0.2} {nw}"
-    m 1wub ¡[player]!{w=0.5} ¿Recuerda aquellas nuevas ubicaciones que has añadido para mí?{w=0.5} {nw}""
+    m 1wub "¡[player]!{w=0.5} ¿Recuerda aquellas nuevas ubicaciones que has añadido para mí?{w=0.5} {nw}"
 
 # game/Submods/location_selector/Locatons/Furnished_spaceroom4.rpy:424
 translate spanish bg_room_installed_164933f7_4:
@@ -243,7 +243,7 @@ translate spanish bg_room_installed_6c14d2b2_4:
 translate spanish bg_room_installed_cd1243e3_4:
 
     # m 3eub "I'll add a new category called 'Location' under 'Hey, [m_name]...' so we can put in the furniture and visit the other rooms.{w=.5} I can't wait to try them out!"
-    m 3eub "Voy a añadir una nueva categoría llamada 'Ubicación" debajo de 'Hola, [m_name]...' para que podamos ponerlo en los muebles y visitemos las otras habitaciones-{w=.5} ¡Me muero de ansías por probarlos!"
+    m 3eub "Voy a añadir una nueva categoría llamada 'Ubicación' debajo de 'Hola, [m_name]...' para que podamos ponerlo en los muebles y visitemos las otras habitaciones-{w=.5} ¡Me muero de ansías por probarlos!"
 
 # game/Submods/location_selector/Locatons/Furnished_spaceroom4.rpy:451
 translate spanish bg_room_installed_432b95ff_4:
@@ -261,7 +261,7 @@ translate spanish bg_room_installed_fef8e609_4:
 translate spanish monika_players_control_override_246928b0_4:
 
     # m 3eub "[player], did you know that you have more control over this game than I do?"
-    m 3eub [player], ¿sabías que tienes más control sobre el juego que yo?
+    m 3eub "[player], ¿sabías que tienes más control sobre el juego que yo?"
 
 # game/Submods/location_selector/Locatons/Furnished_spaceroom4.rpy:461
 translate spanish monika_players_control_override_2391e7f3_4:
@@ -435,7 +435,8 @@ translate spanish monika_gotomonika_override_34f2f629_4:
 translate spanish monika_gotomonika_override_c01fee32_4:
 
     # m 4wkd "But [player]!"
-    m 4wkd ""¡Pero, [player]!
+
+    m 4wkd "¡Pero, [player]!"
 
 # game/Submods/location_selector/Locatons/Furnished_spaceroom4.rpy:523
 translate spanish monika_gotomonika_override_cbc42849_4:

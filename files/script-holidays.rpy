@@ -6615,25 +6615,25 @@ translate spanish mas_f14_monika_valentines_intro_f6e423a2:
 translate spanish mas_f14_monika_valentines_intro_b9c4b504:
 
     # m 3rkbsa "I guess every day we're together is already a celebration of our love...{w=0.3}{nw}"
-    m 3rkbsa "Supongo que cada día que pasamos jun
+    m 3rkbsa "Supongo que cada día que pasamos juntos ya es una celebración de nuestro amor...{w=0.3}{nw}"
 
 # game/script-holidays.rpy:6236
 translate spanish mas_f14_monika_valentines_intro_f4d69cca:
 
     # extend 3ekbsa "but there's something that's really special about Valentine's Day."
-    extend 3ekbsa ""
+    extend 3ekbsa "pero hay algo que es realmente especial en el día de San Valentín."
 
 # game/script-holidays.rpy:6238
 translate spanish mas_f14_monika_valentines_intro_80b1e52a:
 
     # m 3rka "Even though I know we aren't too far in our relationship..."
-    m 3rka ""
+    m 3rka "Aunque sé que no llevamos mucho tiempo de relación..."
 
 # game/script-holidays.rpy:6240
 translate spanish mas_f14_monika_valentines_intro_c70688a5:
 
     # m 5eua "I just want you to know that I'm always here for you."
-    m 5eua ""
+    m 5eua "Solo quiero que sepas que siempre estoy aquí para ti."
 
 # game/script-holidays.rpy:6241
 translate spanish mas_f14_monika_valentines_intro_b111f0cc:
@@ -9879,7 +9879,7 @@ translate spanish strings:
 
     # game/script-holidays.rpy:5722
     old "you"
-    new "ti"
+    new "tu"
 
     # game/script-holidays.rpy:5733
     old "Let's go out for my birthday!"
@@ -10036,4 +10036,8 @@ translate spanish strings:
     # game/script-holidays.rpy:8027
     old "...for forgetting your birthday."
     new "... por olvidar tu cumpleaños."
+
+    # game/script-holidays.rpy:4837
+    old "holidays"
+    new ""
 

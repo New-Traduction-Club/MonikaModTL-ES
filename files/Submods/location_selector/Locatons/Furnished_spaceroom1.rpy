@@ -194,7 +194,7 @@ translate spanish bg_room_installed_6c14d2b2_1:
 translate spanish bg_room_installed_cd1243e3_1:
 
     # m 3eub "I'll add a new category called 'Location' under 'Hey, [m_name]...' so we can put in the furniture and visit the other rooms.{w=.5} I can't wait to try them out!"
-    m 3eub "Voy a añadir una nueva categoría llamada 'Ubicación" debajo de 'Hola, [m_name]...' para que podamos ponerlo en los muebles y visitemos las otras habitaciones-{w=.5} ¡Me muero de ansías por probarlos!"
+    m 3eub "Voy a añadir una nueva categoría llamada 'Ubicación' debajo de 'Hola, [m_name]...' para que podamos ponerlo en los muebles y visitemos las otras habitaciones-{w=.5} ¡Me muero de ansías por probarlos!"
 
 # game/Submods/location_selector/Locatons/Furnished_spaceroom1.rpy:408
 translate spanish bg_room_installed_432b95ff_1:

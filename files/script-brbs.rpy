@@ -1418,3 +1418,7 @@ translate spanish strings:
     old "I'm going to read"
     new "Voy a leer"
 
+    # game/script-brbs.rpy:233
+    old "be right back"
+    new ""
+

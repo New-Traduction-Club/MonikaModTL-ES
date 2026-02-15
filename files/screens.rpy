@@ -427,10 +427,6 @@ translate spanish strings:
     old "OK"
     new "Vale"
 
-    # game/screens.rpy:2222
-    old "Cancel"
-    new "Cacelar"
-
     # game/screens.rpy:2272
     old "QUIT"
     new "CERRAR"
@@ -546,4 +542,16 @@ translate spanish strings:
     # game/screens.rpy:3285
     old "Paste"
     new "Pegar"
+
+    # game/screens.rpy:1597
+    old "Sunrise  "
+    new ""
+
+    # game/screens.rpy:1606
+    old "Sunset  "
+    new ""
+
+    # game/screens.rpy:1617
+    old "Random Chatter  "
+    new ""
 

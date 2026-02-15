@@ -182,3 +182,75 @@ translate spanish strings:
     old "Which flower would you like me to put in my hair?"
     new "¿Qué flor te gustaría que me pusiera en el pelo?"
 
+# TODO: Translation updated at 2026-02-15 17:02
+
+translate spanish strings:
+
+    # game/zz_selector.rpy:41
+    old "Can you change your choker?"
+    new ""
+
+    # game/zz_selector.rpy:41
+    old "Can you wear a choker?"
+    new ""
+
+    # game/zz_selector.rpy:41
+    old "monika_clothes_select"
+    new ""
+
+    # game/zz_selector.rpy:41
+    old "Can you change your clothes?"
+    new ""
+
+    # game/zz_selector.rpy:41
+    old "Can you change your earrings?"
+    new ""
+
+    # game/zz_selector.rpy:41
+    old "Can you wear earrings?"
+    new ""
+
+    # game/zz_selector.rpy:41
+    old "Can you change your hairstyle?"
+    new ""
+
+    # game/zz_selector.rpy:41
+    old "Can you change your hat?"
+    new ""
+
+    # game/zz_selector.rpy:41
+    old "Can you wear a hat?"
+    new ""
+
+    # game/zz_selector.rpy:41
+    old "Can you change your hairclip?"
+    new ""
+
+    # game/zz_selector.rpy:41
+    old "Can you wear a hairclip?"
+    new ""
+
+    # game/zz_selector.rpy:41
+    old "Can you change the flower in your hair?"
+    new ""
+
+    # game/zz_selector.rpy:41
+    old "Can you wear a flower in your hair?"
+    new ""
+
+    # game/zz_selector.rpy:41
+    old "Can you change your necklace?"
+    new ""
+
+    # game/zz_selector.rpy:41
+    old "Can you wear a necklace?"
+    new ""
+
+    # game/zz_selector.rpy:41
+    old "Can you tie your hair with something else?"
+    new ""
+
+    # game/zz_selector.rpy:3976
+    old "appearance"
+    new ""
+

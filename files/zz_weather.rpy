@@ -77,3 +77,7 @@ translate spanish monika_change_weather_c889c235_1:
     # m 1eua "There we go!"
     m 1eua "¡Ahí va!"
 
+    # game/zz_weather.rpy:1115
+    old "Can you change the weather?"
+    new ""
+
