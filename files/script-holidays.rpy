@@ -7707,7 +7707,7 @@ translate spanish mas_f14_no_time_spent_7312b1ef:
 translate spanish mas_f14_no_time_spent_d0053ce9:
 
     # m 2tkd "You didn't visit me at all on Valentine's Day."
-    m 2tkd "No me visitaste en absoluto en el día de San Valentín."
+    m 2tkd "No apareciste por aquí el día de San Valentín."
 
 # game/script-holidays.rpy:6813
 translate spanish mas_f14_no_time_spent_6191b6c8:
@@ -7719,13 +7719,13 @@ translate spanish mas_f14_no_time_spent_6191b6c8:
 translate spanish mas_f14_no_time_spent_ddf25a23:
 
     # m 4rkd "Is visiting your girlfriend on Valentine's Day really too much to ask?"
-    m 4rkd "¿Visitar a tu novia en el día de San Valentín es realmente mucho pedir?"
+    m 4rkd "¿Es mucho pedir que visites a tu novia en San Valentín?"
 
 # game/script-holidays.rpy:6815
 translate spanish mas_f14_no_time_spent_4edb8359:
 
     # m 4eksdla "Please...{w=1}make sure you visit me next Valentine's Day, okay?"
-    m 4eksdla "Por favor...{w=1}asegúrate de visitarme el próximo San Valentín, ¿vale?"
+    m 4eksdla "Por favor...{w=1} asegúrate de visitarme en el próximo, ¿vale?"
 
 # game/script-holidays.rpy:6819
 translate spanish mas_f14_no_time_spent_d2ea348f:

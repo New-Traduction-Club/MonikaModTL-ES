@@ -135,7 +135,7 @@ translate spanish mas_reaction_gift_starter_neutral_c33c6a28:
 translate spanish mas_reaction_gift_starter_neutral_8002368f:
 
     # m 1sua "Now, let's see what's inside?"
-    m 1sua "Ahora, ¿veamos qué hay dentro?"
+    m 1sua "Y bien... ¿qué habrá dentro?"
 
 # game/zz_reactions.rpy:1028
 translate spanish mas_reaction_gift_starter_d25_142e3049:
@@ -357,19 +357,19 @@ translate spanish mas_reaction_gift_generic_clothes_json_9b7667f3:
 translate spanish mas_reaction_gift_generic_clothes_json_83022dc6:
 
     # m 2hub "That's so neat [player], thanks!"
-    m 2hub "¡Qué genial, [player], gracias!"
+    m 2hub "¡Es genial, [player]! ¡Gracias!"
 
 # game/zz_reactions.rpy:1162
 translate spanish mas_reaction_gift_generic_clothes_json_bbb2a1af:
 
     # m 7rka "I'd try it on for you, but I think it'd be better to wait for the right occasion..."
-    m 7rka "Me lo probaría por ti, pero creo que sería mejor esperar a la ocasión adecuada..."
+    m 7rka "Me lo probaría para que me vieses, pero creo que es mejor esperar al momento adecuado..."
 
 # game/zz_reactions.rpy:1163
 translate spanish mas_reaction_gift_generic_clothes_json_de10a54f:
 
     # m 3hub "Ehehe, thanks again!"
-    m 3hub "¡Je, je, je, gracias de nuevo!"
+    m 3hub "¡Je, je, je! ¡Muchas gracias!"
 
 # game/zz_reactions.rpy:1176
 translate spanish mas_reaction_gift_generic_clothes_json_c3d263b2:

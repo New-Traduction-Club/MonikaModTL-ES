@@ -642,7 +642,7 @@ translate spanish greeting_visit3_f7d00241:
 translate spanish greeting_back5_da83366a:
 
     # m 1hua "It's so good to see you again!"
-    m 1hua "¡Qué bien es verte de nuevo!"
+    m 1hua "¡Qué alegría verte de nuevo!"
 
 # game/script-greetings.rpy:633
 translate spanish greeting_back5_5e2346f7:

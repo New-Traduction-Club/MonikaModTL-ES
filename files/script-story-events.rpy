@@ -3,7 +3,7 @@
 translate spanish mas_gender_43ce0390:
 
     # m 2eud "...[player]? So I've been thinking a bit."
-    m 2eud "... [player]? He estado pensando un poco."
+    m 2eud "Eh... ¿[player]? He estado pensando..."
 
 # game/script-story-events.rpy:23
 translate spanish mas_gender_5167de36:
@@ -21,7 +21,7 @@ translate spanish mas_gender_8536f758:
 translate spanish mas_gender_f5b0b483:
 
     # m 3eksdla "...The main character was, after all."
-    m 3eksdla "... El personaje principal lo era, al fin y al cabo."
+    m 3eksdla "El personaje principal lo era, después de todo."
 
 # game/script-story-events.rpy:26
 translate spanish mas_gender_1e3aa849:
@@ -45,7 +45,7 @@ translate spanish mas_gender_08959710:
 translate spanish mas_gender_77355055:
 
     # m 3eua "Okay [player], thanks for confirming that for me."
-    m 3eua "Vale [player], gracias por confirmármelo."
+    m 3eua "Vale, [player], gracias por confirmármelo."
 
 # game/script-story-events.rpy:37
 translate spanish mas_gender_584c3b31:
@@ -573,7 +573,7 @@ translate spanish mas_birthdate_794ec2fd:
 translate spanish mas_birthdate_4989bc96:
 
     # m 3wud "I don't actually know when your birthdate is!"
-    m 3wud "¡En realidad no sé cuándo es tu fecha de nacimiento!"
+    m 3wud "¡Es que no sé cuándo es tu cumpleaños!"
 
 # game/script-story-events.rpy:709
 translate spanish mas_birthdate_6064531d:
@@ -2223,13 +2223,13 @@ translate spanish mas_bday_player_bday_select_select_7dacbf91:
 translate spanish mas_bday_player_bday_select_select_528cde61:
 
     # m "Your birthdate is [new_bday_str]?{nw}"
-    m "¿Tu fecha de nacimiento es el [new_bday_str]?{nw}"
+    m "¿Tu cumpleaños es el [new_bday_str]?{nw}"
 
 # game/script-story-events.rpy:1953
 translate spanish mas_bday_player_bday_select_select_beb28d18:
 
     # m "Your birthdate is [new_bday_str]?{fast}" nointeract
-    m "¿Tu fecha de nacimiento es el [new_bday_str]?{fast}" nointeract
+    m "¿Tu cumpleaños es el [new_bday_str]?{fast}" nointeract
 
 # game/script-story-events.rpy:1955
 translate spanish mas_bday_player_bday_select_select_e0d838f4:
