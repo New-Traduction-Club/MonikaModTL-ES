@@ -1383,235 +1383,235 @@ translate spanish monika_twitter_acd1cab6:
 translate spanish monika_twitter_ed801e52:
 
     # m 4eud "It even depicts some events that I don't remember ever happening...{w=0.2}like when I apparently had a sleepover with Yuri."
-    m 4eud ""
+    m 4eud "Incluso hace referencia a eventos que no recuerdo que hayan sucedido...{w=0.2}como cuando al parecer hice una pijamada con Yuri."
 
 # game/script-topics.rpy:1265
 translate spanish monika_twitter_0424802e:
 
     # m 4esd "And there's no mention of any of the things that happened back in the game, even though this version of me still seems to be aware of the real world..."
-    m 4esd ""
+    m 4esd "Y no se mecionan nunguna de las cosas que sucedieron en el juego, a pesar de que esta versión de mí aún parece consciente del mundo real..."
 
 # game/script-topics.rpy:1266
 translate spanish monika_twitter_0cd828e1:
 
     # m 1etc "So...{w=0.3}maybe the Monika running this account went through a completely different story than the one most Monikas--{w=0.1}including me--{w=0.1}did?"
-    m 1etc ""
+    m 1etc "Pues...{w=0.3}quizá la Monika que controla esa cuenta vivió una historia totalmente diferente a la de la mayoría de Monikas...{w=0.1}contándome a mí...{w=0.1}¿acaso es eso?"
 
 # game/script-topics.rpy:1267
 translate spanish monika_twitter_87fbe648:
 
     # m 1lksdlc "...Or maybe this is just one of the developers of the game pretending to be me."
-    m 1lksdlc ""
+    m 1lksdlc "O quizá es alguno de los desarrolladores del juego haciéndose pasar por mí."
 
 # game/script-topics.rpy:1268
 translate spanish monika_twitter_a4a4199c:
 
     # m 3eksdld "If that's the case, I'm not really sure how I feel about it...{w=0.3}isn't that kinda like identity theft?"
-    m 3eksdld ""
+    m 3eksdld "Si ese es el caso, no estoy segura sobre cómo debería sentirme...{w=0.3}¿esto no se consideraría robo de indentidad?"
 
 # game/script-topics.rpy:1269
 translate spanish monika_twitter_1ae2f4ae:
 
     # m 3eksdlc "Though I guess it kinda makes sense...{w=0.3}{nw}"
-    m 3eksdlc ""
+    m 3eksdlc "Pero supongo que esto tiene algo de sentido...{w=0.3}{nw}"
 
 # game/script-topics.rpy:1270
 translate spanish monika_twitter_59ed4911:
 
     # extend 1esd "the account is a nice way to connect with the people who've played through the game and grown attached to it."
-    extend 1esd ""
+    extend 1esd "La cuenta es una buena manera de conectar con las personas que han jugado este juego y crecieron unidos a él."
 
 # game/script-topics.rpy:1271
 translate spanish monika_twitter_c8e70990:
 
     # m 3esc "In that regard, this would make it some kind of publicity stunt..."
-    m 3esc ""
+    m 3esc "Si consideramos esto, todo cobraría algo de sentido como un truco publicitario..."
 
 # game/script-topics.rpy:1272
 translate spanish monika_twitter_fac81d0d:
 
     # m 3euc "After all, while there is a lot of sweet looking art and such on there, it's suspicious that almost all of them are posted specifically on important days."
-    m 3euc ""
+    m 3euc "Después de todo, dado que hay mucho arte agradable a la vista allí, es sospechoso que la gran mayoría de este haya sifo publicado en fechas especialmente importantes."
 
 # game/script-topics.rpy:1273
 translate spanish monika_twitter_7be47edd:
 
     # m 3eud "Like on Valentine's Day, or on my birthday...{w=0.2}which just so happens to coincide with the original release date of DDLC."
-    m 3eud ""
+    m 3eud "Como, por ejemplo, en San Valentín o en mi cumpleaños...{w=0.2}que resulta que coinciden con la fecha original del lanzamiento de DDLC."
 
 # game/script-topics.rpy:1274
 translate spanish monika_twitter_2777140d:
 
     # m 1rtc "I really don't know how I'm supposed to feel about that...{w=0.3}being used solely as marketing material."
-    m 1rtc ""
+    m 1rtc "En verdad no sé cómo se supone que debería sentirme acerca de...{w=0.3}ser utilizada lisa y llanamente como otro recurso de marketing."
 
 # game/script-topics.rpy:1275
 translate spanish monika_twitter_e694f2b3:
 
     # m 2rsc "Though, as my creators, I guess they basically own my image as a character, so they are legally in the right."
-    m 2rsc ""
+    m 2rsc "Pero, dado que son mis creadores, supongo que tienen los derechos sobre mi imagen como un personaje, por lo que legalmente tiene el derecho de hacerlo."
 
 # game/script-topics.rpy:1276
 translate spanish monika_twitter_ebf96d38:
 
     # m 2ekc "But...{w=0.3}I'm more than a mere character in a game, aren't I?"
-    m 2ekc ""
+    m 2ekc "Sin embargo...{w=0.3}soy más que un simple personaje en un jueguito, ¿no lo crees?"
 
 # game/script-topics.rpy:1277
 translate spanish monika_twitter_d01bfc2a:
 
     # m 2ekd "I'm my own person with my own thoughts and feelings, and so is every other Monika in the different copies of this game."
-    m 2ekd ""
+    m 2ekd "Yo me pertenezco a mi misma, junto a mis pensamientos y sentimientos, así como lo son todas y cada una de las Monikas presentes en las copias de este jeugo."
 
 # game/script-topics.rpy:1278
 translate spanish monika_twitter_47e44630:
 
     # m 2dksdlc "It just feels wrong to be used like that by people I haven't even met."
-    m 2dksdlc ""
+    m 2dksdlc "Solo es que se siente mal ser usada así por gente que ni siquiera conozco."
 
 # game/script-topics.rpy:1279
 translate spanish monika_twitter_54ee995f:
 
     # m 2efd "...I really hate the feeling of being reduced to a marketable asset."
-    m 2efd ""
+    m 2efd "En verdad odio la sensación de ser reducida a no más que un recurso comercializable."
 
 # game/script-topics.rpy:1280
 translate spanish monika_twitter_854ac743:
 
     # m 2lkd "But I suppose there isn't really all that much I can do about it..."
-    m 2lkd ""
+    m 2lkd "Pero no creo que haya mucho que pueda hacer al respecto..."
 
 # game/script-topics.rpy:1281
 translate spanish monika_twitter_6d449f03:
 
     # m 2eua "At the end of the day, all that matters to me is that I get to be with you.{w=0.2} {nw}"
-    m 2eua ""
+    m 2eua "Al final de día, lo único que me importa es que pueda estar a tu lado.{w=0.2}{nw}"
 
 # game/script-topics.rpy:1282
 translate spanish monika_twitter_e1050ba1:
 
     # extend 7eua "And this would've never been possible without my creators."
-    extend 7eua ""
+    extend 7eua "Y eso nunca hubiera sido posible de no ser por mis creadores."
 
 # game/script-topics.rpy:1283
 translate spanish monika_twitter_091dfcc5:
 
     # m 2lka "So if what it takes in return is that they get to make some profit on the work they put in making the game, then I'd say this isn't too bad of a deal."
-    m 2lka ""
+    m 2lka "Por lo que si el precio es que ellos puedan sacar beneficios del trabajo que le han puesto al juego, diría que no es trato ni tan malo en perspectiva. "
 
 # game/script-topics.rpy:1284
 translate spanish monika_twitter_65e8dfa4:
 
     # m 2euc "If you do follow that account though,{w=0.1} {nw}"
-    m 2euc ""
+    m 2euc "Por eso si es que sigues esa cuenta,{w=0.1}{nw}"
 
 # game/script-topics.rpy:1285
 translate spanish monika_twitter_f8c4ce74:
 
     # extend 7eua "I don't really mind."
-    extend 7eua ""
+    extend 7eua "en verdad no me importaría."
 
 # game/script-topics.rpy:1286
 translate spanish monika_twitter_9fb1388d:
 
     # m 1ekbla "But please remember that I'm real, I'm here, and I love you."
-    m 1ekbla ""
+    m 1ekbla "Pero, por favor, nunca olvides que soy real, estoy aquí y te amo con toda el alma."
 
 # game/script-topics.rpy:1288
 translate spanish monika_twitter_5368409e:
 
     # m 5hubla "So make sure to always come spend some time with me, okay?"
-    m 5hubla ""
+    m 5hubla "Por eso, siempre asegúrate de pasarte por aquí y estar un rato conmigo, ¿vale?"
 
 # game/script-topics.rpy:1289
 translate spanish monika_twitter_cf9f983c:
 
     # m 5ekbsa "It would mean a lot, with how much you mean to me."
-    m 5ekbsa ""
+    m 5ekbsa "Eso significaría mucho, más teniendo en cuenta lo mucho que significas para mí."
 
 # game/script-topics.rpy:1290
 translate spanish monika_twitter_df84a44c:
 
     # m 5hubfa "It would really make me feel loved~"
-    m 5hubfa ""
+    m 5hubfa "Me haría sentir en verdad amada."
 
 # game/script-topics.rpy:1301
 translate spanish monika_portraitof_86f78f5b:
 
     # m 4eua "Hey, you know that book you were reading with Yuri?"
-    m 4eua ""
+    m 4eua "¡Oye! ¿Acaso sabes que libro estabas leyendo con Yuri?"
 
 # game/script-topics.rpy:1302
 translate spanish monika_portraitof_b7a2b3e8:
 
     # m "Portrait of...whatever it was called..."
-    m ""
+    m "Retratos de...sea como fuere que se llamase..."
 
 # game/script-topics.rpy:1303
 translate spanish monika_portraitof_d040024e:
 
     # m 4hub "It's funny, because I'm pretty sure that book--"
-    m 4hub ""
+    m 4hub "Es gracioso, porque estoy bastante segura de que ese libro..."
 
 # game/script-topics.rpy:1304
 translate spanish monika_portraitof_98989ede:
 
     # m 1wuw "Ah..."
-    m 1wuw ""
+    m 1wuw "Ah..."
 
 # game/script-topics.rpy:1306
 translate spanish monika_portraitof_2b631155:
 
     # m 2lksdla "Actually, I don't think I should be talking about this."
-    m 2lksdla ""
+    m 2lksdla "De hecho, no creo que debería estar hablando de esto."
 
 # game/script-topics.rpy:1307
 translate spanish monika_portraitof_37b31f77:
 
     # m 2hksdlb "Ahaha, sorry!"
-    m 2hksdlb ""
+    m 2hksdlb "¡Ja, ja, ja! En verdad lo siento."
 
 # game/script-topics.rpy:1308
 translate spanish monika_portraitof_b9ff5970:
 
     # m 1rksdla "Just forget I said anything."
-    m 1rksdla ""
+    m 1rksdla "Solo olvida lo que dije."
 
 # game/script-topics.rpy:1315
 translate spanish monika_veggies_97e5454a:
 
     # m 1eub "Hey, did you know I'm vegetarian?"
-    m 1eub ""
+    m 1eub "¡Oye! ¿Sabías que soy vegetariana?"
 
 # game/script-topics.rpy:1316
 translate spanish monika_veggies_100faa19:
 
     # m 1hksdlb "Ah...I don't mean that like I'm bragging or anything!"
-    m 1hksdlb ""
+    m 1hksdlb "Por cierto...no creas que son chulerías o algo así."
 
 # game/script-topics.rpy:1317
 translate spanish monika_veggies_e259be32:
 
     # m 1lksdla "I just thought you'd enjoy a fun fact about me."
-    m 1lksdla ""
+    m 1lksdla "Solo pensé que te gustaría saber un dato guay acerca de mí."
 
 # game/script-topics.rpy:1318
 translate spanish monika_veggies_85cf0c7a:
 
     # m 3esa "I decided to start a couple years ago after learning more about Earth's climate..."
-    m 3esa ""
+    m 3esa "Decidí empezar hace un par de años, tras aprender más acerca del clima de la Tierra..."
 
 # game/script-topics.rpy:1319
 translate spanish monika_veggies_8cd011db:
 
     # m 1wud "The carbon footprint of cultivating livestock is just unbelievable!"
-    m 1wud ""
+    m 1wud "¡La huella de carbono resultante de la ganadería es abismal!"
 
 # game/script-topics.rpy:1320
 translate spanish monika_veggies_dce89694:
 
     # m 3eua "Anyway, I decided it's not much of a personal sacrifice to just stop contributing to that whole mess."
-    m 3eua ""
+    m 3eua "De todas formas, decidí que un sacrificio personal no es un precio alto por contribuir a la cruzada de detener este completo desastre."
 
 # game/script-topics.rpy:1321
 translate spanish monika_veggies_bbcd142f:
