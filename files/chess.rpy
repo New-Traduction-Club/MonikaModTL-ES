@@ -1228,11 +1228,11 @@ translate spanish strings:
 
     # game/chess.rpy:871
     old "Casual Rules"
-    new ""
+    new "Reglas Casuales"
 
     # game/chess.rpy:871
     old "Traditional Rules"
-    new "Reglas Clásicas."
+    new "Reglas Clásicas"
 
     # game/chess.rpy:871
     old "What's the difference?"

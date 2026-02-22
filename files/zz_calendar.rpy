@@ -175,7 +175,7 @@ translate spanish strings:
 
     # game/zz_calendar.rpy:1130
     old "libra"
-    new ""
+    new "libra"
 
     # game/zz_calendar.rpy:1130
     old "scorpio"

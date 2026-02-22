@@ -1071,7 +1071,7 @@ translate spanish monika_impression_1cfcd543:
 translate spanish monika_impression_d7d29c2e:
 
     # m "Who should I do an impression of?{fast}" nointeract
-    m "" nointeract
+    m "¿A quién debería imitar?{fast}" nointeract
 
 # game/script-topics.rpy:5281
 translate spanish monika_impression_aee3d749:
@@ -1245,7 +1245,7 @@ translate spanish monika_impression_3f10da90:
 translate spanish monika_impression_28a15692:
 
     # m 1duu "..."
-    m 1duu ""
+    m 1duu "..."
 
 # game/script-topics.rpy:5321
 translate spanish monika_impression_83f8e8da:

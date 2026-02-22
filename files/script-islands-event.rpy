@@ -45,7 +45,7 @@ translate spanish mas_monika_islands_progress_e33fc90d:
 translate spanish mas_monika_islands_progress_03f838b4:
 
     # m "What do you say?{fast}" nointeract
-    m "" nointeract
+    m "¿Qué me dices?{fast}" nointeract
 
 # game/script-islands-event.rpy:2043
 translate spanish mas_monika_islands_progress_4c528d79:

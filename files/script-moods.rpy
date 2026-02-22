@@ -99,7 +99,7 @@ translate spanish mas_mood_sad_d526cd2a:
 translate spanish mas_mood_sad_f90a2c33:
 
     # m "Are you having a bad day, [player]?{fast}" nointeract
-    m "" nointeract
+    m "¿Estás teniendo un mal día, [player]?{fast}" nointeract
 
 # game/script-moods.rpy:153
 translate spanish mas_mood_sad_f3338ee6:
@@ -159,7 +159,7 @@ translate spanish mas_mood_sad_74bd46d0:
 translate spanish mas_mood_sad_a6fe61bd:
 
     # m "I don't want to interrupt you while you're talking, so let me know when you're done.{fast}" nointeract
-    m "" nointeract
+    m "No quiero interrumpirte mientras hablas, así que avísame cuando acabes.{fast}" nointeract
 
 # game/script-moods.rpy:168
 translate spanish mas_mood_sad_9dcfa700:
@@ -171,7 +171,7 @@ translate spanish mas_mood_sad_9dcfa700:
 translate spanish mas_mood_sad_cf6fdad3:
 
     # m "Do you feel a little better now, [player]?{fast}" nointeract
-    m "" nointeract
+    m "¿Te sientes un poco mejor ahora, [player]?{fast}" nointeract
 
 # game/script-moods.rpy:173
 translate spanish mas_mood_sad_c7a8700f:
@@ -237,7 +237,7 @@ translate spanish mas_mood_proud_93104c48:
 translate spanish mas_mood_proud_37e19b0f:
 
     # m "Was it a major accomplishment, or a minor one?{fast}" nointeract
-    m "" nointeract
+    m "¿Ha sido un logro importante o uno pequeñito?{fast}" nointeract
 
 # game/script-moods.rpy:203
 translate spanish mas_mood_proud_da9462d4:
@@ -459,7 +459,7 @@ translate spanish mas_mood_sick_ask_will_rest_cc9e820d:
 translate spanish mas_mood_sick_ask_will_rest_29634581:
 
     # m "Will you do that for me?{fast}" nointeract
-    m "" nointeract
+    m "¿Harás eso por mí?{fast}" nointeract
 
 # game/script-moods.rpy:300
 translate spanish mas_mood_tired_21a2b84e:
@@ -1563,7 +1563,7 @@ translate spanish mas_mood_bored_29daf376:
 translate spanish mas_mood_bored_da6f5fe6:
 
     # m "Do I really bore you that much, [player]?{fast}" nointeract
-    m "" nointeract
+    m "¿De verdad te aburro tanto, [player]?{fast}" nointeract
 
 # game/script-moods.rpy:628
 translate spanish mas_mood_bored_0aa02120:
@@ -1659,7 +1659,7 @@ translate spanish mas_mood_bored_d882a148:
 translate spanish mas_mood_bored_82fdc2ae:
 
     # m "What do you say, [chosen_nickname]?{fast}" nointeract
-    m "" nointeract
+    m "¿Qué me dices, [chosen_nickname]?{fast}" nointeract
 
 # game/script-moods.rpy:690
 translate spanish mas_mood_bored_d26879ea:
@@ -1731,7 +1731,7 @@ translate spanish mas_mood_crying_cef5c576:
 translate spanish mas_mood_crying_d0ebb468:
 
     # m "Are you okay?{fast}" nointeract
-    m "" nointeract
+    m "¿Estás bien?{fast}" nointeract
 
 # game/script-moods.rpy:724
 translate spanish mas_mood_crying_3be1087d:
@@ -1821,7 +1821,7 @@ translate spanish mas_mood_uok_385eb847:
 translate spanish mas_mood_uok_7c3856cb:
 
     # m "So if you need to talk about something, I'm right here.{fast}" nointeract
-    m "" nointeract
+    m "Así que si necesitas hablar de algo, estoy justo aquí.{fast}" nointeract
 
 # game/script-moods.rpy:754
 translate spanish mas_mood_uok_1a67848d:
@@ -1839,7 +1839,7 @@ translate spanish mas_mood_uok_25ea7a9c:
 translate spanish mas_mood_uok_8b1f733d:
 
     # m "I'm here for you.{fast}" nointeract
-    m "" nointeract
+    m "Estoy aquí para ti.{fast}" nointeract
 
 # game/script-moods.rpy:762
 translate spanish mas_mood_uok_fe46e7f6:
@@ -1983,7 +1983,7 @@ translate spanish mas_mood_relieved_9cb7363b:
 translate spanish mas_mood_relieved_40819f71:
 
     # m "What happened, [chosen_nickname]?{fast}" nointeract
-    m "" nointeract
+    m "¿Qué ha pasado, [chosen_nickname]?{fast}" nointeract
 
 # game/script-moods.rpy:820
 translate spanish mas_mood_relieved_3d565656:
@@ -2103,7 +2103,7 @@ translate spanish mas_mood_excited_e7c847c3:
 translate spanish mas_mood_excited_3b6cbf4e:
 
     # m "What are you excited about, is it something big?{fast}" nointeract
-    m "" nointeract
+    m "¿Qué es lo que te emociona?{w=0.1} ¿Es algo importante?{fast}" nointeract
 
 # game/script-moods.rpy:862
 translate spanish mas_mood_excited_4a4b3209:
@@ -2277,7 +2277,7 @@ translate spanish mas_mood_grateful_a0c50c46:
 translate spanish mas_mood_grateful_7948c335:
 
     # m "What are you grateful for, [chosen_nickname]?{fast}" nointeract
-    m "" nointeract
+    m "¿Por qué estás agradecid[end_letter_gender], [chosen_nickname]?{fast}" nointeract
 
 # game/script-moods.rpy:921
 translate spanish mas_mood_grateful_d6de0489:
