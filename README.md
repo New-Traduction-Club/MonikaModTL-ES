@@ -4,9 +4,9 @@ Repositorio para llevar a cabo la traducción al español y port para Android de
 
 ## Progreso
 <!-- PROGRESO_TRADUCCION_START -->
-**17414 de 20849 líneas traducidas**
+**17747 de 20849 líneas traducidas**
 
-**Progreso:** 83.52%
+**Progreso:** 85.12%
 <!-- PROGRESO_TRADUCCION_END -->
 
 ## Créditos
