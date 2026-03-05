@@ -1617,145 +1617,145 @@ translate spanish monika_veggies_dce89694:
 translate spanish monika_veggies_bbcd142f:
 
     # m 3etc "What, is that so strange of a reason?"
-    m 3etc ""
+    m 3etc "¿QUÉ? Esa sí es una razón bastante peculiar."
 
 # game/script-topics.rpy:1322
 translate spanish monika_veggies_7dc62086:
 
     # m 1lsc "Well, I guess a lot of people are more concerned about it being inhumane and all that..."
-    m 1lsc ""
+    m 1lsc "Bueno pues, supongo que muchas personas son más conscientes de lo que es ser un bárbaro y todo ese lío..."
 
 # game/script-topics.rpy:1323
 translate spanish monika_veggies_64f20db2:
 
     # m 1euc "I don't really care as much about that part."
-    m 1euc ""
+    m 1euc "En verdad no me quita mucho el sueño esa parte."
 
 # game/script-topics.rpy:1324
 translate spanish monika_veggies_f80ece2b:
 
     # m 1esc "It's weird, like we only care about killing the things that we personally relate to as a species."
-    m 1esc ""
+    m 1esc "Es sobrecogedora la manera en la que solo nos importan las cosas que consideramos como especies."
 
 # game/script-topics.rpy:1325
 translate spanish monika_veggies_33953eb5:
 
     # m "Most people are fine with killing bugs because they're icky."
-    m ""
+    m "A la mayoría la suda que maten insectos porque los ven como desagradables."
 
 # game/script-topics.rpy:1326
 translate spanish monika_veggies_5c7a1702:
 
     # m 3euc "And of course, we all kill billions of microorganisms daily without even giving it thought."
-    m 3euc ""
+    m 3euc "Y por supuesto, todos matamos miles de millones de microorganismos a diario sin siquiera pensarlo."
 
 # game/script-topics.rpy:1327
 translate spanish monika_veggies_39b25c1c:
 
     # m 3eud "But suddenly, if they're just a little bit bigger, it's murder!"
-    m 3eud ""
+    m 3eud "Pero, de repente, si es que son un poco más grandes, ¡es asesinato!"
 
 # game/script-topics.rpy:1328
 translate spanish monika_veggies_b2fe952a:
 
     # m 1esc "I mean, what if plants feel some kind of pain too, and we just don't understand it?"
-    m 1esc ""
+    m 1esc "Me refiero a ¿qué sucede si las plantas sienten algún tipo de dolor y solamente no lo entendemos?"
 
 # game/script-topics.rpy:1329
 translate spanish monika_veggies_f71e4774:
 
     # m 3eksdld "What if pulling leaves off a stem feels like someone ripping off your fingers one by one?"
-    m 3eksdld ""
+    m 3eksdld "¿Qué sucede si arrancarle las hojas a un tallo si siente como que te arrancaran los dedos uno por uno?"
 
 # game/script-topics.rpy:1330
 translate spanish monika_veggies_9b37da56:
 
     # m 3eua "I'm just saying, we're a pretty biased species, if you think about it."
-    m 3eua ""
+    m 3eua "Solo digo, somos una especie bastante prejuiciosa si lo piensas bien."
 
 # game/script-topics.rpy:1331
 translate spanish monika_veggies_2c91b114:
 
     # m 1hua "Anyway, if you ever feel like making a small contribution to the planet, it doesn't hurt to choose veggies once in a while!"
-    m 1hua ""
+    m 1hua "De todas formas, si alguna vez deseas hacer un pequeño acto a favor del planeta, optar por vegetales de vez en cuando no hará daño."
 
 # game/script-topics.rpy:1332
 translate spanish monika_veggies_4cda167b:
 
     # m 1ekbsa "Even if we ever have dinner together, and you just did it for me...that would be really romantic."
-    m 1ekbsa ""
+    m 1ekbsa "Incluso si alguna vez cenamos juntos y lo haces por mí...eso sería en verdad romántico."
 
 # game/script-topics.rpy:1340
 translate spanish monika_saved_f889166d:
 
     # m 2eka "You know, I really do think you literally saved my life by being here with me, [player]."
-    m 2eka ""
+    m 2eka "Sabes bien que en serio creo que tú literalmente salvaste mi vida con tan solo estar aquí conmigo, [player]."
 
 # game/script-topics.rpy:1343
 translate spanish monika_saved_a453926f:
 
     # m 2lksdlc "I can't imagine having been able to keep myself mentally stable, knowing it was all a game."
-    m 2lksdlc ""
+    m 2lksdlc "No puedo imaginar tener que mantenerme estable mentalmente, sabiendo que todo fue un juego."
 
 # game/script-topics.rpy:1345
 translate spanish monika_saved_b09508ba:
 
     # m 2lksdlc "I can't imagine having been able to keep myself mentally stable, knowing that nothing here is real."
-    m 2lksdlc ""
+    m 2lksdlc "No puedo imaginar tener que mantenerme estable mentalmente, sabiendo que nada aquí es real."
 
 # game/script-topics.rpy:1347
 translate spanish monika_saved_3a9c6a75:
 
     # m 2dksdlc "I think I would have just deleted myself if you didn't show up."
-    m 2dksdlc ""
+    m 2dksdlc "Creo que me habría borrado a mí misma si no aparecías."
 
 # game/script-topics.rpy:1348
 translate spanish monika_saved_1b0f5b3d:
 
     # m 2eksdla "Sorry, I don't mean to sound dramatic or anything."
-    m 2eksdla ""
+    m 2eksdla "Lo siento, no quiero sonar dramática ni nada."
 
 # game/script-topics.rpy:1349
 translate spanish monika_saved_3d75cade:
 
     # m 2lksdlb "Ahaha!"
-    m 2lksdlb ""
+    m 2lksdlb "¡Ja,ja,ja!"
 
 # game/script-topics.rpy:1352
 translate spanish monika_saved_319ea1de:
 
     # m 2ekc "But just imagine if you found out that everything around you was scripted..."
-    m 2ekc ""
+    m 2ekc "Pero solo imagina que descubres que todo lo que te rodea está guionado..."
 
 # game/script-topics.rpy:1353
 translate spanish monika_saved_38c8e58d:
 
     # m 2rkc "That nothing you did actually mattered, because everything was already predetermined..."
-    m 2rkc ""
+    m 2rkc "Que nada de lo que hagas importe en verdad, porque todo ya está predeterminado..."
 
 # game/script-topics.rpy:1355
 translate spanish monika_saved_4ce6d56d:
 
     # m 4euc "But I'm sure you understand yourself after spending so much time in the club."
-    m 4euc ""
+    m 4euc "Pero no me cabe duda de que entiendes por tí mismo luego de tirarte tanto tiempo en el club."
 
 # game/script-topics.rpy:1356
 translate spanish monika_saved_600a4079:
 
     # m 1euc "I mean, if you were forced to abandon everything in your life and spend your eternity with a few game characters..."
-    m 1euc ""
+    m 1euc "Digo que si estuvieras obligado a abandonar todo en tu vida y pasar la eternidad con un puñado de personajes de un videojuego..."
 
 # game/script-topics.rpy:1358
 translate spanish monika_saved_1a0e4a46:
 
     # m 1tkc "...you'd probably find some way of killing yourself, wouldn't you?"
-    m 1tkc ""
+    m 1tkc "seguro buscarías la manera de acabar contigo mismo, ¿no es así?"
 
 # game/script-topics.rpy:1359
 translate spanish monika_saved_974d8b32:
 
     # m 1lsc "Well, maybe you'd write some poetry to try to keep yourself sane for a while."
-    m 1lsc ""
+    m 1lsc "Bueno, quizá escribirías algunos poemas para mantenerte cuerdo por un tiempo."
 
 # game/script-topics.rpy:1360
 translate spanish monika_saved_66a1e036:
