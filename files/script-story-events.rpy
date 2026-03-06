@@ -3928,8 +3928,8 @@ translate spanish strings:
     new "un número de dos dígitos. "
 
     # game/script-story-events.rpy:1558
-    old "You can find all of them at \""
-    new "Puedes encontrarlas todas en \""
+    old 'You can find all of them at \"'
+    new 'Puedes encontrarlas todas en \"'
 
     # game/script-story-events.rpy:1584
     old "However, some of your backups were corrupted as well. "
@@ -3948,8 +3948,8 @@ translate spanish strings:
     new "Aquí tienes una lista de los archivos que estaban corruptos:"
 
     # game/script-story-events.rpy:1584
-    old "You can find these in \""
-    new "Puedes encontrarlos en \""
+    old 'You can find these in \"'
+    new 'Puedes encontrarlos en \"'
 
     # game/script-story-events.rpy:1584
     old "\". "

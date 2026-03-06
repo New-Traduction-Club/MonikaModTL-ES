@@ -866,7 +866,7 @@ translate spanish monika_meta_06669c3d:
 translate spanish monika_meta_aaccbf8a:
 
     # m 3eub "It'd be, 'Don't ignore the pretty and charming side character!'"
-    m 3eub "Sería: \"¡No ignores al personaje secundario guapo y encantador!\""
+    m 3eub 'Sería: \"¡No ignores al personaje secundario guapo y encantador!\"'
 
 # game/script-topics.rpy:3484
 translate spanish monika_meta_3772217d:

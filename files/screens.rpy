@@ -545,13 +545,13 @@ translate spanish strings:
 
     # game/screens.rpy:1597
     old "Sunrise  "
-    new ""
+    new "Amanecer  "
 
     # game/screens.rpy:1606
     old "Sunset  "
-    new ""
+    new "Atardecer  "
 
     # game/screens.rpy:1617
     old "Random Chatter  "
-    new ""
+    new "Charla aleatoria  "
 

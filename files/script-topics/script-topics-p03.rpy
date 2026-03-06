@@ -1827,7 +1827,7 @@ translate spanish monika_debate_084ec79d:
 translate spanish monika_debate_db93ea3b:
 
     # m 1esa "If you say 'I read on this website that it works like this...'"
-    m 1esa "Si dices \"Leí en esta web que funciona así...\""
+    m 1esa 'Si dices \"Leí en esta web que funciona así...\"'
 
 # game/script-topics.rpy:3116
 translate spanish monika_debate_595eb640:

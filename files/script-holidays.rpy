@@ -10039,5 +10039,5 @@ translate spanish strings:
 
     # game/script-holidays.rpy:4837
     old "holidays"
-    new ""
+    new "festividades"
 

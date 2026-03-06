@@ -407,5 +407,5 @@ translate spanish strings:
 
     # game/zz_consumables.rpy:1822
     old "supplies"
-    new ""
+    new "surtido"
 

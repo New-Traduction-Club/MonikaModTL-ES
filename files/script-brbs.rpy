@@ -1420,5 +1420,5 @@ translate spanish strings:
 
     # game/script-brbs.rpy:233
     old "be right back"
-    new ""
+    new "vuelvo enseguida"
 

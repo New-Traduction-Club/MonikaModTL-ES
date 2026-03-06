@@ -80,5 +80,5 @@ translate spanish monika_change_weather_c889c235_1:
 translate spanish strings:
     # game/zz_weather.rpy:1115
     old "Can you change the weather?"
-    new ""
+    new "¿Puedes cambiar el tiempo?"
 

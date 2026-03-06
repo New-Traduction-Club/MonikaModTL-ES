@@ -1013,5 +1013,5 @@ translate spanish strings:
 
     # game/script-grammar.rpy:49
     old "grammar tips"
-    new ""
+    new "consejos de gramática"
 

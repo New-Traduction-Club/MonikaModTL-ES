@@ -428,7 +428,7 @@ translate spanish monika_stargazing_99d9fc12:
 # game/script-topics.rpy:17876
 translate spanish monika_stargazing_cbb6ba38:
 
-    # extend 5kkbsa ""
+    # extend 5kkbsa " "
     extend 5kkbsa " "
 
 # game/script-topics.rpy:17896

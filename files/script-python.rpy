@@ -1262,8 +1262,8 @@ translate spanish strings:
     new "Literales"
 
     # game/script-python.rpy:767
-    old "\"this is a string\""
-    new "\"esto es un string\""
+    old '\"this is a string\"'
+    new '\"esto es un string\"'
 
     # game/script-python.rpy:768
     old "'this is another string'"
@@ -1291,5 +1291,5 @@ translate spanish strings:
 
     # game/script-python.rpy:118
     old "python tips"
-    new ""
+    new "consejos de Python"
 

@@ -639,7 +639,7 @@ translate spanish monika_every_rose_960c1a93:
 translate spanish monika_every_rose_1b3f996c:
 
     # m 4rfc "With me being the punchline of the sick joke this game was meant to be..."
-    m 4rfc ""
+    m 4rfc "Siendo yo el remate de la broma de mal gusto que se suponía que era este juego..."
 
 # game/script-affection.rpy:3219
 translate spanish monika_every_rose_54ed49fe:
