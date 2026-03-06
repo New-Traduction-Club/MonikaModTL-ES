@@ -188,69 +188,69 @@ translate spanish strings:
 
     # game/zz_selector.rpy:41
     old "Can you change your choker?"
-    new ""
+    new "¿Puedes cambiar de gargantilla?"
 
     # game/zz_selector.rpy:41
     old "Can you wear a choker?"
-    new ""
+    new "¿Puedes ponerte una gargantilla?"
 
     # game/zz_selector.rpy:41
     old "monika_clothes_select"
-    new ""
+    new "monika_clothes_select"
 
     # game/zz_selector.rpy:41
     old "Can you change your clothes?"
-    new ""
+    new "¿Puedes cambiarte de ropa?"
 
     # game/zz_selector.rpy:41
     old "Can you change your earrings?"
-    new ""
+    new "¿Puedes cambiarte los pendientes?"
 
     # game/zz_selector.rpy:41
     old "Can you wear earrings?"
-    new ""
+    new "¿Puedes ponerte pendientes?"
 
     # game/zz_selector.rpy:41
     old "Can you change your hairstyle?"
-    new ""
+    new "¿Puedes cambiar de peinado?"
 
     # game/zz_selector.rpy:41
     old "Can you change your hat?"
-    new ""
+    new "¿Puedes cambiar de sombrero?"
 
     # game/zz_selector.rpy:41
     old "Can you wear a hat?"
-    new ""
+    new "¿Puedes ponerte un sombrero?"
 
     # game/zz_selector.rpy:41
     old "Can you change your hairclip?"
-    new ""
+    new "¿Puedes cambiar de pasador?"
 
     # game/zz_selector.rpy:41
     old "Can you wear a hairclip?"
-    new ""
+    new "¿Puedes ponerte un pasador?"
 
     # game/zz_selector.rpy:41
     old "Can you change the flower in your hair?"
-    new ""
+    new "¿Puedes cambiar la flor de tu pelo?"
 
     # game/zz_selector.rpy:41
     old "Can you wear a flower in your hair?"
-    new ""
+    new "¿Puedes ponerte una flor en el pelo?"
 
     # game/zz_selector.rpy:41
     old "Can you change your necklace?"
-    new ""
+    new "¿Puedes cambiar de collar?"
 
     # game/zz_selector.rpy:41
     old "Can you wear a necklace?"
-    new ""
+    new "¿Puedes ponerte un collar?"
 
     # game/zz_selector.rpy:41
     old "Can you tie your hair with something else?"
-    new ""
+    new "¿Puedes recogerte el pelo con otra cosa?"
 
     # game/zz_selector.rpy:3976
     old "appearance"
-    new ""
+    new "apariencia"
 
