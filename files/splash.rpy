@@ -1,4 +1,4 @@
-﻿
+
 # game/splash.rpy:192
 translate spanish splashscreen_0320a168:
 

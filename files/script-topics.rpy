@@ -1,116 +1,116 @@
-﻿# See `files/script-topics/`
+# See `files/script-topics/`
 
 translate spanish strings:
 
     # game/script-topics.rpy:852
     old "philosophy"
-    new ""
+    new "filosofía"
 
     # game/script-topics.rpy:992
     old "club members"
-    new ""
+    new "miembros del club"
 
     # game/script-topics.rpy:1098
     old "school"
-    new ""
+    new "instituto"
 
     # game/script-topics.rpy:1218
     old "monika"
-    new ""
+    new "monika"
 
     # game/script-topics.rpy:1218
     old "media"
-    new ""
+    new "medios"
 
     # game/script-topics.rpy:1460
     old "curiosidades"
-    new ""
+    new "curiosidades"
 
     # game/script-topics.rpy:1481
     old "ddlc"
-    new ""
+    new "ddlc"
 
     # game/script-topics.rpy:1501
     old "literature club"
-    new ""
+    new "club de literatura"
 
     # game/script-topics.rpy:1694
     old "psychology"
-    new ""
+    new "psicología"
 
     # game/script-topics.rpy:1711
     old "life"
-    new ""
+    new "vida"
 
     # game/script-topics.rpy:1743
     old "society"
-    new ""
+    new "sociedad"
 
     # game/script-topics.rpy:1788
     old "clothes"
-    new ""
+    new "ropa"
 
     # game/script-topics.rpy:2294
     old "weather"
-    new ""
+    new "tiempo"
 
     # game/script-topics.rpy:3059
     old "romance"
-    new ""
+    new "romance"
 
     # game/script-topics.rpy:3073
     old "psichology"
-    new ""
+    new "psicología"
 
     # game/script-topics.rpy:3663
     old "misc"
-    new ""
+    new "varios"
 
     # game/script-topics.rpy:4332
     old "advices"
-    new ""
+    new "consejos"
 
     # game/script-topics.rpy:4662
     old "mod"
-    new ""
+    new "mod"
 
     # game/script-topics.rpy:4843
     old "nature"
-    new ""
+    new "naturaleza"
 
     # game/script-topics.rpy:5452
     old "psycology"
-    new ""
+    new "psicología"
 
     # game/script-topics.rpy:5592
     old "technology"
-    new ""
+    new "tecnología"
 
     # game/script-topics.rpy:7666
     old "sports"
-    new ""
+    new "deportes"
 
     # game/script-topics.rpy:8058
     old "writing tips"
-    new ""
+    new "consejos de escritura"
 
     # game/script-topics.rpy:9477
     old "location"
-    new ""
+    new "ubicación"
 
     # game/script-topics.rpy:13884
     old "winter"
-    new ""
+    new "invierno"
 
     # game/script-topics.rpy:14564
     old "spring"
-    new ""
+    new "primavera"
 
     # game/script-topics.rpy:16981
     old "philosphy"
-    new ""
+    new "filosofía"
 
     # game/script-topics.rpy:17831
     old "summer"
-    new ""
+    new "verano"
 
