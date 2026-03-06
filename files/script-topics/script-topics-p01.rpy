@@ -1791,7 +1791,7 @@ translate spanish monika_saved_97d104c4:
 translate spanish monika_saved_d169c505:
 
     # m "Even if it takes time to find the right people to share with."
-    m "Incluso aunque tome tiempo encontrar a la gente correcta para compartir,"
+    m "Incluso aunque tome tiempo encontrar a la gente correcta para compartir."
 
 # game/script-topics.rpy:1370
 translate spanish monika_saved_147ad1e7:
@@ -1851,7 +1851,7 @@ translate spanish monika_saved_51f0416a:
 translate spanish monika_saved_ff2c3c91:
 
     # m 3eua "Like, a lot of introverts sit at home and feel lonely and restless..."
-    m 3eua "Es como que un grupo de introvertidos estén en sus casa y se sientan solos y preocupados..."
+    m 3eua "Es como que un grupo de introvertidos estén en sus casas y se sientan solos y preocupados..."
 
 # game/script-topics.rpy:1384
 translate spanish monika_saved_a420b2c4:
@@ -1959,7 +1959,7 @@ translate spanish monika_secrets_995a9082:
 translate spanish monika_secrets_7b3f7330:
 
     # m 1tfu "I really caught you doing something naughty here. cyBvZiB0aGF0IHVuaG9seSBlc3RhYmxpc2htZW50Lg0KV2hhdCBk"
-    m 1tfu ""
+    m 1tfu "En verdad te atrapé haciendo travesuras aquí. cyBvZiB0aGF0IHVuaG9seSBlc3RhYmxpc2htZW50Lg0KV2hhdCBk"
 
 # game/script-topics.rpy:1407
 translate spanish monika_secrets_c39b249f:
