@@ -12,11 +12,10 @@ Repositorio para llevar a cabo la traducción al español y port para Android de
 ## Créditos
 
 - Traduction Club!
-- MAS-Team
+- Monika After Story Team
 
 ## Información que cura
 
-- [Discord - TC](https://discord.gg/usKs37Sh5S)
-- [Discord - TC Community](https://discord.gg/dc77s6aMHU)
-- [Página Traduction Club](https://traduction-club.live/)
-- [Monika After Story original](https://github.com/Monika-After-Story/MonikaModDev)
+- [Discord - Traduction Club!](https://discord.gg/usKs37Sh5S)
+- [Sitio Web - Traduction Club!](https://traduction-club.live/)
+- [Monika After Story](https://github.com/Monika-After-Story/MonikaModDev)
