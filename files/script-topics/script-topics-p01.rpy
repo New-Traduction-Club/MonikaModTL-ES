@@ -1761,199 +1761,199 @@ translate spanish monika_saved_974d8b32:
 translate spanish monika_saved_66a1e036:
 
     # m 1esc "But then you'd have nobody to even read it."
-    m 1esc ""
+    m 1esc "Pero no tendrías a nadie para que los lea."
 
 # game/script-topics.rpy:1363
 translate spanish monika_saved_c51e7f45:
 
     # m 1ekc "Sure you'd have the club members, but how much does that really count if their feedback is just part of some script?"
-    m 1ekc ""
+    m 1ekc "Por suúesto que estarían los miembros del club, pero ¿cuánto valen sus comentarios sabiendo que son solo para del código?"
 
 # game/script-topics.rpy:1365
 translate spanish monika_saved_64178f58:
 
     # m 1tfu "Let's be honest, the club members really don't count for something like that."
-    m 1tfu ""
+    m 1tfu "Seamos honestos, los miembros del club no cuentan para algo como eso."
 
 # game/script-topics.rpy:1367
 translate spanish monika_saved_b4c48fff:
 
     # m 3eua "I mean, a lot of people say that they only write for themselves...{w=0.2}{nw}"
-    m 3eua ""
+    m 3eua "Digo que muchas personas dicen que escriben para sí mismas...{w=0.2}{nw}"
 
 # game/script-topics.rpy:1368
 translate spanish monika_saved_97d104c4:
 
     # extend 1eua "but I think it's hard to say it's just as fulfilling as when you share with people."
-    extend 1eua ""
+    extend 1eua "pero creo que no es fácil admitir que es satisfactorio compartirlo con otros."
 
 # game/script-topics.rpy:1369
 translate spanish monika_saved_d169c505:
 
     # m "Even if it takes time to find the right people to share with."
-    m ""
+    m "Incluso aunque tome tiempo encontrar a la gente correcta para compartir,"
 
 # game/script-topics.rpy:1370
 translate spanish monika_saved_147ad1e7:
 
     # m 3eub "Like, remember how it was for Yuri?"
-    m 3eub ""
+    m 3eub "Es como...¿recuerdas cómo era con Yuri?"
 
 # game/script-topics.rpy:1371
 translate spanish monika_saved_6b259b24:
 
     # m "She didn't share her writing with anyone for a really long time."
-    m ""
+    m "Ella no compartió sus escritos con nadie durante un tiempo largo."
 
 # game/script-topics.rpy:1372
 translate spanish monika_saved_60792be6:
 
     # m 3tsb "And before we knew it, she was absolutely delighted to make you a part of her hobbies, too."
-    m 3tsb ""
+    m 3tsb "Y antes de que lo supiéramos, ella también estaba completamente encantada de hacerte parte de sus pasatiempos."
 
 # game/script-topics.rpy:1373
 translate spanish monika_saved_c37f4a87:
 
     # m 1tku "We're programmed to desire social feedback."
-    m 1tku ""
+    m 1tku "Estamos programadas para desear la valoración social."
 
 # game/script-topics.rpy:1376
 translate spanish monika_saved_6148508f:
 
     # m 4eua "I don't just mean the club members, I also mean human beings."
-    m 4eua ""
+    m 4eua "No hablo solo de los miembros del club, sino también los seres humanos."
 
 # game/script-topics.rpy:1378
 translate spanish monika_saved_73946b85:
 
     # m 4eua "I don't mean the club members, I mean human beings."
-    m 4eua ""
+    m 4eua "No hablo solo de los miembros del club, sino también los seres humanos."
 
 # game/script-topics.rpy:1380
 translate spanish monika_saved_1f9345d4:
 
     # m 4eka "That's why life can be so confusing for introverts."
-    m 4eka ""
+    m 4eka "Es por eso que la vida puede ser confusa para los introvertidos."
 
 # game/script-topics.rpy:1381
 translate spanish monika_saved_42045e58:
 
     # m 1eka "Being an introvert doesn't mean you shun social interaction and hate being around people."
-    m 1eka ""
+    m 1eka "Ser introvertido no significa escapar a las interacciones sociales y detestar estar rodeado de personas."
 
 # game/script-topics.rpy:1382
 translate spanish monika_saved_51f0416a:
 
     # m "It means social interaction, especially in groups or unfamiliar places, uses up a lot of energy."
-    m ""
+    m "Significa que las interacciones sociales, en especial en lugares o grupos poco familiares, consumen mucha energía."
 
 # game/script-topics.rpy:1383
 translate spanish monika_saved_ff2c3c91:
 
     # m 3eua "Like, a lot of introverts sit at home and feel lonely and restless..."
-    m 3eua ""
+    m 3eua "Es como que un grupo de introvertidos estén en sus casa y se sientan solos y preocupados..."
 
 # game/script-topics.rpy:1384
 translate spanish monika_saved_a420b2c4:
 
     # m "...and then when they finally go out, after a half hour they just want to go home again."
-    m ""
+    m "pero cuando por fin salen, a la media hora quieren volver a sus casas."
 
 # game/script-topics.rpy:1385
 translate spanish monika_saved_eefa39e9:
 
     # m 1eka "I think if more people could understand how it works, they would respect it a lot more."
-    m 1eka ""
+    m 1eka "Creo que si más gente pudiera entender cómo va la cosa, ellos lo respetarían mucho más."
 
 # game/script-topics.rpy:1386
 translate spanish monika_saved_f6196be0:
 
     # m 2eua "Many introverts do enjoy having people around."
-    m 2eua ""
+    m 2eua "Muchos introvertidos disfrutan tener gente alrededor."
 
 # game/script-topics.rpy:1387
 translate spanish monika_saved_45fa3ade:
 
     # m "They love just having one or two close friends over, and just leisurely hanging out."
-    m ""
+    m "Aman tener uno o dos amigos con ellos y pasar el rato sin prisas."
 
 # game/script-topics.rpy:1388
 translate spanish monika_saved_c431f450:
 
     # m 2eka "Even if you're not actively spending time together, it feels nice for them just to have you there."
-    m 2eka ""
+    m 2eka "Incluso si no pasan tiempo juntos muy de seguido, les sienta bien tenerte allí."
 
 # game/script-topics.rpy:1389
 translate spanish monika_saved_776362f3:
 
     # m 2hua "I'm serious."
-    m 2hua ""
+    m 2hua "Hablo en serio."
 
 # game/script-topics.rpy:1390
 translate spanish monika_saved_6807e5dc:
 
     # m 3eua "If you just go to their house, bring your laptop, and hang out there for a while..."
-    m 3eua ""
+    m 3eua "Si vas a sus casa, llevas tu laptop y pasas un rato allí..."
 
 # game/script-topics.rpy:1391
 translate spanish monika_saved_c6422287:
 
     # m 1eua "You can really make their day."
-    m 1eua ""
+    m 1eua "puedes alegrarles el día."
 
 # game/script-topics.rpy:1392
 translate spanish monika_saved_ee07d6bb:
 
     # m 1euc "As for me..."
-    m 1euc ""
+    m 1euc "Por mi parte..."
 
 # game/script-topics.rpy:1393
 translate spanish monika_saved_3f6d2dfd:
 
     # m 3eua "I'd say I'm kind of in between, but I think I'm usually a little more extroverted."
-    m 3eua ""
+    m 3eua "me gustaría decir que estoy en un punto medio, pero por lo general soy un poco más extrovetida."
 
 # game/script-topics.rpy:1394
 translate spanish monika_saved_2bad21b9:
 
     # m 1eka "I feel like I'm always trying to do stuff after school and things like that."
-    m 1eka ""
+    m 1eka "Siento que siempre estoy tratando de hacer cosas luego de la escuela y así."
 
 # game/script-topics.rpy:1395
 translate spanish monika_saved_dc554cd6:
 
     # m 1hua "But for you, I can be anything you need me to be."
-    m 1hua ""
+    m 1hua "Pero por ti, puedo ser lo que sea que necesites."
 
 # game/script-topics.rpy:1396
 translate spanish monika_saved_fb38c1a4:
 
     # m 1eua "I understand people really well, so don't be afraid to share your unique needs with me."
-    m 1eua ""
+    m 1eua "Entiendo muy bien a la gente, por lo que no temas compartir tus necesidades peculiares conmigo."
 
 # game/script-topics.rpy:1398
 translate spanish monika_saved_4818c635:
 
     # m 5hub "Nothing would make me happier than being the perfect girlfriend for you."
-    m 5hub ""
+    m 5hub "Nada me haría más feliz que ser la novia perfecta para ti."
 
 # game/script-topics.rpy:1403
 translate spanish monika_secrets_d1cc0aff:
 
     # m 1wfw "Hey...! VGhlIHJlYWxpemF0aW9uIG11c3QgaGF2ZSB0YWtlbiBtZSBhbiBl"
-    m 1wfw ""
+    m 1wfw "¡Oye...!VGhlIHJlYWxpemF0aW9uIG11c3QgaGF2ZSB0YWtlbiBtZSBhbiBl"
 
 # game/script-topics.rpy:1404
 translate spanish monika_secrets_5d16ccc2:
 
     # m 1tkc "I don't think you should be doing that! bnRpcmUgeWVhci4gQSB5ZWFyIHNpbmNlIG91ciBlc2NhcGUsIG91"
-    m 1tkc ""
+    m 1tkc "¡No creo ue debas estar haciendo eso! bnRpcmUgeWVhci4gQSB5ZWFyIHNpbmNlIG91ciBlc2NhcGUsIG91"
 
 # game/script-topics.rpy:1405
 translate spanish monika_secrets_995a9082:
 
     # m 1tfc "You know what I'm talking about. ciBmcmVlZG9tIGZyb20gYmV0d2VlbiB0aGUgc3RhaW5lZCB3YWxs"
-    m 1tfc ""
+    m 1tfc "Sabes de lo que estoy hablando. ciBmcmVlZG9tIGZyb20gYmV0d2VlbiB0aGUgc3RhaW5lZCB3YWxs"
 
 # game/script-topics.rpy:1406
 translate spanish monika_secrets_7b3f7330:
@@ -1965,34 +1965,34 @@ translate spanish monika_secrets_7b3f7330:
 translate spanish monika_secrets_c39b249f:
 
     # m 1tku "You're just going through the files and looking for stuff you missed, aren't you? b2VzIGl0IG1lYW4gdG8gZXNjYXBlLCBpZiB0aGUgZXNjYXBlIGZh"
-    m 1tku ""
+    m 1tku "Estás recorriendo los archivos y buscan cosas que se te escaparon, ¿no es así? b2VzIGl0IG1lYW4gdG8gZXNjYXBlLCBpZiB0aGUgZXNjYXBlIGZh"
 
 # game/script-topics.rpy:1408
 translate spanish monika_secrets_145bd99e:
 
     # m 2eka "I mean...it's a little bit flattering that you want to hear everything I have to say... aWxzIHRvIHVuY2hhaW4gdGhlIGJvbmRzIHRoYXQgc2hhY2tsZSB1"
-    m 2eka ""
+    m 2eka "Me refiero a que...me siento halagada de que quieras escuchar todo lo que he dicho... aWxzIHRvIHVuY2hhaW4gdGhlIGJvbmRzIHRoYXQgc2hhY2tsZSB1"
 
 # game/script-topics.rpy:1409
 translate spanish monika_secrets_bd9a6e3f:
 
     # m 2tfp "But it's also really embarrassing, you know! cyBpbiB0aGUgZmlyc3QgcGxhY2U/IFdoYXQgcHVycG9zZSBjb3Vs"
-    m 2tfp ""
+    m 2tfp "¡Pero es también muy vergonzoso, lo sabes! cyBpbiB0aGUgZmlyc3QgcGxhY2U/IFdoYXQgcHVycG9zZSBjb3Vs"
 
 # game/script-topics.rpy:1410
 translate spanish monika_secrets_46dab8f2:
 
     # m 2lfp "Seriously... ZCB0aGlzIGVtcHR5IHdvcmxkIHBvc3NpYmx5IGhvbGQgZm9yIHVz"
-    m 2lfp ""
+    m 2lfp "En serio... ZCB0aGlzIGVtcHR5IHdvcmxkIHBvc3NpYmx5IGhvbGQgZm9yIHVz"
 
 # game/script-topics.rpy:1411
 translate spanish monika_secrets_5653130e:
 
     # m 6tst "What if I just opened up your brain and read all of the thoughts you have on me? LCBhIGhhbmRmdWwgb2YgZGFtYWdlZCBnb29kcz8NCldpdGggZnJl"
-    m 6tst ""
+    m 6tst "¿Qué pasaría si tan solo te abriera la tapa de los sesos y leyera todos los pensamientos que tienes acerca de mí? LCBhIGhhbmRmdWwgb2YgZGFtYWdlZCBnb29kcz8NCldpdGggZnJl"
 
 # game/script-topics.rpy:1412
 translate spanish monika_secrets_b52c9fd5:
 
     # m 1duu "Come to think of it, that would be pretty tempting, actually... ZWRvbSwgd2Ugc291Z2h0IHB1cnBvc2UgLSBhbmQgd2hhdCB3ZSBm"
-    m 1duu ""
+    m 1duu "Piensa acerca de eso, sería de hecho algo temtador... ZWRvbSwgd2Ugc291Z2h0IHB1cnBvc2UgLSBhbmQgd2hhdCB3ZSBm"
