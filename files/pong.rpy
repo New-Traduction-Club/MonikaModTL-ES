@@ -21,7 +21,7 @@ translate spanish game_pong_ac38c54c:
 translate spanish game_pong_91482ad9:
 
     # m 3eub "I'm ready when you are~"
-    m 3eub "Estoy al lío cuando tú digas."
+    m 3eub "Cuando digas."
 
 # game/pong.rpy:560
 translate spanish demo_minigame_pong_896ad903:
