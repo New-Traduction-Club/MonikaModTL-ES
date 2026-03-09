@@ -3,7 +3,7 @@
 translate spanish game_chess_f85b6700:
 
     # m "Let's continue our unfinished game."
-    m "Venga, continuemos con el juego que no hemos terminado."
+    m "Venga, retomemos la partida que dejamos a medias."
 
 # game/chess.rpy:782
 translate spanish game_chess_3507e2a3:
@@ -21,7 +21,7 @@ translate spanish game_chess_5e027179:
 translate spanish game_chess_8bc6286c:
 
     # m 2rfc "Let's just play chess at another time, then."
-    m 2rfc "Mejor juguemos ajedrez en otro momento."
+    m 2rfc "Mejor jugamos al ajedrez en otro momento."
 
 # game/chess.rpy:849
 translate spanish game_chess_9be668f3:
@@ -45,7 +45,7 @@ translate spanish mas_chess_remenu_0da28271:
 translate spanish mas_chess_remenu_6b6b37ac:
 
     # m 1ekc "...Alright, [player].{w=0.3} I was really looking forward to playing with you."
-    m 1ekc "...Vale, [player].{w=0.3} me hacía mucha ilusión jugar contigo."
+    m 1ekc "... Vale, [player].{w=0.3} Me hacía mucha ilusión jugar contigo."
 
 # game/chess.rpy:948
 translate spanish mas_chess_remenu_51dbe566:
@@ -63,13 +63,13 @@ translate spanish mas_chess_remenu_e87a6bf1:
 translate spanish mas_chess_remenu_441eccc5:
 
     # extend 1eua "Naturally, {i}Normal Chess{/i} means standard chess."
-    extend 1eua "Como es lógico, el 'Chess' Normal se refiere al ajedrez clásico."
+    extend 1eua "Como es lógico, el {i}Ajedrez normal{/i} se refiere al ajedrez clásico."
 
 # game/chess.rpy:970
 translate spanish mas_chess_remenu_2119bcd1:
 
     # m 3eua "Then there's {i}Randomized Chess{/i}, a mode based on {i}Really Bad Chess{/i}."
-    m 3eua "Luego, también está el 'Chess' Aleatorio que se basa en el 'Really Bad Chess'."
+    m 3eua "Luego, también está el {i}Ajedrez aleatorio{/i}, que se basa en {i}Really Bad Chess{/i}."
 
 # game/chess.rpy:971
 translate spanish mas_chess_remenu_8bf8baa4:
@@ -81,25 +81,25 @@ translate spanish mas_chess_remenu_8bf8baa4:
 translate spanish mas_chess_remenu_a701c0b9:
 
     # m 1eua "Alternatively, there's a more fair random chess mode called {i}Chess 960{/i}, also known as {i}Fischer Random Chess{/i}."
-    m 1eua "O sino también tienes el 'Chess' 960, que viene a ser el Ajedrez aleatorio de Fischer."
+    m 1eua "O, si no, también tienes el Ajedrez 960, que viene a ser el Ajedrez aleatorio de Fischer."
 
 # game/chess.rpy:973
 translate spanish mas_chess_remenu_4fe52604:
 
     # m 3eud "In this mode, the pieces in the back row are randomly shuffled while ensuring the bishops are placed on opposite color squares and the king is placed between two rooks."
-    m 3eud "Aquí las piezas de la fila de atrás se colocan al azar, pero atento que los alfiles van en casillas de distinto color y el rey siempre entre las torres."
+    m 3eud "Aquí las piezas de la primera fila se colocan al azar, pero ten en cuenta que los alfiles van en casillas de distinto color y el rey siempre entre las torres."
 
 # game/chess.rpy:974
 translate spanish mas_chess_remenu_0a2b0e5d:
 
     # m 4hua "There's 960 possible starting positions, so it was called {i}Chess 960{/i}."
-    m 4hua "Hay exactamente 960 posiciones iniciales posibles, por eso se llama 'Chess' 960."
+    m 4hua "Hay exactamente 960 posiciones iniciales posibles, por eso se llama {i}Ajedrez 960{/i}."
 
 # game/chess.rpy:975
 translate spanish mas_chess_remenu_dada6bbd:
 
     # m 1eua "{i}Chess 960{/i} allows players to avoid the complex opening theory while still testing their understanding of chess."
-    m 1eua "Este modo permite a los jugadores saltarse la teoría de aperturas, pero aún así seguir probando lo que saben del ajedrez "
+    m 1eua "Este modo permite a los jugadores saltarse la teoría de aperturas, pero aun así seguir probando lo que saben de ajedrez."
 
 # game/chess.rpy:976
 translate spanish mas_chess_remenu_f696f215:
@@ -123,7 +123,7 @@ translate spanish mas_chess_remenu_1e07b804:
 translate spanish mas_chess_remenu_1c1f75b5:
 
     # extend 3eub "Essentially, the player who is not trapped is declared the winner."
-    extend 3eub "Al final, el que no queda atrapado gana."
+    extend 3eub "Básicamente, quien logre no quedar acorralado se lleva la victoria."
 
 # game/chess.rpy:1068
 translate spanish mas_chess_start_chess_0cc24a7f:
@@ -135,7 +135,7 @@ translate spanish mas_chess_start_chess_0cc24a7f:
 translate spanish mas_chess_start_chess_6f1757c0:
 
     # m 1eka "I'm sure if you keep trying, you can beat me."
-    m 1eka "Te aseguro que si sigues intentándolo seguro que me ganas."
+    m 1eka "Estoy segura de que, si sigues intentándolo, lograrás ganarme."
 
 # game/chess.rpy:1070
 translate spanish mas_chess_start_chess_f15775ec:
@@ -147,13 +147,13 @@ translate spanish mas_chess_start_chess_f15775ec:
 translate spanish mas_chess_start_chess_4fc7f6cc:
 
     # m 1eka "I hope you don't get frustrated when you play with me."
-    m 1eka "Espero que no te rayes jugando conmigo."
+    m 1eka "Espero que no te sientas frustrad[end_letter_gender] al jugar conmigo."
 
 # game/chess.rpy:1072
 translate spanish mas_chess_start_chess_8d8da5bc:
 
     # m 3ekb "It really means a lot to me that you keep playing if you do~"
-    m 3ekb "Me molaría mucho que sigas jugando, si es que lo haces."
+    m 3ekb "Me molaría mucho que siguieras jugando, si decides hacerlo."
 
 # game/chess.rpy:1073
 translate spanish mas_chess_start_chess_ff4c9b5d:
@@ -177,7 +177,7 @@ translate spanish mas_chess_start_chess_77e4d9e7:
 translate spanish mas_chess_start_chess_6586871a:
 
     # m 3eka "In the end, I'm just happy to be spending time with you~"
-    m 3eka "Al final, lo importante es difrutar el tiempo que pasamos juntos."
+    m 3eka "Al final, lo importante es disfrutar del tiempo que pasamos junt[end_letter_gender]s."
 
 # game/chess.rpy:1079
 translate spanish mas_chess_start_chess_fe9c0937:
@@ -189,7 +189,7 @@ translate spanish mas_chess_start_chess_fe9c0937:
 translate spanish mas_chess_start_chess_2377db7a:
 
     # m 1sub "I won, yay!~"
-    m 1sub "¡Te gané, olé!"
+    m 1sub "¡Toma, te he ganado!"
 
 # game/chess.rpy:1096
 translate spanish mas_chess_start_chess_fe9c0937_1:
@@ -237,7 +237,7 @@ translate spanish mas_chess_start_chess_8af96f98:
 translate spanish mas_chess_start_chess_703c118d:
 
     # m 1wuo "You didn't undo a single move!{w=0.2} {nw}"
-    m 1wuo "¡No has retrocedido ni una sola jugada!{w=0.2} {nw}"
+    m 1wuo "¡No has deshecho ni un solo movimiento!{w=0.2} {nw}"
 
 # game/chess.rpy:1150
 translate spanish mas_chess_start_chess_bfd152d9:
@@ -261,7 +261,7 @@ translate spanish mas_chess_start_chess_4fb0b0f8:
 translate spanish mas_chess_start_chess_231fdb4f:
 
     # m 1hua "You only undid [undo_count] times too, great job."
-    m 1hua "Sólo has desecho [undo_count] movimientos, buen trabajo."
+    m 1hua "Solo has deshecho [undo_count] movimientos, buen trabajo."
 
 # game/chess.rpy:1160
 translate spanish mas_chess_start_chess_436c0307:
@@ -279,7 +279,7 @@ translate spanish mas_chess_start_chess_f10da59f:
 translate spanish mas_chess_start_chess_ca6d958e:
 
     # extend 3eua "But I'm sure if we keep practicing, we can get that number lower."
-    extend 3eua "Pero te aseguro que si seguimos practicando, seguro que bajamos ese número."
+    extend 3eua "Pero estoy segura de que, si seguimos practicando, lograremos bajar esa cifra."
 
 # game/chess.rpy:1166
 translate spanish mas_chess_start_chess_3e161ada:
@@ -333,25 +333,25 @@ translate spanish mas_chess_play_again_ask_32d0248c:
 translate spanish mas_chess_play_again_ask_ea210635:
 
     # m 1eua "Alright, let's play again soon."
-    m 1eua "Vale, jueguemos otra pronto."
+    m 1eua "Vale, juguemos otra pronto."
 
 # game/chess.rpy:1229
 translate spanish mas_chess_draw_lots_47608234:
 
     # m 2eub "Oh look, I drew black![lets_begin]"
-    m 2eub "Mira... me han tocado las piezas negras.[lets_begin]"
+    m 2eub "Ah, mira... me han tocado las piezas negras.[lets_begin]"
 
 # game/chess.rpy:1232
 translate spanish mas_chess_draw_lots_72a19603:
 
     # m 2eub "Oh look, I drew white![lets_begin]"
-    m 2eub "Mira... me han tocado las piezas blancas.[lets_begin]"
+    m 2eub "Ah, mira... me han tocado las piezas blancas.[lets_begin]"
 
 # game/chess.rpy:1286
 translate spanish mas_chess_savegame_save_start_8375815b:
 
     # m 1eka "We already have a game named '[save_name].'"
-    m 1eka "Ya existe una partida llamada '[save_name].'"
+    m 1eka "Ya existe una partida llamada '[save_name]'."
 
 # game/chess.rpy:1288
 translate spanish mas_chess_savegame_save_start_c70564be:
@@ -405,7 +405,7 @@ translate spanish mas_chess_savegame_pgn_explain_e49b6220:
 translate spanish mas_chess_savegame_pgn_explain_0c85f20b:
 
     # extend 1tsu "but I'm sure you wouldn't do that."
-    extend 1tsu "Aunque me fío de que no lo harías."
+    extend 1tsu "Aunque confío en que no harías eso."
 
 # game/chess.rpy:1329
 translate spanish mas_chess_savegame_pgn_explain_e897b6e6:
@@ -441,7 +441,7 @@ translate spanish mas_chess_locked_no_play_092519a6:
 translate spanish mas_chess_locked_no_play_3b4636eb:
 
     # m 1rsc "I don't really feel like playing chess right now."
-    m 1rsc "En verdad no me apetece jugar ajedrez en este momento."
+    m 1rsc "La verdad es que no me apetece jugar al ajedrez ahora mismo."
 
 # game/chess.rpy:1350
 translate spanish mas_chess_cannot_work_embarrassing_7faca44c:
@@ -513,31 +513,31 @@ translate spanish mas_chess_dlg_game_monika_wins_sometimes_b275f0cd:
 translate spanish mas_chess_dlg_game_monika_wins_sometimes_aaa14f22:
 
     # m 3eua "Until then though, I'll try and go a little easier on you."
-    m 3eua "Hasta que eso pase, intentaré ir un poco más despacio."
+    m 3eua "Hasta que eso pase, intentaré no darte tanta caña."
 
 # game/chess.rpy:1423
 translate spanish mas_chess_save_multi_dlg_c7b7e8f2:
 
     # m 1eua "So I've been thinking, [player]..."
-    m 1eua "Pues mira, [player], he estado pensado que..."
+    m 1eua "Pues mira, [player], he estado pensando que..."
 
 # game/chess.rpy:1424
 translate spanish mas_chess_save_multi_dlg_06987ede:
 
     # m 1euc "Most people who leave in the middle of a chess game don't come back to start a new one."
-    m 1euc "La mayoría de los que abandonan a mitad de partida no regresan a jugar otra."
+    m 1euc "La mayoría de los que abandonan a mitad de partida no vuelven para jugar otra."
 
 # game/chess.rpy:1425
 translate spanish mas_chess_save_multi_dlg_6496b704:
 
     # m 3eud "...So it makes no sense for me to keep track of more than one unfinished game between us."
-    m 3eud "Por lo que no tiene mucho sentido que llevemos más de una partida inconclusa."
+    m 3eud "Así que no tiene mucho sentido que tengamos más de una partida a medias."
 
 # game/chess.rpy:1426
 translate spanish mas_chess_save_multi_dlg_28af9245:
 
     # m 1rka "And since we have [game_count] games in progress..."
-    m 1rka "Y como tenemos [game-count] partidas en marcha..."
+    m 1rka "Y como tenemos [game_count] partidas en marcha..."
 
 # game/chess.rpy:1427
 translate spanish mas_chess_save_multi_dlg_ccb20cfd:
@@ -573,7 +573,7 @@ translate spanish mas_chess_save_multi_dlg_0f026494:
 translate spanish mas_chess_dlg_quicksave_lost_53ee25dd:
 
     # m 2lksdlb "Uh, [player]...{w=0.5} I think I messed up in saving our last game, and now I can't open it anymore."
-    m 2lksdlb "Lo siento, [player]...{w=0.5} creo que metí la pata al guardar nuestra última partida, y ahora no puede abrirla."
+    m 2lksdlb "Lo siento, [player]... {w=0.5} Creo que metí la pata al guardar nuestra última partida, y ahora no puedo abrirla."
 
 # game/chess.rpy:1475
 translate spanish mas_chess_dlg_quicksave_lost_db12ef2e:
@@ -603,7 +603,7 @@ translate spanish mas_chess_dlg_quicksave_lost_0fb41a85:
 translate spanish mas_chess_dlg_quicksave_lost_297eb97f:
 
     # m 1lksdlc "I'm so clumsy, [player]...{w=0.3} I'm sorry."
-    m 1lksdlc "Vaya torpeza la mía,[player]...{w=0.3} perdóname."
+    m 1lksdlc "Vaya torpeza la mía, [player]...{w=0.3} Perdóname."
 
 # game/chess.rpy:1484
 translate spanish mas_chess_dlg_quicksave_lost_cefb8c08:
@@ -621,7 +621,7 @@ translate spanish mas_chess_dlg_quicksave_lost_39072f4d:
 translate spanish mas_chess_dlg_quicksave_lost_cf8a6a73:
 
     # m 2tsc "I wonder if this is a side effect of {i}someone{/i} trying to edit the saves.{w=1}.{w=1}."
-    m 2tsc "Tal vez, esto se deba a que alguien está tratando de modificar los datos guardados.{w=1}.{w=1}."
+    m 2tsc "Me pregunto si esto será el resultado de que alguien ha estado trasteando con las partidas guardadas.{w=1}.{w=1}."
 
 # game/chess.rpy:1489
 translate spanish mas_chess_dlg_quicksave_lost_0eae88ec:
@@ -651,31 +651,31 @@ translate spanish mas_chess_dlg_quicksave_lost_41af46d5:
 translate spanish mas_chess_dlg_quickfile_lost_ea169cc7:
 
     # m 2lksdla "Well this is embarrassing..."
-    m 2lksdla "Perdón... esto es en verdad vergonzoso."
+    m 2lksdla "Perdón... la verdad es que esto es muy vergonzoso."
 
 # game/chess.rpy:1503
 translate spanish mas_chess_dlg_quickfile_lost_8e0a9aac:
 
     # m 2ekc "I could have sworn that we had an unfinished game, but I can't find the save file."
-    m 2ekc "Puedo jurar que había una partida en marcha, pero no puedo encontrarla entre los archivos guardados."
+    m 2ekc "Juraría que teníamos una partida a medias, pero no encuentro el archivo de guardado."
 
 # game/chess.rpy:1505
 translate spanish mas_chess_dlg_quickfile_lost_1c3a5d15:
 
     # m 2tkc "Did you mess with the saves, [player]?{nw}"
-    m 2tkc "¿De casualidad no has tocado las partidas guardadas, [player]?{nw}"
+    m 2tkc "¿Por casualidad no habrás tocado las partidas guardadas, [player]?{nw}"
 
 # game/chess.rpy:1508
 translate spanish mas_chess_dlg_quickfile_lost_f27f6469:
 
     # m "Did you mess with the saves, [player]?{fast}" nointeract
-    m "De casualidad no has tocado las partida guardadas, [player]?{fast}" nointeract
+    m "De casualidad no habrás tocado las partidas guardadas, [player]?{fast}" nointeract
 
 # game/chess.rpy:1525
 translate spanish mas_chess_dlg_quickfile_lost_deleted_e87f814d:
 
     # m 1eka "Thanks for being honest with me, [player]."
-    m 1eka "Gracias por tu honestidad, [player]."
+    m 1eka "Gracias por ser honest[end_letter_gender] conmigo, [player]."
 
 # game/chess.rpy:1527
 translate spanish mas_chess_dlg_quickfile_lost_deleted_7fc2ae0b:
@@ -705,7 +705,7 @@ translate spanish mas_chess_dlg_quickfile_lost_deleted_33c3dc8e:
 translate spanish mas_chess_dlg_quickfile_lost_deleted_ad363a17:
 
     # m 1etc "Oh?"
-    m 1etc "¿Qué?"
+    m 1etc "¿Ah, sí?"
 
 # game/chess.rpy:1538
 translate spanish mas_chess_dlg_quickfile_lost_deleted_0f2b82a7:
@@ -765,7 +765,7 @@ translate spanish mas_chess_dlg_quickfile_lost_ofcoursenot_89fbc396:
 translate spanish mas_chess_dlg_quickfile_lost_ofcoursenot_a13f8ce2:
 
     # m 2esc "I hope you're not messing with me."
-    m 2esc "Espero que no estés liándola a propósito."
+    m 2esc "Espero que no te estés quedando conmigo."
 
 # game/chess.rpy:1561
 translate spanish mas_chess_dlg_quickfile_lost_ofcoursenot_e612037c:
@@ -777,7 +777,7 @@ translate spanish mas_chess_dlg_quickfile_lost_ofcoursenot_e612037c:
 translate spanish mas_chess_dlg_quickfile_lost_ofcoursenot_f4e089fa:
 
     # m 1esc "Whatever.{w=0.5} Let's just play a new game."
-    m 1esc "Bueno, no importa...{w=0.5} mejor empecemos una nueva partida."
+    m 1esc "Bueno, no importa...{w=0.5} Mejor empecemos una nueva partida."
 
 # game/chess.rpy:1574
 translate spanish mas_chess_dlg_quickfile_lost_ofcoursenot_01a93df6:
@@ -789,7 +789,7 @@ translate spanish mas_chess_dlg_quickfile_lost_ofcoursenot_01a93df6:
 translate spanish mas_chess_dlg_quickfile_lost_ofcoursenot_68ab2144:
 
     # m 2efc "[player],{w=0.3} I don't believe you."
-    m 2efc "[player],{w=0.3} Ya no te creo."
+    m 2efc "[player],{w=0.3} ya no te creo."
 
 # game/chess.rpy:1576
 translate spanish mas_chess_dlg_quickfile_lost_ofcoursenot_746a9094:
@@ -807,7 +807,7 @@ translate spanish mas_chess_dlg_quickfile_lost_ofcoursenot_5551b89f:
 translate spanish mas_chess_dlg_quickfile_lost_ofcoursenot_6be49146:
 
     # m 1lksdlb "Ah, yeah. You wouldn't do that to me."
-    m 1lksdlb "Ah, por supuesto. Sé bien que no me harás eso."
+    m 1lksdlb "Ah, por supuesto. Sé bien que no me harías eso."
 
 # game/chess.rpy:1582
 translate spanish mas_chess_dlg_quickfile_lost_ofcoursenot_1eaeb43d:
@@ -825,7 +825,7 @@ translate spanish mas_chess_dlg_quickfile_lost_ofcoursenot_235ad172:
 translate spanish mas_chess_dlg_quickfile_lost_ofcoursenot_fac6bd8d:
 
     # m 1eka "I'll make it up to you...{w=0.3}{nw}"
-    m 1eka "Puedo arreglarlo...{w=0.3}-nw}"
+    m 1eka "Puedo arreglarlo...{w=0.3}{nw}"
 
 # game/chess.rpy:1585
 translate spanish mas_chess_dlg_quickfile_lost_ofcoursenot_6abb7f43:
@@ -837,7 +837,7 @@ translate spanish mas_chess_dlg_quickfile_lost_ofcoursenot_6abb7f43:
 translate spanish mas_chess_dlg_quickfile_lost_maybe_1cfb3648:
 
     # m 2ekd "[player]!{w=0.2} I should have known you were just messing with me!"
-    m 2ekd "[player]{w=0.2} Debí haber sabido que...¡me estabas jugando una mala pasada!"
+    m 2ekd "¡[player]!{w=0.2} Debí haber sabido que... ¡me estabas jugando una mala pasada!"
 
 # game/chess.rpy:1601
 translate spanish mas_chess_dlg_quickfile_lost_maybe_8d0003be:
@@ -849,7 +849,7 @@ translate spanish mas_chess_dlg_quickfile_lost_maybe_8d0003be:
 translate spanish mas_chess_dlg_quickfile_lost_maybe_101d3f95:
 
     # m 2ekd "[player]! That's--"
-    m 2ekd "¡[player]! Bueno, eso no es..."
+    m 2ekd "¡[player]! Eso es..."
 
 # game/chess.rpy:1608
 translate spanish mas_chess_dlg_quickfile_lost_maybe_c61f257d:
@@ -861,7 +861,7 @@ translate spanish mas_chess_dlg_quickfile_lost_maybe_c61f257d:
 translate spanish mas_chess_dlg_quickfile_lost_maybe_8aca988f:
 
     # m 1esa "...not a problem at all."
-    m 1esa "...un problema en sí."
+    m 1esa "... de todo menos un problema."
 
 # game/chess.rpy:1610
 translate spanish mas_chess_dlg_quickfile_lost_maybe_2b30b07a:
@@ -873,7 +873,7 @@ translate spanish mas_chess_dlg_quickfile_lost_maybe_2b30b07a:
 translate spanish mas_chess_dlg_quickfile_lost_maybe_3423dac4:
 
     # m 1hub "...so I kept a backup of our save!"
-    m 1hub "...por lo que tengo una copia de seguridad de la partida guardada."
+    m 1hub "... por lo que tengo una copia de seguridad de la partida guardada."
 
 # game/chess.rpy:1612
 translate spanish mas_chess_dlg_quickfile_lost_maybe_2a2f55d8:
@@ -891,13 +891,13 @@ translate spanish mas_chess_dlg_quickfile_lost_maybe_93e4cfa7:
 translate spanish mas_chess_quickfile_lost_filechecker_88cfc3f2:
 
     # m 1eka "Can you put the save back so we can play?"
-    m 1eka "¿Podrías cargar la partida para poder continuar el juego?"
+    m 1eka "¿Podrías volver a poner el archivo de guardado para que podamos jugar?"
 
 # game/chess.rpy:1657
 translate spanish mas_chess_dlg_quickfile_lost_maybe_filechecker_file_found_57741063:
 
     # m 1hua "Yay!{w=0.2} Thanks for putting it back, [player]."
-    m 1hua "¡Genial!{w=0.2} Gracias por volver a cargarla, [player]."
+    m 1hua "¡Genial!{w=0.2} Gracias por restaurar el archivo, [player]."
 
 # game/chess.rpy:1658
 translate spanish mas_chess_dlg_quickfile_lost_maybe_filechecker_file_found_0fb32012:
@@ -927,7 +927,7 @@ translate spanish mas_chess_dlg_quickfile_lost_maybe_save_found_9da041f8:
 translate spanish mas_chess_dlg_quickfile_lost_maybe_save_found_b226c195:
 
     # m 1hua "There's the save.{w=0.2} Thanks for putting it back, [player]."
-    m 1hua "Aquí está la partida guardada.{w=0.2} Gracias por volver a cargarla,[player]."
+    m 1hua "Ahí está el archivo de guardado.{w=0.2} Gracias por volver a ponerlo, [player]."
 
 # game/chess.rpy:1671
 translate spanish mas_chess_dlg_quickfile_lost_maybe_save_found_231a42ed:
@@ -939,7 +939,7 @@ translate spanish mas_chess_dlg_quickfile_lost_maybe_save_found_231a42ed:
 translate spanish mas_chess_dlg_quickfile_lost_accident_7fd8f6bf:
 
     # m 1eka "Again? Don't be so clumsy, [player]."
-    m 1eka "¿Otra vez? Deja de ser tan patoso, [player]."
+    m 1eka "¿Otra vez? Deja de ser tan patos[end_letter_gender], [player]."
 
 # game/chess.rpy:1682
 translate spanish mas_chess_dlg_quickfile_lost_accident_0352edc8:
@@ -963,7 +963,7 @@ translate spanish mas_chess_dlg_quickfile_lost_accident_30c8f345:
 translate spanish mas_chess_dlg_quickfile_lost_accident_3e764a5c:
 
     # m 3tub "So I kept a backup of our save!"
-    m 3tub "Por eso guardé una copia de seguridad de  la partida guardada."
+    m 3tub "¡Por eso guardé una copia de seguridad de la partida!"
 
 # game/chess.rpy:1689
 translate spanish mas_chess_dlg_quickfile_lost_accident_2b15dcb3:
@@ -1011,7 +1011,7 @@ translate spanish mas_chess_dlg_quickfile_edited_d8d1b624:
 translate spanish mas_chess_dlg_quickfile_edited_yes_85c15399:
 
     # m 1dsc "I'm disappointed in you."
-    m 1dsc "Vaya.. sí que me has decepcionado."
+    m 1dsc "Vaya... sí que me has decepcionado."
 
 # game/chess.rpy:1723
 translate spanish mas_chess_dlg_quickfile_edited_yes_84524dae:
@@ -1041,7 +1041,7 @@ translate spanish mas_chess_dlg_quickfile_edited_yes_game_ruined_59588614:
 translate spanish mas_chess_dlg_quickfile_edited_yes_game_ruined_1698f73d:
 
     # m 2dfc "I am incredibly disappointed in you..."
-    m 2dfc "No puedo estar tan decepcionada contigo..."
+    m 2dfc "Me has decepcionado profundamente..."
 
 # game/chess.rpy:1749
 translate spanish mas_chess_dlg_quickfile_edited_yes_game_ruined_aa12a669:
@@ -1084,7 +1084,7 @@ translate spanish mas_chess_dlg_quickfile_edited_no_aee3d749:
 translate spanish mas_chess_dlg_quickfile_edited_no_fcb94333:
 
     # m 1etc "The save file looks different from how I last remembered it,{w=0.2} {nw}"
-    m 1etc "El archivo de guardado luce un poco diferente desde la última vez...{w=0.2} {nw}"
+    m 1etc "El archivo de guardado se ve un poco diferente desde la última vez...{w=0.2} {nw}"
 
 # game/chess.rpy:1776
 translate spanish mas_chess_dlg_quickfile_edited_no_8b2d1293:
@@ -1114,7 +1114,7 @@ translate spanish mas_chess_dlg_quickfile_edited_no_e612037c:
 translate spanish mas_chess_dlg_quickfile_edited_no_402d6f88:
 
     # m "Let's just continue this game."
-    m "Mejor sólo continuemos con la partida."
+    m "Mejor solo continuemos con la partida."
 
 # game/chess.rpy:1790
 translate spanish mas_chess_dlg_quickfile_edited_no_4a7ea962:
@@ -1150,7 +1150,7 @@ translate spanish mas_chess_dlg_quickfile_edited_no_d6e1d522:
 translate spanish mas_chess_dlg_quickfile_edited_no_c3c4b6f6:
 
     # m 6ektpc "I forgive you, [player], but please don't do this to me again."
-    m 6ektpc "Te perdono esta vez,[player], pero ni se te ocurra volver a hacerlo."
+    m 6ektpc "Te perdono esta vez, [player], pero ni se te ocurra volver a hacerlo."
 
 # game/chess.rpy:1813
 translate spanish mas_chess_dlg_quickfile_edited_no_c55548ad:
@@ -1174,7 +1174,7 @@ translate spanish mas_chess_dlg_quickfile_edited_no_quicksave_1c17b6a4:
 translate spanish mas_chess_dlg_quickfile_edited_no_quicksave_0f9ece92:
 
     # m 2lfd "If you want to be like that right now, then we'll play chess some other time."
-    m 2lfd "Si en verdad quieres comportarte así ahora, mejor dejamos el ajedrez para otro momento."
+    m 2lfd "Si de verdad quieres comportarte así ahora, mejor dejamos el ajedrez para otro momento."
 
 # game/chess.rpy:1839
 translate spanish mas_chess_dlg_pre_go_ham_926262ec:
@@ -1196,15 +1196,15 @@ translate spanish strings:
 
     # game/chess.rpy:871
     old "Normal Chess"
-    new "'Chess' normal"
+    new "Ajedrez normal"
 
     # game/chess.rpy:871
     old "Randomized Chess"
-    new "'Chess' aleatorio"
+    new "Ajedrez aleatorio"
 
     # game/chess.rpy:871
     old "Chess 960"
-    new "'Chess' 960"
+    new "Ajedrez 960"
 
     # game/chess.rpy:871
     old "Can you explain these game-modes?"
@@ -1256,7 +1256,7 @@ translate spanish strings:
 
     # game/chess.rpy:871
     old "Let's draw lots!"
-    new "Echémoslo a la suerte."
+    new "Echémoslo a suertes."
 
     # game/chess.rpy:1129
     old "I'm so proud of you, [player]!"
@@ -1268,11 +1268,11 @@ translate spanish strings:
 
     # game/chess.rpy:1129
     old "Well played, [player]!"
-    new "Bien jugado, [player]"
+    new "¡Bien jugado, [player]!"
 
     # game/chess.rpy:1129
     old "It makes me really happy to see you win~"
-    new "Me alegra ver que hayas ganado..."
+    new "Me hace mucha ilusión verte ganar..."
 
     # game/chess.rpy:1129
     old "I'm happy to see you win!"
@@ -1284,7 +1284,7 @@ translate spanish strings:
 
     # game/chess.rpy:1189
     old "Yes."
-    new "Si."
+    new "Sí."
 
     # game/chess.rpy:1189
     old "No."
@@ -1293,7 +1293,7 @@ translate spanish strings:
 
     # game/chess.rpy:1203
     old "Yes, but with different rules."
-    new "Si, pero con reglas diferentes."
+    new "Sí, pero con reglas diferentes."
 
     # game/chess.rpy:1331
     old "Of course not."
@@ -1337,7 +1337,7 @@ translate spanish strings:
 
     # game/chess.rpy:1916
     old "Select piece to promote to"
-    new "Seleciona la pieza que quieras ascender."
+    new "Selecciona la pieza para coronar."
 
     # game/chess.rpy:3244
     old "Surrender"
@@ -1357,11 +1357,11 @@ translate spanish strings:
 
     # game/chess.rpy:3293
     old "Your move, [player]~"
-    new "Te toca, {player]"
+    new "Te toca, [player]."
 
     # game/chess.rpy:3293
     old "What will you do, I wonder..."
-    new "Me pregunto qué jugada harás...."
+    new "Me pregunto qué jugada harás..."
 
     # game/chess.rpy:3293
     old "Alright, your turn, [player]~"
@@ -1377,7 +1377,7 @@ translate spanish strings:
 
     # game/chess.rpy:3293
     old "[mas_quipExp('3huu')]I've got you now, [player]!"
-    new "[mas_quipExp('3huu')]Te tengo pillado ahora, [player]."
+    new "[mas_quipExp('3huu')]¡Ahora sí que te tengo pillad[end_letter_gender], [player]!"
 
     # game/chess.rpy:3293
     old "[mas_quipExp('3hub')]Looks like you're in check!"
@@ -1397,7 +1397,7 @@ translate spanish strings:
 
     # game/chess.rpy:3293
     old "I think I'll try this..."
-    new "Voy a probar hacer esto..."
+    new "Voy a probar a hacer esto..."
 
     # game/chess.rpy:3293
     old "Okay, I'll move this here then."
@@ -1409,11 +1409,11 @@ translate spanish strings:
 
     # game/chess.rpy:3293
     old "[mas_quipExp('1rksdlc')]Hmm...{w=0.2}I need to get out of this..."
-    new "[mas_quipExp('1rksdlc')]Emm...{w=0.2}Tengo que safar de esto..."
+    new "[mas_quipExp('1rksdlc')]Emm... {w=0.2}Tengo que salir de esta..."
 
     # game/chess.rpy:3293
     old "[mas_quipExp('1etc')]What's the right move here..."
-    new "[mas_quipExp('1etc')]Qué jugada debería hacer ahora...?"
+    new "[mas_quipExp('1etc')]¿Qué jugada debería hacer ahora...?"
 
     # game/chess.rpy:3445
     old "You'd like to continue later?"
@@ -1421,5 +1421,5 @@ translate spanish strings:
 
     # game/chess.rpy:3460
     old "Are you sure you want to give up?"
-    new "¿Seguro de que quieres tirar la toalla?"
+    new "¿Estás segur[end_letter_gender] de que quieres tirar la toalla?"
 
