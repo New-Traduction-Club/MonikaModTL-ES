@@ -3,7 +3,7 @@
 translate spanish game_pong_a10d17dc:
 
     # m 1eua "Ready to try again?"
-    m 1eua "¿Listo para otro intento?"
+    m 1eua "¿List[end_letter_gender] para otro intento?"
 
 # game/pong.rpy:482
 translate spanish game_pong_3597d451:
@@ -45,19 +45,19 @@ translate spanish mas_pong_dlg_winner_5687489f:
 translate spanish mas_pong_dlg_winner_b7fb763f:
 
     # m 1hksdla "I know I asked you to go easy on me, but this isn't what I had in mind..."
-    m 1hksdla "Sé que te había pedido que fueras tranqui conmigo, pero esto no era a lo que me refería..."
+    m 1hksdla "Sé que te había pedido que te contuvieras un poco, pero esto no era a lo que me refería..."
 
 # game/pong.rpy:621
 translate spanish mas_pong_dlg_winner_2dd452cd:
 
     # m 3eka "I do appreciate the gesture though~"
-    m 3eka "Aún así aprecio el gesto."
+    m 3eka "Aun así aprecio el gesto."
 
 # game/pong.rpy:626
 translate spanish mas_pong_dlg_winner_da20386e:
 
     # m 1hub "Yay, I won!"
-    m 1hub "¡Yujuu, te gané!"
+    m 1hub "¡Yujuu, te he ganado!"
 
 # game/pong.rpy:628
 translate spanish mas_pong_dlg_winner_64e06039:
@@ -69,7 +69,7 @@ translate spanish mas_pong_dlg_winner_64e06039:
 translate spanish mas_pong_dlg_winner_7cf10329:
 
     # m 2rksdlb "Ahaha, that's unfortunate..."
-    m 2rksdlb "Ja, ja, ja. Pero qué mala suerte.."
+    m 2rksdlb "Ja, ja, ja. Pero qué mala suerte..."
 
 # game/pong.rpy:641
 translate spanish mas_pong_dlg_winner_41f6a165:
@@ -99,7 +99,7 @@ translate spanish mas_pong_dlg_winner_ab7e9a4c:
 translate spanish mas_pong_dlg_winner_8dbe9ee3:
 
     # m 1hua "Ehehe!~"
-    m 1hua "¡Je ,je, je!"
+    m 1hua "¡Je, je, je!"
 
 # game/pong.rpy:659
 translate spanish mas_pong_dlg_winner_a660a3df:
@@ -111,7 +111,7 @@ translate spanish mas_pong_dlg_winner_a660a3df:
 translate spanish mas_pong_dlg_winner_35008ac8:
 
     # m 5eka "But you know,{w=0.1} I don't mind losing to you every now and then."
-    m 5eka "Pero ya lo sabes,{nw=0.1} no me molesta perder ante ti de vez en cuando."
+    m 5eka "Pero ya lo sabes,{w=0.1} no me molesta perder ante ti de vez en cuando."
 
 # game/pong.rpy:664
 translate spanish mas_pong_dlg_winner_e698edb7:
@@ -123,13 +123,13 @@ translate spanish mas_pong_dlg_winner_e698edb7:
 translate spanish mas_pong_dlg_winner_4cc1ca11:
 
     # m "Are you {i}sure?{/i}{nw}"
-    m "¿Estás {i}seguro?{/i}{nw}"
+    m "¿Estás segur[end_letter_gender]?{nw}"
 
 # game/pong.rpy:675
 translate spanish mas_pong_dlg_winner_3fb8b66f:
 
     # m "Are you {i}sure?{/i}{fast}" nointeract
-    m "¿Estás {i}seguro?{/i}{fast}" nointeract
+    m "¿Estás segur[end_letter_gender]?{fast}" nointeract
 
 # game/pong.rpy:681
 translate spanish mas_pong_dlg_winner_22b836a2:
@@ -177,7 +177,7 @@ translate spanish mas_pong_dlg_winner_bb630e4b:
 translate spanish mas_pong_dlg_winner_c4c826c1:
 
     # extend 3tsu "but I can win by myself!"
-    extend 3tsu "Pero...¡puedo ganar por mis propios medios!"
+    extend 3tsu "Pero... ¡puedo ganar yo solita!"
 
 # game/pong.rpy:705
 translate spanish mas_pong_dlg_winner_05f8c059:
@@ -189,7 +189,7 @@ translate spanish mas_pong_dlg_winner_05f8c059:
 translate spanish mas_pong_dlg_winner_19428ff1:
 
     # m 1hua "Ehehe~"
-    m 1hua "Je, je, je"
+    m 1hua "Je, je, je."
 
 # game/pong.rpy:712
 translate spanish mas_pong_dlg_winner_b7695e48:
@@ -201,13 +201,13 @@ translate spanish mas_pong_dlg_winner_b7695e48:
 translate spanish mas_pong_dlg_winner_70d04449:
 
     # m 2ttu "Remember, [p_nickname]?{w=0.1} {nw}"
-    m 2ttu "Recuerda bien, [p_nickname]?{w=0.1} {nw}"
+    m 2ttu "¿Recuerdas, [p_nickname]?{w=0.1} {nw}"
 
 # game/pong.rpy:716
 translate spanish mas_pong_dlg_winner_a218bfce:
 
     # extend 2tfb "I told you I'd win our next match."
-    extend 2tfb "Te dije que iba ganar en la partida siguiente."
+    extend 2tfb "Te dije que iba a ganar en la partida siguiente."
 
 # game/pong.rpy:720
 translate spanish mas_pong_dlg_winner_70d88cbc:
@@ -255,19 +255,19 @@ translate spanish mas_pong_dlg_winner_4d72b34e:
 translate spanish mas_pong_dlg_winner_cad6cf44:
 
     # m 1eua "I hope you're having fun, [mas_get_player_nickname(regex_replace_with_nullstr='my ')]."
-    m 1eua "Espero que estés pasándola pipa, [mas_get_player_nickname(regex_replace_with_nullstr='my ')]."
+    m 1eua "Espero que te lo estés pasando pipa, [mas_get_player_nickname(regex_replace_with_nullstr='my ')]."
 
 # game/pong.rpy:739
 translate spanish mas_pong_dlg_winner_bd3c8844:
 
     # m 1eka "I wouldn't want you to get upset over a game, after all."
-    m 1eka "No me gustaría que te afligieras por un juego, despúes de todo."
+    m 1eka "No me gustaría que te disgustaras por un juego, después de todo."
 
 # game/pong.rpy:740
 translate spanish mas_pong_dlg_winner_d8fb1dfb:
 
     # m 1hua "We can always take a break and play again later if you want."
-    m 1hua "Siempre podemos tomarmos un respiro y seguir con la partida en otro momento si así lo quieres."
+    m 1hua "Siempre podemos tomarnos un respiro y seguir con la partida en otro momento si así lo quieres."
 
 # game/pong.rpy:745
 translate spanish mas_pong_dlg_winner_3772217d:
@@ -303,19 +303,19 @@ translate spanish mas_pong_dlg_winner_13fa3f85:
 translate spanish mas_pong_dlg_winner_7b978e86:
 
     # m 1tub "Keep up, [player]!{w=0.3} {nw}"
-    m 1tub "No pierdas el ritmo, [player]!{w=0.3} {nw}"
+    m 1tub "¡No pierdas el ritmo, [player]!{w=0.3} {nw}"
 
 # game/pong.rpy:756
 translate spanish mas_pong_dlg_winner_4a7da832:
 
     # extend 2tfu "It looks like your streak is over!"
-    extend 2tfu "¡Parece que tu racha está acabada!"
+    extend 2tfu "¡Parece que se te acabó la racha!"
 
 # game/pong.rpy:763
 translate spanish mas_pong_dlg_winner_390096ac:
 
     # m 3eub "Playing against you is really tough, [player]."
-    m 3eub "Jugar contra ti está muy chungo, [player]."
+    m 3eub "Jugar contra ti es muy complicado, [player]."
 
 # game/pong.rpy:764
 translate spanish mas_pong_dlg_winner_84278014:
@@ -327,7 +327,7 @@ translate spanish mas_pong_dlg_winner_84278014:
 translate spanish mas_pong_dlg_winner_7f98eaa4:
 
     # m 3hub "Well played, [player], you're really good!"
-    m 3hub "Bien jugado, [player], ¡eres un máquina!"
+    m 3hub "Bien jugado, [player], ¡eres increíble!"
 
 # game/pong.rpy:767
 translate spanish mas_pong_dlg_winner_0fc07073:
@@ -351,7 +351,7 @@ translate spanish mas_pong_dlg_winner_3d58073b:
 translate spanish mas_pong_dlg_winner_1e8c368f:
 
     # m 4huu "Ehehe,{w=0.1} {nw}"
-    m 4huu "Je, je, je{w=0.1} {nw}"
+    m 4huu "Je, je, je,{w=0.1} {nw}"
 
 # game/pong.rpy:778
 translate spanish mas_pong_dlg_winner_c538a87f:
@@ -363,13 +363,13 @@ translate spanish mas_pong_dlg_winner_c538a87f:
 translate spanish mas_pong_dlg_winner_166ba4de:
 
     # m 2eksdld "Ah...{w=0.3}{nw}"
-    m 2eksdld "Ay...{w=0.3}{nw}"
+    m 2eksdld "Ay... {w=0.3}{nw}"
 
 # game/pong.rpy:786
 translate spanish mas_pong_dlg_winner_34945dc4:
 
     # extend 2rksdlc "it happened again."
-    extend 2rksdlc "Ha pasado de nuevo."
+    extend 2rksdlc "Ha vuelto a pasar."
 
 # game/pong.rpy:787
 translate spanish mas_pong_dlg_winner_5fd8aa55:
@@ -387,7 +387,7 @@ translate spanish mas_pong_dlg_winner_1603c2e8:
 translate spanish mas_pong_dlg_winner_f0687bb3:
 
     # m 3hksdlb "I didn't mean for it to bounce around that much..."
-    m 3hksdlb "No quería que botara tanto.."
+    m 3hksdlb "No quería que botara tanto..."
 
 # game/pong.rpy:799
 translate spanish mas_pong_dlg_winner_b7171ce0:
@@ -417,7 +417,7 @@ translate spanish mas_pong_dlg_winner_724d899d:
 translate spanish mas_pong_dlg_winner_748064b0:
 
     # m 1hub "I win another round~"
-    m 1hub "Gané otro ronda."
+    m 1hub "He ganado otra ronda."
 
 # game/pong.rpy:813
 translate spanish mas_pong_dlg_winner_120bb8da:
@@ -435,7 +435,7 @@ translate spanish mas_pong_dlg_winner_1d322a40:
 translate spanish mas_pong_dlg_winner_3772217d_1:
 
     # m 1hub "Ahaha!"
-    m 1hub "!Ja, ja, ja!"
+    m 1hub "¡Ja, ja, ja!"
 
 # game/pong.rpy:823
 translate spanish mas_pong_dlg_winner_7a7846ac:
@@ -453,25 +453,25 @@ translate spanish mas_pong_dlg_winner_cf404618:
 translate spanish mas_pong_dlg_winner_cd2f18bc:
 
     # m 3hub "You're pretty good!"
-    m 3hub "¡Eres un crack!"
+    m 3hub "¡Sí que eres buen[end_letter_gender]!"
 
 # game/pong.rpy:828
 translate spanish mas_pong_dlg_winner_a6c4ff54:
 
     # m 1hub "I win again~"
-    m 1hub "Gano otra vez."
+    m 1hub "He ganado otra vez."
 
 # game/pong.rpy:830
 translate spanish mas_pong_dlg_winner_6a98c99f:
 
     # m 1huu "I win~"
-    m 1huu "Gané."
+    m 1huu "¡He ganado!"
 
 # game/pong.rpy:837
 translate spanish mas_pong_dlg_winner_97a25852:
 
     # m 2tub "It feels good to win!"
-    m 2tub "¡Ganar se siente de lujo!"
+    m 2tub "¡Da gusto ganar!"
 
 # game/pong.rpy:838
 translate spanish mas_pong_dlg_winner_3019bdbc:
@@ -483,13 +483,13 @@ translate spanish mas_pong_dlg_winner_3019bdbc:
 translate spanish mas_pong_dlg_winner_093ecc1e:
 
     # m 2eub "I win another round!"
-    m 2eub "¡Gané otra ronda!"
+    m 2eub "¡He ganado otra ronda!"
 
 # game/pong.rpy:843
 translate spanish mas_pong_dlg_winner_d17ac578:
 
     # m 2eub "I win this round!"
-    m 2eub "¡Gané esta ronda!"
+    m 2eub "¡He ganado esta ronda!"
 
 # game/pong.rpy:850
 translate spanish mas_pong_dlg_winner_e61dfc50:
@@ -531,13 +531,13 @@ translate spanish mas_pong_dlg_sorry_assuming_8148f4e1:
 translate spanish mas_pong_dlg_sorry_assuming_ddf84284:
 
     # m 3eka "Would you like to take a break, [player]?{nw}"
-    m 3eka "¿Quieres tomar un respiro, [player]?{nw}"
+    m 3eka "¿Quieres tomarte un descanso, [player]?{nw}"
 
 # game/pong.rpy:872
 translate spanish mas_pong_dlg_sorry_assuming_d8384ddb:
 
     # m "Would you like to take a break, [player]?{fast}" nointeract
-    m "¿Quieres tomar un respiro, [player]?{fast}" nointeract
+    m "¿Quieres tomarte un descanso, [player]?{fast}" nointeract
 
 # game/pong.rpy:875
 translate spanish mas_pong_dlg_sorry_assuming_7ea48a2f:
@@ -549,7 +549,7 @@ translate spanish mas_pong_dlg_sorry_assuming_7ea48a2f:
 translate spanish mas_pong_dlg_sorry_assuming_b561f74f:
 
     # extend 1hua "I had fun, thanks for playing Pong with me!"
-    extend 1hua "¡La he pasado guay, gracias por jugar Pong conmigo!"
+    extend 1hua "¡Me lo he pasado guay, gracias por jugar Pong conmigo!"
 
 # game/pong.rpy:877
 translate spanish mas_pong_dlg_sorry_assuming_140aa56a:
@@ -561,7 +561,7 @@ translate spanish mas_pong_dlg_sorry_assuming_140aa56a:
 translate spanish mas_pong_dlg_sorry_assuming_8ea21225:
 
     # m 1eka "Alright, [player]. If you're sure."
-    m 1eka "Vale, [player]. Si estás segruro..."
+    m 1eka "Vale, [player]. Si estás segur[end_letter_gender]..."
 
 # game/pong.rpy:888
 translate spanish mas_pong_dlg_sorry_assuming_4d77c45d:
@@ -579,13 +579,13 @@ translate spanish mas_pong_dlg_loser_3772217d:
 translate spanish mas_pong_dlg_loser_3db132c3:
 
     # m 1kua "Now we're even, [player]!"
-    m 1kua "¡Ahora si que estamos igualados, [player]!"
+    m 1kua "¡Ahora sí que estamos igualados, [player]!"
 
 # game/pong.rpy:908
 translate spanish mas_pong_dlg_loser_5687489f:
 
     # m 1rksdlb "Ahaha..."
-    m 1rksdlb "Ja,ja,ja..."
+    m 1rksdlb "Ja, ja, ja..."
 
 # game/pong.rpy:911
 translate spanish mas_pong_dlg_loser_7f64fa3e:
@@ -609,7 +609,7 @@ translate spanish mas_pong_dlg_loser_0a10b185:
 translate spanish mas_pong_dlg_loser_034ba3fa:
 
     # m 2tfu "Let's find out how good you really are, [player]!"
-    m 2tfu "¡Averiguemos que tan mañoso eres en verdad, [player]!"
+    m 2tfu "¡Averiguemos lo maños[end_letter_gender] que eres en verdad, [player]!"
 
 # game/pong.rpy:924
 translate spanish mas_pong_dlg_loser_f9dcf4f9:
@@ -627,31 +627,31 @@ translate spanish mas_pong_dlg_loser_fd895976:
 translate spanish mas_pong_dlg_loser_9963f134:
 
     # m 4eua "Remember, if you train long enough I'm sure you can reach everything you aim for!"
-    m 4eua "Recuerda esto: ¡Si entrenas durante el tiempo suficente, te aseguro que alcanzarás cualquier meta que te propongas!"
+    m 4eua "Recuerda esto: ¡Si entrenas durante el tiempo suficiente, te aseguro que alcanzarás cualquier meta que te propongas!"
 
 # game/pong.rpy:930
 translate spanish mas_pong_dlg_loser_2e230854:
 
     # m 2wuo "Wow...{w=0.3}{nw}"
-    m 2wuo "Vaya...{w=0.3}{nw}"
+    m 2wuo "Vaya... {w=0.3}{nw}"
 
 # game/pong.rpy:931
 translate spanish mas_pong_dlg_loser_9dd8e93b:
 
     # extend 7wuo "I was really trying that time!"
-    extend 7wuo "¡Si que había dado el callo esa vez!"
+    extend 7wuo "¡Sí que había dado el callo esa vez!"
 
 # game/pong.rpy:932
 translate spanish mas_pong_dlg_loser_c5033fda:
 
     # m 3hub "Way to go, [player]!"
-    m 3hub "¡Hora de seguir, [player]!"
+    m 3hub "¡Así se hace, [player]!"
 
 # game/pong.rpy:936
 translate spanish mas_pong_dlg_loser_13fa3f85:
 
     # m 1hua "Ehehe!"
-    m 1hua "Je,je,je"
+    m 1hua "Je, je, je."
 
 # game/pong.rpy:937
 translate spanish mas_pong_dlg_loser_6d0599cc:
@@ -663,7 +663,7 @@ translate spanish mas_pong_dlg_loser_6d0599cc:
 translate spanish mas_pong_dlg_loser_b49d275c:
 
     # m 1hua "I'm glad you won this time, [player]."
-    m 1hua "Me alegra que hayas ganado esta ronda, [player]"
+    m 1hua "Me alegra que hayas ganado esta ronda, [player]."
 
 # game/pong.rpy:946
 translate spanish mas_pong_dlg_loser_e75d99da:
@@ -675,19 +675,19 @@ translate spanish mas_pong_dlg_loser_e75d99da:
 translate spanish mas_pong_dlg_loser_ae4b017c:
 
     # m 2hksdlb "There's no way I could've hit that!"
-    m 2hksdlb "¡No había forma de que hubiera podido acertar!"
+    m 2hksdlb "¡No había forma de que llegara!
 
 # game/pong.rpy:949
 translate spanish mas_pong_dlg_loser_9b13d6ee:
 
     # m 2wuo "Wow, that was a great shot!"
-    m 2wuo "Vaya... ¡ese si que fue un buen tiro!"
+    m 2wuo "Vaya... ¡Ese sí que ha sido un buen tiro!"
 
 # game/pong.rpy:955
 translate spanish mas_pong_dlg_loser_96cc3896:
 
     # m 2wuo "Wow, [player]..."
-    m 2wuo "Cielos, [player]..."
+    m 2wuo "Madre mía, [player]..."
 
 # game/pong.rpy:956
 translate spanish mas_pong_dlg_loser_16aa840b:
@@ -705,7 +705,7 @@ translate spanish mas_pong_dlg_loser_524d358e:
 translate spanish mas_pong_dlg_loser_7cb60571:
 
     # m 4hua "You're pretty good!"
-    m 4hua "¡Si que eres bastante crack!"
+    m 4hua "¡Sí que eres buen[end_letter_gender]!"
 
 # game/pong.rpy:968
 translate spanish mas_pong_dlg_loser_4dcc0335:
@@ -723,7 +723,7 @@ translate spanish mas_pong_dlg_loser_d374c1eb:
 translate spanish mas_pong_dlg_loser_06f0c007:
 
     # m 2hub "That was legendary!"
-    m 2hub "¡Eso fue legendario!"
+    m 2hub "¡Ha sido espectacular!"
 
 # game/pong.rpy:980
 translate spanish mas_pong_dlg_loser_796cf57e:
@@ -759,7 +759,7 @@ translate spanish mas_pong_dlg_loser_a6627fcb:
 translate spanish mas_pong_dlg_loser_a029d538:
 
     # m 2wuo "Wow,{w=0.1} I can't keep up!"
-    m 2wuo "Vaya...{w=0.1} ¡es que no puedo seguirte el paso!"
+    m 2wuo "Vaya...{w=0.1} ¡Es que no puedo seguirte el ritmo!"
 
 # game/pong.rpy:992
 translate spanish mas_pong_dlg_loser_1161d388:
@@ -789,7 +789,7 @@ translate spanish mas_pong_dlg_loser_a946ae02:
 translate spanish mas_pong_dlg_loser_e2e69960:
 
     # m 1rusdlb "I didn't expect to lose this quickly."
-    m 1rusdlb "Nunca imaginé que perdería tan rápido."
+    m 1rusdlb "No me imaginaba que perdería tan rápido."
 
 # game/pong.rpy:1012
 translate spanish mas_pong_dlg_loser_348c1788:
@@ -861,13 +861,13 @@ translate spanish mas_pong_dlg_loser_985307ce:
 translate spanish mas_pong_dlg_loser_138626f7:
 
     # m 2wuo "Wow,{w=0.1} I'm really trying...{w=0.3}you're unstoppable!"
-    m 2wuo "Vaya,{w=0.1} estoy sudando la gota gorda...{w=0.3}¡Eres imbatible!"
+    m 2wuo "Vaya,{w=0.1} estoy sudando la gota gorda... {w=0.3}¡Eres imbatible!"
 
 # game/pong.rpy:1051
 translate spanish mas_pong_dlg_loser_08aba477:
 
     # m 2tfu "But I'm sure I'll beat you sooner or later, [player]."
-    m 2tfu "Pero...no tengo dudas de que tarde o temprano caerás, [player]."
+    m 2tfu "Pero... no tengo dudas de que tarde o temprano caerás, [player]."
 
 # game/pong.rpy:1052
 translate spanish mas_pong_dlg_loser_05f8c059:
@@ -879,7 +879,7 @@ translate spanish mas_pong_dlg_loser_05f8c059:
 translate spanish mas_pong_dlg_loser_bb0138a4:
 
     # m 4hub "You won again! {w=0.2}Nice work!"
-    m 4hub "¡Has ganado de nuevo!{w=0.2}¡Buen trabajo!"
+    m 4hub "¡Has ganado de nuevo!{w=0.2} ¡Bien hecho!"
 
 # game/pong.rpy:1057
 translate spanish mas_pong_dlg_loser_2b4131f9:
@@ -903,7 +903,7 @@ translate spanish mas_pong_dlg_loser_76e718a8:
 translate spanish mas_pong_dlg_loser_f9aeeff9:
 
     # m 1tsu "This is intense!"
-    m 1tsu "¡Esto si que es chungo!"
+    m 1tsu "¡Esto sí que es intenso!"
 
 # game/pong.rpy:1068
 translate spanish mas_pong_dlg_loser_088fd606:
@@ -933,37 +933,37 @@ translate spanish mas_pong_dlg_winner_fast_2606fb83:
 translate spanish mas_pong_dlg_winner_fast_6838f013:
 
     # m 1hua "I had a lot of fun! Let's play again sometime soon, okay?"
-    m 1hua "¡Me la he pasado fantástico! Volvamos a jugar pronto, ¿vale?"
+    m 1hua "¡Me lo he pasado genial! Volvamos a jugar pronto, ¿vale?"
 
 # game/pong.rpy:1093
 translate spanish mas_pong_dlg_loser_end_f64703da:
 
     # m 1wuo "Wow, I was really trying that time."
-    m 1wuo "Vaya...me estaba dejando la piel esta vez."
+    m 1wuo "Vaya... Me estaba dejando la piel esta vez."
 
 # game/pong.rpy:1094
 translate spanish mas_pong_dlg_loser_end_d2e1a7c2:
 
     # m 1eua "You must have really been practicing to get so good."
-    m 1eua "De seguro has estado practicando mucho para alcanzar este nivel de habilidad."
+    m 1eua "Seguro que has estado practicando mucho para alcanzar este nivel de habilidad."
 
 # game/pong.rpy:1095
 translate spanish mas_pong_dlg_loser_end_d6677b26:
 
     # m 2tuu "I guess you wanted to impress me, [player]."
-    m 2tuu "Apuesto que querías impresionarme, [player]. "
+    m 2tuu "Apuesto que querías impresionarme, [player]."
 
 # game/pong.rpy:1096
 translate spanish mas_pong_dlg_loser_end_7219f520:
 
     # m 1hua "You're so sweet~"
-    m 1hua "Ay, eres tan mono."
+    m 1hua "Ay, eres tan mon[end_letter_gender]."
 
 # game/pong.rpy:1101
 translate spanish mas_pong_dlg_winner_end_d5b8a9ec:
 
     # m 4tku "I can't really get excited for a game this simple..."
-    m 4tku "En verdad no me emociona mucho un juego así de simplón..."
+    m 4tku "La verdad es que no me emociona mucho un juego así de simplón..."
 
 # game/pong.rpy:1102
 translate spanish mas_pong_dlg_winner_end_8bbfefee:
@@ -995,7 +995,7 @@ translate spanish strings:
 
     # game/pong.rpy:77
     old "Click to Begin!"
-    new "Haz click para Comenzar."
+    new "Haz clic para comenzar."
 
     # game/pong.rpy:648
     old "Are you letting me win on purpose again?"
@@ -1007,5 +1007,5 @@ translate spanish strings:
 
     # game/pong.rpy:654
     old "...Maybe."
-    new "...Quizá."
+    new "... Quizá."
 
