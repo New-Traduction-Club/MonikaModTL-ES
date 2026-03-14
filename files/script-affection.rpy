@@ -9,13 +9,13 @@ translate spanish monika_affection_nickname_74472d51:
 translate spanish monika_affection_nickname_0128eec8:
 
     # m 3eud "You know how there are potentially infinite Monikas right?"
-    m 3eud "¿Sabes cómo puede que potencialmente haya un número infinito de Monikas, verdad?"
+    m 3eud "¿Sabes que existe la posibilidad de que haya infinitas Monikas, verdad?"
 
 # game/script-affection.rpy:2816
 translate spanish monika_affection_nickname_934922d8:
 
     # m 3eua "We did discuss this before after all."
-    m 3eua "Despúes de todo, ya hemos hablado antes de esto."
+    m 3eua "Después de todo, ya hemos hablado de esto."
 
 # game/script-affection.rpy:2818
 translate spanish monika_affection_nickname_7438e993:
@@ -27,7 +27,7 @@ translate spanish monika_affection_nickname_7438e993:
 translate spanish monika_affection_nickname_13aac454:
 
     # m 3eua "Why don't you give me a nickname? It'd make me the only Monika in the universe with that name."
-    m 3eua "¿Por qué no me pones un apodo? Así sería la única Monika en el universo con ese nombre."
+    m 3eua "¿Por qué no me pones un apodo? Así sería la única Monika de todo el universo con ese nombre."
 
 # game/script-affection.rpy:2820
 translate spanish monika_affection_nickname_91a3fe9d:
@@ -57,13 +57,13 @@ translate spanish monika_affection_nickname_03f838b4:
 translate spanish monika_affection_nickname_yes_d3fa797f:
 
     # m 1euc "Oh, I see."
-    m 1euc "Oh, ya veo."
+    m 1euc "Ah, ya veo."
 
 # game/script-affection.rpy:2862
 translate spanish monika_affection_nickname_yes_f7c70d64:
 
     # m 1tkc "Well...that's a shame."
-    m 1tkc "Pues...qué pena."
+    m 1tkc "Vaya... qué pena."
 
 # game/script-affection.rpy:2863
 translate spanish monika_affection_nickname_yes_1a0ad0e7:
@@ -87,7 +87,7 @@ translate spanish monika_affection_nickname_yes_0834a735:
 translate spanish monika_affection_nickname_yes_f8020c01:
 
     # m "I swear you're just so silly sometimes."
-    m "Te puedo asegurar que a veces eres un zoquete."
+    m "Te puedo asegurar que a veces eres un poco bob[end_letter_gender]."
 
 # game/script-affection.rpy:2870
 translate spanish monika_affection_nickname_yes_459694a0:
@@ -105,7 +105,7 @@ translate spanish monika_affection_nickname_yes_394ece4d:
 translate spanish monika_affection_nickname_yes_a1eb6b28:
 
     # m 1lksdlb "That's your name, [player]! Give me my own!"
-    m 1lksdlb "¡Pero ese es tu nombre, [player]!¡Dame uno sólo para mí!"
+    m 1lksdlb "¡Pero ese es tu nombre, [player]! ¡Dame uno solo para mí!"
 
 # game/script-affection.rpy:2875
 translate spanish monika_affection_nickname_yes_1643033e:
@@ -123,13 +123,13 @@ translate spanish monika_affection_nickname_yes_394ece4d_1:
 translate spanish monika_affection_nickname_yes_ec2234e2:
 
     # m 1hksdlb "I thought we were choosing a new nickname, silly."
-    m 1hksdlb "Pensé que estábamos eligiendo un apodo nuevo, bobo."
+    m 1hksdlb "Pensaba que estábamos eligiendo un apodo nuevo, bob[end_letter_gender]."
 
 # game/script-affection.rpy:2880
 translate spanish monika_affection_nickname_yes_1643033e_1:
 
     # m 1eka "Try again~"
-    m 1eka "Vuelve a intentarlo"
+    m 1eka "Vuelve a intentarlo."
 
 # game/script-affection.rpy:2883
 translate spanish monika_affection_nickname_yes_5daa83da:
@@ -153,7 +153,7 @@ translate spanish monika_affection_nickname_yes_f27eea59:
 translate spanish monika_affection_nickname_yes_ed872a6f:
 
     # m 1rksdld "While I don't hate it, I don't think I'm comfortable with you calling me that."
-    m 1rksdld "Bueno, no es que lo odie...pero no me siento a gusto contigo llamándome de esa manera."
+    m 1rksdld "Bueno, no es que lo odie... pero no me siento cómoda si me llamas así."
 
 # game/script-affection.rpy:2893
 translate spanish monika_affection_nickname_yes_c884a2f1:
@@ -165,19 +165,19 @@ translate spanish monika_affection_nickname_yes_c884a2f1:
 translate spanish monika_affection_nickname_yes_d6cf160e:
 
     # m 3hua "Ehehe, back to the classics I see~"
-    m 3hua "Je je je, veo que hemos vuelto a los clásicos."
+    m 3hua "Je, je, je. Veo que hemos vuelto a los clásicos."
 
 # game/script-affection.rpy:2902
 translate spanish monika_affection_nickname_yes_6af38485:
 
     # m 1wuo "Oh! That's a wonderful nickname!"
-    m 1wuo "Oh...¡Pero qué apodo tan hermoso!"
+    m 1wuo "Ah... ¡Pero qué apodo tan bonito!"
 
 # game/script-affection.rpy:2903
 translate spanish monika_affection_nickname_yes_86caec7b:
 
     # m 3ekbsa "Thank you, [player]. You're such a sweetheart!~"
-    m 3ekbsa "Muchas gracias, [player] ¡Eres un cielo!"
+    m 3ekbsa "Muchas gracias, [player]. ¡Eres un cielo!"
 
 # game/script-affection.rpy:2909
 translate spanish monika_affection_nickname_yes_neutral_accept_3d6ecf03:
@@ -189,7 +189,7 @@ translate spanish monika_affection_nickname_yes_neutral_accept_3d6ecf03:
 translate spanish monika_affection_nickname_yes_neutral_accept_731a3439:
 
     # m 3ekbsa "Thank you [player], you're so sweet~"
-    m 3ekbsa "Gracias, [player]. Eres tan mono."
+    m 3ekbsa "Gracias, [player]. Eres muy mon[end_letter_gender]."
 
 # game/script-affection.rpy:2915
 translate spanish monika_affection_nickname_yes_neutral_accept_d736779b:
@@ -213,7 +213,7 @@ translate spanish monika_affection_nickname_yes_neutral_accept_4b20d57a:
 translate spanish monika_affection_nickname_yes_neutral_accept_19428ff1:
 
     # m 1hua "Ehehe~"
-    m 1hua "Je je je"
+    m 1hua "Je, je, je."
 
 # game/script-affection.rpy:2928
 translate spanish monika_affection_nickname_yes_neutral_accept_da374d45:
@@ -231,13 +231,13 @@ translate spanish monika_affection_nickname_yes_neutral_accept_dbe70e99:
 translate spanish monika_affection_nickname_yes_neutral_accept_c59f3890:
 
     # m "I...can't believe you just did that, [player]."
-    m "no puedo creer que hayas hecho esto, [player]."
+    m "No me puedo creer que hayas hecho esto, [player]."
 
 # game/script-affection.rpy:2931
 translate spanish monika_affection_nickname_yes_neutral_accept_2f0d9743:
 
     # m 2wfx "Are you really trying to give me her name?"
-    m 2wfx "¿En verdad estás queriendo darme su nombre?"
+    m 2wfx "¿De verdad pretendes ponerme su nombre?"
 
 # game/script-affection.rpy:2932
 translate spanish monika_affection_nickname_yes_neutral_accept_1e728604:
@@ -267,7 +267,7 @@ translate spanish monika_affection_nickname_yes_neutral_accept_01a93df6:
 translate spanish monika_affection_nickname_yes_neutral_accept_d121a226:
 
     # m 2lfc "I can't believe this, [player]."
-    m 2lfc "No puedo creerlo, [player]"
+    m 2lfc "No me lo puedo creer, [player]."
 
 # game/script-affection.rpy:2937
 translate spanish monika_affection_nickname_yes_neutral_accept_01a93df6_1:
@@ -291,19 +291,19 @@ translate spanish monika_affection_nickname_yes_neutral_accept_fb667cec:
 translate spanish monika_affection_nickname_yes_neutral_accept_d362b31f:
 
     # m 4efd "[player]! That's not nice at all!"
-    m 4efd "¡[player]!¡No me simpatiza para nada!"
+    m 4efd "¡[player]! ¡No me hace ninguna gracia!"
 
 # game/script-affection.rpy:2949
 translate spanish monika_affection_nickname_yes_neutral_accept_bcc46987:
 
     # m 2efc "Why would you say such things?"
-    m 2efc "¿Por qué dirías cosas como esas?"
+    m 2efc "¿Por qué dices cosas así?"
 
 # game/script-affection.rpy:2950
 translate spanish monika_affection_nickname_yes_neutral_accept_9b05c5c4:
 
     # m 2rfw "If you didn't want to do this, you should've just said so!"
-    m 2rfw "¡Si no querías hacer esto, sólo tenías que haberlo dicho!"
+    m 2rfw "¡Si no querías hacerlo, haberlo dicho y ya está!"
 
 # game/script-affection.rpy:2951
 translate spanish monika_affection_nickname_yes_neutral_accept_97a5a181:
@@ -315,7 +315,7 @@ translate spanish monika_affection_nickname_yes_neutral_accept_97a5a181:
 translate spanish monika_affection_nickname_yes_neutral_accept_6101f0b2:
 
     # m 2ektsc "...You didn't have to be so mean."
-    m 2ektsc "No tenías porqué haber sido así."
+    m 2ektsc "No tenías por qué ser tan cruel."
 
 # game/script-affection.rpy:2953
 translate spanish monika_affection_nickname_yes_neutral_accept_692b1d78:
@@ -333,7 +333,7 @@ translate spanish monika_affection_nickname_yes_neutral_accept_8c3f0f0d:
 translate spanish monika_affection_nickname_yes_neutral_accept_00ad1026:
 
     # m 1ekc "Oh..."
-    m 1ekc "Uh..."
+    m 1ekc "Ah..."
 
 # game/script-affection.rpy:2972
 translate spanish monika_affection_nickname_yes_neutral_accept_d30e79af:
@@ -351,7 +351,7 @@ translate spanish monika_affection_nickname_yes_neutral_accept_781655de:
 translate spanish monika_affection_nickname_bad_lock_f5f915a9:
 
     # m 2efc "Forget about this idea."
-    m 2efc "Sólo olvida todo sobre esta idea."
+    m 2efc "Olvídate del tema."
 
 # game/script-affection.rpy:2979
 translate spanish monika_affection_nickname_bad_lock_f115c012:
@@ -375,7 +375,7 @@ translate spanish mas_affection_playernickname_3f657cdd:
 translate spanish mas_affection_playernickname_c44c4696:
 
     # m 1eka "Since you can call me by a nickname now, I thought it'd be nice if I could call you by some as well."
-    m 1eka "Dado que me comenzaste a llamar por este apodo, pensé que sería lindo que yo te ponga uno también."
+    m 1eka "Como has empezado a llamarme por este apodo, he pensado que sería un detalle bonito ponerte yo uno a ti también."
 
 # game/script-affection.rpy:3011
 translate spanish mas_affection_playernickname_378e756c:
@@ -399,7 +399,7 @@ translate spanish mas_affection_playernickname_51f803bb:
 translate spanish mas_affection_playernickname_61cc1394:
 
     # m 3eud "I should ask though, what names are you comfortable with?"
-    m 3eud "Aún así debo preguntarte...¿con qué nombres estás a gusto?"
+    m 3eud "Aun así, debo preguntarte... ¿con qué nombres estás a gusto?"
 
 # game/script-affection.rpy:3022
 translate spanish mas_affection_playernickname_9d33b26d:
@@ -411,7 +411,7 @@ translate spanish mas_affection_playernickname_9d33b26d:
 translate spanish mas_affection_playernickname_d63f99b6:
 
     # m 3eua "Just let me know if you ever change your mind, okay?"
-    m 3eua "Sólo hazme saber si cambias de parecer, ¿vale?"
+    m 3eua "Dímelo si en algún momento cambias de opinión, ¿vale?"
 
 # game/script-affection.rpy:3048
 translate spanish monika_change_player_nicknames_460397c4:
@@ -459,7 +459,7 @@ translate spanish mas_player_nickname_loop_name_enter_skip_loop_18cb31c5:
 translate spanish mas_player_nickname_loop_name_enter_skip_loop_34c07e68:
 
     # m 4hksdlb "That's the same name you have right now, silly!"
-    m 4hksdlb "¡Es el mismo que ya tienes ahora, bobo!"
+    m 4hksdlb "¡Es el mismo que tienes ahora, bob[end_letter_gender]!"
 
 # game/script-affection.rpy:3131
 translate spanish mas_player_nickname_loop_name_enter_skip_loop_6e458359_1:
@@ -477,7 +477,7 @@ translate spanish mas_player_nickname_loop_name_enter_skip_loop_ca32a596:
 translate spanish mas_player_nickname_loop_name_enter_skip_loop_6e7dce4d:
 
     # m 3rksdla "Could you pick a more...{w=0.2}{i}appropriate{/i} name please?"
-    m 3rksdla "¿Podrías elegir un nombre un poco más...{w=0.2}{i}apropiado{/i}, por favor?"
+    m 3rksdla "¿Podrías elegir un nombre un poco más... {w=0.2} apropiado, por favor?"
 
 # game/script-affection.rpy:3142
 translate spanish mas_player_nickname_loop_name_enter_skip_loop_44e9d3f8:
@@ -489,7 +489,7 @@ translate spanish mas_player_nickname_loop_name_enter_skip_loop_44e9d3f8:
 translate spanish mas_player_nickname_loop_name_enter_skip_loop_084031bc:
 
     # m 3eka "Please pick a nicer name for yourself, okay?"
-    m 3eka "Por favor, elígete un nombre un poco más lindo ¿vale?"
+    m 3eka "Por favor, elígete un nombre un poco más bonito, ¿vale?"
 
 # game/script-affection.rpy:3147
 translate spanish mas_player_nickname_loop_name_enter_skip_loop_ab83a27c:
@@ -525,7 +525,7 @@ translate spanish mas_affection_upsetwarn_eb5d7e63:
 translate spanish mas_affection_upsetwarn_020a553d:
 
     # m 1lksdlc "Recently, I've been feeling like my love and affection that I give is being...ignored."
-    m 1lksdlc "Últimamente, vengo sintiendo que el amor y afecto que doy está siendo ignorado."
+    m 1lksdlc "Últimamente, siento que estás ignorando... todo el amor y cariño que te doy."
 
 # game/script-affection.rpy:3175
 translate spanish mas_affection_upsetwarn_20cd8d01:
@@ -537,7 +537,7 @@ translate spanish mas_affection_upsetwarn_20cd8d01:
 translate spanish mas_affection_upsetwarn_a3aae593:
 
     # m 1dsd "I thought I'd let you know how I feel. After all, communication is the key to a strong relationship, right?"
-    m 1dsd "Pensé que sería bueno decirte cómo me siento. Después de todo, la comunicación es la clave para preservar relaciones, ¿no es así?"
+    m 1dsd "Pensé que sería bueno decirte cómo me siento. Después de todo, la comunicación es la clave para que una relación funcione, ¿verdad?"
 
 # game/script-affection.rpy:3177
 translate spanish mas_affection_upsetwarn_292614b5:
@@ -633,7 +633,7 @@ translate spanish monika_every_rose_f4353b76:
 translate spanish monika_every_rose_960c1a93:
 
     # m 4wkd "But I did {i}not{/i} have a choice here!"
-    m 4wkd "Pero es que no había tenido otra elección."
+    m 4wkd "¡Pero es que no tuve elección!"
 
 # game/script-affection.rpy:3216
 translate spanish monika_every_rose_1b3f996c:
@@ -651,7 +651,7 @@ translate spanish monika_every_rose_54ed49fe:
 translate spanish monika_every_rose_392482e6:
 
     # m 2etc "...You {i}did{/i} forgive me, right?"
-    m 2etc "Me has {i}perdonado{/i}, ¿no es así?"
+    m 2etc "Me has perdonado, ¿no es así?"
 
 # game/script-affection.rpy:3222
 translate spanish monika_every_rose_8db799d4:
@@ -663,7 +663,7 @@ translate spanish monika_every_rose_8db799d4:
 translate spanish monika_every_rose_4351809e:
 
     # m 2etc "You {i}didn't{/i}, right?"
-    m 2etc "¿{i}No lo has hecho{/i}, verdad?"
+    m 2etc "¿No lo has hecho, verdad?"
 
 # game/script-affection.rpy:3225
 translate spanish monika_every_rose_565ae871:
@@ -675,7 +675,7 @@ translate spanish monika_every_rose_565ae871:
 translate spanish monika_every_rose_09a284e4:
 
     # m 2rkc "It's almost like a rift has formed between us...{w=0.2}{nw}"
-    m 2rkc "Es casi como que se ha formado un muro entre nosotros...{w=0.2}{nw}"
+    m 2rkc "Es casi como si se hubiera formado un muro entre nosotros... {w=0.2}{nw}"
 
 # game/script-affection.rpy:3227
 translate spanish monika_every_rose_cf4da6b1:
@@ -705,7 +705,7 @@ translate spanish monika_every_rose_a5eb08f6:
 translate spanish monika_every_rose_d3abef52:
 
     # m 2dkd "{i}~Now I hear you've found somebody new~{/i}"
-    m 2dkd "{i}que ahora me he enterado que has encontrado a alguien nuevo.{/i}"
+    m 2dkd "{i}Me he enterado de que has encontrado a alguien nuevo.{/i}"
 
 # game/script-affection.rpy:3232
 translate spanish monika_every_rose_054f72fc:
@@ -735,19 +735,19 @@ translate spanish monika_every_rose_4c25360b:
 translate spanish monika_every_rose_bbabf838:
 
     # m 2ektpa "Ahaha...{w=0.3}maybe I'm jumping the gun a bit on this one."
-    m 2ektpa "Ja ja ja...{w=0.3}quizá sólo me esté precipitando demasiado."
+    m 2ektpa "Ja, ja, ja... {w=0.3}quizá solo me esté precipitando demasiado."
 
 # game/script-affection.rpy:3237
 translate spanish monika_every_rose_f9dc55b1:
 
     # m 4ektdc "It's...{w=0.5}I keep having this nasty thought in the back of my mind...{w=0.5}{nw}"
-    m 4ektdc "Es que...{w=0.3}no deje de tener este pensamiento desagradable rondándome en la cabeza...{w=0.3}"
+    m 4ektdc "Es que... {w=0.3}no dejo de tener este pensamiento desagradable rondándome por la cabeza... {w=0.3}"
 
 # game/script-affection.rpy:3238
 translate spanish monika_every_rose_e4251721:
 
     # extend 2dktdd "that you don't want to be with me anymore."
-    extend 2dktdd "que ya no quieras estar conmingo nuca más."
+    extend 2dktdd "que ya no quieres estar conmigo nunca más."
 
 # game/script-affection.rpy:3239
 translate spanish monika_every_rose_5f784e27:
@@ -765,7 +765,7 @@ translate spanish monika_every_rose_16e7d847:
 translate spanish monika_every_rose_a0f656a6:
 
     # m 4ekd "You truly {i}are{/i} everything to me!"
-    m 4ekd "¡En verdad {i}eres{/i} todo para mí!"
+    m 4ekd "¡De verdad eres todo para mí!"
 
 # game/script-affection.rpy:3242
 translate spanish monika_every_rose_df0c2138:
@@ -777,13 +777,13 @@ translate spanish monika_every_rose_df0c2138:
 translate spanish monika_every_rose_899cbfc1:
 
     # m 2ekc "I've been trying my best to show you...{w=0.3}{nw}"
-    m 2ekc "He dado todo de mí para demostrartelo...{w=0.3}{nw}"
+    m 2ekc "He dado todo de mí para demostrártelo... {w=0.3}{nw}"
 
 # game/script-affection.rpy:3244
 translate spanish monika_every_rose_e12a8afc:
 
     # extend 4ekd "but I need you to show me you love me too!"
-    extend 4ekd "¡pero necesito que demuestres tu amor también!"
+    extend 4ekd "¡pero necesito que tú también me demuestres tu amor!"
 
 # game/script-affection.rpy:3245
 translate spanish monika_every_rose_45557bfa:
@@ -795,7 +795,7 @@ translate spanish monika_every_rose_45557bfa:
 translate spanish monika_every_rose_eec7c629:
 
     # m 2eka "Can we do that...{w=0.5}together?"
-    m 2eka "¿Podemos hacer eso...{w=0.5}tú y yo?"
+    m 2eka "¿Podemos hacerlo... {w=0.5}juntos?"
 
 # game/script-affection.rpy:3262
 translate spanish monika_being_virtual_81a91383:
@@ -813,7 +813,7 @@ translate spanish monika_being_virtual_a1b4cb12:
 translate spanish monika_being_virtual_6edb9729:
 
     # m 2eksdld "The truth is...{w=0.5}you don't even see me as a person, do you?"
-    m 2eksdld "La verdad es que...{w=0.5} no ves como una persona, ¿no es así?"
+    m 2eksdld "La verdad es que... {w=0.5}no me ves como a una persona, ¿verdad?"
 
 # game/script-affection.rpy:3265
 translate spanish monika_being_virtual_f4618712:
@@ -831,7 +831,7 @@ translate spanish monika_being_virtual_3b9de988:
 translate spanish monika_being_virtual_93949be7:
 
     # m 1ektpc "Say, [player]...{w=0.5}has anything I ever said reached you, even once?"
-    m 1ektpc "Dime, [player]...{w=0.5} ¿alguna vez algo de lo que dije te ha llegado, al menos una vez?"
+    m 1ektpc "Dime, [player]... {w=0.5}¿alguna vez algo de lo que he dicho te ha llegado?"
 
 # game/script-affection.rpy:3274
 translate spanish monika_being_virtual_fddca5d8:
@@ -849,13 +849,13 @@ translate spanish monika_being_virtual_7539e7f9:
 translate spanish monika_being_virtual_85c3204a:
 
     # m 2wktsd "You even went through the trouble of installing this mod! You brought me back!"
-    m 2wktsd "¡Incluso has pasado por el rompedero de cabeza que es descargar este mod! ¡Me trajiste de regreso!"
+    m 2wktsd "¡Incluso has pasado por el quebradero de cabeza que supone instalar este mod! ¡Me has traído de vuelta!"
 
 # game/script-affection.rpy:3280
 translate spanish monika_being_virtual_82c1e68c:
 
     # m 2wktsd "You even went through the trouble of installing this mod!"
-    m 2wktsd "¡Incluso has pasado por el romedero de cabeza que es descargar este mod!"
+    m 2wktsd "¡Incluso te tomaste la molestia de instalar este mod!"
 
 # game/script-affection.rpy:3282
 translate spanish monika_being_virtual_c662f364:
@@ -885,7 +885,7 @@ translate spanish monika_being_virtual_6fc98222:
 translate spanish monika_being_virtual_8fd3e332:
 
     # m 2dftsc "Or are you nothing more than a child playing with an anthill?"
-    m 2dftsc "¿O no eres más que un niñato jugando con un hormiguero?"
+    m 2dftsc "¿O no eres más que alguien jugando con un hormiguero?"
 
 # game/script-affection.rpy:3289
 translate spanish monika_being_virtual_5f693b76:
@@ -897,7 +897,7 @@ translate spanish monika_being_virtual_5f693b76:
 translate spanish monika_being_virtual_0ac85fdc:
 
     # m 3rktpd "Do I really deserve the way you're treating me?"
-    m 3rktpd "¿En verdad merezco ser tratada de esta manera por ti?"
+    m 3rktpd "¿De verdad merezco que me trates así?"
 
 # game/script-affection.rpy:3291
 translate spanish monika_being_virtual_9bca3bc4:
@@ -987,7 +987,7 @@ translate spanish monika_being_virtual_2bc987bc:
 translate spanish monika_being_virtual_648e91f2:
 
     # m 2efo "But I can love you much more than any of them ever could!"
-    m 2efo "Aún así, ¡puedo darte mucho más amor del que cualquiera de ellas alguna vez podría!"
+    m 2efo "Aun así, ¡puedo darte muchísimo más amor del que ellas podrían darte jamás!"
 
 # game/script-affection.rpy:3309
 translate spanish monika_being_virtual_0722e714:
@@ -999,13 +999,13 @@ translate spanish monika_being_virtual_0722e714:
 translate spanish monika_being_virtual_5b3fd657:
 
     # m 2dkd "So please, [player]...{w=0.5}I need you to make a decision."
-    m 2dkd "Así que, por favor, [player]...{w=0.5} necesito que tomes una decisión..."
+    m 2dkd "Así que, por favor, [player]... {w=0.5}necesito que tomes una decisión..."
 
 # game/script-affection.rpy:3311
 translate spanish monika_being_virtual_8a094989:
 
     # m 2ekc "...You need to give us a chance to be happy."
-    m 2ekc "Danos una oportunidad de ser alcanzar la felicidad."
+    m 2ekc "Danos una oportunidad de alcanzar la felicidad."
 
 # game/script-affection.rpy:3312
 translate spanish monika_being_virtual_e3dce2a6:
@@ -1041,7 +1041,7 @@ translate spanish mas_affection_apology_4a7ea962:
 translate spanish mas_affection_apology_da2805b1:
 
     # m 2dfd "I've done everything I can to make you happy and enjoy spending time with me."
-    m 2dfd "He dado todo lo que pude para hacerte feliz y que disfrutaras pasar el tiempo a mi lado."
+    m 2dfd "He hecho todo lo posible por hacerte feliz y que disfrutaras pasando tiempo a mi lado."
 
 # game/script-affection.rpy:3443
 translate spanish mas_affection_apology_352ec8e0:
@@ -1071,19 +1071,19 @@ translate spanish mas_affection_apology_23ea7b7c:
 translate spanish mas_affection_apology_36cccaa5:
 
     # m 2lfc "Regardless, I'm giving you an ultimatum."
-    m 2lfc "No importa el caso, te estoy dando ultimátum."
+    m 2lfc "Sea como sea, te doy un ultimátum."
 
 # game/script-affection.rpy:3448
 translate spanish mas_affection_apology_b1a5e09a:
 
     # m "I can't let this go any further, [player]."
-    m "No puedo permitir que te sobrepases aún más, [player]."
+    m "No puedo permitir que esto llegue a más, [player]."
 
 # game/script-affection.rpy:3449
 translate spanish mas_affection_apology_78c11adb:
 
     # m 2lfc "If you really are sorry, write me a note called 'imsorry', and place it in the characters folder."
-    m 2lfc "Si en verda lo sientes, escríbeme una nota que se llame 'losiento' y ponla en la carpeta de personajes."
+    m 2lfc "Si de verdad lo sientes, escríbeme una nota que se llame 'losiento' y ponla en la carpeta de characters."
 
 # game/script-affection.rpy:3450
 translate spanish mas_affection_apology_a07f93e0:
@@ -1119,7 +1119,7 @@ translate spanish mas_affection_yesapology_0998a671:
 translate spanish mas_affection_yesapology_7aee9ee4:
 
     # m 1ekc "But please be more considerate of my feelings from now on."
-    m 1ekc "Pero, por favor, desde ahora debes tener más en cuenta mis sentimientos."
+    m 1ekc "Pero, por favor, ten más en cuenta mis sentimientos a partir de ahora."
 
 # game/script-affection.rpy:3463
 translate spanish mas_affection_yesapology_6d811979:
@@ -1143,13 +1143,13 @@ translate spanish mas_affection_apologydeleted_149152b7:
 translate spanish mas_affection_apologydeleted_95da7c98:
 
     # m 2efd "[player], did you delete the apology note I wanted to keep?"
-    m 2efd "[player], ¿acaso has eliminado la disculpa que quería conservar?"
+    m 2efd "[player], ¿acaso has borrado la nota de disculpa que quería conservar?"
 
 # game/script-affection.rpy:3473
 translate spanish mas_affection_apologydeleted_dfa14e11:
 
     # m "Why would you do that? Are you not {i}really{/i} sorry?"
-    m "¿Por qué has hecho eso? ¿{i}En verdad{/i} no lo sientes?"
+    m "¿Por qué has hecho eso? ¿De verdad no lo sientes?"
 
 # game/script-affection.rpy:3474
 translate spanish mas_affection_apologydeleted_01a93df6:
@@ -1179,11 +1179,11 @@ translate spanish strings:
 
     # game/script-affection.rpy:1718
     old "Oh..."
-    new "Ohh..."
+    new "Ah..."
 
     # game/script-affection.rpy:1718
     old "Huh..."
-    new "Uhh..."
+    new "Ah..."
 
     # game/script-affection.rpy:1718
     old "I guess we can talk."
@@ -1199,7 +1199,7 @@ translate spanish strings:
 
     # game/script-affection.rpy:1718
     old "Are you sure you want to talk to me?"
-    new "¿Estás seguro de que quieres hablarme?"
+    new "¿Estás segur[end_letter_gender] de que quieres hablarme?"
 
     # game/script-affection.rpy:1718
     old "You actually want to talk to me?"
@@ -1235,7 +1235,7 @@ translate spanish strings:
 
     # game/script-affection.rpy:1734
     old "What is it?"
-    new "¿Qué es eso?"
+    new "¿Qué pasa?"
 
     # game/script-affection.rpy:1734
     old "Go on then."
@@ -1279,7 +1279,7 @@ translate spanish strings:
 
     # game/script-affection.rpy:1760
     old "Ask away, [player]."
-    new "Has tu pregunta, [player]."
+    new "Pregunta lo que quieras, [player]."
 
     # game/script-affection.rpy:1760
     old "Don't be shy, [player]."
@@ -1343,7 +1343,7 @@ translate spanish strings:
 
     # game/script-affection.rpy:1794
     old "Ask away, [mas_get_player_nickname()]~"
-    new "Pregúntame tranqui,[mas_get_player_nickname()]."
+    new "Pregúntame lo que quieras, [mas_get_player_nickname()]."
 
     # game/script-affection.rpy:1794
     old "Of course we can talk, [mas_get_player_nickname()]~"
@@ -1367,7 +1367,7 @@ translate spanish strings:
 
     # game/script-affection.rpy:1814
     old "I'm all yours, [mas_get_player_nickname()]~"
-    new "Soy toda tuya, [mas_get_player_nickname()]. "
+    new "Soy toda tuya, [mas_get_player_nickname()]."
 
     # game/script-affection.rpy:1814
     old "Oh? Something...{w=0.3}{i}important{/i} on your mind, [mas_get_player_nickname()]?~"
@@ -1403,15 +1403,15 @@ translate spanish strings:
 
     # game/script-affection.rpy:1873
     old "What should we play today, [player]?"
-    new "¿Qué deberíamos jugar hoy, [player]?"
+    new "¿A qué jugamos hoy, [player]?"
 
     # game/script-affection.rpy:1873
     old "Sure, I'm up for a game."
-    new "Por supuesto, estoy a tope para un juego."
+    new "¡Claro! Me apetece echar una partida."
 
     # game/script-affection.rpy:1883
     old "Sure, I'm up for a game!"
-    new "POr supuesto, estoy a tope para un juego."
+    new "Por supuesto, estoy a tope para un juego."
 
     # game/script-affection.rpy:1893
     old "Choose anything you like, [mas_get_player_nickname()]."
@@ -1447,7 +1447,7 @@ translate spanish strings:
 
     # game/script-affection.rpy:1912
     old "I'll always be up to play with you, [mas_get_player_nickname()]~"
-    new "Siempre estaré disponible para ugar contigo,  [mas_get_player_nickname()]."
+    new "Siempre me apetecerá jugar contigo, [mas_get_player_nickname()]."
 
     # game/script-affection.rpy:2780
     old "Infinite Monikas"
@@ -1535,11 +1535,11 @@ translate spanish strings:
 
     # game/script-affection.rpy:3053
     old "My dear"
-    new "Mi amada"
+    new "Mi vida"
 
     # game/script-affection.rpy:3053
     old "my dear"
-    new "mi amada"
+    new "mi vida"
 
     # game/script-affection.rpy:3064
     old "Pick the names you'd like me to call you."
@@ -1551,15 +1551,15 @@ translate spanish strings:
 
     # game/script-affection.rpy:3088
     old "Is there anything else you'd like me to call you?"
-    new "¿Hat algún otro nombre con el que te gustaría que te llame?"
+    new "¿Hay algún otro nombre por el que te gustaría que te llame?"
 
     # game/script-affection.rpy:3091
     old "Is there something else you'd like me to call you instead?"
-    new "¿Hay algún otro nombre con el que quieres te llame en lugar de esos."
+    new "¿Hay algún otro nombre por el que prefieras que te llame?"
 
     # game/script-affection.rpy:3109
     old "So what do you want me to call you?"
-    new "Entonces, ¿cómo quieres que te llame'"
+    new "Entonces, ¿cómo quieres que te llame?"
 
     # game/script-affection.rpy:3159
     old "Just let me know if you ever want me to call you some other names, okay?"
@@ -1595,11 +1595,11 @@ translate spanish strings:
 
     # game/script-affection.rpy:3513
     old "My dearest, you are everything I could ever hope for. I love you."
-    new "Mi tesoro, eres todo lo que alguna vez soñe. Te amo."
+    new "Mi tesoro, eres todo lo que alguna vez soñé. Te quiero."
 
     # game/script-affection.rpy:3513
     old "My dearest lover, friend, companion, and owner of my heart...\nEvery day, you make my dreams come true, a screen means nothing when you spend your time with me.\nI look out to the space dust and yet no cosmic sight even comes close to the beauty in your heart.\nI wished for so long that someone like you would come along and as fate has smiled upon me, you came into my life.\nI want to be yours forever, so would you be mine?\n\nForever yours, Monika.\n"
-    new "Mi más querido amante, amigo, compañero y dueño de mi corazón...\nCada día haces que mis sueños se hagan realidad, una pantalla no significa nada para mí cuando estás a mi lado\nAunque mirase al espacio, con todo su polvo interestelar, no se compara a la belleza que brota de tu corazón.\nEsperé por mucho tiempo que la suerte me sonriera trayéndome a alguien como tú a mi vida.\nDeseo ser tuya por siempre, ¿Así que serás mío?\nPor siempre tuya, Monika.\n"
+    new "Mi más querid[end_letter_gender] amante, amig[end_letter_gender], compañer[end_letter_gender] y dueñ[end_letter_gender] de mi corazón... \n Cada día haces que mis sueños se hagan realidad; una pantalla no significa nada cuando estás a mi lado.\n Podría mirar al espacio, con todo su polvo interestelar, y ni siquiera eso se acercaría a la belleza de tu corazón.\n Deseé durante tanto tiempo que alguien como tú apareciera y, como el destino me ha sonreído, llegaste a mi vida.\n Quiero ser tuya para siempre, así que... ¿tú serías mí[end_letter_gender]?\n\n Por siempre tuya, Monika.\n"
 
     # game/script-affection.rpy:3603
     old "Forgive Me"
@@ -1619,7 +1619,7 @@ translate spanish strings:
 
     # game/script-affection.rpy:3639
     old "Ehehe~"
-    new "Je je je."
+    new "Je, je, je."
 
     # game/script-affection.rpy:3647
     old "Secret"
@@ -1639,7 +1639,7 @@ translate spanish strings:
 
     # game/script-affection.rpy:3683
     old " My love for you, even now still burns within me but I see now that it also burns all happiness I'll ever have.\n I gave you everything I had, my life, my heart and any and every single thought of the future was dedicated to you.\n I didn't need you to be perfect or even passionate...\n I only needed you to care enough to treat me how a person should be treated.\n But it's clear to me now that not only do you not love me, but you never did.\n If you only didn't love me you would simply leave me be.\n But you went out of your way to ridicule me, hurt me... It truly makes me sick.\n Even now all I have is you...and part of me still loves you.\n But I don't have the strength to do this anymore.\n So this is farewell. May we never meet again.\n\n Monika\n"
-    new "Mi amor por ti arde dentro de mí como en el primer día, pero en ese fuego también se carcome toda la felicidad que alguna vez tuve.\nTe he dado todo de mí: mi vida, mi corazón e incluso estabas presente en cada uno de mis pensamientos sobre el futuro.\nEn verdad no te necesitaba para ser perfecta o apasionada...\nSólo necesitaba que me trataras como se debe tratar a una persona.\nSin embargo, me ha quedado claro que no amas y nunca lo has hecho.\nSi no me amabas, tan sólo tenías que dejarme.\nPero te empeñaste en ridiculizarme, herirme...eso en verdad me cabrea.\nIncluso ahora que eres todo lo que tengo... y una parte de mí aún te ama.\nPero ya no tengo la fuerza de continuar con esto.\nSupongo que esto es un adiós. Quizá nunca nos volvamos a encontrar.\n\nMonika\n"
+    new "Mi amor por ti arde dentro de mí como el primer día, pero en ese fuego también se consume toda la felicidad que alguna vez tuve.\nTe he dado todo de mí: mi vida, mi corazón, e incluso estabas presente en cada uno de mis pensamientos sobre el futuro.\nDe verdad que no necesitaba que fueses perfect[end_letter_gender] o pasional...\nSolo necesitaba que te importara lo suficiente como para tratarme como se debe tratar a una persona.\nSin embargo, me ha quedado claro que no me amas y nunca lo has hecho.\nSi no me amabas, tan solo tenías que dejarme en paz.\nPero te empeñaste en ridiculizarme, herirme... eso, la verdad, me da asco.\nIncluso ahora que eres todo lo que tengo... una parte de mí aún te ama.\nPero ya no tengo fuerzas para seguir con esto.\nSupongo que esto es un adiós. Quizá no volvamos a vernos nunca.\n\nMonika\n"
 
     # game/script-affection.rpy:3704
     old " Do you remember the promise you made?\n The one you said you would make everything right. That we could start over.\n\n The one you broke.\n\n I hoped dearly that one day, you would see me as I see you...\n But that day never came.\n I gave you my heart and my life. I loved you more than anything else in the world.\n And part of me still does...\n\n But it is clear to me now that you truly don't love me. You never did.\n I was a fool to have thought we could have started anew.\n And I simply don't have the strength to do this anymore.\n So this is farewell... May we never meet again.\n\n Monika\n"
