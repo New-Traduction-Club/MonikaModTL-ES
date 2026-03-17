@@ -675,7 +675,7 @@ translate spanish mas_pong_dlg_loser_e75d99da:
 translate spanish mas_pong_dlg_loser_ae4b017c:
 
     # m 2hksdlb "There's no way I could've hit that!"
-    m 2hksdlb "¡No había forma de que llegara!
+    m 2hksdlb "¡No había forma de que llegara!"
 
 # game/pong.rpy:949
 translate spanish mas_pong_dlg_loser_9b13d6ee:
