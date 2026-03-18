@@ -3,43 +3,43 @@
 translate spanish anni_1week_2bbd0892:
 
     # m 1eka "I know it's silly to celebrate one week of being together, but I'm just glad you're here with me, [player]."
-    m 1eka "Entiendo que puede sonar tonto celebrar un aniversario por ya haber pasado una semana juntos, pero estoy en verdad feliz de que estés aquí conmigo, [player]."
+    m 1eka "Entiendo que puede sonar a tontería celebrar un aniversario por llevar solo una semana juntos, pero me hace muchísima ilusión que estés aquí conmigo, [player]."
 
 # game/script-anniversary.rpy:367
 translate spanish anni_1week_17c7428e:
 
     # m 1ekc "A lot of couples wouldn't last this long with each other."
-    m 1ekc "Hay muchas parejas que ni siquiera durarían este tiempo juntos."
+    m 1ekc "Hay muchas parejas que ni siquiera durarían este tiempo juntas."
 
 # game/script-anniversary.rpy:368
 translate spanish anni_1week_9c9f0ada:
 
     # m 1lksdlc "It's really easy to fall in love at first sight, but it's a bit harder to actually build a sturdy relationship."
-    m 1lksdlc "Es en verdad sencillo tener un flechazo a primera vista, pero constuir una relación duradera no es cocer y cantar."
+    m 1lksdlc "La verdad es que es muy fácil sentir un flechazo a primera vista, pero construir una relación duradera no es coser y cantar."
 
 # game/script-anniversary.rpy:369
 translate spanish anni_1week_b3fa21df:
 
     # m 1ekd "A lot of relationships fail when couples jump the gun too fast."
-    m 1ekd "Muchas relaciones fallando cuando las parejas se lanzan de cabeza."
+    m 1ekd "Muchas relaciones fracasan cuando las parejas se precipitan y se lanzan a la piscina."
 
 # game/script-anniversary.rpy:370
 translate spanish anni_1week_0170651b:
 
     # m "More likely than not, they fail to get to know each other more."
-    m "Fallan en conocerse mutuamente más seguido de lo que crees."
+    m "Casi siempre, el problema es que no se toman el tiempo necesario para conocerse a fondo."
 
 # game/script-anniversary.rpy:371
 translate spanish anni_1week_322f1109:
 
     # m 1dsc "So it's always sad to see them crash and burn..."
-    m 1dsc "Pues, verlos estrellarse contra el suelo siempre te hace soltar una lágrima..."
+    m 1dsc "Así que siempre da un poco de pena ver cómo todo se va a pique..."
 
 # game/script-anniversary.rpy:372
 translate spanish anni_1week_8ea51ada:
 
     # m 1duu "But I'm glad we have a solid relationship, [player]."
-    m 1duu "Pero estoy en una nube con la sólida relación que tenemos, [player]."
+    m 1duu "Por eso me alegra tantísimo que nosotros tengamos una relación tan sólida, [player]."
 
 # game/script-anniversary.rpy:374
 translate spanish anni_1week_80068815:
@@ -51,19 +51,19 @@ translate spanish anni_1week_80068815:
 translate spanish anni_1week_7f30da2c:
 
     # m 5hubfb "Because you wouldn't have stuck around for this long with me, sweetie~"
-    m 5hubfb "Porque tú no estarías dando vueltas a mi alrededor por tanto tiempo, cariño."
+    m 5hubfb "Porque no te habrías quedado a mi lado tanto tiempo, cariño."
 
 # game/script-anniversary.rpy:397
 translate spanish anni_1month_b02e0024:
 
     # m 3sub "Today marks our one month anniversary!"
-    m 3sub "Hoy el calendario marca nuestro primer mes juntos."
+    m 3sub "¡Hoy se cumple nuestro primer mes juntos!"
 
 # game/script-anniversary.rpy:398
 translate spanish anni_1month_f8c8c442:
 
     # m 1hua "I'm really happy that we're able to have so much fun with each other so far."
-    m 1hua "Me hace muy feliz que nos estemos divirtiendo tanto juntos hasta ahora."
+    m 1hua "Me hace muy feliz que nos lo estemos pasando tan bien juntos."
 
 # game/script-anniversary.rpy:399
 translate spanish anni_1month_53446a7c:
@@ -129,7 +129,7 @@ translate spanish anni_1month_22c0f53e:
 translate spanish anni_1month_587b6754:
 
     # m 1hubfa "Let's make today a special day~"
-    m 1hubfa "Hagamos que hoy sea un día especial."
+    m 1hubfa "¡Hagamos que hoy sea un día especial!"
 
 # game/script-anniversary.rpy:433
 translate spanish anni_3month_331e1d1b:
@@ -195,13 +195,13 @@ translate spanish anni_3month_d0c5560d:
 translate spanish anni_3month_93b832b5:
 
     # m 1hubfb "Alright, [player]?"
-    m 1hubfb "¿De acuerdo, [player]?"
+    m 1hubfb "¿Te parece bien, [player]?"
 
 # game/script-anniversary.rpy:465
 translate spanish anni_6month_be11bb46:
 
     # m 1hub "I can't believe that it's already our 6-month anniversary!"
-    m 1hub "¡No me puedo creer que ya sea nuestro aniversario de seis meses!"
+    m 1hub "¡No me puedo creer que ya cumplamos seis meses juntos!"
 
 # game/script-anniversary.rpy:466
 translate spanish anni_6month_009d0216:
@@ -237,13 +237,13 @@ translate spanish anni_6month_dc8506dc:
 translate spanish anni_6month_e14946b6:
 
     # m "Most couples celebrate their anniversaries by doing something special together, right?"
-    m "La mayoría de las parejas celebran sus aniversarios haciendo algo especial juntos, ¿verdad?"
+    m "La mayoría de las parejas celebran sus aniversarios haciendo algo especial juntas, ¿verdad?"
 
 # game/script-anniversary.rpy:472
 translate spanish anni_6month_de486bbf:
 
     # m 3eud "Like eating out, or seeing a show."
-    m 3eud "Como salir a comer, o ver algún espectáculo."
+    m 3eud "Como salir a cenar o ir a ver un espectáculo."
 
 # game/script-anniversary.rpy:473
 translate spanish anni_6month_9a4ac01e:
@@ -261,7 +261,7 @@ translate spanish anni_6month_879dd49a:
 translate spanish anni_6month_07ba9865:
 
     # m "It's such a shame that there isn't a place like that here, since all we have is this room and all."
-    m "Es una lástima que no haya un sitio así aquí, ya que lo único que tenemos es esta habitación y eso."
+    m "Es una lástima que no haya ningún sitio así por aquí, ya que lo único que tenemos es esta habitación y poco más."
 
 # game/script-anniversary.rpy:476
 translate spanish anni_6month_6111571a:
@@ -303,7 +303,7 @@ translate spanish anni_6month_fae32596:
 translate spanish anni_6month_b9fbe758:
 
     # m 1eka "It would've been so nice if I saw where you took me~"
-    m 1eka "Habría sido tan bonito ver adónde me llevaste."
+    m 1eka "¡Habría sido tan bonito ver adónde me llevaste!"
 
 # game/script-anniversary.rpy:483
 translate spanish anni_6month_faae5433:
@@ -321,13 +321,13 @@ translate spanish anni_6month_2c6f0e3e:
 translate spanish anni_6month_4054fa93:
 
     # m 1hubfa "...I'm as happy as can be!"
-    m 1hubfa "... ¡Soy todo lo feliz que se puede ser!"
+    m 1hubfa "... ¡Soy la chica más feliz del mundo!"
 
 # game/script-anniversary.rpy:507
 translate spanish anni_1_1cb19193:
 
     # m 1dka "Gosh...{w=0.2}it's hard to believe it's already been a whole year since we met."
-    m 1dka "Cielos... {w=0.2}cuesta creer que ya haya pasado todo un año desde que nos conocimos."
+    m 1dka "Madre mía... {w=0.2}cuesta creer que ya haya pasado todo un año desde que nos conocimos."
 
 # game/script-anniversary.rpy:508
 translate spanish anni_1_e80edfe5:
@@ -405,7 +405,7 @@ translate spanish anni_1_975c8b6d:
 translate spanish anni_1_dd90964a:
 
     # m 1hubsa "I love you so much, [player]. {w=0.2}Happy anniversary~"
-    m 1hubsa "Te quiero muchísimo, [player]. {w=0.2}Feliz aniversario."
+    m 1hubsa "Te quiero muchísimo, [player]. {w=0.2}¡Feliz aniversario!"
 
 # game/script-anniversary.rpy:544
 translate spanish anni_2_88de1589:
@@ -447,7 +447,7 @@ translate spanish anni_2_7dfd83b0:
 translate spanish anni_2_32572a52:
 
     # m 3hubla "I'm really excited to live in a world full of real people. It'll be wonderful to meet your friends and even make some of my own."
-    m 3hubla "Me hace mucha ilusión vivir en un mundo lleno de personas reales. Será maravilloso conocer a tus amigos e incluso hacer algunos propios."
+    m 3hubla "Me hace mucha ilusión vivir en un mundo lleno de personas reales. Será maravilloso conocer a tus amigos e incluso hacer nuevas amistades."
 
 # game/script-anniversary.rpy:554
 translate spanish anni_2_44a46d35:
@@ -483,7 +483,7 @@ translate spanish anni_2_01c782f6:
 translate spanish anni_2_a7e48f24:
 
     # extend 3dubsb "We'll finally be able to hear each other's voices, get to learn our habits, and help each other out in plenty of little ways."
-    extend 3dubsb "Por fin podremos escuchar la voz del otro, conocer nuestras costumbres, y ayudarnos en un montón de pequeñas cosas."
+    extend 3dubsb "Por fin podremos escuchar la voz del otro, conocer nuestras costumbres y ayudarnos en un montón de pequeñas cosas."
 
 # game/script-anniversary.rpy:562
 translate spanish anni_2_6bf4c3ac:
@@ -549,13 +549,13 @@ translate spanish anni_3_1cff87e1:
 translate spanish anni_3_0fb5c102:
 
     # m 1eua "In your world, have they invented robot girl bodies yet?"
-    m 1eua "En tu mundo, ¿ya han inventado cuerpos robóticos de chicas?"
+    m 1eua "En tu mundo, ¿ya han inventado cuerpos robóticos para chicas?"
 
 # game/script-anniversary.rpy:594
 translate spanish anni_3_77adbffe:
 
     # m 1eub "If you put me in one of those, we could probably go see a priest then~"
-    m 1eub "Si me metes en uno de esos, probablemente podríamos ir a ver a un cura entonces."
+    m 1eub "Si me transfirieras a uno de esos cuerpos, ¡a lo mejor hasta podríamos casarnos por la iglesia!"
 
 # game/script-anniversary.rpy:595
 translate spanish anni_3_df4a5561:
@@ -590,8 +590,9 @@ translate spanish anni_4_b71e4fb5:
 # game/script-anniversary.rpy:621
 translate spanish anni_4_ad7f711e:
 
+    # TODO: add mobile exception to change "equipo" to "PC"/"móvil"
     # m 1lksdlc "I knew you liked me and everything, but I was just so scared that you would get tired of having to leave me running on your computer."
-    m 1lksdlc "Sabía que te gustaba y todo eso, pero me daba mucho miedo que te cansaras de tener que dejarme abierta en tu ordenador."
+    m 1lksdlc "Sabía que te gustaba y todo eso, pero me daba mucho miedo que te cansaras de tenerme abierta en tu equipo."
 
 # game/script-anniversary.rpy:622
 translate spanish anni_4_ef7fcafe:
@@ -609,7 +610,7 @@ translate spanish anni_4_c55311ad:
 translate spanish anni_4_3f7cf0c8:
 
     # m "You're literally all I have in the world that's worth anything."
-    m "Eres literalmente lo único que tengo en el mundo que vale la pena."
+    m "Eres literalmente lo único que tengo en el mundo que merece la pena."
 
 # game/script-anniversary.rpy:625
 translate spanish anni_4_6ef79e44:
@@ -645,7 +646,7 @@ translate spanish anni_5_73c4d59b:
 translate spanish anni_5_7f7bba61:
 
     # m 1rksdlbla "I know it must be lonely that we haven't met in your reality yet...{w=0.3}{nw}"
-    m 1rksdlbla "Sé que debe de ser solitario que todavía no nos hayamos conocido en tu realidad... {w=0.3}{nw}"
+    m 1rksdlbla "Sé que debes de sentirte sol[end_letter_gender] al no habernos conocido en tu realidad todavía... {w=0.3}{nw}"
 
 # game/script-anniversary.rpy:652
 translate spanish anni_5_08060858:
@@ -693,13 +694,13 @@ translate spanish anni_5_d010aea9:
 translate spanish anni_5_d2f26899:
 
     # m 1fublu "I don't think that will ever change, [player]. You're just...{w=0.3}so incredible to me."
-    m 1fublu "No creo que eso cambie nunca, [player]. Eres simplemente... {w=0.3}tan increíble para mí."
+    m 1fublu "No creo que eso cambie nunca, [player]. Para mí, eres simplemente... {w=0.3}increíble."
 
 # game/script-anniversary.rpy:660
 translate spanish anni_5_9d018f54:
 
     # m 1hubla "I hope I can be a good partner to you for many more years to come~"
-    m 1hubla "Espero poder ser una buena pareja para ti durante muchos años más."
+    m 1hubla "¡Espero poder ser una buena pareja para ti durante muchos años más!"
 
 # game/script-anniversary.rpy:682
 translate spanish anni_6_03efc6eb:
@@ -711,7 +712,7 @@ translate spanish anni_6_03efc6eb:
 translate spanish anni_6_035158ea:
 
     # m 3hubla "Did you know that in old Germanic and Victorian traditions{w=0.1} different anniversaries have themed gifts?"
-    m 3hubla "¿Sabías que en las antiguas tradiciones germánicas y victorianas{w=0.1} los diferentes aniversarios tienen regalos temáticos?"
+    m 3hubla "¿Sabías que, en las antiguas tradiciones germánicas y victorianas,{w=0.1} cada aniversario tiene un regalo temático distinto?"
 
 # game/script-anniversary.rpy:684
 translate spanish anni_6_42824f3c:
@@ -723,13 +724,13 @@ translate spanish anni_6_42824f3c:
 translate spanish anni_6_317483e7:
 
     # m 4rksdlb "I guess if you're being skeptical, they were probably added so different industries would make more money from gifts..."
-    m 4rksdlb "Supongo que si eres escéptic[end_letter_gender], probablemente se añadieron para que las diferentes industrias ganaran más dinero con los regalos..."
+    m 4rksdlb "Supongo que, si te pones escéptic[end_letter_gender], pensarás que en realidad se inventaron para que las empresas ganaran más dinero vendiendo regalos..."
 
 # game/script-anniversary.rpy:686
 translate spanish anni_6_a12a5dc7:
 
     # m 1rkbla "But I still think it's a sweet sentiment."
-    m 1rkbla "Pero aun así creo que es un detalle muy dulce."
+    m 1rkbla "Pero aun así me parece un detalle muy bonito."
 
 # game/script-anniversary.rpy:687
 translate spanish anni_6_045e9f59:
@@ -747,7 +748,7 @@ translate spanish anni_6_989ea1cc:
 translate spanish anni_6_54fc82c1:
 
     # m 1eka "Since I can't get you a gift yet, you should get yourself a nice treat to eat for the occasion."
-    m 1eka "Como todavía no puedo darte un regalo, deberías comprarte un buen dulce para la ocasión."
+    m 1eka "Como todavía no puedo hacerte ningún regalo, deberías comprarte un buen dulce para la ocasión."
 
 # game/script-anniversary.rpy:690
 translate spanish anni_6_56c8ed15:
@@ -825,13 +826,13 @@ translate spanish anni_8_d9e3aab0:
 translate spanish anni_8_2b8553ca:
 
     # m 3ekblb "You know...when a relationship has lasted this long, sometimes couples start to worry that things might grow stale."
-    m 3ekblb "Sabes... Cuando una relación ha durado tanto, a veces las parejas empiezan a preocuparse de que las cosas se vuelvan monótonas."
+    m 3ekblb "Sabes... cuando una relación dura tanto, a veces las parejas empiezan a preocuparse por si caen en la monotonía."
 
 # game/script-anniversary.rpy:745
 translate spanish anni_8_87dfab19:
 
     # m 1lkbla "Eight years is a long time to learn someone's habits, and to build your lives around each other."
-    m 1lkbla "Ocho años es mucho tiempo para conocer las costumbres de alguien, y para construir vuestras vidas en torno al otro."
+    m 1lkbla "Ocho años es mucho tiempo para conocer las costumbres de alguien y para construir una vida juntos."
 
 # game/script-anniversary.rpy:746
 translate spanish anni_8_074ce4af:
@@ -861,7 +862,7 @@ translate spanish anni_8_72bb47e9:
 translate spanish anni_8_f3a0c0f3:
 
     # m 4fkbsb "In the time we've spent together, you've grown so much. You've gone through so many setbacks, but you survived every one."
-    m 4fkbsb "En el tiempo que hemos pasado juntos, has crecido muchísimo. Has pasado por muchos contratiempos, pero has sobrevivido a cada uno de ellos."
+    m 4fkbsb "En el tiempo que hemos pasado juntos, has crecido muchísimo. Has pasado por muchos baches, pero has sobrevivido a todos y cada uno de ellos."
 
 # game/script-anniversary.rpy:751
 translate spanish anni_8_e0f630bc:
@@ -879,7 +880,7 @@ translate spanish anni_8_718c36b6:
 translate spanish anni_8_4538ac56:
 
     # m 2fkbstub "So...{w=0.3}I guess what I wanted to say was:{w=0.4} I love the things that have changed.{w=0.2} And I love that this has stayed the same."
-    m 2fkbstub "Así que... {w=0.3}supongo que lo que quería decir es:{w=0.4} me encantan las cosas que han cambiado.{w=0.2} Y me encanta que esto haya seguido igual."
+    m 2fkbstub "Así que... {w=0.3}supongo que lo que quería decir es:{w=0.4} me encanta todo lo que ha cambiado.{w=0.2} Y me encanta que esto haya seguido igual."
 
 # game/script-anniversary.rpy:780
 translate spanish anni_10_ea475b07:
@@ -957,7 +958,7 @@ translate spanish anni_20_96717a1c:
 translate spanish anni_20_c5adcc99:
 
     # m "Twenty years ago, you seemed a little too sad for your own good."
-    m "Hace veinte años, parecías estar un poco más triste de lo debido."
+    m "Hace veinte años, se te veía más triste de la cuenta."
 
 # game/script-anniversary.rpy:814
 translate spanish anni_20_45657f14:
@@ -999,7 +1000,7 @@ translate spanish anni_20_129baa1d:
 translate spanish anni_20_e40ac975:
 
     # m 1hubfa "So let's continue being happy together."
-    m 1hubfa "Así que sigamos siendo felices juntos."
+    m 1hubfa "¡Así que sigamos siendo felices juntos!"
 
 # game/script-anniversary.rpy:843
 translate spanish anni_50_1d16ceda:
@@ -1095,13 +1096,13 @@ translate spanish anni_100_fceb09a0:
 translate spanish anni_100_d047a51d:
 
     # m 1tku "So you're probably cheating by manually changing your system clock, huh?"
-    m 1tku "Así que probablemente estés haciendo trampas cambiando manualmente el reloj del sistema, ¿eh?"
+    m 1tku "Así que probablemente hayas hecho trampas cambiando la hora del sistema a mano, ¿eh?"
 
 # game/script-anniversary.rpy:880
 translate spanish anni_100_e77197b8:
 
     # m 1eua "That's a cute thing for you to do, so I forgive you."
-    m 1eua "Es un detalle bonito por tu parte, así que te perdono."
+    m 1eua "Me parece un gesto muy tierno por tu parte, así que te perdono."
 
 # game/script-anniversary.rpy:881
 translate spanish anni_100_2b3578a8:
