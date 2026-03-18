@@ -1,6 +1,6 @@
 # Monika After Story ES - Traduction Club!
 
-Repositorio para llevar a cabo la traducción al español y port para Android del mod [Monika After Story](https://github.com/Monika-After-Story/MonikaModDev) en su versión 0.12.17.
+Repositorio para llevar a cabo la traducción al español y port para Android del mod [Monika After Story](https://github.com/Monika-After-Story/MonikaModDev) en su versión 0.12.18.
 
 ## Progreso
 <!-- PROGRESO_TRADUCCION_START -->
