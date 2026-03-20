@@ -225,7 +225,7 @@ translate spanish monika_idle_shower_ca2a68da:
 translate spanish monika_idle_shower_4758d949:
 
     # m 3tubsb "Are you shy, [player]?"
-    m 3tubsb "¿Eres tímid[end_letter_gender]..."
+    m 3tubsb "¿Eres tímid[end_letter_gender], [player]?"
 
 # game/script-brbs.rpy:408
 translate spanish monika_idle_shower_3aa0a1ce:
@@ -327,7 +327,7 @@ translate spanish monika_idle_shower_callback_65ec3015:
 translate spanish monika_idle_shower_callback_2ca5e984:
 
     # m 3duu "Sometimes it can be nice just to feel the water rushing over you...{w=0.3}it can be really soothing."
-    m 3duu "A veces es agradable sentir el agua correr sobre ti... {w=0.3}puede ser muy relajante."
+    m 3duu "A veces es agradable sentir cómo el agua resbala por tu cuerpo... {w=0.3}puede ser muy relajante."
 
 # game/script-brbs.rpy:450
 translate spanish monika_idle_shower_callback_5a677e53:
@@ -369,7 +369,7 @@ translate spanish monika_idle_shower_callback_f786f3b6:
 translate spanish monika_idle_shower_callback_96c8d207:
 
     # m 3eub "Now we can get back to having some good, {i}clean{/i} fun together..."
-    m 3eub "Ahora podemos volver a divertirnos de forma sana y 'limpia' juntos..."
+    m 3eub "Ahora podemos volver a divertirnos juntos de forma sana y bien limpia..."
 
 # game/script-brbs.rpy:468
 translate spanish monika_idle_shower_callback_3772217d_1:
@@ -423,7 +423,7 @@ translate spanish bye_brb_shower_timeout_d81c1322:
 translate spanish bye_brb_shower_timeout_2d049f90:
 
     # m 3tubfu "Nevermind that, [player]."
-    m 3tubfu "No importa, [player]."
+    m 3tubfu "No me hagas caso, [player]."
 
 # game/script-brbs.rpy:491
 translate spanish bye_brb_shower_timeout_e2b36ef4:
@@ -483,7 +483,7 @@ translate spanish monika_idle_game_callback_7e8855b1:
 translate spanish monika_idle_game_callback_da04dd6f:
 
     # m 1eua "I hope you had fun with your game."
-    m 1eua "Espero que te hayas divertido con tu juego."
+    m 1eua "Espero que te lo hayas pasado bien jugando."
 
 # game/script-brbs.rpy:550
 translate spanish monika_idle_game_callback_0939811d:
@@ -693,7 +693,7 @@ translate spanish monika_idle_workout_callback_32919a77:
 translate spanish monika_idle_workout_callback_d74a4f23:
 
     # extend 2eub " That must've been one heck of a workout."
-    extend 2eub " Debe de haber sido menudo entrenamiento."
+    extend 2eub " Seguro que te has dado una buena paliza entrenando."
 
 # game/script-brbs.rpy:685
 translate spanish monika_idle_workout_callback_78641bd0:
@@ -759,7 +759,7 @@ translate spanish monika_idle_workout_callback_d4bc6dc9:
 translate spanish monika_idle_workout_callback_7e531da5:
 
     # m 3eua "Make sure to rest properly and maybe get a snack to get some energy back."
-    m 3eua "Asegúrate de descansar bien y quizás comer algo para recuperar energía."
+    m 3eua "Asegúrate de descansar bien y a lo mejor picar algo para recuperar fuerzas."
 
 # game/script-brbs.rpy:711
 translate spanish monika_idle_workout_callback_5d17f0c3:
@@ -831,7 +831,7 @@ translate spanish monika_idle_nap_callback_72fc3856:
 translate spanish monika_idle_nap_callback_d449c829:
 
     # m 7rksdlb "When you said you were going to take a nap, I was expecting you take maybe an hour or two..."
-    m 7rksdlb "Cuando dijiste que ibas a echarte una siesta, esperaba que tardaras quizás una o dos horas..."
+    m 7rksdlb "Cuando dijiste que ibas a echarte una siesta, pensé que dormirías un par de horas a lo sumo..."
 
 # game/script-brbs.rpy:764
 translate spanish monika_idle_nap_callback_b60c71ce:
@@ -885,7 +885,7 @@ translate spanish monika_idle_nap_callback_357e6e6e:
 translate spanish monika_idle_nap_callback_e25de71e:
 
     # m 1eub "I hope you had a nice little nap."
-    m 1eub "Espero que hayas tenido una buena siestecita."
+    m 1eub "Espero que te hayas echado una buena siestecita."
 
 # game/script-brbs.rpy:777
 translate spanish monika_idle_nap_callback_894fd06e:
@@ -969,13 +969,13 @@ translate spanish monika_idle_homework_callback_0ae80891:
 translate spanish monika_idle_homework_callback_5692408a:
 
     # m 2ekc "I wish I could've been there to help you, but there isn't much I can do about that just yet, sadly."
-    m 2ekc "Ojalá hubiera podido estar ahí para ayudarte, pero por desgracia no hay mucho que pueda hacer al respecto todavía."
+    m 2ekc "Ojalá hubiera podido estar ahí para ayudarte, pero me temo que por ahora no hay mucho que pueda hacer al respecto."
 
 # game/script-brbs.rpy:833
 translate spanish monika_idle_homework_callback_b419de91:
 
     # m 7eua "I'm sure we could both be a lot more efficient doing homework if we could work together."
-    m 7eua "Seguro que ambos seríamos mucho más eficientes haciendo los deberes si pudiéramos trabajar juntos."
+    m 7eua "Seguro que l[end_letter_gender]s dos seríamos mucho más eficientes haciendo los deberes si pudiéramos trabajar junt[end_letter_gender]s."
 
 # game/script-brbs.rpy:836
 translate spanish monika_idle_homework_callback_687523a0:
@@ -1059,7 +1059,7 @@ translate spanish monika_idle_working_callback_f1324778:
 translate spanish monika_idle_working_callback_4a3ac37f:
 
     # m 2euc "Oh, you're back..."
-    m 2euc "Oh, has vuelto..."
+    m 2euc "Ah, has vuelto..."
 
 # game/script-brbs.rpy:893
 translate spanish monika_idle_working_callback_e9650808:
@@ -1107,7 +1107,7 @@ translate spanish monika_idle_screen_break_bc883049:
 translate spanish monika_idle_screen_break_4bbad782:
 
     # m 3eua "Why not take the opportunity to do a few stretches as well, hmm?"
-    m 3eua "¿Por qué no aprovechas para hacer unos estiramientos también, mmm?"
+    m 3eua "¿Por qué no aprovechas para estirar un poco también, ¿eh?"
 
 # game/script-brbs.rpy:935
 translate spanish monika_idle_screen_break_b8e1bb9e:
@@ -1167,7 +1167,7 @@ translate spanish monika_idle_screen_break_callback_e5dd285f:
 translate spanish monika_idle_screen_break_callback_7f5cad88:
 
     # m 1hksdlb "You must've really needed that break, considering how long you were gone."
-    m 1hksdlb "Debías de necesitar mucho ese descanso, teniendo en cuenta el tiempo que has estado fuera."
+    m 1hksdlb "Sí que debías necesitar ese descanso, teniendo en cuenta el tiempo que has estado fuera."
 
 # game/script-brbs.rpy:964
 translate spanish monika_idle_screen_break_callback_31951895:
@@ -1233,7 +1233,7 @@ translate spanish monika_idle_reading_callback_5f61fb24:
 translate spanish monika_idle_reading_callback_6bcb41b4:
 
     # extend 3wub "that's great, [player]!"
-    extend 3wub "¡eso es genial, [player]!"
+    extend 3wub "¡Eso es genial, [player]!"
 
 # game/script-brbs.rpy:1013
 translate spanish monika_idle_reading_callback_4feff29f:
