@@ -9,7 +9,7 @@ translate spanish monika_gtod_tip000_5f6140e7:
 translate spanish monika_gtod_tip000_0a281c45:
 
     # m 3hua "It makes me really happy you want to improve your writing skills."
-    m 3hua "Me hace muy feliz que quieras mejorar tus habilidades de escritura."
+    m 3hua "Me hace mucha ilusión que quieras mejorar tus habilidades de escritura."
 
 # game/script-grammar.rpy:67
 translate spanish monika_gtod_tip000_0eaadf4a:
@@ -21,19 +21,19 @@ translate spanish monika_gtod_tip000_0eaadf4a:
 translate spanish monika_gtod_tip000_d9d80217:
 
     # m 1rksdla "I'll admit...{w=0.5}it kind of sounds strange to discuss something as specific as grammar."
-    m 1rksdla "He de admitir...{w=0.5} que suena un poco raro hablar de algo tan específico como la gramática."
+    m 1rksdla "Reconozco que...{w=0.5} suena un poco raro hablar de algo tan específico como la gramática."
 
 # game/script-grammar.rpy:69
 translate spanish monika_gtod_tip000_e17ef418:
 
     # m 1rksdlc "I know it's not the most exciting thing that comes up in people's minds."
-    m 1rksdlc "Sé que no es la cosa más emocionante que se le pasa a la gente por la cabeza."
+    m 1rksdlc "Sé que no es el tema más apasionante del mundo ni lo primero que se te pasa por la cabeza."
 
 # game/script-grammar.rpy:70
 translate spanish monika_gtod_tip000_f86044a6:
 
     # m 3eksdld "...Maybe you think of strict teachers, or stuck-up editors..."
-    m 3eksdld "... Quizás pienses en profesores estrictos o editores estirados"
+    m 3eksdld "... Quizás pienses en profesores estrictos o editores estirados..."
 
 # game/script-grammar.rpy:71
 translate spanish monika_gtod_tip000_7179ab84:
@@ -45,7 +45,7 @@ translate spanish monika_gtod_tip000_7179ab84:
 translate spanish monika_gtod_tip000_a6bfbf14:
 
     # m 1eub "So{w=0.5}starting today, I'll be sharing Monika's Grammar Tip of the Day!"
-    m 1eub "Así que...{w=0.5} ¡a partir de hoy, compartiré el Consejo de Gramática del Día de Monika!"
+    m 1eub "Así que...{w=0.5} ¡a partir de hoy compartiré el Consejo de Gramática del Día de Monika!"
 
 # game/script-grammar.rpy:73
 translate spanish monika_gtod_tip000_76c4d53f:
@@ -57,7 +57,7 @@ translate spanish monika_gtod_tip000_76c4d53f:
 translate spanish monika_gtod_tip000_346e1173:
 
     # m 3eub "We'll start with clauses, the basic building blocks of sentences!"
-    m 3eub "¡Empezaremos con las cláusulas, los bloques básicos de las frases!"
+    m 3eub "¡Empezaremos con las oraciones, los bloques básicos que forman las frases!"
 
 # game/script-grammar.rpy:102
 translate spanish monika_gtod_tip001_5d507ca3:
@@ -123,7 +123,7 @@ translate spanish monika_gtod_tip002_c58a1154:
 translate spanish monika_gtod_tip002_60f390db:
 
     # m 3esc "When you join two independent clauses together, this is called a comma splice."
-    m 3esc "Cuando unes dos cláusulas independientes, esto se llama yuxtaposición con comasf."
+    m 3esc "Cuando unes dos oraciones independientes solo con una coma, cometes un error que en inglés llamamos 'comma splice' o empalme por comas."
 
 # game/script-grammar.rpy:134
 translate spanish monika_gtod_tip002_06ce347c:
@@ -159,13 +159,13 @@ translate spanish monika_gtod_tip002_409448ae:
 translate spanish monika_gtod_tip002_006ca88f:
 
     # m 1eud "A conjunction is basically a word that you use to connect two clauses or phrases together."
-    m 1eud "Una conjunción es básicamente una palabra que usas para conectar dos cláusulas o frases juntas."
+    m 1eud "Una conjunción es básicamente una palabra que usas para conectar dos cláusulas o frases entre sí."
 
 # game/script-grammar.rpy:140
 translate spanish monika_gtod_tip002_8fc502d8:
 
     # m 3eub "They're a pretty interesting topic on their own, so we can go over them in a future tip!"
-    m 3eub "Son un tema bastante interesante por sí mismas, ¡así que podemos repasarlas en un futuro consejo!"
+    m 3eub "Las conjunciones son un tema bastante interesante por sí solas, ¡así que podemos repasarlas en un futuro consejo!"
 
 # game/script-grammar.rpy:141
 translate spanish monika_gtod_tip002_744c1fef:
@@ -225,7 +225,7 @@ translate spanish monika_gtod_tip003_53406bf6:
 translate spanish monika_gtod_tip003_556b6161:
 
     # m 1esc "It would be dull.{w=0.3} You would sound choppy.{w=0.3} These ideas all relate.{w=0.3} We should connect them."
-    m 1esc "Sería aburrido.{w=0.3} Sonarías entrecortad[end_letter_gender].{w=0.3} Estas ideas se relacionan.{w=0.3} Deberíamos conectarlas."
+    m 1esc "Sería aburrido.{w=0.3} Sonarías muy entrecortad[end_letter_gender].{w=0.3} Estas ideas están relacionadas.{w=0.3} Deberíamos conectarlas."
 
 # game/script-grammar.rpy:172
 translate spanish monika_gtod_tip003_3d85a4fa:
@@ -279,7 +279,7 @@ translate spanish monika_gtod_tip003_9d9bcfb0:
 translate spanish monika_gtod_tip003_d0b53c4e:
 
     # m 3eub "You can connect independent clauses, {i}and{/i} you can avoid comma splices!"
-    m 3eub "¡Puedes conectar cláusulas independientes 'y' puedes evitar los empalmes por coma!"
+    m 3eub "¡Puedes conectar cláusulas independientes «y» evitar los empalmes por coma al mismo tiempo!"
 
 # game/script-grammar.rpy:181
 translate spanish monika_gtod_tip003_afde57de:
@@ -297,7 +297,7 @@ translate spanish monika_gtod_tip003_3de0321e:
 translate spanish monika_gtod_tip003_9207a50b:
 
     # m 3eub "{i}Whether{/i} you realize it {i}or{/i} not, we use them all the time...like in this sentence!"
-    m 3eub "'Ya sea' que te des cuenta 'o' no, las usamos todo el tiempo... ¡como en esta frase!"
+    m 3eub "Tanto si te das cuenta como si no, las usamos a todas horas... ¡Como en esta frase!"
 
 # game/script-grammar.rpy:184
 translate spanish monika_gtod_tip003_7ff84e9b:
@@ -429,7 +429,7 @@ translate spanish monika_gtod_tip004_977aae40:
 translate spanish monika_gtod_tip004_139c8635:
 
     # m 1eud "Unlike a period, which opens up to a completely different sentence, or a comma, which shows you there is more to come in the same one..."
-    m 1eud "A diferencia de un punto, que da paso a una frase completamente diferente, o una coma, que te muestra que hay más por venir en la misma..."
+    m 1eud "A diferencia de un punto, que da paso a una frase completamente diferente, o una coma, que te indica que la oración aún no ha terminado..."
 
 # game/script-grammar.rpy:227
 translate spanish monika_gtod_tip004_16d6f0d8:
@@ -525,7 +525,7 @@ translate spanish monika_gtod_tip005_469c14cb:
 translate spanish monika_gtod_tip005_6f3fed75:
 
     # m 3hub "Thanks for listening, [player]! I love."
-    m 3hub "¡Gracias por escuchar, [player]! ¡Te quiero...!"
+    m 3hub "¡Gracias por escuchar, [player]! Te..."
 
 # game/script-grammar.rpy:264
 translate spanish monika_gtod_tip005_23a3b2db:
@@ -543,7 +543,7 @@ translate spanish monika_gtod_tip005_f5b8d6cd:
 translate spanish monika_gtod_tip005_38f81bbf:
 
     # m 3hub "You!"
-    m 3hub "¡... a ti!"
+    m 3hub "¡... quiero!"
 
 # game/script-grammar.rpy:288
 translate spanish monika_gtod_tip006_a9233158:
@@ -585,13 +585,13 @@ translate spanish monika_gtod_tip006_238b8f4a:
 translate spanish monika_gtod_tip006_72c373e9:
 
     # m 1eub "As you can see, you can use the passive voice to be secretive about the subject yet still have a complete sentence."
-    m 1eub "Como puedes ver, puedes usar la voz pasiva para mantener el secreto sobre el sujeto y aun así tener una frase completa."
+    m 1eub "Como puedes ver, la voz pasiva te permite ocultar quién es el sujeto y, aun así, tener una frase completa."
 
 # game/script-grammar.rpy:295
 translate spanish monika_gtod_tip006_4a7ad033:
 
     # m 1tuu "It's true; you {i}can{/i} use the passive voice to be sneaky!{w=0.5} It does have other uses, though."
-    m 1tuu "Es cierto; ¡realmente puedes usar la voz pasiva para ser sigiloso!{w=0.5} Sin embargo, tiene otros usos."
+    m 1tuu "Es cierto; ¡puedes usar la voz pasiva para ser más sutil!{w=0.5} Sin embargo, tiene otros usos."
 
 # game/script-grammar.rpy:296
 translate spanish monika_gtod_tip006_b2a719e1:
@@ -627,19 +627,19 @@ translate spanish monika_gtod_tip006_7566f426:
 translate spanish monika_gtod_tip007_2f011a3b:
 
     # m 1eua "Today we will talk about the uses of '{b}who{/b}' and '{b}whom{/b}.'"
-    m 1eua "Hoy hablaremos de los usos de '{b}who{/b}' y '{b}whom{/b}'."
+    m 1eua "Hoy hablaremos de los pronombres '{b}quien{/b}' y '{b}a quien{/b}'."
 
 # game/script-grammar.rpy:323
 translate spanish monika_gtod_tip007_a800a06e:
 
     # m 3hub "Most of the time, it seems like people just use '{b}who{/b}' without bothering to learn the difference, ahaha."
-    m 3hub "La mayoría de las veces, parece que la gente usa simplemente '{b}who{/b}' sin molestarse en aprender la diferencia, ja, ja, ja."
+    m 3hub "La mayoría de las veces, parece que la gente usa simplemente '{b}quien{/b}' sin molestarse en aprender la diferencia, ¡ja, ja, ja!"
 
 # game/script-grammar.rpy:324
 translate spanish monika_gtod_tip007_6a6aa8a8:
 
     # m 1esd "The difference is that '{b}who{/b}' refers to a subject, and '{b}whom{/b}' refers to an object."
-    m 1esd "La diferencia es que '{b}who{/b}' se refiere a un sujeto, y '{b}whom{/b}' se refiere a un objeto."
+    m 1esd "La diferencia es que '{b}quien{/b}' se refiere a un sujeto, y '{b}a quien{/b}' se refiere a un objeto."
 
 # game/script-grammar.rpy:325
 translate spanish monika_gtod_tip007_bde71521:
@@ -651,13 +651,13 @@ translate spanish monika_gtod_tip007_bde71521:
 translate spanish monika_gtod_tip007_f12d9e50:
 
     # m 1euc "'{b}Who{/b}' corresponds to '{b}he{/b}/{b}she{/b}/{b}they{/b}' while '{b}whom{/b}' corresponds to '{b}him{/b}/{b}her{/b}/{b}them{/b}.'"
-    m 1euc "'{b}Who{/b}' corresponde a '{b}he{/b}/{b}she{/b}/{b}they{/b}' mientras que '{b}whom{/b}' corresponde a '{b}him{/b}/{b}her{/b}/{b}them{/b}'."
+    m 1euc "'{b}Quien{/b}' corresponde a '{b}él{/b}', '{b}ella{/b}' o '{b}ellos{/b}', mientras que '{b}a quien{/b}' corresponde a '{b}a él{/b}', '{b}a ella{/b}' o '{b}a ellos{/b}'."
 
 # game/script-grammar.rpy:327
 translate spanish monika_gtod_tip007_c8a67776:
 
     # m 3eud "Simply replace the possible '{b}who{/b}' or '{b}whom{/b}' with '{b}he{/b}/{b}she{/b}/{b}they{/b}' or '{b}him{/b}/{b}her{/b}/{b}them{/b}.'"
-    m 3eud "Simplemente reemplaza el posible '{b}who{/b}' o '{b}whom{/b}' con '{b}he{/b}/{b}she{/b}/{b}they{/b}' o '{b}him{/b}/{b}her{/b}/{b}them{/b}'."
+    m 3eud "Simplemente reemplaza el posible '{b}quien{/b}' o '{b}a quien{/b}' por '{b}él{/b}/{b}ella{/b}' o '{b}a él{/b}/{b}a ella{/b}'."
 
 # game/script-grammar.rpy:328
 translate spanish monika_gtod_tip007_d7e1b90c:
@@ -675,19 +675,19 @@ translate spanish monika_gtod_tip007_f2caf116:
 translate spanish monika_gtod_tip007_4954852b:
 
     # m 3esd "If we just look at the clause '{b}who knows everything{/b}' and replace the '{b}who{/b},' we get..."
-    m 3esd "Si solo miramos la cláusula '{b}who knows everything{/b}' y reemplazamos el '{b}who{/b}', obtenemos..."
+    m 3esd "Si solo miramos la cláusula '{b}quien lo sabe todo{/b}' y reemplazamos el '{b}quien{/b}', obtenemos..."
 
 # game/script-grammar.rpy:331
 translate spanish monika_gtod_tip007_3332c9de:
 
     # m 1esd "'{b}She knows everything{/b}' or '{b}her knows everything{/b}.'"
-    m 1esd "'{b}She knows everything{/b}' o '{b}her knows everything{/b}'."
+    m 1esd "'{b}Ella lo sabe todo{/b}' o '{b}a ella lo sabe todo{/b}'."
 
 # game/script-grammar.rpy:332
 translate spanish monika_gtod_tip007_98795251:
 
     # m 3euc "Only '{b}she knows everything{/b}' makes sense, so the correct phrase is '{b}who knows everything{/b}.'"
-    m 3euc "Solo '{b}she knows everything{/b}' tiene sentido, así que la frase correcta es '{b}who knows everything{/b}'."
+    m 3euc "Como notarás, solo '{b}ella lo sabe todo{/b}' tiene sentido, así que la frase correcta usa '{b}quien{/b}'."
 
 # game/script-grammar.rpy:333
 translate spanish monika_gtod_tip007_28e0370d:
@@ -717,13 +717,13 @@ translate spanish monika_gtod_tip008_c75d9b1e:
 translate spanish monika_gtod_tip008_c5d8852a:
 
     # m 1esd "Another couple of words that can be just as confusing to use are '{b}and I{/b}' and '{b}and me{/b}.'"
-    m 1esd "Otro par de palabras que pueden ser igual de confusas de usar son '{b}and I{/b}' y '{b}and me{/b}'."
+    m 1esd "Otro par de construcciones que pueden ser igual de confusas son '{b}y yo{/b}' e '{b}y a mí{/b}'."
 
 # game/script-grammar.rpy:359
 translate spanish monika_gtod_tip008_8f97b260:
 
     # m 3etc "Is it '{b}[player] and I went on a date{/b}' or '{b}[player] and me went on a date{/b}?'"
-    m 3etc "¿Es '{b}[player] and I went on a date{/b}' o '{b}[player] and me went on a date{/b}'?"
+    m 3etc "¿Es '{b}[player] y yo fuimos a una cita{/b}' o '{b}[player] y a mí fuimos a una cita{/b}'?"
 
 # game/script-grammar.rpy:360
 translate spanish monika_gtod_tip008_9f5daca5:
@@ -753,7 +753,7 @@ translate spanish monika_gtod_tip008_a0fefe9d:
 translate spanish monika_gtod_tip008_04617b10:
 
     # m 1euc "In our example, if you just take out '{b}[player] and{/b}' from the sentence, only one should make sense."
-    m 1euc "En nuestro ejemplo, si quitas '{b}[player] and{/b}' de la frase, solo una debería tener sentido."
+    m 1euc "En nuestro ejemplo, si quitas '{b}[player] y{/b}' de la frase, solo una debería tener sentido."
 
 # game/script-grammar.rpy:365
 translate spanish monika_gtod_tip008_41948f3e:
@@ -765,19 +765,19 @@ translate spanish monika_gtod_tip008_41948f3e:
 translate spanish monika_gtod_tip008_dc037b2d:
 
     # m 3eud "The end result is:{w=0.5} '{b}I went on a date{/b}' or '{b}me went on a date{/b}.'"
-    m 3eud "El resultado final es:{w=0.5} '{b}I went on a date{/b}' o '{b}me went on a date{/b}'."
+    m 3eud "El resultado final es:{w=0.5} '{b}yo fui a una cita{/b}' o '{b}a mí fui a una cita{/b}'."
 
 # game/script-grammar.rpy:367
 translate spanish monika_gtod_tip008_6cdea02b:
 
     # m 3eub "Clearly, only the first one makes sense, so it's '{b}[player] and I went on a date{/b}.'"
-    m 3eub "Claramente, solo la primera tiene sentido, así que es '{b}[player] and I went on a date{/b}'."
+    m 3eub "Claramente, solo la primera tiene sentido, así que lo correcto es '{b}[player] y yo fuimos a una cita{/b}'."
 
 # game/script-grammar.rpy:368
 translate spanish monika_gtod_tip008_8483b60f:
 
     # m 1tuu "Oh, sorry, [player]...{w=1}did it make you feel left out when I said only '{b}I went on a date{/b}?'"
-    m 1tuu "Ah, lo siento, [player]...{w=1} ¿te hizo sentir excluid[end_letter_gender] cuando dije solo '{b}I went on a date{/b}'?"
+    m 1tuu "Ah, lo siento, [player]...{w=1} ¿te hizo sentir excluid[end_letter_gender] cuando dije solo '{b}yo fui a una cita{/b}'?"
 
 # game/script-grammar.rpy:369
 translate spanish monika_gtod_tip008_7f7c7ece:
@@ -789,13 +789,13 @@ translate spanish monika_gtod_tip008_7f7c7ece:
 translate spanish monika_gtod_tip008_07f907be:
 
     # m 3eub "Now, on the other hand, if I was the object of the sentence, I would need to use '{b}and me{/b}' instead."
-    m 3eub "Ahora, por otro lado, si yo fuera el objeto de la frase, necesitaría usar '{b}and me{/b}' en su lugar."
+    m 3eub "Ahora, por otro lado, si yo fuera el objeto de la frase, necesitaría usar '{b}y a mí{/b}' en su lugar."
 
 # game/script-grammar.rpy:371
 translate spanish monika_gtod_tip008_1df1bf5e:
 
     # m 3eua "For example:{w=0.5} '{b}Natsuki asked [player] and me if we liked her cupcakes.{/b}'"
-    m 3eua "Por ejemplo:{w=0.5} '{b}Natsuki asked [player] and me if we liked her cupcakes.{/b}'"
+    m 3eua "Por ejemplo:{w=0.5} '{b}Natsuki nos preguntó a [player] y a mí si nos gustaban sus cupcakes.{/b}'"
 
 # game/script-grammar.rpy:372
 translate spanish monika_gtod_tip008_d6d11850:
@@ -819,7 +819,7 @@ translate spanish monika_gtod_tip009_84efe7ba:
 translate spanish monika_gtod_tip009_395010cd:
 
     # m 3eua "Add them to show possession: '{b}Sayori’s fork, Natsuki’s spoon, Yuri’s knife{/b}...'"
-    m 3eua "Añádelos para mostrar posesión: '{b}Sayori’s fork, Natsuki’s spoon, Yuri’s knife{/b}'..."
+    m 3eua "En inglés, los añadimos para mostrar posesión: '{b}Sayori’s fork, Natsuki’s spoon, Yuri’s knife{/b}'..."
 
 # game/script-grammar.rpy:403
 translate spanish monika_gtod_tip009_6f9b19a4:
@@ -867,7 +867,7 @@ translate spanish monika_gtod_tip009_78120e5e:
 translate spanish monika_gtod_tip009_4b444bee:
 
     # m 1tuu "That matters more than honoring some old Greeks to me."
-    m 1tuu "Eso me importa más que honrar a algunos viejos griegos."
+    m 1tuu "Eso me importa más que honrar a unos antiguos griegos."
 
 # game/script-grammar.rpy:411
 translate spanish monika_gtod_tip009_484088d0:
@@ -903,7 +903,7 @@ translate spanish monika_gtod_tip009_a564d647:
 translate spanish monika_gtod_tip009_50e7b768:
 
     # m 1eub "Okay, [player], {i}it's{/i} about time to wrap it up...{w=0.5}I think this lesson has run {i}its{/i} course."
-    m 1eub "Vale, [player], ya es hora ({i}it's{/i}) de terminar...{w=0.5} Creo que esta lección ha seguido su ({i}its{/i}) curso."
+    m 1eub "Vale, [player], creo que ya va siendo hora de terminar... {w=0.5}Esta lección ha dado de sí todo lo que podía. ¡Si hablásemos en inglés, este sería el momento perfecto para usar 'it's' e 'its'!"
 
 # game/script-grammar.rpy:417
 translate spanish monika_gtod_tip009_5ffdf762:
@@ -921,7 +921,7 @@ translate spanish monika_gtod_tip010_cf2e6935:
 translate spanish monika_gtod_tip010_890ed304:
 
     # m 3eub "This is called the Oxford, or serial, comma, and it's been known to completely change the meaning of a sentence!"
-    m 3eub "Se llama la coma de Oxford, o serial, ¡y se sabe que cambia completamente el significado de una frase!"
+    m 3eub "Se la conoce como la coma de Oxford, o serial, ¡y tiene fama de cambiar por completo el significado de una frase!"
 
 # game/script-grammar.rpy:441
 translate spanish monika_gtod_tip010_2004644b:
@@ -933,19 +933,19 @@ translate spanish monika_gtod_tip010_2004644b:
 translate spanish monika_gtod_tip010_04f8d78a:
 
     # m 1hub "With the Oxford comma, I would say '{b}I love [player], reading, and writing.{/b}'"
-    m 1hub "Con la coma de Oxford, yo diría '{b}I love [player], reading, and writing.{/b}'"
+    m 1hub "Con la coma de Oxford, diría: '{b}Amo a [player], leer, y escribir{/b}'."
 
 # game/script-grammar.rpy:443
 translate spanish monika_gtod_tip010_6c231df4:
 
     # m 1eua "Without the Oxford comma, I would say '{b}I love [player], reading and writing.{/b}'"
-    m 1eua "Sin la coma de Oxford, yo diría '{b}I love [player], reading and writing.{/b}'"
+    m 1eua "Sin la coma de Oxford, diría: '{b}Amo a [player], leer y escribir{/b}'."
 
 # game/script-grammar.rpy:444
 translate spanish monika_gtod_tip010_6be40e6a:
 
     # m 3eud "The confusion lies in whether I'm referring to loving three separate things, or if I'm referring to just loving you when you read and write."
-    m 3eud "La confusión reside en si me refiero a amar tres cosas separadas, o si me refiero a que simplemente te amo cuando lees y escribes."
+    m 3eud "La confusión reside en si me refiero a amar tres cosas separadas, o si me refiero a que simplemente te amo a ti cuando lees y escribes."
 
 # game/script-grammar.rpy:445
 translate spanish monika_gtod_tip010_af5fe8a0:
