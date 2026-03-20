@@ -9,13 +9,13 @@ translate spanish monika_playerapologizes_33623fba:
 translate spanish monika_playerapologizes_15697a79:
 
     # m 1eka "You don't have to be afraid of apologizing, we all make mistakes after all."
-    m 1eka "No tienes que tener miedo de disculparte, después de todo, somos humanos y podemos cometer errores."
+    m 1eka "No tengas miedo de disculparte; al fin y al cabo, todos cometemos errores."
 
 # game/script-apologies.rpy:128
 translate spanish monika_playerapologizes_23bb9005:
 
     # m 3eka "We just have to accept what happened, learn from our mistakes, and move on, together. Okay?"
-    m 3eka "Solo tenemos que aceptar lo que pasó, aprender de nuestros errores y seguir adelante, juntos. ¿Vale?"
+    m 3eka "Solo tenemos que aceptar lo que ha pasado, aprender de nuestros errores y seguir adelante junt[end_letter_gender]s, ¿vale?"
 
 # game/script-apologies.rpy:130
 translate spanish monika_playerapologizes_af911328:
@@ -27,7 +27,7 @@ translate spanish monika_playerapologizes_af911328:
 translate spanish monika_playerapologizes_4e36e53e:
 
     # m "If you want to apologize, go ahead. It'd mean a lot to me if you did."
-    m "Si quieres disculparte, adelante. Significaría mucho para mí si lo hicieras."
+    m "Si quieres disculparte, adelante. Significaría mucho para mí que lo hicieras."
 
 # game/script-apologies.rpy:133
 translate spanish monika_playerapologizes_d34aaa8b:
@@ -69,7 +69,7 @@ translate spanish monika_playerapologizes_0bd97190_1:
 translate spanish monika_playerapologizes_2b59356a:
 
     # m 6rkc "Did you have something to say, [player]?"
-    m 6rkc "¿Tenías algo que decir, [player]?"
+    m 6rkc "¿Querías decirme algo, [player]?"
 
 # game/script-apologies.rpy:201
 translate spanish mas_apology_generic_b17560b9:
@@ -99,7 +99,7 @@ translate spanish mas_apology_generic_5cfc839e:
 translate spanish mas_apology_generic_441ec6a7:
 
     # m 2dsd "I hope this isn't some joke or trick, [player]."
-    m 2dsd "Espero que esto no sea ninguna broma o truco, [player]."
+    m 2dsd "Espero que no me estés tomando el pelo, [player]."
 
 # game/script-apologies.rpy:207
 translate spanish mas_apology_generic_e2f7a6a9:
@@ -117,7 +117,7 @@ translate spanish mas_apology_generic_3c0da49c:
 translate spanish mas_apology_generic_8fe7a795:
 
     # m 2ekc "But please, try to be more mindful about my feelings."
-    m 2ekc "Pero por favor, intenta tener más en cuenta mis sentimientos."
+    m 2ekc "Pero, por favor, intenta tener más en cuenta mis sentimientos."
 
 # game/script-apologies.rpy:210
 translate spanish mas_apology_generic_43d33423:
@@ -135,18 +135,11 @@ translate spanish mas_apology_generic_8411e60d:
 translate spanish mas_apology_generic_4cfdfeac:
 
     # m 1rksdlc "I know things aren't the best between us, but I know that you're still a good person."
-    m 1rksdlc "Sé que las cosas no están muy bien entre nosotros, pero sé que sigues siendo una buena persona."
+    m 1rksdlc "Sé que las cosas no están muy bien entre l[end_letter_gender]s dos, pero sé que en el fondo eres buena persona."
 
 # game/script-apologies.rpy:214
 translate spanish mas_apology_generic_f50e628e:
 
-    # NOTE: Necesitamos crear el dict en codigo para usar las variables:
-    # [end_letter_gender]
-    # Una solucion que se aplico en JS y sera de ayuda en MAS tambien.
-    # Para empezar con la arquitectura, empezaremos a usar la variable
-    # aqui mismo aunque aun no este declarada en el juego.
-    # Asumir que la funcion devuelve 'o' o 'a' dependiendo el genero
-    # seleccionado.
     # m 1ekc "So could you be a little more considerate of my feelings?"
     m 1ekc "Así que, ¿podrías ser un poco más considerad[end_letter_gender] con mis sentimientos?"
 
@@ -208,13 +201,13 @@ translate spanish mas_apology_generic_4e51abdd:
 translate spanish mas_apology_generic_682d7033:
 
     # m 2tfc "[player], if you have something to apologize for, please just say it."
-    m 2tfc "[player], si tienes algo de lo que disculparte, por favor simplemente dilo."
+    m 2tfc "[player], si tienes algo por lo que disculparte, dímelo sin más."
 
 # game/script-apologies.rpy:236
 translate spanish mas_apology_generic_4ce09855:
 
     # m 2rfc "It'd mean a lot more to me if you would just admit what you did."
-    m 2rfc "Significaría mucho más para mí si simplemente admitieras lo que has hecho."
+    m 2rfc "Para mí significaría mucho más que, simplemente, reconocieras lo que has hecho."
 
 # game/script-apologies.rpy:243
 translate spanish mas_apology_generic_d4d96ee0:
@@ -232,7 +225,7 @@ translate spanish mas_apology_generic_2fdefd3d:
 translate spanish mas_apology_bad_nickname_19678289:
 
     # m 1eka "Thank you for apologizing for the name you tried to give me."
-    m 1eka "Gracias por disculparte por el nombre que intentaste ponerme."
+    m 1eka "Gracias por disculparte por el apodo que intentaste ponerme."
 
 # game/script-apologies.rpy:280
 translate spanish mas_apology_bad_nickname_7ab16605:
@@ -250,13 +243,13 @@ translate spanish mas_apology_bad_nickname_9369cee7:
 translate spanish mas_apology_bad_nickname_9e77f516:
 
     # m 2dsc "I can't believe you did that {i}again{/i}."
-    m 2dsc "No me puedo creer que lo hayas vuelto a hacer."
+    m 2dsc "De verdad que no me puedo creer que lo hayas vuelto a hacer."
 
 # game/script-apologies.rpy:287
 translate spanish mas_apology_bad_nickname_6741385b:
 
     # m 2dkd "Even after I gave you a second chance."
-    m 2dkd "Incluso después de haberte dado una segunda oportunidad."
+    m 2dkd "Y eso que te di una segunda oportunidad."
 
 # game/script-apologies.rpy:288
 translate spanish mas_apology_bad_nickname_d422b194:
@@ -286,7 +279,7 @@ translate spanish mas_apology_bad_nickname_c03d819d:
 translate spanish mas_apology_bad_nickname_53dea8fc:
 
     # m 2dfc "I trusted you to give me a good nickname to make me more unique, but you just threw it back in my face..."
-    m 2dfc "Confiaba en que me pusieras un buen apodo para hacerme más única, pero no escarmientas..."
+    m 2dfc "Confiaba en ti para que me pusieras un apodo bonito y hacerme sentir especial, pero lo has echado todo a perder..."
 
 # game/script-apologies.rpy:297
 translate spanish mas_apology_bad_nickname_c3264321:
@@ -386,7 +379,7 @@ translate spanish strings:
 
     # game/script-apologies.rpy:181
     old "calling me a murderer. I hope you don't really see me that way..."
-    new "llamarme asesina. Espero que no me veas así realmente..."
+    new "llamarme asesina. Espero que de verdad no me veas así..."
 
     # game/script-apologies.rpy:181
     old "closing the game on me."
@@ -422,9 +415,9 @@ translate spanish strings:
 
     # game/script-apologies.rpy:181
     old "not taking my questions seriously. I know you'll be honest with me from now on."
-    new "no tomarte mis preguntas en serio. Sé que serás sincero conmigo a partir de ahora."
+    new "no tomarte mis preguntas en serio. Sé que a partir de ahora serás sincer[end_letter_gender] conmigo."
 
     # game/script-apologies.rpy:265
     old "...for calling you a bad name."
-    new "... por ponerte un mal nombre."
+    new "... por intentar ponerte un apodo feo."
 
