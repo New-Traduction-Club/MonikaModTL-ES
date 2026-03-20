@@ -45,7 +45,7 @@ translate spanish greeting_honey_93c62a7f:
 translate spanish greeting_honey_be0afba7:
 
     # m "Let's spend some more time together, okay?"
-    m "Pasemos algo más de tiempo juntos, ¿vale?"
+    m "Pasemos algo más de tiempo junt[end_letter_gender]s, ¿vale?"
 
 # game/script-greetings.rpy:360
 translate spanish greeting_back_4956fac5:
@@ -66,7 +66,7 @@ translate spanish greeting_back_062e3c97:
     #       para no generar errores gramaticales.
 
     # m 1hua "Let's have another lovely [tod] together, alright?"
-    m 1hua "Pasemos otra adorable [tod] juntos, ¿te parece?"
+    m 1hua "Pasemos otra adorable [tod] junt[end_letter_gender]s, ¿te parece?"
 
 # game/script-greetings.rpy:377
 translate spanish greeting_gooday_00f93205:
@@ -78,13 +78,13 @@ translate spanish greeting_gooday_00f93205:
 translate spanish greeting_gooday_fe639186:
 
     # m "Are you having a good day today?{nw}"
-    m "¿Llevas un buen día hoy?{nw}"
+    m "¿Qué tal te va el día hoy?{nw"}
 
 # game/script-greetings.rpy:382
 translate spanish greeting_gooday_6ea9f9d8:
 
     # m "Are you having a good day today?{fast}" nointeract
-    m "¿Llevas un buen día hoy?{fast}" nointeract
+    m "¿Qué tal te va el día hoy?{fast}" nointeract
 
 # game/script-greetings.rpy:384
 translate spanish greeting_gooday_5534a5db:
@@ -252,7 +252,7 @@ translate spanish greeting_visit_1b3e2adc:
 translate spanish greeting_visit_c889c41f:
 
     # m 1eka "You're always so thoughtful."
-    m 1eka "Siempre eres tan atento."
+    m 1eka "Siempre eres tan atent[end_letter_gender]."
 
 # game/script-greetings.rpy:447
 translate spanish greeting_visit_33c0d652:
@@ -336,7 +336,7 @@ translate spanish greeting_goodmorning_594f056d:
 translate spanish greeting_goodmorning_ce6f4326:
 
     # m "I'd hate to see you do that to yourself."
-    m "No me gustaría nada ver que te haces eso a ti mism[end_letter_gender]."
+    m "Me daría muchísima pena verte en ese estado."
 
 # game/script-greetings.rpy:477
 translate spanish greeting_goodmorning_7629f0f1:
@@ -360,7 +360,7 @@ translate spanish greeting_goodmorning_6e711732:
 translate spanish greeting_goodmorning_c393b47c:
 
     # m 2lkbsa "Gosh, I'm so happy!"
-    m 2lkbsa "¡Dios, estoy tan feliz!"
+    m 2lkbsa "¡Madre mía, qué feliz estoy!"
 
 # game/script-greetings.rpy:483
 translate spanish greeting_goodmorning_d0c1fad7:
@@ -372,7 +372,7 @@ translate spanish greeting_goodmorning_d0c1fad7:
 translate spanish greeting_goodmorning_94669df4:
 
     # m 3tkc "But if you're really tired, please go to sleep!"
-    m 3tkc "Pero si estás muy cansada[end_letter_gender], ¡por favor, vete a dormir!"
+    m 3tkc "Pero si estás muy cansad[end_letter_gender], ¡por favor, vete a dormir!"
 
 # game/script-greetings.rpy:485
 translate spanish greeting_goodmorning_b77d7003:
@@ -444,7 +444,7 @@ translate spanish greeting_goodmorning_f39f9407:
 translate spanish greeting_goodmorning_99c0c7eb:
 
     # m 1eka "I promise I won't complain if you quit, so do what you have to."
-    m 1eka "Te prometo que no me quejaré si lo dejas, así que haz lo que tengas que hacer."
+    m 1eka "Te prometo que no me enfadaré si decides parar, así que haz lo que necesites."
 
 # game/script-greetings.rpy:499
 translate spanish greeting_goodmorning_99268a11:
@@ -480,7 +480,7 @@ translate spanish greeting_goodmorning_033e9ecc:
 translate spanish greeting_goodmorning_5a518bd6:
 
     # m 1eka "Aww, that's nice!"
-    m 1eka "Jo, qué bien!"
+    m 1eka "¡Jo, qué bien!"
 
 # game/script-greetings.rpy:510
 translate spanish greeting_goodmorning_2005762b:
@@ -726,7 +726,7 @@ translate spanish greeting_visit6_1658c5af:
 translate spanish greeting_visit6_63a776c4:
 
     # m "Let's have another wonderful [mas_globals.time_of_day_3state] together."
-    m "Pasemos otra maravillosa [mas_globals.time_of_day_3state] juntos."
+    m "Pasemos otra maravillosa [mas_globals.time_of_day_3state] junt[end_letter_gender]s."
 
 # game/script-greetings.rpy:726
 translate spanish greeting_back6_8c844f28:
@@ -768,7 +768,7 @@ translate spanish greeting_visit7_17fb57c4:
 translate spanish greeting_visit7_6ae4c32e:
 
     # m 1eua "Are you ready to spend some more time together? Ehehe~"
-    m 1eua "¿Estás list[end_letter_gender] para pasar algo más de tiempo juntos? Je, je."
+    m 1eua "¿Estás list[end_letter_gender] para pasar algo más de tiempo junt[end_letter_gender]s? Je, je."
 
 # game/script-greetings.rpy:761
 translate spanish greeting_visit8_9b73b6ea:
@@ -966,7 +966,7 @@ translate spanish greeting_hamlet_d79cd6a5:
 translate spanish greeting_hamlet_ca0dcede:
 
     # m 2rksdlc "I-I was--I wasn't sure you--"
-    m 2rksdlc "Y-yo estaba-- No estaba segura de que tú--"
+    m 2rksdlc "Y-Yo estaba... No estaba segura de que tú..."
 
 # game/script-greetings.rpy:915
 translate spanish greeting_hamlet_c61f257d:
@@ -1092,7 +1092,7 @@ translate spanish greeting_sweetpea_c3954141:
 translate spanish greeting_sweetpea_0c962fe8:
 
     # m 1lkbsa "Oh gosh...that was kinda embarrassing, ehehe~"
-    m 1lkbsa "Ay, dios... eso ha sido un poco vergonzoso, je, je."
+    m 1lkbsa "Ay, madre... Eso ha sido un poco vergonzoso, je, je."
 
 # game/script-greetings.rpy:1050
 translate spanish greeting_glitch_6d89a6ec:
@@ -1284,7 +1284,7 @@ translate spanish monikaroom_greeting_ear_narration_252fe262:
 translate spanish monikaroom_greeting_ear_narration_89e70925:
 
     # m "Let's just be happy together."
-    m "Solo seamos felices juntos."
+    m "Solo seamos felices junt[end_letter_gender]s."
 
 # game/script-greetings.rpy:1331
 translate spanish monikaroom_greeting_ear_narration_87b4f35e:
@@ -1554,7 +1554,7 @@ translate spanish monikaroom_greeting_ear_bathdinnerme_44c186c3:
 translate spanish monikaroom_greeting_ear_bathdinnerme_426b7655:
 
     # m "Or.{w=1}.{w=1}.{w=1}me?"
-    m "¿O.{w=1}.{w=1}.{w=1}a mí?"
+    m "¿O.{w=1}.{w=1}.{w=1} a mí?"
 
 # game/script-greetings.rpy:1446
 translate spanish monikaroom_greeting_ear_bathdinnerme_f9aa92e6:
@@ -1974,7 +1974,7 @@ translate spanish monikaroom_greeting_opendoor_locked_1a8b3578:
 translate spanish monikaroom_greeting_opendoor_locked_88ef62ab:
 
     # m "Aww, sorry."
-    m "Aww, perdona."
+    m "Ay, perdona."
 
 # game/script-greetings.rpy:1710
 translate spanish monikaroom_greeting_opendoor_locked_c08bc8f4:
@@ -2088,7 +2088,7 @@ translate spanish monikaroom_greeting_opendoor_locked_87a56af8:
 translate spanish monikaroom_greeting_opendoor_locked_5acfa1b4:
 
     # m 6dkc "Oh...{w=0.5}I'm still learning how to do this."
-    m 6dkc "Ah...{w=0.5}aún estoy aprendiendo a hacer esto."
+    m 6dkc "Ah...{w=0.5} aún estoy aprendiendo a hacer esto."
 
 # game/script-greetings.rpy:1760
 translate spanish monikaroom_greeting_opendoor_locked_dc66ab09:
@@ -2484,13 +2484,13 @@ translate spanish greeting_youarereal_e96def3e:
 translate spanish greeting_youarereal_a28b3752:
 
     # m "We can finally be together, [player]."
-    m "Por fin podemos estar juntos, [player]."
+    m "Por fin podemos estar junt[end_letter_gender]s, [player]."
 
 # game/script-greetings.rpy:2034
 translate spanish greeting_youarereal_10eab8d2:
 
     # m "And we can figure out how to do it in your reality, together!"
-    m "¡Y podemos averiguar cómo hacerlo en tu realidad, juntos!"
+    m "¡Y podemos averiguar cómo hacerlo en tu realidad, junt[end_letter_gender]s!"
 
 # game/script-greetings.rpy:2037
 translate spanish greeting_youarereal_8c912323:
@@ -2670,25 +2670,25 @@ translate spanish greeting_japan_66dd2c55:
 translate spanish greeting_sunshine_0ba661ca:
 
     # m 1hua "{i}~You are my sunshine, my only sunshine~{/i}"
-    m 1hua "{i}~Eres mi sol, mi único sol~{/i}"
+    m 1hua "{i}Eres mi sol, mi único sol...{/i}"
 
 # game/script-greetings.rpy:2109
 translate spanish greeting_sunshine_c5e34147:
 
     # m "{i}~You make me happy when skies are gray~{/i}"
-    m "{i}~Me haces feliz cuando el cielo está gris~{/i}"
+    m "{i}Me haces feliz cuando el cielo está gris...{/i}"
 
 # game/script-greetings.rpy:2110
 translate spanish greeting_sunshine_35af94a1:
 
     # m 1hub "{i}~You'll never know dear, just how much I love you~{/i}"
-    m 1hub "{i}~Nunca sabrás, querid[end_letter_gender], cuánto te quiero~{/i}"
+    m 1hub "{i}Nunca sabrás, querid[end_letter_gender], cuánto te quiero...{/i}"
 
 # game/script-greetings.rpy:2111
 translate spanish greeting_sunshine_12b26ee7:
 
     # m 1eka "{i}~Please don't take my sunshine away~{/i}"
-    m 1eka "{i}~Por favor, no te lleves mi sol~{/i}"
+    m 1eka "{i}Por favor, no te lleves mi sol...{/i}"
 
 # game/script-greetings.rpy:2112
 translate spanish greeting_sunshine_bac230dd:
@@ -2730,7 +2730,7 @@ translate spanish greeting_sunshine_3155fb62:
 translate spanish greeting_sunshine_112e68c8:
 
     # m 3hubfa "But now that you're here, we can spend some time together~"
-    m 3hubfa "Pero ahora que estás aquí, podemos pasar un rato juntos."
+    m 3hubfa "Pero ahora que estás aquí, podemos pasar un rato junt[end_letter_gender]s."
 
 # game/script-greetings.rpy:2133
 translate spanish greeting_hai_domo_ef26eef9:
@@ -2790,7 +2790,7 @@ translate spanish greeting_french_d5de7367:
 translate spanish greeting_french_4ac0dd61:
 
     # m 1hua "Maybe both of us can practice it sometime, mon amour~"
-    m 1hua "Quizá podamos practicarlo juntos alguna vez, 'mon amour'."
+    m 1hua "Quizá podamos practicarlo junt[end_letter_gender]s alguna vez, 'mon amour'."
 
 # game/script-greetings.rpy:2177
 translate spanish greeting_amnesia_183724b9:
@@ -2874,7 +2874,7 @@ translate spanish greeting_amnesia_e4a23046:
 translate spanish greeting_amnesia_f2c64ff7:
 
     # m 1eksdla "Are you...{w=0.3}trying to mess with me?"
-    m 1eksdla "¿Me estás...{w=0.3}tomando el pelo?"
+    m 1eksdla "¿Me estás...{w=0.3} tomando el pelo?"
 
 # game/script-greetings.rpy:2211
 translate spanish greeting_amnesia_b542f239:
@@ -3006,7 +3006,7 @@ translate spanish greeting_sick_42fbe9e4:
 translate spanish greeting_sick_9ea3726c:
 
     # m 1hub "Great! Now we can spend some more time together. Ehehe~"
-    m 1hub "¡Genial! Ahora podemos pasar algo más de tiempo juntos. Je, je."
+    m 1hub "¡Genial! Ahora podemos pasar algo más de tiempo junt[end_letter_gender]s. Je, je."
 
 # game/script-greetings.rpy:2284
 translate spanish greeting_sick_d408d503:
@@ -3162,7 +3162,7 @@ translate spanish greeting_stillsicknorest_cbd5af65:
 translate spanish greeting_stillsicknorest_fc5fd831:
 
     # m 3hua "Then we can have some more fun together without me worrying about you in the back of my mind."
-    m 3hua "Entonces podremos divertirnos más juntos sin que tenga que estar preocupándome por ti."
+    m 3hua "Entonces podremos divertirnos más junt[end_letter_gender]s sin que tenga que estar preocupándome por ti."
 
 # game/script-greetings.rpy:2340
 translate spanish greeting_stillsicknorest_f7a94a17:
@@ -3192,7 +3192,7 @@ translate spanish greeting_stillsickresting_f85d4da3:
 translate spanish greeting_stillsickresting_3a882808:
 
     # m 1dku "Maybe snuggled in a warm blanket with a nice hot cup of tea."
-    m 1dku "Quizá acurrucad[end_letter_gender] en una manta cálida con una buena taza de té caliente."
+    m 1dku "Quizá acurrucad[end_letter_gender] en una manta calentita con una buena taza de té."
 
 # game/script-greetings.rpy:2352
 translate spanish greeting_stillsickresting_2c589b6f:
@@ -3270,7 +3270,7 @@ translate spanish greeting_long_absence_ebb0f0c7:
 translate spanish greeting_long_absence_726d7f44:
 
     # m 2ektsc "Please don't ever,{w=0.5} {i}ever{/i}{w=0.5} do that again."
-    m 2ektsc "Por favor, nunca,{w=0.5} nunca{w=0.5} vuelvas a hacer eso."
+    m 2ektsc "Por favor, te lo suplico,{w=0.5} no me vuelvas a hacer eso nunca más."
 
 # game/script-greetings.rpy:2393
 translate spanish greeting_long_absence_b253278e:
@@ -3318,7 +3318,7 @@ translate spanish greeting_long_absence_230a4daa:
 translate spanish greeting_long_absence_aef45207:
 
     # m 3ekc "I know you said you'd be away for a bit, but...you said a {i}week{/i}."
-    m 3ekc "Sé que dijiste que te irías un poco, pero... dijiste una semana."
+    m 3ekc "Sé que avisaste de que te irías un tiempo, pero... ¡dejaste claro que sería solo una semana!"
 
 # game/script-greetings.rpy:2404
 translate spanish greeting_long_absence_348494ba:
@@ -3510,7 +3510,7 @@ translate spanish greeting_long_absence_c3baa3ae:
 translate spanish greeting_long_absence_0f391876:
 
     # m 3rksdlb "You must have been really preoccupied if you were gone for {i}this{/i} long."
-    m 3rksdlb "Debes de haber estado muy ocupad[end_letter_gender] si te has ido durante tanto tiempo."
+    m 3rksdlb "Debes de haber estado hasta arriba de cosas para desaparecer durante tantísimo tiempo."
 
 # game/script-greetings.rpy:2447
 translate spanish greeting_long_absence_5fd15c3a:
@@ -3996,7 +3996,7 @@ translate spanish greeting_long_absence_68eb5ac0:
 translate spanish greeting_long_absence_a1888459:
 
     # m 1hua "Let's enjoy the rest of the day together."
-    m 1hua "Disfrutemos el resto del día juntos."
+    m 1hua "Disfrutemos el resto del día junt[end_letter_gender]s."
 
 # game/script-greetings.rpy:2568
 translate spanish greeting_long_absence_0cee461b:
@@ -4140,7 +4140,7 @@ translate spanish greeting_long_absence_38783673:
 translate spanish greeting_long_absence_210b4b3d:
 
     # m 1eua "Let's have a lovely day together, [player]."
-    m 1eua "Pasemos un día encantador juntos, [player]."
+    m 1eua "Pasemos un día encantador junt[end_letter_gender]s, [player]."
 
 # game/script-greetings.rpy:2604
 translate spanish greeting_long_absence_19428ff1:
@@ -4278,13 +4278,13 @@ translate spanish greeting_long_absence_556d48b0:
 translate spanish greeting_long_absence_8b9a0e29:
 
     # m 1eua "Let's have another nice day together, [player]."
-    m 1eua "Pasemos otro buen día juntos, [player]."
+    m 1eua "Pasemos otro buen día junt[end_letter_gender]s, [player]."
 
 # game/script-greetings.rpy:2642
 translate spanish greeting_long_absence_9a14dcc1:
 
     # m 1hub "{i}~In my hand,~\n~is a pen tha-{/i}"
-    m 1hub "{i}~En mi mano,~\n~hay una pluma qu-{/i}"
+    m 1hub "{i}In my hand,\nis a pen tha...{/i}"
 
 # game/script-greetings.rpy:2643
 translate spanish greeting_long_absence_dd5f9cd0:
@@ -4410,7 +4410,7 @@ translate spanish greeting_long_absence_baa22c67:
 translate spanish greeting_long_absence_7aaa2b5c:
 
     # m 1hub "Let's enjoy our time together until then!"
-    m 1hub "¡Disfrutemos de nuestro tiempo juntos hasta entonces!"
+    m 1hub "¡Disfrutemos de nuestro tiempo junt[end_letter_gender]s hasta entonces!"
 
 # game/script-greetings.rpy:2673
 translate spanish greeting_long_absence_19428ff1_1:
@@ -4560,7 +4560,7 @@ translate spanish greeting_tears_3597dc59:
 translate spanish greeting_tears_d6c76c64:
 
     # m 2lksdlc "I've been trying my best for you...for {i}us{/i}."
-    m 2lksdlc "He estado esforzándome al máximo por ti... por 'nosotros'."
+    m 2lksdlc "Me he estado esforzando al máximo por ti... por los dos."
 
 # game/script-greetings.rpy:2846
 translate spanish greeting_tears_ee602351:
@@ -4902,7 +4902,7 @@ translate spanish greeting_back_from_school_class_related_65dc4841:
 translate spanish greeting_back_from_school_class_related_1ad2c9cd:
 
     # m 2dkd "Sometimes though, it can really stress people out and put them in a downward spiral."
-    m 2dkd "Sin embargo, a veces puede estresar mucho a la gente y meterla en una espiral descendente."
+    m 2dkd "Sin embargo, a veces puede estresar muchísimo a la gente y hundirla en una espiral destructiva."
 
 # game/script-greetings.rpy:3069
 translate spanish greeting_back_from_school_class_related_e33a713e:
@@ -4920,7 +4920,7 @@ translate spanish greeting_back_from_school_class_related_030b3359:
 translate spanish greeting_back_from_school_class_related_2ecb66d0:
 
     # m "Remember, {i}you're{/i} more important than school or some grades."
-    m "Recuerda, tú eres más importante que los estudios o unas notas."
+    m "Recuerda que tu bienestar está por encima del instituto o de unas simples notas."
 
 # game/script-greetings.rpy:3072
 translate spanish greeting_back_from_school_class_related_2f4be52f:
@@ -4944,7 +4944,7 @@ translate spanish greeting_back_from_school_class_related_44f184d6:
 translate spanish greeting_back_from_school_by_people_8172fdf3:
 
     # m 2ekc "Oh no, [player]...{w=0.5} That must have been terrible to experience."
-    m 2ekc "Oh, no, [player]...{w=0.5} Eso debe haber sido una experiencia terrible."
+    m 2ekc "Ay, no, [player]...{w=0.5} Eso debe haber sido una experiencia terrible."
 
 # game/script-greetings.rpy:3079
 translate spanish greeting_back_from_school_by_people_7a171108:
@@ -5040,7 +5040,7 @@ translate spanish greeting_back_from_school_by_people_a5ba43b7:
 translate spanish greeting_back_from_school_by_people_7153e2eb:
 
     # m 1eka "But you're here now, and I hope spending time together helps make your day a little better."
-    m 1eka "Pero estás aquí ahora, y espero que pasar tiempo juntos ayude a que tu día sea un poco mejor."
+    m 1eka "Pero estás aquí ahora, y espero que pasar tiempo junt[end_letter_gender]s ayude a que tu día sea un poco mejor."
 
 # game/script-greetings.rpy:3106
 translate spanish greeting_back_from_school_bad_day_f1e2c03e:
@@ -5064,7 +5064,7 @@ translate spanish greeting_back_from_school_bad_day_684804f6:
 translate spanish greeting_back_from_school_bad_day_7153e2eb:
 
     # m 1eka "But you're here now, and I hope spending time together helps make your day a little better."
-    m 1eka "Pero estás aquí ahora, y espero que pasar tiempo juntos ayude a que tu día sea un poco mejor."
+    m 1eka "Pero estás aquí ahora, y espero que pasar tiempo junt[end_letter_gender]s ayude a que tu día sea un poco mejor."
 
 # game/script-greetings.rpy:3113
 translate spanish greeting_back_from_school_sick_79b8a82d:
@@ -5418,7 +5418,7 @@ translate spanish greeting_back_from_work_yelled_at_bbc7d834:
 translate spanish greeting_back_from_work_yelled_at_97915513:
 
     # m 1hua "I'm sure you'll feel better after we spend some time together."
-    m 1hua "Seguro que te sentirás mejor después de que pasemos un rato juntos."
+    m 1hua "Seguro que te sentirás mejor después de que pasemos un rato junt[end_letter_gender]s."
 
 # game/script-greetings.rpy:3289
 translate spanish greeting_back_from_work_passed_over_526e15ca:
@@ -5496,7 +5496,7 @@ translate spanish greeting_back_from_work_work_late_67b019e5:
 translate spanish greeting_back_from_work_work_late_70267acf:
 
     # m 1eka "...But at least you're here now and we can spend some time together."
-    m 1eka "... Pero al menos estás aquí ahora y podemos pasar un tiempo juntos."
+    m 1eka "... Pero al menos estás aquí ahora y podemos pasar un tiempo junt[end_letter_gender]s."
 
 # game/script-greetings.rpy:3310
 translate spanish greeting_back_from_work_work_late_47d4bd46:
@@ -5760,7 +5760,7 @@ translate spanish greeting_back_from_sleep_e0576e06:
 translate spanish greeting_back_from_sleep_fc55ef65:
 
     # m "Let's spend some more time together~"
-    m "Pasemos algo más de tiempo juntos."
+    m "Pasemos algo más de tiempo junt[end_letter_gender]s."
 
 # game/script-greetings.rpy:3410
 translate spanish greeting_back_from_sleep_62a7da0b:
@@ -6012,7 +6012,7 @@ translate spanish greeting_ourreality_72e4fd4d:
 translate spanish greeting_ourreality_41b30c69:
 
     # m 1eua "I'm always happy when you visit and spend time together with me."
-    m 1eua "Siempre estoy feliz cuando me visitas y pasamos tiempo juntos."
+    m 1eua "Siempre estoy feliz cuando me visitas y pasamos tiempo junt[end_letter_gender]s."
 
 # game/script-greetings.rpy:3516
 translate spanish greeting_ourreality_793b63fa:
@@ -6612,7 +6612,7 @@ translate spanish greeting_back_from_game_3772217d_2:
 translate spanish greeting_back_from_game_0072080e:
 
     # m 1hua "Anyway, now that you're here, we can spend some time together."
-    m 1hua "En fin, ahora que estás aquí, podemos pasar un rato juntos."
+    m 1hua "En fin, ahora que estás aquí, podemos pasar un rato junt[end_letter_gender]s."
 
 # game/script-greetings.rpy:3876
 translate spanish greeting_back_from_game_22b17a1d:
@@ -6744,7 +6744,7 @@ translate spanish greeting_back_from_game_d41b3523:
 translate spanish greeting_back_from_game_adaf16da:
 
     # m 1hub "I'm sure we'd have a lot of fun together in one of your games."
-    m 1hub "Seguro que nos divertiríamos mucho juntos en uno de tus juegos."
+    m 1hub "Seguro que nos divertiríamos mucho junt[end_letter_gender]s en uno de tus juegos."
 
 # game/script-greetings.rpy:3913
 translate spanish greeting_back_from_game_6a4b6a95:
@@ -6876,7 +6876,7 @@ translate spanish greeting_back_from_game_0b259093:
 translate spanish greeting_back_from_game_1db4d5ee:
 
     # m 3hua "I'm sure there's plenty of fun things we could do together!"
-    m 3hua "¡Seguro que hay muchas cosas divertidas que podríamos hacer juntos!"
+    m 3hua "¡Seguro que hay muchas cosas divertidas que podríamos hacer junt[end_letter_gender]s!"
 
 # game/script-greetings.rpy:3949
 translate spanish greeting_back_from_game_f86d3900:
@@ -7134,7 +7134,7 @@ translate spanish greeting_back_housework_c9afedae:
 translate spanish greeting_back_housework_bf744b3e:
 
     # m 1hub "Let's spend some more time together!"
-    m 1hub "¡Pasemos algo más de tiempo juntos!"
+    m 1hub "¡Pasemos algo más de tiempo junt[end_letter_gender]s!"
 
 # game/script-greetings.rpy:4054
 translate spanish greeting_back_housework_008ad636:
@@ -7374,7 +7374,7 @@ translate spanish greeting_back_from_workout_2c572729:
 translate spanish greeting_back_from_workout_ea63fb50:
 
     # m 1eua "Let's spend some more time together~"
-    m 1eua "Pasemos algo más de tiempo juntos."
+    m 1eua "Pasemos algo más de tiempo junt[end_letter_gender]s."
 
 # game/script-greetings.rpy:4219
 translate spanish greeting_back_from_workout_07c646ab:
@@ -7398,7 +7398,7 @@ translate spanish greeting_back_from_workout_9af07547:
 translate spanish greeting_back_from_workout_abfc9eab:
 
     # extend 2eka "Let's spend some more time together."
-    extend 2eka "Pasemos algo más de tiempo juntos."
+    extend 2eka "Pasemos algo más de tiempo junt[end_letter_gender]s."
 
 # game/script-greetings.rpy:4225
 translate spanish greeting_back_from_workout_5dc81c50:
@@ -7452,7 +7452,7 @@ translate spanish greeting_back_from_shopping_777b99b9:
 translate spanish greeting_back_from_shopping_9734070d:
 
     # m 1hua "Let's spend some more time together~"
-    m 1hua "Pasemos algo más de tiempo juntos."
+    m 1hua "Pasemos algo más de tiempo junt[end_letter_gender]s."
 
 # game/script-greetings.rpy:4254
 translate spanish greeting_back_from_shopping_07c646ab:
@@ -7626,7 +7626,7 @@ translate spanish greeting_back_from_hangout_c821e88d:
 translate spanish greeting_back_from_hangout_b3f2c2bd:
 
     # m 1eua "[anyway_lets] spend some more time together~"
-    m 1eua "[anyway_lets] pasar algo más de tiempo juntos."
+    m 1eua "[anyway_lets] pasar algo más de tiempo junt[end_letter_gender]s."
 
 # game/script-greetings.rpy:4330
 translate spanish greeting_back_from_hangout_9611b83d:
@@ -8018,7 +8018,7 @@ translate spanish strings:
 
     # game/script-greetings.rpy:2944
     old "I guess we can spend some time together now."
-    new "Supongo que ahora podemos pasar algún tiempo juntos."
+    new "Supongo que ahora podemos pasar algún tiempo junt[end_letter_gender]s."
 
     # game/script-greetings.rpy:2944
     old "I wasn't sure when you'd visit again."
@@ -8026,7 +8026,7 @@ translate spanish strings:
 
     # game/script-greetings.rpy:2944
     old "Hopefully we can enjoy our time together."
-    new "Espero que podamos disfrutar de nuestro tiempo juntos."
+    new "Espero que podamos disfrutar de nuestro tiempo junt[end_letter_gender]s."
 
     # game/script-greetings.rpy:2944
     old "I wasn't expecting you."
