@@ -81,7 +81,7 @@ translate spanish mas_fun_fact_librocubiculartist_a6201013:
 translate spanish mas_fun_fact_librocubiculartist_07b441f1:
 
     # m 3rksdld "It's a real shame some words just never get used in general."
-    m 3rksdld "Es una verdadera lástima que algunas palabras nunca se usen en general."
+    m 3rksdld "Es una verdadera lástima que algunas palabras no se usen apenas en el día a día."
 
 # game/script-fun-facts.rpy:104
 translate spanish mas_fun_fact_librocubiculartist_a17c1253:
@@ -99,7 +99,7 @@ translate spanish mas_fun_fact_librocubiculartist_8937dc27:
 translate spanish mas_fun_fact_librocubiculartist_25dddae0:
 
     # m 2rkc "If only people read more and improved their vocabulary!"
-    m 2rkc "¡Si tan solo la gente leyera más y mejorara su vocabulario!"
+    m 2rkc "¡Ojalá la gente leyera más y mejorara su vocabulario!"
 
 # game/script-fun-facts.rpy:107
 translate spanish mas_fun_fact_librocubiculartist_f70fbc9e:
@@ -111,7 +111,7 @@ translate spanish mas_fun_fact_librocubiculartist_f70fbc9e:
 translate spanish mas_fun_fact_menu_currency_7cd0d760:
 
     # m 3euc "Supposedly, a lot of restaurants purposefully leave out any sign of currency on their menus."
-    m 3euc "Supuestamente, muchos restaurantes omiten a propósito cualquier signo de moneda en sus menús."
+    m 3euc "Supuestamente, muchos restaurantes omiten a propósito cualquier símbolo monetario en sus menús."
 
 # game/script-fun-facts.rpy:123
 translate spanish mas_fun_fact_menu_currency_d4bbc06b:
@@ -123,7 +123,7 @@ translate spanish mas_fun_fact_menu_currency_d4bbc06b:
 translate spanish mas_fun_fact_menu_currency_0226c8a6:
 
     # m 2euc "It works because a currency sign, such as a dollar, is used to represent a cost."
-    m 2euc "Funciona porque un signo de moneda, como el del dólar, se usa para representar un coste."
+    m 2euc "Funciona porque el símbolo de una moneda, como el del dólar, se usa para representar un coste."
 
 # game/script-fun-facts.rpy:125
 translate spanish mas_fun_fact_menu_currency_dc254457:
@@ -225,7 +225,7 @@ translate spanish mas_fun_fact_morpheus_9dee0d72:
 translate spanish mas_fun_fact_morpheus_d50bd659:
 
     # m 4ekc "...So wouldn't it make more sense to name it after Hypnos then?"
-    m 4ekc "... Así que, ¿no tendría más sentido nombrarla en honor a Hipnos entonces?"
+    m 4ekc "... Entonces, ¿no tendría más sentido llamarla así en honor a Hipnos?"
 
 # game/script-fun-facts.rpy:170
 translate spanish mas_fun_fact_morpheus_9fd773f0:
@@ -249,7 +249,7 @@ translate spanish mas_fun_fact_otter_hand_holding_e87614ec:
 translate spanish mas_fun_fact_otter_hand_holding_f8dc17ed:
 
     # m 1hub "It's practical for them to do, but there's something really cute about it!"
-    m 1hub "Es algo práctico para ellas, ¡pero tiene algo muy adorable!"
+    m 1hub "Es algo práctico para ellas, ¡pero resulta de lo más adorable!"
 
 # game/script-fun-facts.rpy:188
 translate spanish mas_fun_fact_otter_hand_holding_0f7fbeff:
@@ -321,7 +321,7 @@ translate spanish mas_fun_fact_chess_a7288f90:
 translate spanish mas_fun_fact_chess_a69f4220:
 
     # m 1hua "Do you want to play a game of chess with me? I might even go easy on you, Ehehe~"
-    m 1hua "¿Quieres jugar una partida de ajedrez conmigo? Puede que incluso sea buena contigo, je, je, je."
+    m 1hua "¿Quieres echar una partida de ajedrez conmigo? Puede que incluso me contenga un poco, je, je, je."
 
 # game/script-fun-facts.rpy:222
 translate spanish mas_fun_fact_chess_581820c1:
@@ -339,7 +339,7 @@ translate spanish mas_fun_fact_chess_01a93df6:
 translate spanish mas_fun_fact_chess_303adace:
 
     # m 2rfd "You can forget about this fact since you're a cheater, [player]."
-    m 2rfd "Puedes ir olvidando este dato, ya que eres un tramposo, [player]."
+    m 2rfd "Puedes ir olvidando este dato, ya que eres muy trampos[end_letter_gender], [player]."
 
 # game/script-fun-facts.rpy:225
 translate spanish mas_fun_fact_chess_08f8fe92:
@@ -375,7 +375,7 @@ translate spanish mas_fun_fact_struck_by_lightning_460053c7:
 translate spanish mas_fun_fact_struck_by_lightning_054f7c33:
 
     # m 3ekc "'Men are six times more likely to be struck by lightning than women.'"
-    m 3ekc "'Los hombres tienen seis veces más probabilidades de ser alcanzados por un rayo que las mujeres'."
+    m 3ekc "'Los hombres tienen seis veces más probabilidades de que les caiga un rayo que las mujeres'."
 
 # game/script-fun-facts.rpy:250
 translate spanish mas_fun_fact_struck_by_lightning_7b9c243b:
@@ -411,7 +411,7 @@ translate spanish mas_fun_fact_struck_by_lightning_b30c56d3:
 translate spanish mas_fun_fact_honey_7e265258:
 
     # m 1eub "Ah, this is a nice easy one."
-    m 1eub "Ah, este es sencillo y agradable."
+    m 1eub "Ah, este es bastante sencillo y curioso."
 
 # game/script-fun-facts.rpy:270
 translate spanish mas_fun_fact_honey_bb62b7c3:
@@ -423,13 +423,13 @@ translate spanish mas_fun_fact_honey_bb62b7c3:
 translate spanish mas_fun_fact_honey_01d5c55c:
 
     # m 3eua "Honey can crystallize, though. Some people may see this as spoiling but it's still completely edible and fine!"
-    m 3eua "Aunque la miel puede cristalizarse. Hay gente que puede ver esto como que se ha echado a perder, ¡pero sigue siendo completamente comestible y está en perfecto estado!"
+    m 3eua "Aunque la miel puede cristalizarse. Hay gente que piensa que por eso se ha echado a perder, ¡pero sigue siendo totalmente comestible y está en perfecto estado!"
 
 # game/script-fun-facts.rpy:272
 translate spanish mas_fun_fact_honey_c677ee8d:
 
     # m "The reason why this happens is because honey is mostly made of sugar and only a bit of water, making it solid over time."
-    m "La razón por la que pasa esto es porque la miel está compuesta principalmente de azúcar y solo un poco de agua, haciéndola sólida con el tiempo."
+    m "La razón por la que pasa esto es porque la miel está compuesta principalmente de azúcar y solo un poco de agua, lo que hace que se solidifique con el tiempo."
 
 # game/script-fun-facts.rpy:273
 translate spanish mas_fun_fact_honey_43ccc774:
@@ -441,13 +441,13 @@ translate spanish mas_fun_fact_honey_43ccc774:
 translate spanish mas_fun_fact_honey_f567affe:
 
     # m 1eud "...Which removes the stuff that makes the honey go solid quickly."
-    m 1eud "... Lo cual elimina lo que hace que la miel se solidifique rápido."
+    m 1eud "... Lo que elimina los componentes que hacen que la miel se solidifique tan rápido."
 
 # game/script-fun-facts.rpy:275
 translate spanish mas_fun_fact_honey_12d30716:
 
     # m 3eub "But wouldn't it be nice to eat crystallized honey too?"
-    m 3eub "¿Pero no sería agradable comer miel cristalizada también?"
+    m 3eub "Pero, ¿no estaría bien comer miel cristalizada también?"
 
 # game/script-fun-facts.rpy:276
 translate spanish mas_fun_fact_honey_b16d5ad8:
@@ -495,7 +495,7 @@ translate spanish mas_fun_fact_vincent_van_gone_325e06a5:
 translate spanish mas_fun_fact_vincent_van_gone_81b302f3:
 
     # m 2ekd "I don't think it's true, however. No matter how bad things can get and how deep the sadness can go..."
-    m 2ekd "Sin embargo, no creo que sea cierto. No importa lo mal que se pongan las cosas ni lo profunda que pueda llegar a ser la tristeza..."
+    m 2ekd "Pero yo no creo que sea verdad. No importa lo mal que se pongan las cosas ni lo profunda que pueda llegar a ser la tristeza..."
 
 # game/script-fun-facts.rpy:298
 translate spanish mas_fun_fact_vincent_van_gone_82b8dd16:
@@ -573,7 +573,7 @@ translate spanish mas_fun_fact_strength_bb85eda7:
 translate spanish mas_fun_fact_strength_f5033e59:
 
     # m 1eua "It's funny how out of every word in the language, it's such a meaningful word that had that little detail."
-    m 1eua "Es curioso cómo de todas las palabras del idioma, sea una palabra tan significativa la que tiene ese pequeño detalle."
+    m 1eua "Es curioso cómo, de todas las palabras del idioma, una tan significativa tenga ese pequeño detalle."
 
 # game/script-fun-facts.rpy:339
 translate spanish mas_fun_fact_strength_4c6c0cad:
@@ -633,7 +633,7 @@ translate spanish mas_fun_fact_reindeer_eyes_de921831:
 translate spanish mas_fun_fact_reindeer_eyes_91601f06:
 
     # m 5eua "It'd be fun to have you teach me this time~"
-    m 5eua "Sería divertido que me enseñaras tú esta vez~"
+    m 5eua "Sería divertido que me enseñaras tú esta vez."
 
 # game/script-fun-facts.rpy:377
 translate spanish mas_fun_fact_bananas_9493ac92:
@@ -711,7 +711,7 @@ translate spanish mas_fun_fact_bananas_7faca44c:
 translate spanish mas_fun_fact_bananas_7ecc10e3:
 
     # m 1rksdlb "...I'm just rambling on about bananas now."
-    m 1rksdlb "...Solo estoy divagando sobre plátanos ahora."
+    m 1rksdlb "... Solo estoy divagando sobre plátanos ahora."
 
 # game/script-fun-facts.rpy:390
 translate spanish mas_fun_fact_bananas_5ba118f0:
@@ -741,13 +741,13 @@ translate spanish mas_fun_fact_pens_071c385f:
 translate spanish mas_fun_fact_pens_d729f4c0:
 
     # m "Pens back then were sharpened goose feathers dipped in ink so it'd make sense why they'd call them pens."
-    m "Los bolígrafos de entonces eran plumas de ganso afiladas y mojadas en tinta, así que tiene sentido que se llamaran 'plumas'."
+    m "Los herramientas de escritura de entonces eran plumas de ganso afiladas y mojadas en tinta, así que tiene sentido que se quedaran con ese nombre."
 
 # game/script-fun-facts.rpy:409
 translate spanish mas_fun_fact_pens_523bd9ea:
 
     # m 3eud "They were the primary writing tool for a very long time, starting as early at the 6th century."
-    m 3eud "Fueron la herramienta de escritura principal durante mucho tiempo, empezando tan pronto como en el siglo VI."
+    m 3eud "Fueron la herramienta de escritura principal durante mucho tiempo, desde al menos el siglo VI."
 
 # game/script-fun-facts.rpy:410
 translate spanish mas_fun_fact_pens_983d1bad:
@@ -807,7 +807,7 @@ translate spanish mas_fun_fact_density_0248ec1c:
 translate spanish mas_fun_fact_density_bb93d935:
 
     # m 1tku "I suspect Earth may only be the densest because of a certain main character."
-    m 1tku "Sospecho que la Tierra es el más denso solo por culpa de cierto protagonista."
+    m 1tku "Sospecho que la Tierra es la más densa solo por culpa de cierto protagonista."
 
 # game/script-fun-facts.rpy:434
 translate spanish mas_fun_fact_density_6f11581a:
@@ -927,19 +927,19 @@ translate spanish mas_fun_fact_mental_word_processing_16a9de03:
 translate spanish mas_fun_fact_mental_word_processing_d62afd68:
 
     # m 3eub "Its way of composing and archiving information is very unique."
-    m 3eub "Su forma de componer y archivar información es muy única."
+    m 3eub "Su forma de componer y archivar información es de lo más singular."
 
 # game/script-fun-facts.rpy:496
 translate spanish mas_fun_fact_mental_word_processing_167695d3:
 
     # m "Naturally it differs from person to person but but reading slowly like we're taught is usually less effective than going at at a faster pace."
-    m "Naturalmente difiere de persona a persona pero pero leer despacio como nos enseñan suele ser menos efectivo que ir a a un ritmo más rápido."
+    m "Naturalmente, varía de una persona a otra, pero pero leer despacio como nos enseñan suele ser menos efectivo que ir a a un ritmo más rápido."
 
 # game/script-fun-facts.rpy:497
 translate spanish mas_fun_fact_mental_word_processing_06608acb:
 
     # m 1tku "Our brains process information very rapidly and love predictability in in our language."
-    m 1tku "Nuestros cerebros procesan la información muy rápidamente y aman la predictibilidad en en nuestro lenguaje."
+    m 1tku "Nuestros cerebros procesan la información muy rápidamente y les encanta la predictibilidad en en nuestro lenguaje."
 
 # game/script-fun-facts.rpy:498
 translate spanish mas_fun_fact_mental_word_processing_01503d71:
@@ -981,7 +981,7 @@ translate spanish mas_fun_fact_I_am_2ecfe1c0:
 translate spanish mas_fun_fact_I_am_4bd3a339:
 
     # m 2rfb "'{i}Monika! Who's [player]'s loving girlfriend?{/i}'"
-    m 2rfb "'{i}¡Monika! ¿Quién es la adorable novia de [player]?{/i}'"
+    m 2rfb "'¡Monika! ¿Quién es la adorable novia de [player]?'"
 
 # game/script-fun-facts.rpy:519
 translate spanish mas_fun_fact_I_am_7debc54b:
@@ -1173,7 +1173,7 @@ translate spanish mas_fun_fact_dancing_plague_58136a4b:
 translate spanish mas_fun_fact_dancing_plague_0f2a30b8:
 
     # m 3eksdla "They tried to treat it by having people play music alongside the dancers, but you can imagine that didn't work out so well."
-    m 3eksdla "Intentaron tratarlo haciendo que tocaran música junto a los bailarines, pero te puedes imaginar que eso no salió muy bien."
+    m 3eksdla "Intentaron tratarlo tocando música junto a los bailarines, pero te puedes imaginar que no salió muy bien."
 
 # game/script-fun-facts.rpy:629
 translate spanish mas_fun_fact_dancing_plague_60ee4476:
@@ -1383,7 +1383,7 @@ translate spanish mas_fun_fact_antarctica_brain_9b0c0bd2:
 translate spanish mas_fun_fact_cloud_weight_4041bf98:
 
     # m 3eub "Did you know that the average cloud weighs 500 tonnes?"
-    m 3eub "¿Sabías que la nube promedio pesa 500 toneladas?"
+    m 3eub "¿Sabías que una nube de tamaño medio pesa unas 500 toneladas?"
 
 # game/script-fun-facts.rpy:756
 translate spanish mas_fun_fact_cloud_weight_f0565174:
@@ -1611,7 +1611,7 @@ translate spanish mas_fun_fact_dream_faces_72acca38:
 translate spanish mas_fun_fact_dream_faces_c8c110e9:
 
     # m 3eud "If you just walked past them while shopping or something, their face gets registered in your mind and they can appear in your dreams."
-    m 3eud "Si simplemente pasaste junto a ellos mientras comprabas o algo así, su cara queda registrada en tu mente y pueden aparecer en tus sueños."
+    m 3eud "Si simplemente te cruzaste con ellos mientras hacías la compra o algo así, su cara queda registrada en tu mente y pueden aparecer en tus sueños."
 
 # game/script-fun-facts.rpy:835
 translate spanish mas_fun_fact_dream_faces_27e6b51b:
@@ -1761,7 +1761,7 @@ translate spanish mas_fun_fact_round_earth_09b9142c:
 translate spanish mas_fun_fact_round_earth_fff48a31:
 
     # m 1eud "People had to come up with crazy complex models to explain why planets seemed to zig-zag back and forth across the night sky if they were really going around the Earth."
-    m 1eud "La gente tuvo que inventar modelos locamente complejos para explicar por qué los planetas parecían zigzaguear de un lado a otro por el cielo nocturno si realmente giraban alrededor de la Tierra."
+    m 1eud "La gente tuvo que inventar modelos increíblemente complejos para explicar por qué los planetas parecían zigzaguear de un lado a otro por el cielo nocturno si realmente giraban alrededor de la Tierra."
 
 # game/script-fun-facts.rpy:897
 translate spanish mas_fun_fact_round_earth_1b89d6b5:
@@ -1803,7 +1803,7 @@ translate spanish mas_fun_fact_round_earth_8df8d080:
 translate spanish mas_fun_fact_maplesyrup_fb07cb1a:
 
     # m 3hksdlb "Here's another {w=0.2}{i}sweet {/i}{w=0.2} fact for you..."
-    m 3hksdlb "Aquí tienes otro dato dulce para ti..."
+    m 3hksdlb "Aquí tienes otro dato {w=0.2}dulce {w=0.2}para ti..."
 
 # game/script-fun-facts.rpy:919
 translate spanish mas_fun_fact_maplesyrup_5a01c985:
@@ -1893,7 +1893,7 @@ translate spanish mas_fun_fact_maplesyrup_2398496e:
 translate spanish mas_fun_fact_maplesyrup_f534405d:
 
     # extend 1hublu "you're already sweet enough for me~"
-    extend 1hublu " tú ya eres lo suficientemente dulce para mí~"
+    extend 1hublu " tú ya eres lo bastante dulce para mí."
 
 # game/script-fun-facts.rpy:939
 translate spanish mas_fun_fact_maplesyrup_2c90dd7e:
