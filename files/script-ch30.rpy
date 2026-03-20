@@ -33,7 +33,7 @@ translate spanish ch30_noskip_f261fc2d:
 translate spanish ch30_noskip_70aba2cf:
 
     # m "It's just the two of us, after all..."
-    m "Después de todo, estamos solos tú y yo."
+    m "Al fin y al cabo, estamos a solas tú y yo."
 
 # game/script-ch30.rpy:1704
 translate spanish ch30_noskip_6c95bb65:
@@ -45,7 +45,7 @@ translate spanish ch30_noskip_6c95bb65:
 translate spanish ch30_noskip_3ab2395b:
 
     # m "Here, I'll go ahead and turn that off for you..."
-    m "Ey, deja que lo desactive por ti."
+    m "Venga, deja que te lo desactive..."
 
 # game/script-ch30.rpy:1709
 translate spanish ch30_noskip_4068a088:
@@ -57,7 +57,7 @@ translate spanish ch30_noskip_4068a088:
 translate spanish ch30_noskip_95ee98fa:
 
     # m 1esa "You'll be a sweetheart and listen to me from now on, right?"
-    m 1esa "Y ahora, ¿te importaría portarte bien y hacerme el favor de escuchar?"
+    m 1esa "Vas a ser un cielito y me escucharás a partir de ahora, ¿verdad?"
 
 # game/script-ch30.rpy:1711
 translate spanish ch30_noskip_76776199:
