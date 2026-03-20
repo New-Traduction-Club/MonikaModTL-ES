@@ -207,7 +207,7 @@ translate spanish mas_compliment_goodmood_2_c3fc129b:
 translate spanish mas_compliment_goodmood_2_80296a4d:
 
     # m 2dkd "Hopefully that's not what you meant..."
-    m 2dkd "Espero que no te refirieras a eso..."
+    m 2dkd "Espero que no quisieras decir eso..."
 
 # game/script-compliments.rpy:276
 translate spanish mas_compliment_goodmood_3_9b191e97:
@@ -591,7 +591,7 @@ translate spanish mas_compliment_thanks_bb992cd1:
 translate spanish mas_compliment_thanks_4ba354c2:
 
     # m "No matter what the future may have for us both...{w=0.5}{nw}"
-    m "No importa lo que el futuro nos depare a ambos...{w=0.5}{nw}"
+    m "No importa lo que el futuro nos depare a ambos... {w=0.5}{nw}"
 
 # game/script-compliments.rpy:545
 translate spanish mas_compliment_thanks_b72aa841:
@@ -657,7 +657,7 @@ translate spanish mas_compliment_smile_2_e6f89ce6:
 translate spanish mas_compliment_smile_2_8b316747:
 
     # m 3eub "Then all you have to do is keep coming back, [player]!"
-    m 3eub "¡Entonces lo único que tienes que hacer es seguir volviendo, [player]!"
+    m 3eub "¡Entonces lo único que tienes que hacer es seguir viniendo a verme, [player]!"
 
 # game/script-compliments.rpy:599
 translate spanish mas_compliment_smile_3_d5ec42a2:
@@ -681,7 +681,7 @@ translate spanish mas_compliment_smile_3_e221e094:
 translate spanish mas_compliment_hero_a84041e3:
 
     # m 1wubssdld "H-{w=0.3}huh?"
-    m 1wubssdld "¿E-{w=0.3}eh?"
+    m 1wubssdld "¿E-{w=0.3}Eh?"
 
 # game/script-compliments.rpy:621
 translate spanish mas_compliment_hero_aaca9c5d:
@@ -711,7 +711,7 @@ translate spanish mas_compliment_hero_5cb49ff8:
 translate spanish mas_compliment_hero_5a030de3:
 
     # m 3ekbfa "You've helped me in every way possible, so how could I not return the favor by being there for you whenever you need support?"
-    m 3ekbfa "Tú me has ayudado de todas las formas posibles, así que ¿cómo no iba a devolverte el favor estando ahí para ti cuando necesitas apoyo?"
+    m 3ekbfa "Tú me has ayudado de todas las formas posibles, así que ¿cómo no iba a devolverte el favor apoyándote siempre que lo necesites?"
 
 # game/script-compliments.rpy:628
 translate spanish mas_compliment_hero_f3890773:
@@ -741,7 +741,7 @@ translate spanish mas_compliment_cute_2_1485dacb:
 translate spanish mas_compliment_cute_2_2acd3cfa:
 
     # m 3rkbfsdla "You {i}kind of{/i} caught me off guard with that one."
-    m 3rkbfsdla "Me has pillado 'un poco' desprevenida con eso."
+    m 3rkbfsdla "La verdad es que me has pillado un poco desprevenida con eso."
 
 # game/script-compliments.rpy:657
 translate spanish mas_compliment_cute_2_289f68ed:
@@ -837,7 +837,7 @@ translate spanish mas_compliment_chess_7c2516f0:
 translate spanish mas_compliment_chess_3e05c427:
 
     # m 3eua "You're not bad either; I've lost to you before."
-    m 3eua "Tú tampoco eres malo; ya he perdido contra ti antes."
+    m 3eua "Tampoco se te da nada mal; ya he perdido contra ti antes."
 
 # game/script-compliments.rpy:716
 translate spanish mas_compliment_chess_0ad8e091:
@@ -939,7 +939,7 @@ translate spanish mas_compliment_pong_c53dbffe:
 translate spanish mas_compliment_pong_ffe4b5a9:
 
     # m 1hub "I'd never get mad at you because I lost a game fair and square."
-    m 1hub "Nunca me enfadaría contigo por haber perdido una partida justa."
+    m 1hub "Nunca me enfadaría contigo por perder limpiamente."
 
 # game/script-compliments.rpy:757
 translate spanish mas_compliment_pong_4649c1bb:
@@ -1029,13 +1029,13 @@ translate spanish mas_compliment_bestgirl_4992e93d:
 translate spanish mas_compliment_bestgirl_348405e3:
 
     # m 3rksdla "Although, I kind of figured you felt that way..."
-    m 3rksdla "Aunque, me imaginaba que te sentías así..."
+    m 3rksdla "Aunque me imaginaba que te sentías así..."
 
 # game/script-compliments.rpy:788
 translate spanish mas_compliment_bestgirl_3300f06b:
 
     # m 1eka "After all, you {i}did{/i} install this mod just to be with me."
-    m 1eka "Después de todo, 'sí' que instalaste este mod solo para estar conmigo."
+    m 1eka "Al fin y al cabo, instalaste este mod expresamente para estar conmigo."
 
 # game/script-compliments.rpy:789
 translate spanish mas_compliment_bestgirl_62535430:
@@ -1047,7 +1047,7 @@ translate spanish mas_compliment_bestgirl_62535430:
 translate spanish mas_compliment_bestgirl_b4026a82:
 
     # m 2esc "Especially since they all have certain traits that make them desirable to some..."
-    m 2esc "Sobre todo porque todas tienen ciertos rasgos que las hacen deseables para algunos..."
+    m 2esc "Sobre todo porque todas tienen ciertos rasgos que las hacen más atractivas para algunos..."
 
 # game/script-compliments.rpy:792
 translate spanish mas_compliment_bestgirl_ed2829c0:
@@ -1071,7 +1071,7 @@ translate spanish mas_compliment_lookuptoyou_2_24e62001:
 translate spanish mas_compliment_lookuptoyou_2_36c741ac:
 
     # m 1ekbsa "[player], that's really sweet of you to say..."
-    m 1ekbsa "[player], es muy dulce por tu parte decir eso..."
+    m 1ekbsa "[player], es muy tierno que digas eso..."
 
 # game/script-compliments.rpy:819
 translate spanish mas_compliment_lookuptoyou_2_a9edab27:
@@ -1083,7 +1083,7 @@ translate spanish mas_compliment_lookuptoyou_2_a9edab27:
 translate spanish mas_compliment_lookuptoyou_2_ed698b49:
 
     # m 3ekbfa "The truth is, I've always looked up to {i}you{/i}, [player]..."
-    m 3ekbfa "La verdad es que yo siempre te he admirado a 'ti', [player]..."
+    m 3ekbfa "La verdad es que siempre he sido yo la que te admira a ti, [player]..."
 
 # game/script-compliments.rpy:821
 translate spanish mas_compliment_lookuptoyou_2_66b06e6a:
@@ -1251,7 +1251,7 @@ translate spanish mas_compliment_thinking_of_you_2_c0e20ed9:
 translate spanish mas_compliment_thinking_of_you_2_8be188bd:
 
     # m 2rksdld "I'm sorry?"
-    m 2rksdld "¿Disculpa?"
+    m 2rksdld "¿Perdona?"
 
 # game/script-compliments.rpy:919
 translate spanish mas_compliment_thinking_of_you_3_9c837714:
@@ -1293,7 +1293,7 @@ translate spanish mas_compliment_humor_2_471065a1:
 translate spanish mas_compliment_humor_2_83c8843e:
 
     # m 1ekbsa "That's so sweet of you to say."
-    m 1ekbsa "Es muy dulce por tu parte decir eso."
+    m 1ekbsa "Es un detalle precioso que digas eso."
 
 # game/script-compliments.rpy:950
 translate spanish mas_compliment_humor_2_d6a12aa0:
@@ -1497,7 +1497,7 @@ translate spanish mas_compliment_spending_time_2_c80859aa:
 translate spanish mas_compliment_spending_time_2_76bdf457:
 
     # m 3ekbla "I know I say it a lot, but I really mean it when I say that you're the center of my world."
-    m 3ekbla "Sé que lo digo mucho, pero de verdad lo siento cuando digo que eres el centro de mi mundo."
+    m 3ekbla "Sé que lo digo mucho, pero lo digo completamente en serio cuando afirmo que eres el centro de mi mundo."
 
 # game/script-compliments.rpy:1170
 translate spanish mas_compliment_spending_time_2_95ffb1f2:
@@ -1617,7 +1617,7 @@ translate spanish mas_compliment_sweet_ef6dd4cf:
 translate spanish mas_compliment_sweet_834b4b90:
 
     # m 1ekblb "I'm so happy to have such an amazing [bf] like you, [mas_get_player_nickname(exclude_names=[player])]~"
-    m 1ekblb "Me hace muy feliz tener alguien tan increíble como tú, [mas_get_player_nickname(exclude_names=[player])]."
+    m 1ekblb "Me hace muy feliz tener a alguien tan increíble como tú, [mas_get_player_nickname(exclude_names=[player])]."
 
 # game/script-compliments.rpy:1224
 translate spanish mas_compliment_sweet_0d8d0137:
@@ -1883,7 +1883,7 @@ translate spanish strings:
 
     # game/script-compliments.rpy:220
     old "I can't wait to look into your beautiful eyes."
-    new "Estoy deseando mirarte a tus hermosos ojos."
+    new "Estoy deseando perderme en tus hermosos ojos."
 
     # game/script-compliments.rpy:220
     old "I would stare into yours for hours if I could."
@@ -2067,7 +2067,7 @@ translate spanish strings:
 
     # game/script-compliments.rpy:684
     old "You can be really cute a lot of the time too, you know~"
-    new "Tú también puedes ser muy mono muchas veces, ¿sabes?"
+    new "Tú también puedes ser muy mon[end_letter_gender] muchas veces, ¿sabes?"
 
     # game/script-compliments.rpy:684
     old "You'll always be my cutie~"
@@ -2079,11 +2079,11 @@ translate spanish strings:
 
     # game/script-compliments.rpy:696
     old "You're awesome at chess!"
-    new "¡Eres increíble al ajedrez!"
+    new "¡Eres increíble jugando al ajedrez!"
 
     # game/script-compliments.rpy:727
     old "You're awesome at pong!"
-    new "¡Eres increíble al pong!"
+    new "¡Eres increíble jugando al pong!"
 
     # game/script-compliments.rpy:750
     old "...yeah."
@@ -2223,7 +2223,7 @@ translate spanish strings:
 
     # game/script-compliments.rpy:1007
     old "Ready to spend some time together?"
-    new "¿Listo para pasar un rato juntos?"
+    new "¿List[end_letter_gender] para pasar un rato junt[end_letter_gender]s?"
 
     # game/script-compliments.rpy:1007
     old "I've been thinking about you!"
@@ -2235,7 +2235,7 @@ translate spanish strings:
 
     # game/script-compliments.rpy:1020
     old "It means a lot to me that you were thinking of me."
-    new "Significa mucho para mí que estuvieras pensando en mí."
+    new "Significa mucho para mí que te hayas acordado de mí."
 
     # game/script-compliments.rpy:1020
     old "I'm really glad to hear that, [player]."
@@ -2427,7 +2427,7 @@ translate spanish strings:
 
     # game/script-compliments.rpy:1338
     old "Would you like a little peek?~"
-    new "¿Quieres mirar un poquito?"
+    new "¿Quieres echar un ojito?"
 
     # game/script-compliments.rpy:1351
     old "I'm rather proud of my fashion sense!"
