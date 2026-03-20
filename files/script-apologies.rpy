@@ -9,7 +9,7 @@ translate spanish monika_playerapologizes_33623fba:
 translate spanish monika_playerapologizes_15697a79:
 
     # m 1eka "You don't have to be afraid of apologizing, we all make mistakes after all."
-    m 1eka "No tengas miedo de disculparte; al fin y al cabo, todos cometemos errores."
+    m 1eka "No tienes que tener miedo de disculparte, después de todo, somos humanos y podemos cometer errores."
 
 # game/script-apologies.rpy:128
 translate spanish monika_playerapologizes_23bb9005:
