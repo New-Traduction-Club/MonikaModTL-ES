@@ -9,7 +9,7 @@ translate spanish bye_leaving_already_93baf031:
 translate spanish bye_leaving_already_adf9a681:
 
     # m 1eka "It's really sad whenever you have to go..."
-    m 1eka "Es muy triste cada vez que tienes que irte..."
+    m 1eka "Me da mucha pena cada vez que tienes que irte..."
 
 # game/script-farewells.rpy:265
 translate spanish bye_leaving_already_d311a6a8:
@@ -135,7 +135,7 @@ translate spanish bye_going_to_sleep_ea108470:
 translate spanish bye_going_to_sleep_99cc30c5:
 
     # m 1eka "Okay. {w=0.3}Have a good evening~"
-    m 1eka "Vale. {w=0.3}Que tengas una buena noche."
+    m 1eka "Vale. {w=0.3}Que pases buena noche."
 
 # game/script-farewells.rpy:418
 translate spanish bye_going_to_sleep_eacfe973:
@@ -183,7 +183,7 @@ translate spanish bye_prompt_to_class_2f46235c:
 translate spanish bye_prompt_to_class_4ec3ddc0:
 
     # m 1efp "You haven't even been here for 20 minutes!"
-    m 1efp "¡Ni siquiera has estado aquí 20 minutos!"
+    m 1efp "¡No llevas aquí ni 20 minutos!"
 
 # game/script-farewells.rpy:453
 translate spanish bye_prompt_to_class_5531d637:
@@ -225,7 +225,7 @@ translate spanish bye_prompt_to_class_2a52f6f3:
 translate spanish bye_prompt_to_class_c308ec17:
 
     # m 2eka "I honestly wish it could have been longer...but you're a busy [guy]."
-    m 2eka "Sinceramente, desearía que hubiera sido más tiempo... pero eres alguien muy ocupad[end_letter_gender]."
+    m 2eka "Sinceramente, ojalá hubiera sido más tiempo... pero eres alguien muy ocupad[end_letter_gender]."
 
 # game/script-farewells.rpy:461
 translate spanish bye_prompt_to_class_4ea46b19:
@@ -255,7 +255,7 @@ translate spanish bye_prompt_to_class_73c4051c:
 translate spanish bye_prompt_to_class_23e23018:
 
     # m 1eua "Nothing is more attractive than a [guy] with good grades."
-    m 1eua "Nada es más atractivo que alguien con buenas notas."
+    m 1eua "No hay nada más atractivo que alguien con buenas notas."
 
 # game/script-farewells.rpy:467
 translate spanish bye_prompt_to_class_0fd2785e:
@@ -285,7 +285,7 @@ translate spanish bye_prompt_to_class_70fb4575:
 translate spanish bye_prompt_to_class_566a9422:
 
     # m "If you're not feeling too well, I'm sure {i}one day{/i} off won't hurt."
-    m "Si no te sientes muy bien, estoy segura de que un día libre no hará daño."
+    m "Si no te encuentras muy bien, estoy segura de que no pasa nada por tomarte un día libre."
 
 # game/script-farewells.rpy:473
 translate spanish bye_prompt_to_class_a3b734f9:
@@ -297,7 +297,7 @@ translate spanish bye_prompt_to_class_a3b734f9:
 translate spanish bye_prompt_to_class_e42bab31:
 
     # m 2esc "Fine, [player]."
-    m 2esc "Bien, [player]."
+    m 2esc "Bueno, [player]."
 
 # game/script-farewells.rpy:477
 translate spanish bye_prompt_to_class_1e633382:
@@ -465,7 +465,7 @@ translate spanish bye_prompt_to_work_8af214a6:
 translate spanish bye_prompt_to_work_db4d0af6:
 
     # m 2esc "Fine, [player], guess I'll see you after work."
-    m 2esc "Bien, [player], supongo que te veré después del trabajo."
+    m 2esc "Vale, [player], supongo que te veré después del trabajo."
 
 # game/script-farewells.rpy:538
 translate spanish bye_prompt_to_work_d7b8c526:
@@ -519,7 +519,7 @@ translate spanish bye_prompt_sleep_0bd97190:
 translate spanish bye_prompt_sleep_goodnight_kiss_0ef23c57:
 
     # m 1eublsdla "Think I could...{w=0.3}{nw}"
-    m 1eublsdla "¿Crees que podrías...{w=0.3}{nw} "
+    m 1eublsdla "¿Crees que podrías...{w=0.3}{nw}"
 
 # game/script-farewells.rpy:793
 translate spanish bye_prompt_sleep_goodnight_kiss_0b8d5b8e:
@@ -705,7 +705,7 @@ translate spanish bye_enjoyyourafternoon_4861b1bd:
 translate spanish bye_enjoyyourafternoon_c4602ea9:
 
     # m 2efc "Fine, [player], just go."
-    m 2efc "Bien, [player], vete."
+    m 2efc "Está bien, [player], vete."
 
 # game/script-farewells.rpy:924
 translate spanish bye_enjoyyourafternoon_5cd93ca8:
@@ -735,7 +735,7 @@ translate spanish bye_enjoyyourafternoon_0bd97190:
 translate spanish bye_goodevening_8266c833:
 
     # m 1hua "I had fun today."
-    m 1hua "Me he divertido hoy."
+    m 1hua "Me lo he pasado muy bien hoy."
 
 # game/script-farewells.rpy:954
 translate spanish bye_goodevening_13072766:
@@ -873,7 +873,7 @@ translate spanish bye_long_absence_15fa6ece:
 translate spanish bye_long_absence_302bd782:
 
     # m 3rksdla "I'm not really sure what I'm going to do with myself while you're gone..."
-    m 3rksdla "No estoy muy segura de qué voy a hacer conmigo misma mientras estás fuera..."
+    m 3rksdla "No tengo muy claro qué voy a hacer mientras estés fuera..."
 
 # game/script-farewells.rpy:1046
 translate spanish bye_long_absence_dbd053d3:
@@ -1101,7 +1101,7 @@ translate spanish bye_long_absence_6df508ef:
 translate spanish bye_long_absence_99a99cb3:
 
     # m "I'm not really sure what I'm going to do with myself while you're gone."
-    m "No estoy muy segura de qué voy a hacer conmigo misma mientras estás fuera."
+    m "No tengo muy claro qué voy a hacer conmigo misma mientras estás fuera."
 
 # game/script-farewells.rpy:1100
 translate spanish bye_long_absence_9d023d35:
@@ -1299,7 +1299,7 @@ translate spanish bye_long_absence_e933c0fc:
 translate spanish bye_long_absence_319242b2:
 
     # m "I really do mean it when I say I'll miss you..."
-    m "Lo digo muy en serio cuando digo que te echaré de menos..."
+    m "Hablo completamente en serio cuando digo que te echaré de menos..."
 
 # game/script-farewells.rpy:1150
 translate spanish bye_long_absence_8246a037:
@@ -1437,7 +1437,7 @@ translate spanish bye_going_somewhere_normalplus_flow_aff_check_f3814ba7:
 translate spanish bye_going_somewhere_normalplus_flow_aff_check_1b71b2b4:
 
     # m 1hua "Yay!"
-    m 1hua "¡Viva!"
+    m 1hua "¡Bieeen!"
 
 # game/script-farewells.rpy:1273
 translate spanish bye_going_somewhere_normalplus_flow_aff_check_03ebd6e3:
@@ -1551,7 +1551,7 @@ translate spanish bye_going_somewhere_leavemenu_09e19c2a:
 translate spanish bye_going_somewhere_leavemenu_775bf62f:
 
     # m 3ekb "Please just go about your day whenever you need to, though. I wouldn't want to make you late!"
-    m 3ekb "Pero por favor, sigue con tu día cuando lo necesites. ¡No querría que llegaras tarde!"
+    m 3ekb "Pero por favor, sigue con tus cosas cuando lo necesites. ¡No querría que llegaras tarde!"
 
 # game/script-farewells.rpy:1323
 translate spanish bye_going_somewhere_leavemenu_3b1f989f:
@@ -1593,7 +1593,7 @@ translate spanish bye_prompt_game_be48e08f:
 translate spanish bye_prompt_game_22048cc1:
 
     # m 1hubsb "Yay!"
-    m 1hubsb "¡Viva!"
+    m 1hubsb "¡Bieeen!"
 
 # game/script-farewells.rpy:1356
 translate spanish bye_prompt_game_77c0c38d:
@@ -1875,7 +1875,7 @@ translate spanish bye_prompt_housework_791a2cb6:
 translate spanish bye_prompt_housework_1342e6a3:
 
     # m 2esc "Fine."
-    m 2esc "Bien."
+    m 2esc "Vale."
 
 # game/script-farewells.rpy:1701
 translate spanish bye_prompt_housework_8e9d29e1:
@@ -1959,7 +1959,7 @@ translate spanish bye_prompt_workout_834d1736:
 translate spanish bye_prompt_workout_770cf7e3:
 
     # m 3hub "I'm so glad you're taking care of your body!{w=0.3} A healthy body leads to a healthy mind~"
-    m 3hub "¡Me alegra tanto que cuides tu cuerpo!{w=0.3} Un cuerpo sano lleva a una mente sana."
+    m 3hub "¡Me alegra tanto que cuides tu cuerpo!{w=0.3} Ya sabes, mente sana en cuerpo sano."
 
 # game/script-farewells.rpy:1759
 translate spanish bye_prompt_workout_5d9af918:
