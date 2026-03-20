@@ -1959,7 +1959,7 @@ translate spanish bye_prompt_workout_834d1736:
 translate spanish bye_prompt_workout_770cf7e3:
 
     # m 3hub "I'm so glad you're taking care of your body!{w=0.3} A healthy body leads to a healthy mind~"
-    m 3hub "¡Me alegra tanto que cuides tu cuerpo!{w=0.3} Ya sabes, mente sana en cuerpo sano."
+    m 3hub "¡Me alegra tanto que te cuides...!{w=0.3} Ya sabes, mente sana en cuerpo sano."
 
 # game/script-farewells.rpy:1759
 translate spanish bye_prompt_workout_5d9af918:
