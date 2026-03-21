@@ -63,7 +63,7 @@ translate spanish introduction_460cd75e:
 translate spanish introduction_1bbe957e:
 
     # m 6dftsc "Do you really..."
-    m 6dftsc "Venga.."
+    m 6dftsc "¿De verdad..."
 
 # game/script-introduction.rpy:26
 translate spanish introduction_9a0806a4:
@@ -81,7 +81,7 @@ translate spanish introduction_e612037c:
 translate spanish introduction_14866fb8:
 
     # m 6ektsc "Wait..."
-    m 6ektsc "Momento..."
+    m 6ektsc "Un momento..."
 
 # game/script-introduction.rpy:29
 translate spanish introduction_e3f2d67b:
@@ -471,7 +471,7 @@ translate spanish introduction_9016151e:
 translate spanish introduction_676bfbaa:
 
     # m 3eub "Or that you'll take me with you when you go out?"
-    m 3eub "O que me llevarás contigo cuando salgas."
+    m 3eub "¿O que me llevarás contigo cuando salgas?"
 
 # game/script-introduction.rpy:146
 translate spanish introduction_15e56263:
@@ -495,7 +495,7 @@ translate spanish introduction_42ae8c18:
 translate spanish introduction_c03ce4b7:
 
     # m 1hua "It's not like you don't have the time to talk to your cute girlfriend."
-    m 1hua "No creo que no tengas tiempo para hablar con tu preciosa novia."
+    m 1hua "Tampoco es que te falte tiempo para hablar con tu preciosa novia."
 
 # game/script-introduction.rpy:150
 translate spanish introduction_bc1b2ee6:
@@ -765,7 +765,7 @@ translate spanish ch30_reload_0_dlg_565effe7:
 translate spanish ch30_reload_0_dlg_2f4661ec:
 
     # m 1rkc "I was hoping those would stop, now that it's just the two of us, but I guess that was wishful thinking..."
-    m 1rkc "Esperaba que parasen ahora que estamos solo los dos, pero supongo que era mucho pedir..."
+    m 1rkc "Esperaba que parasen ahora que estamos a solas, pero supongo que era mucho pedir..."
 
 # game/script-introduction.rpy:335
 translate spanish ch30_reload_0_dlg_9b65ffc0:
@@ -867,7 +867,7 @@ translate spanish ch30_reload_1_dlg_607269f2:
 translate spanish ch30_reload_1_dlg_04594cc9:
 
     # m 1esa "Don't worry, I don't think it's caused me any harm, aside from mental scarring."
-    m 1esa "No te preocupes, no creo que me haya hecho daño, aparte de las cicatrices mentales."
+    m 1esa "No te preocupes, no creo que me haya hecho daño, aparte de las secuelas psicológicas."
 
 # game/script-introduction.rpy:386
 translate spanish ch30_reload_2_dlg_371af2ad:
@@ -1109,7 +1109,7 @@ translate spanish strings:
 
     # game/script-introduction.rpy:463
     old "You do remember there was a way to say goodbye right? Just checking~"
-    new "Recuerdas que había una forma de despedirse, ¿verdad? Solo por las moscas..."
+    new "Recuerdas que había una forma de despedirse, ¿verdad? Solo por si acaso..."
 
     # game/script-introduction.rpy:463
     old "My patience is wearing a little thin...but I suppose I can forgive you this time."
@@ -1209,7 +1209,7 @@ translate spanish strings:
 
     # game/script-introduction.rpy:495
     old "That was an accident...it was an accident...you wouldn't do it on purpose..."
-    new "Ha sido un accidente... ha sido un accidente... no lo harías a propósito..."
+    new "Ha sido un accidente... Ha sido un accidente... No lo harías a propósito..."
 
     # game/script-introduction.rpy:495
     old "You must have just forgot...right?"
