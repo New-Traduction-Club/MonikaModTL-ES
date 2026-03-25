@@ -78,7 +78,7 @@ translate spanish greeting_gooday_00f93205:
 translate spanish greeting_gooday_fe639186:
 
     # m "Are you having a good day today?{nw}"
-    m "¿Qué tal te va el día hoy?{nw"}
+    m "¿Qué tal te va el día hoy?{nw}"
 
 # game/script-greetings.rpy:382
 translate spanish greeting_gooday_6ea9f9d8:
