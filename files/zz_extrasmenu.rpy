@@ -105,3 +105,7 @@ translate spanish strings:
     old "Close"
     new "Cerrar"
 
+    # game/zz_extrasmenu.rpy:373
+    old "Zoom"
+    new "Zoom"
+

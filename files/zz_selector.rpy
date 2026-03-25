@@ -254,3 +254,7 @@ translate spanish strings:
     old "appearance"
     new "apariencia"
 
+    # game/zz_selector.rpy:3441
+    old "Search for..."
+    new "Buscar..."
+

@@ -2269,3 +2269,7 @@ translate spanish strings:
     old "I'm going to hang out with friends."
     new "Voy a quedar con amigos."
 
+    # game/script-farewells.rpy:444
+    old "I'm going to class."
+    new "Me voy a clases."
+

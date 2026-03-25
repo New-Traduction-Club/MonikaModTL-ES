@@ -409,3 +409,7 @@ translate spanish strings:
     old "supplies"
     new "surtido"
 
+    # game/zz_consumables.rpy:1710
+    old "some more"
+    new "algo más"
+

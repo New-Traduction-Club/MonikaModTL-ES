@@ -325,3 +325,182 @@ translate spanish strings:
     old "Up for a game, [player]?"
     new "¿Te apetece una partida, [player]?"
 
+    # game/zz_spriteobjects.rpy:703
+    old "Ponytail"
+    new "Coleta"
+
+    # game/zz_spriteobjects.rpy:733
+    old "Down"
+    new "Suelto"
+
+    # game/zz_spriteobjects.rpy:761
+    old "Down (Tied strand)"
+    new "Suelto (Mechón atado)"
+
+    # game/zz_spriteobjects.rpy:791
+    old "Braided"
+    new "Trenzado"
+
+    # game/zz_spriteobjects.rpy:1109
+    old "Thermos (Just Monika)"
+    new "Termo (Just Monika)"
+
+    # game/zz_spriteobjects.rpy:1140
+    old "Rose"
+    new "Rosa"
+
+    # game/zz_spriteobjects.rpy:1248
+    old "Golden Music Note"
+    new "Nota musical dorada"
+
+    # game/zz_spriteobjects.rpy:1328
+    old "Witch Hat"
+    new "Sombrero de bruja"
+
+    # game/zz_spriteobjects.rpy:1413
+    old "Hairclip (Gray hearts)"
+    new "Pasador (Corazones grises)"
+
+    # game/zz_spriteobjects.rpy:1441
+    old "Hairclip (Pink diamonds)"
+    new "Pasador (Diamantes rosas)"
+
+    # game/zz_spriteobjects.rpy:1468
+    old "Hairclip (Holly)"
+    new "Pasador (Acebo)"
+
+    # game/zz_spriteobjects.rpy:1638
+    old "Ribbon (Black)"
+    new "Lazo (Negro)"
+
+    # game/zz_spriteobjects.rpy:1671
+    old "Ribbon (Black/gray)"
+    new "Lazo (Negro/gris)"
+
+    # game/zz_spriteobjects.rpy:1704
+    old "Ribbon (Black/pink)"
+    new "Lazo (Negro/rosa)"
+
+    # game/zz_spriteobjects.rpy:1754
+    old "Ribbon (Blue)"
+    new "Lazo (Azul)"
+
+    # game/zz_spriteobjects.rpy:1787
+    old "Ribbon (Dark Purple)"
+    new "Lazo (Morado oscuro)"
+
+    # game/zz_spriteobjects.rpy:1820
+    old "Ribbon (Emerald)"
+    new "Lazo (Esmeralda)"
+
+    # game/zz_spriteobjects.rpy:1852
+    old "Ribbon (White)"
+    new "Lazo (Blanco)"
+
+    # game/zz_spriteobjects.rpy:1885
+    old "Ribbon (Gray)"
+    new "Lazo (Gris)"
+
+    # game/zz_spriteobjects.rpy:1918
+    old "Ribbon (Green)"
+    new "Lazo (Verde)"
+
+    # game/zz_spriteobjects.rpy:1951
+    old "Ribbon (Light Purple)"
+    new "Lazo (Morado claro)"
+
+    # game/zz_spriteobjects.rpy:1984
+    old "Ribbon (Peach)"
+    new "Lazo (Melocotón)"
+
+    # game/zz_spriteobjects.rpy:2017
+    old "Ribbon (Pink)"
+    new "Lazo (Rosa)"
+
+    # game/zz_spriteobjects.rpy:2047
+    old "Ribbon (Platinum)"
+    new "Lazo (Platino)"
+
+    # game/zz_spriteobjects.rpy:2077
+    old "Ribbon (Red)"
+    new "Lazo (Rojo)"
+
+    # game/zz_spriteobjects.rpy:2107
+    old "Ribbon (Ruby)"
+    new "Lazo (Rubí)"
+
+    # game/zz_spriteobjects.rpy:2137
+    old "Ribbon (Sapphire)"
+    new "Lazo (Zafiro)"
+
+    # game/zz_spriteobjects.rpy:2167
+    old "Ribbon (Silver)"
+    new "Lazo (Plateado)"
+
+    # game/zz_spriteobjects.rpy:2198
+    old "Ribbon (Teal)"
+    new "Lazo (Verde azulado)"
+
+    # game/zz_spriteobjects.rpy:2228
+    old "Ribbon (Wine)"
+    new "Lazo (Vino)"
+
+    # game/zz_spriteobjects.rpy:2258
+    old "Ribbon (Yellow)"
+    new "Lazo (Amarillo)"
+
+    # game/zz_spriteobjects.rpy:2354
+    old "Earrings (Pink Diamond)"
+    new "Pendientes (Diamante rosa)"
+
+    # game/zz_spriteobjects.rpy:2430
+    old "School Uniform"
+    new "Uniforme escolar"
+
+    # game/zz_spriteobjects.rpy:2461
+    old "Black Dress"
+    new "Vestido negro"
+
+    # game/zz_spriteobjects.rpy:2497
+    old "Black and Pink Dress"
+    new "Vestido negro y rosa"
+
+    # game/zz_spriteobjects.rpy:2536
+    old "School Uniform (Blazerless)"
+    new "Uniforme escolar (Sin chaqueta)"
+
+    # game/zz_spriteobjects.rpy:2591
+    old "Witch Costume"
+    new "Disfraz de bruja"
+
+    # game/zz_spriteobjects.rpy:2627
+    old "Neko Costume"
+    new "Disfraz de neko"
+
+    # game/zz_spriteobjects.rpy:2679
+    old "Lingerie (Spider)"
+    new "Lencería (Araña)"
+
+    # game/zz_spriteobjects.rpy:2716
+    old "Santa Costume"
+    new "Disfraz de Santa"
+
+    # game/zz_spriteobjects.rpy:2752
+    old "Lingerie (Santa)"
+    new "Lencería (Santa)"
+
+    # game/zz_spriteobjects.rpy:2794
+    old "Dress (New Years)"
+    new "Vestido (Año Nuevo)"
+
+    # game/zz_spriteobjects.rpy:2832
+    old "Sundress (White)"
+    new "Vestido de verano (Blanco)"
+
+    # game/zz_spriteobjects.rpy:2864
+    old "Lingerie (Pink Lace)"
+    new "Lencería (Encaje rosa)"
+
+    # game/zz_spriteobjects.rpy:2926
+    old "Shirt (NOU)"
+    new "Camiseta (NOU)"

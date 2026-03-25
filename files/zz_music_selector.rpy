@@ -9,3 +9,7 @@ translate spanish strings:
     old "Next >>>>"
     new "Sig. >>>>"
 
+    # game/zz_music_selector.rpy:41
+    old "No Music"
+    new "Silenciar"
+

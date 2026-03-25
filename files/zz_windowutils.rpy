@@ -33,3 +33,11 @@ translate spanish strings:
     old "Hey [player], I want to tell you something."
     new "Oye, [player], quiero decirte algo."
 
+    # game/zz_windowutils.rpy:34
+    old "Topic Alerts"
+    new "Alertas de temas"
+
+    # game/zz_windowutils.rpy:34
+    old "Window Reactions"
+    new "Reacciones a ventanas"
+
