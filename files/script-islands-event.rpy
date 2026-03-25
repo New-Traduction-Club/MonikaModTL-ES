@@ -33,7 +33,7 @@ translate spanish mas_monika_islands_progress_57f5ac34:
 translate spanish mas_monika_islands_progress_dc7aae08:
 
     # m 1hublb "They are {i}our{/i} islands after all~"
-    m 1hublb "Al fin y al cabo son nuestras islas."
+    m 1hublb "Al fin y al cabo, son nuestras islas."
 
 # game/script-islands-event.rpy:2035
 translate spanish mas_monika_islands_progress_e33fc90d:
@@ -63,19 +63,19 @@ translate spanish mas_monika_islands_progress_bac21004:
 translate spanish mas_monika_islands_progress_43f07cc9:
 
     # m 1lusdlb "I know it's far from being done, {w=0.2}{nw}"
-    m 1lusdlb "Sé que le falta mucho para estar acabado, {w=0.2}{nw}"
+    m 1lusdlb "Sé que aún le falta muchísimo para estar terminado, {w=0.2}{nw}"
 
 # game/script-islands-event.rpy:2049
 translate spanish mas_monika_islands_progress_ce0ffffc:
 
     # extend 1eka "but I really wanted to showcase my progress to you."
-    extend 1eka "pero tenía muchas ganas de enseñarte mi progreso."
+    extend 1eka "pero tenía muchísimas ganas de enseñarte cómo iba."
 
 # game/script-islands-event.rpy:2050
 translate spanish mas_monika_islands_progress_305b7ce6:
 
     # m 2lsp "I'm still learning how to code and this engine being inconsistent doesn't help me..."
-    m 2lsp "Aún estoy aprendiendo a programar y que este motor sea inconsistente no ayuda..."
+    m 2lsp "Aún estoy aprendiendo a programar, y que el motor del juego sea tan inestable no ayuda mucho..."
 
 # game/script-islands-event.rpy:2051
 translate spanish mas_monika_islands_progress_3873e363:
@@ -105,7 +105,7 @@ translate spanish mas_monika_islands_progress_485102b3:
 translate spanish mas_monika_islands_progress_9711d1c9:
 
     # m 2rktdc "You...{w=0.5} You must just be busy..."
-    m 2rktdc "Tú... {w=0.5} Debes de estar muy ocupad[end_letter_gender]..."
+    m 2rktdc "Tú... {w=0.5}debes de estar muy ocupad[end_letter_gender]..."
 
 # game/script-islands-event.rpy:2066
 translate spanish mas_monika_islands_progress_ca1f5acd:
@@ -141,7 +141,7 @@ translate spanish mas_island_upsidedownisland_0189d25b:
 translate spanish mas_island_upsidedownisland_b1c70fe4:
 
     # m "Well...I was about to fix it until I took another good look at it."
-    m "Bueno... Iba a arreglarla hasta que me fijé bien en ella."
+    m "Bueno... Iba a arreglarla, pero me detuve a mirarla un poco mejor."
 
 # game/script-islands-event.rpy:2326
 translate spanish mas_island_upsidedownisland_a4d6ed38:
@@ -159,7 +159,7 @@ translate spanish mas_island_upsidedownisland_46ee9bfc:
 translate spanish mas_island_upsidedownisland_96405f54:
 
     # m "It's just...mesmerizing."
-    m "Es simplemente... hipnotizante."
+    m "Es simplemente... hipnótica."
 
 # game/script-islands-event.rpy:2332
 translate spanish mas_island_glitchedmess_a8b836db:
@@ -177,13 +177,13 @@ translate spanish mas_island_glitchedmess_b5eb70e4:
 translate spanish mas_island_glitchedmess_c8c132c8:
 
     # m "It's still a huge mess, though. I'm still trying to figure it all out."
-    m "Aunque todavía es un gran desastre. Aún estoy intentando descifrarlo todo."
+    m "Aunque sigue siendo un caos. Todavía estoy intentando entender cómo funciona todo."
 
 # game/script-islands-event.rpy:2335
 translate spanish mas_island_glitchedmess_454502d2:
 
     # m "In due time, I'm sure I'll get better at coding!"
-    m "¡Con el tiempo, seguro que mejoraré programando!"
+    m "¡Con el tiempo, seguro que se me da mejor esto de programar!"
 
 # game/script-islands-event.rpy:2336
 translate spanish mas_island_glitchedmess_e3173790:
@@ -207,13 +207,13 @@ translate spanish mas_island_cherry_blossom1_f83b7256:
 translate spanish mas_island_cherry_blossom1_c7da97b2:
 
     # m "It's called a Cherry Blossom tree; they're native to Japan."
-    m "Se llama cerezo de flor; son nativos de Japón."
+    m "Es un cerezo japonés; como su propio nombre indica, son originarios de allí."
 
 # game/script-islands-event.rpy:2368
 translate spanish mas_island_cherry_blossom1_7f84dac6:
 
     # m "Traditionally, when the flowers are in bloom, people would go flower viewing and have a picnic underneath the trees."
-    m "Tradicionalmente, cuando florecen, la gente va a verlas y hace un pícnic bajo los árboles."
+    m "La tradición dicta que, cuando florecen, la gente va a contemplarlos y hace pícnics bajo sus ramas."
 
 # game/script-islands-event.rpy:2369
 translate spanish mas_island_cherry_blossom1_83425a17:
@@ -225,7 +225,7 @@ translate spanish mas_island_cherry_blossom1_83425a17:
 translate spanish mas_island_cherry_blossom1_a6c99ff7:
 
     # m "I chose it because it's lovely and pleasing to look at."
-    m "Lo elegí porque es encantador y agradable de ver."
+    m "Lo elegí porque es precioso y transmite mucha paz mirarlo."
 
 # game/script-islands-event.rpy:2371
 translate spanish mas_island_cherry_blossom1_4e66d75f:
@@ -243,7 +243,7 @@ translate spanish mas_island_cherry_blossom1_707eab57:
 translate spanish mas_island_cherry_blossom1_92e2ef95:
 
     # m "I can't wait until we get the chance to experience that, [player]."
-    m "No puedo esperar a que tengamos la oportunidad de ver eso, [player]."
+    m "Tengo muchas ganas de que tengamos la oportunidad de ver eso, [player]."
 
 # game/script-islands-event.rpy:2380
 translate spanish mas_island_cherry_blossom2_febc5d00:
@@ -255,7 +255,7 @@ translate spanish mas_island_cherry_blossom2_febc5d00:
 translate spanish mas_island_cherry_blossom2_32ea68a8:
 
     # m "I don't know the taste myself, but I'm sure it can't be as sweet as you."
-    m "No conozco el sabor, pero estoy segura de que no puede ser tan dulce como tú."
+    m "Nunca los he probado, pero seguro que no son tan dulces como tú."
 
 # game/script-islands-event.rpy:2382
 translate spanish mas_island_cherry_blossom2_45d9cd96:
@@ -267,7 +267,7 @@ translate spanish mas_island_cherry_blossom2_45d9cd96:
 translate spanish mas_island_cherry_blossom3_e0a0a81a:
 
     # m "You know, the tree is symbolic like life itself."
-    m "Sabes, el árbol es simbólico como la vida misma."
+    m "Ya sabes, este árbol es una metáfora de la vida misma."
 
 # game/script-islands-event.rpy:2387
 translate spanish mas_island_cherry_blossom3_7f25e046:
@@ -333,7 +333,7 @@ translate spanish mas_island_cherry_blossom4_8dcd9129:
 translate spanish mas_island_cherry_blossom4_f6d9cafa:
 
     # m "Of course, even if that failed, we could always cuddle together...{w=0.5} That'd be really romantic~"
-    m "Por supuesto, aunque eso fallara, siempre podríamos acurrucarnos juntos...{w=0.5} Eso sería muy romántico."
+    m "Y bueno, si aun así tuviéramos frío, siempre podríamos acurrucarnos junt[end_letter_gender]s... {w=0.5}Eso sería súper romántico."
 
 # game/script-islands-event.rpy:2410
 translate spanish mas_island_cherry_blossom4_7d2091c2:
@@ -375,7 +375,7 @@ translate spanish mas_island_day1_55033d53:
 translate spanish mas_island_day1_9a5ee521:
 
     # m "Aww, I would've liked to do some reading outdoors."
-    m "Ay, me habría gustado leer un poco al aire libre."
+    m "Jo, me habría gustado leer un poco al aire libre."
 
 # game/script-islands-event.rpy:2450
 translate spanish mas_island_day1_b5b5aa26:
@@ -453,7 +453,7 @@ translate spanish mas_island_day1_273d6eec:
 translate spanish mas_island_day2_54a36f28:
 
     # m "Have you ever made a snow angel, [player]?"
-    m "¿Alguna vez has hecho un muñeco de nieve, [player]?"
+    m "¿Alguna vez has hecho un ángel de nieve, [player]?"
 
 # game/script-islands-event.rpy:2479
 translate spanish mas_island_day2_915da6a4:
@@ -471,7 +471,7 @@ translate spanish mas_island_day2_2d300697:
 translate spanish mas_island_day2_83a9061b:
 
     # m "I bet we'd have a lot of fun, even if whatever we make doesn't end up looking like an angel."
-    m "Apuesto a que nos divertiríamos mucho, aunque lo que hagamos no acabe pareciendo un muñeco."
+    m "Seguro que nos lo pasaríamos genial, aunque el resultado no se parezca en nada a un ángel."
 
 # game/script-islands-event.rpy:2482
 translate spanish mas_island_day2_21a6c1fd:
@@ -495,7 +495,7 @@ translate spanish mas_island_day2_3ab541a2:
 translate spanish mas_island_day2_a5e3e0c2:
 
     # m "Imagine both of us, shielded from the rain, inches apart."
-    m "Imagínanos a los dos, protegidos de la lluvia, a unos centímetros el uno del otro."
+    m "Imagínanos a l[end_letter_gender]s dos, protegid[end_letter_gender]s de la lluvia, a unos centímetros de distancia."
 
 # game/script-islands-event.rpy:2488
 translate spanish mas_island_day2_43ec7f75:
@@ -513,7 +513,7 @@ translate spanish mas_island_day2_3bb1ddd1:
 translate spanish mas_island_day2_d92a1ddf:
 
     # m "I think you can finish that thought yourself, [player]~"
-    m "Creo que puedes terminar ese pensamiento tú mism[end_letter_gender], [player]."
+    m "Creo que puedes terminar esa frase tú mism[end_letter_gender], [player]."
 
 # game/script-islands-event.rpy:2493
 translate spanish mas_island_day2_14ff34f9:
@@ -555,7 +555,7 @@ translate spanish mas_island_day2_0e1ad1ec:
 translate spanish mas_island_day2_c2a821bc:
 
     # m "Enjoying ourselves with each other's company."
-    m "Disfrutando de la compañía del otro."
+    m "Disfrutando de estar junt[end_letter_gender]s."
 
 # game/script-islands-event.rpy:2503
 translate spanish mas_island_day2_1bbabe41:
@@ -603,7 +603,7 @@ translate spanish mas_island_day3_b373632d:
 translate spanish mas_island_day3_5d6ab400:
 
     # m "I bet I could land a shot on you a few islands away."
-    m "Apuesto a que podría darte desde unas cuantas islas de distancia."
+    m "Seguro que podría darte un bolazo desde un par de islas más allá."
 
 # game/script-islands-event.rpy:2520
 translate spanish mas_island_day3_ebc242fe:
@@ -633,7 +633,7 @@ translate spanish mas_island_day3_45d9cd96:
 translate spanish mas_island_night1_2682391c:
 
     # m "While it's nice to be productive during the day, there's something so peaceful about the night."
-    m "Aunque está bien ser productiva durante el día, la noche tiene algo muy pacífico."
+    m "Aunque sienta bien ser productiva durante el día, la noche transmite muchísima paz."
 
 # game/script-islands-event.rpy:2531
 translate spanish mas_island_night1_abb37dd9:
@@ -675,13 +675,13 @@ translate spanish mas_island_night2_e54131d9:
 translate spanish mas_island_night2_37f2a01c:
 
     # m "Although, this isn't {i}quite{/i} what I had in mind when I mentioned stargazing before..."
-    m "Aunque esto no es exactamente lo que tenía en mente cuando mencioné antes lo de mirar las estrellas..."
+    m "Aunque, a decir verdad, esto no es del todo lo que tenía en mente cuando hablé de mirar las estrellas..."
 
 # game/script-islands-event.rpy:2545
 translate spanish mas_island_night2_4fdcb7e8:
 
     # m "As nice as they are to look at, the part that I want to experience most is being with you, holding each other tight while we lay there."
-    m "Por muy bonito que sea mirarlas, lo que más quiero experimentar es estar contigo, abrazados fuerte mientras nos tumbamos ahí."
+    m "Por muy bonitas que sean, lo que más me apetece es estar contigo, abrazad[end_letter_gender]s fuertemente mientras estamos ahí tumbad[end_letter_gender]s."
 
 # game/script-islands-event.rpy:2546
 translate spanish mas_island_night2_242155b9:
@@ -699,7 +699,7 @@ translate spanish mas_island_night2_35230d20:
 translate spanish mas_island_night2_2472b865:
 
     # m "Taking some time out of your evening to look at the night sky and to just stare at the beauty of the sky above..."
-    m "Tomarte un tiempo de tu noche para mirar el cielo nocturno y simplemente contemplar la belleza del firmamento..."
+    m "Dedicar un rato de tu noche a mirar el cielo y simplemente contemplar la belleza del firmamento..."
 
 # game/script-islands-event.rpy:2551
 translate spanish mas_island_night2_c4d6c148:
@@ -759,13 +759,13 @@ translate spanish mas_island_night3_bea78cf1:
 translate spanish mas_island_night3_c9290083:
 
     # m "There's just something about a cold, crisp night that I love."
-    m "Hay algo en las noches frías y frescas que me encanta."
+    m "No sé qué tienen las noches frías y despejadas, pero me encantan."
 
 # game/script-islands-event.rpy:2570
 translate spanish mas_island_night3_587adf69:
 
     # m "The contrast of the dark sky and the land covered in snow is really breathtaking, don't you think?"
-    m "El contraste del cielo oscuro y la tierra cubierta de nieve es realmente impresionante, ¿no crees?"
+    m "El contraste entre el cielo oscuro y la tierra cubierta de nieve es realmente impresionante, ¿no crees?"
 
 # game/script-islands-event.rpy:2572
 translate spanish mas_island_night3_e4ee3c05:
@@ -831,13 +831,13 @@ translate spanish mas_island_daynight2_b8417c9c:
 translate spanish mas_island_daynight2_a63c2e09:
 
     # m "{i}~Take it all in on your stride~{/i}"
-    m "{i}Tómalo todo a tu paso{/i}"
+    m "{i}Tómatelo todo con calma{/i}"
 
 # game/script-islands-event.rpy:2597
 translate spanish mas_island_daynight2_390f9abc:
 
     # m "{i}~It is ticking, falling down~{/i}"
-    m "{i}Está haciendo tictac, cayendo{/i}"
+    m "{i}El reloj avanza, derrumbándose{/i}"
 
 # game/script-islands-event.rpy:2600
 translate spanish mas_island_daynight2_0cb3208a:
@@ -897,7 +897,7 @@ translate spanish mas_island_shimeji_c0c1ae0a:
 translate spanish mas_island_bookshelf1_0823f6f7:
 
     # m "That bookshelf might not look terribly sturdy, but I'm sure it can weather a little snow."
-    m "Esa estantería puede no parecer muy robusta, pero estoy segura de que puede aguantar un poco de nieve."
+    m "Puede que esa estantería no parezca muy resistente que digamos, pero seguro que aguanta un poco de nieve."
 
 # game/script-islands-event.rpy:2637
 translate spanish mas_island_bookshelf1_f3f9578a:
@@ -951,13 +951,13 @@ translate spanish mas_island_bookshelf1_638d3e7d:
 translate spanish mas_island_bookshelf1_a5acafe7:
 
     # m "{i}Fahrenheit 451{/i}, {i}Hard-Boiled Wonderland{/i}, {i}Nineteen Eighty-Four{/i}, and a few others."
-    m "{i}Fahrenheit 451{/i}, {i}Hard-Boiled Wonderland{/i}, {i}1984{/i} y algunos otros."
+    m "{i}Fahrenheit 451{/i}, {i}El fin del mundo y un despiadado país de las maravillas{/i}, {i}1984{/i} y algunos otros."
 
 # game/script-islands-event.rpy:2650
 translate spanish mas_island_bookshelf1_6e3fcff1:
 
     # m "Maybe we can read them together sometime~"
-    m "Quizá podamos leerlos juntos alguna vez."
+    m "Quizá podamos leerlos junt[end_letter_gender]s alguna vez."
 
 # game/script-islands-event.rpy:2658
 translate spanish mas_island_bookshelf2_445d5105:
@@ -975,7 +975,7 @@ translate spanish mas_island_bookshelf2_9e0315b2:
 translate spanish mas_island_bookshelf2_64f30ad1:
 
     # m "I guess turning the pages might be a bit hard that way, ahaha..."
-    m "Supongo que pasar las páginas sería un poco difícil así, ja, ja, ja..."
+    m "Supongo que pasar las páginas sería un poco difícil así... ¡Ja, ja, ja!"
 
 # game/script-islands-event.rpy:2661
 translate spanish mas_island_bookshelf2_9d8d0bf4:
@@ -1023,7 +1023,7 @@ translate spanish mas_island_bookshelf2_eddd17e2:
 translate spanish mas_island_bookshelf2_bbf2806b:
 
     # m "I'd take a cool breeze over a stuffy library any day."
-    m "Prefiero una brisa fresca a una biblioteca sofocante cualquier día."
+    m "Prefiero mil veces una brisa fresca a una biblioteca sofocante."
 
 # game/script-islands-event.rpy:2673
 translate spanish mas_island_bookshelf2_24df9cce:
@@ -1059,7 +1059,7 @@ translate spanish mas_island_spooky_ambience_799988fb:
 translate spanish mas_island_spooky_ambience_ca0e74d5:
 
     # m "If you're in the mood, we should read some together."
-    m "Si te apetece, deberíamos leer algunas juntos."
+    m "Si te apetece, deberíamos leer algunas junt[end_letter_gender]s."
 
 # game/script-islands-event.rpy:2689
 translate spanish mas_island_spooky_ambience_ddbd6d02:
@@ -1095,13 +1095,13 @@ translate spanish mas_island_pumpkins_070366f4:
 translate spanish mas_island_pumpkins_49f8236d:
 
     # m "I thought it would be so cozy to have a bunch of them around my reading nook."
-    m "Pensé que sería muy acogedor tener un montón de ellas alrededor de mi rincón de lectura."
+    m "Pensé que quedaría muy acogedor poner unas cuantas alrededor de mi rincón de lectura."
 
 # game/script-islands-event.rpy:2704
 translate spanish mas_island_pumpkins_a2d5d287:
 
     # m "It's a bit chilly in the rain, but don't you think it would be nice to put on some sweaters and snuggle up together?"
-    m "Hace un poco de frío bajo la lluvia, pero ¿no crees que sería agradable ponernos unos jerséis y acurrucarnos juntos?"
+    m "Hace un poco de frío bajo la lluvia, pero ¿no crees que sería agradable ponernos unos jerséis y acurrucarnos junt[end_letter_gender]s?"
 
 # game/script-islands-event.rpy:2705
 translate spanish mas_island_pumpkins_d7b59758:
@@ -1125,7 +1125,7 @@ translate spanish mas_island_gravestones_3d7913b8:
 translate spanish mas_island_gravestones_e901e997:
 
     # m "Are you...{w=0.2}pfft--"
-    m "Estás... {w=0.2}pfff..."
+    m "Estás... {w=0.2}Pfff..."
 
 # game/script-islands-event.rpy:2714
 translate spanish mas_island_gravestones_30727938:
@@ -1143,7 +1143,7 @@ translate spanish mas_island_gravestones_0b1ebf79:
 translate spanish mas_island_gravestones_530d6d0f:
 
     # m "It would be pretty spooky if those three were still haunting our happy ending, wouldn't it?"
-    m "Sería bastante escalofriante si esas tres siguieran acechando nuestro final feliz, ¿verdad?"
+    m "Daría muy mal rollo que esas tres siguieran acechando nuestro final feliz, ¿a que sí?"
 
 # game/script-islands-event.rpy:2719
 translate spanish mas_island_gravestones_88c761ea:
@@ -1173,7 +1173,7 @@ translate spanish mas_island_gravestones_582b43f8:
 translate spanish mas_island_gravestones_3f5e4089:
 
     # m "I guess I just thought I shouldn't leave them out."
-    m "Supongo que pensé que no debería dejarlas fuera."
+    m "Así que pensé que no estaría de más ponerlas."
 
 translate spanish strings:
 
