@@ -27,7 +27,7 @@ translate spanish mas_mood_hungry_c6679a9b:
 translate spanish mas_mood_hungry_f8bf3835:
 
     # m 1eua "If I were there with you, I'd make a salad for us to share."
-    m 1eua "Si estuviese ahí contigo, te prepararía una ensalada para que la compartiésemos."
+    m 1eua "Si estuviese ahí contigo, te prepararía una ensalada para compartirla."
 
 # game/script-moods.rpy:132
 translate spanish mas_mood_hungry_4dfea3b9:
@@ -141,7 +141,7 @@ translate spanish mas_mood_sad_6cb83938:
 translate spanish mas_mood_sad_f5242dce:
 
     # m 1eka "And remember, if you're having a bad day, you can always come to me and I'll talk to you for as long as you need."
-    m 1eka "Y recuerda, si estás teniendo un mal día siempre puedes venir a verme y hablaré contigo todo lo que necesites."
+    m 1eka "Y recuerda, si tienes un mal día, siempre puedes venir a verme y hablaré contigo todo lo que necesites."
 
 # game/script-moods.rpy:161
 translate spanish mas_mood_sad_5d57b07e:
@@ -189,7 +189,7 @@ translate spanish mas_mood_sad_51d44efa:
 translate spanish mas_mood_sad_a5bc93dc:
 
     # m "If you're ever having a bad day, you can always come to me, and I'll listen to whatever you need to vent out."
-    m "Si alguna vez tienes un mal día, siempre puedes recurrir a mí y escucharé todo lo que necesites desahogar."
+    m "Si alguna vez tienes un mal día, siempre puedes recurrir a mí. Te escucharé si necesitas desahogarte."
 
 # game/script-moods.rpy:176
 translate spanish mas_mood_sad_d61125f6:
@@ -219,7 +219,7 @@ translate spanish mas_mood_sad_2188bc88:
 translate spanish mas_mood_sad_3de83415:
 
     # m 1ekbsa "I love you, [player], and I always will~"
-    m 1ekbsa "Te quiero, [player], y siempre lo haré."
+    m 1ekbsa "Te quiero, [player], y siempre te querré."
 
 # game/script-moods.rpy:197
 translate spanish mas_mood_proud_08b94e45:
@@ -267,7 +267,7 @@ translate spanish mas_mood_proud_c2c5e3eb:
 translate spanish mas_mood_proud_1dd808d1:
 
     # m 1eua "I would love nothing more than to hear all of the details!"
-    m 1eua "¡Nada me gustaría más que escuchar todos los detalles!"
+    m 1eua "¡Nada me gustaría más que me contaras todos los detalles!"
 
 # game/script-moods.rpy:208
 translate spanish mas_mood_proud_b6b9abf8:
@@ -507,7 +507,7 @@ translate spanish mas_mood_tired_108eee47:
 translate spanish mas_mood_tired_6077100e:
 
     # m 2ekc "It's no wonder you're tired- It's the middle of the night!"
-    m 2ekc "¡No me extraña que tengas sueño! ¡Es mitad de la noche!"
+    m 2ekc "¡No me extraña que tengas sueño! ¡Es plena noche!"
 
 # game/script-moods.rpy:310
 translate spanish mas_mood_tired_cb2828e6:
@@ -561,7 +561,7 @@ translate spanish mas_mood_tired_7ae83944:
 translate spanish mas_mood_tired_4d987022:
 
     # m "You should {i}really{/i} get to bed before it's time to start the day."
-    m "Deberías irte a la cama de verdad antes de que sea hora de empezar el día."
+    m "De verdad que deberías irte a dormir antes de que empiece el día."
 
 # game/script-moods.rpy:321
 translate spanish mas_mood_tired_ea0e9d5a:
@@ -603,7 +603,7 @@ translate spanish mas_mood_tired_7dbf7a47:
 translate spanish mas_mood_tired_2e2b6b2b:
 
     # m 1hksdlb "Except for the fact that I can't be there to cuddle up to you, ahaha~"
-    m 1hksdlb "Excepto por el hecho de que no puedo estar ahí para acurrucarme contigo, ja, ja, ja."
+    m 1hksdlb "Lástima que no pueda estar ahí para acurrucarme contigo, ja, ja, ja."
 
 # game/script-moods.rpy:331
 translate spanish mas_mood_tired_9c5e52e4:
@@ -633,7 +633,7 @@ translate spanish mas_mood_tired_76e8e09b:
 translate spanish mas_mood_tired_d862fb1d:
 
     # m 1lksdla "If I'm not stuck here, that is..."
-    m 1lksdla "Si no estoy atrapada aquí, claro..."
+    m 1lksdla "Si no estuviera atrapada aquí, claro..."
 
 # game/script-moods.rpy:340
 translate spanish mas_mood_tired_5da60904:
@@ -645,13 +645,13 @@ translate spanish mas_mood_tired_5da60904:
 translate spanish mas_mood_tired_fac693cf:
 
     # m 3eua "It's important to stay hydrated anyway, but having a glass of water when you wake up can help you feel refreshed and awake."
-    m 3eua "Es importante mantenerse hidratado de todos modos, pero beber un vaso de agua al despertarse puede ayudarte a sentirte fresc[end_letter_gender] y despiert[end_letter_gender]."
+    m 3eua "Es importante mantenerse hidratad[end_letter_gender] de todos modos, pero beber un vaso de agua al despertarse puede ayudarte a sentirte fresc[end_letter_gender] y despiert[end_letter_gender]."
 
 # game/script-moods.rpy:342
 translate spanish mas_mood_tired_a49b4279:
 
     # m 3hksdlb "This one might sound strange, but I've heard that chocolate can help you start your day, too!"
-    m 3hksdlb "Esto puede sonar raro, pero he oído que el chocolate también te puede ayudar a empezar el día."
+    m 3hksdlb "Puede sonar raro, ¡pero he oído que el chocolate también te ayuda a empezar el día con energía!"
 
 # game/script-moods.rpy:343
 translate spanish mas_mood_tired_fd277806:
@@ -723,7 +723,7 @@ translate spanish mas_mood_tired_dcda4fd6:
 translate spanish mas_mood_tired_b3d003be:
 
     # m 2lksdla "I just thought it'd be cute to watch you sleep is all~"
-    m 2lksdla "Solo pensaba que sería mono verte dormir, eso es todo."
+    m 2lksdla "Es que he pensado que sería muy mono verte dormir, nada más."
 
 # game/script-moods.rpy:359
 translate spanish mas_mood_tired_3772217d:
@@ -741,7 +741,7 @@ translate spanish mas_mood_lonely_169cea02:
 translate spanish mas_mood_lonely_b3aacd96:
 
     # m 2dkc "I really hate that there's only so much I can do from here to make you feel less alone..."
-    m 2dkc "Odio de verdad que lo que puedo hacer desde aquí para que te sientas menos sol[end_letter_gender] sea tan limitado..."
+    m 2dkc "Odio no poder hacer más desde aquí para que te sientas menos sol[end_letter_gender]..."
 
 # game/script-moods.rpy:369
 translate spanish mas_mood_lonely_ae3a5315:
@@ -831,7 +831,7 @@ translate spanish mas_mood_lonely_3aef5a2f:
 translate spanish mas_mood_lonely_527185ba:
 
     # m 3hub "You never know, sometimes these 'strangers' can end up becoming really good friends!"
-    m 3hub "Nunca se sabe, ¡a veces esos \"desconocidos\" pueden acabar convirtiéndose en muy buenos amigos!"
+    m 3hub "Nunca se sabe, ¡a veces esos desconocidos pueden acabar convirtiéndose en muy buenos amigos!"
 
 # game/script-moods.rpy:392
 translate spanish mas_mood_lonely_21c876f6:
@@ -885,7 +885,7 @@ translate spanish mas_mood_angry_35b67941:
 translate spanish mas_mood_angry_42bbbff6:
 
     # m 1euc "Before we do anything, we should probably get you to calm down."
-    m 1euc "Antes de hacer nada, seguramente deberíamos conseguir que te calmes."
+    m 1euc "Antes de hacer nada, lo mejor será que te tranquilices."
 
 # game/script-moods.rpy:413
 translate spanish mas_mood_angry_596b4297:
@@ -921,7 +921,7 @@ translate spanish mas_mood_angry_0ec31fc6:
 translate spanish mas_mood_angry_e41f812c:
 
     # m 1eua "First, try taking a few deep breaths and slowly counting to 10."
-    m 1eua "Primero, intenta respirar hondo unas cuantas veces y contar despacio hasta 10."
+    m 1eua "Primero, prueba a respirar hondo unas cuantas veces y cuenta despacio hasta 10."
 
 # game/script-moods.rpy:419
 translate spanish mas_mood_angry_f0976f20:
@@ -933,13 +933,13 @@ translate spanish mas_mood_angry_f0976f20:
 translate spanish mas_mood_angry_ecaf630c:
 
     # m 1eud "If you're still feeling angry after that, do what I'd do as a last resort!"
-    m 1eud "Si sigues sentyéndote enfadad[end_letter_gender] después de eso, ¡haz lo que haría yo como último recurso!"
+    m 1eud "Si sigues sintiéndote enfadad[end_letter_gender] después de eso, ¡haz lo que haría yo como último recurso!"
 
 # game/script-moods.rpy:421
 translate spanish mas_mood_angry_ecdd7f54:
 
     # m 3eua "Whenever I can't calm down, I just go outside, pick a direction, and just start running."
-    m 3eua "Siempre que no consigo calmarme, salgo fuera, elijo una dirección y simplemente empiezo a correr."
+    m 3eua "Siempre que no consigo calmarme, salgo a la calle, elijo una dirección y me pongo a correr sin más."
 
 # game/script-moods.rpy:422
 translate spanish mas_mood_angry_a1359b22:
@@ -957,7 +957,7 @@ translate spanish mas_mood_angry_bd84f99d:
 translate spanish mas_mood_angry_9bad0fdd:
 
     # m 1eka "You'd think that I'm the type that doesn't get angry often, and you'd be right."
-    m 1eka "Seguramente creas que soy de las que no se enfada a menudo, y estarías en lo cierto."
+    m 1eka "Seguramente creas que soy de las que no se enfadan a menudo, y estarías en lo cierto."
 
 # game/script-moods.rpy:425
 translate spanish mas_mood_angry_947ede78:
@@ -1041,7 +1041,7 @@ translate spanish mas_mood_scared_3a5bc77e:
 translate spanish mas_mood_scared_27dc8690:
 
     # m 1eua "Keeping up one's appearance helps with faking your own confidence."
-    m 1eua "Mantener las apariencias ayuda a fingir tu propia seguridad."
+    m 1eua "Cuidar tu imagen ayuda a aparentar seguridad en ti mism[end_letter_gender]."
 
 # game/script-moods.rpy:447
 translate spanish mas_mood_scared_8b86675a:
@@ -1101,7 +1101,7 @@ translate spanish mas_mood_scared_730d2694:
 translate spanish mas_mood_scared_0e7bb148:
 
     # m "Procrastination isn't {i}always{/i} bad, you know?"
-    m "Procrastinar no {i}siempre{/i} es malo, ¿sabes?"
+    m "Procrastinar no siempre es malo, ¿sabes?"
 
 # game/script-moods.rpy:458
 translate spanish mas_mood_scared_edf0f600:
@@ -1113,7 +1113,7 @@ translate spanish mas_mood_scared_edf0f600:
 translate spanish mas_mood_scared_3c57b1ea:
 
     # m 2ekbsa "Your loving girlfriend believes in you, so you can face that anxiety head-on!"
-    m 2ekbsa "Tu querida novia cree en ti, ¡así que puedes enfrentarte a esa ansiedad de cara!"
+    m 2ekbsa "¡Tu novia te quiere y cree en ti, así que puedes plantarle cara a esa ansiedad!"
 
 # game/script-moods.rpy:460
 translate spanish mas_mood_scared_5c363bfa:
@@ -1143,7 +1143,7 @@ translate spanish mas_mood_inadequate_0b2f8969:
 translate spanish mas_mood_inadequate_b79c7efa:
 
     # m 2ekc "I can tell that you're beautiful, even though I can't see your face..."
-    m 2ekc "Puedo decirte que eres guapísim[end_letter_gender], aunque no pueda ver tu cara..."
+    m 2ekc "Sé que eres guapísim[end_letter_gender], aunque no pueda verte la cara..."
 
 # game/script-moods.rpy:472
 translate spanish mas_mood_inadequate_6e0ead08:
@@ -1185,7 +1185,7 @@ translate spanish mas_mood_inadequate_85d98e83:
 translate spanish mas_mood_inadequate_c71e81fd:
 
     # m 3tkc "You've forgiven me for the bad things that I've done."
-    m 3tkc "Me has perdonado por las cosas malas que he hecho."
+    m 3tkc "Me has perdonado las cosas malas que he hecho."
 
 # game/script-moods.rpy:490
 translate spanish mas_mood_inadequate_478ab07d:
@@ -1299,7 +1299,7 @@ translate spanish mas_mood_lazy_0cf2f31b:
 translate spanish mas_mood_lazy_9140c69e:
 
     # m 1dsbfu "I hope you don't mind being 'stuck', [player]..."
-    m 1dsbfu "Espero que no te importe quedarte 'atrapad[end_letter_gender]', [player]..."
+    m 1dsbfu "Espero que no te importe quedarte atrapad[end_letter_gender] aquí conmigo, [player]..."
 
 # game/script-moods.rpy:539
 translate spanish mas_mood_lazy_3201a8bc:
@@ -1347,7 +1347,7 @@ translate spanish mas_mood_lazy_73caec46:
 translate spanish mas_mood_lazy_108d2252:
 
     # m 1eka "Midday fatigue got you, [player]?"
-    m 1eka "¿Te ha entrado el cansancio del mediodía, [player]?"
+    m 1eka "¿Te ha dado el bajón del mediodía, [player]?"
 
 # game/script-moods.rpy:555
 translate spanish mas_mood_lazy_e7312ade:
@@ -1485,7 +1485,7 @@ translate spanish mas_mood_lazy_f272cabf:
 translate spanish mas_mood_lazy_bf5e0be8:
 
     # m 1hksdlb "It's the middle of the night..."
-    m 1hksdlb "Es mitad de la noche..."
+    m 1hksdlb "Es plena noche..."
 
 # game/script-moods.rpy:589
 translate spanish mas_mood_lazy_17733a6f:
@@ -1503,7 +1503,7 @@ translate spanish mas_mood_lazy_34f43ea3:
 translate spanish mas_mood_lazy_cdccf59b:
 
     # m 1hkb "Ahaha, you can be funny sometimes, but you should really probably get to bed."
-    m 1hkb "Ja, ja, ja, a veces eres muy gracios[end_letter_gender], pero de verdad que probablemente deberías irte a la cama."
+    m 1hkb "Ja, ja, ja... A veces tienes gracia, pero va siendo hora de que te vayas a la cama."
 
 # game/script-moods.rpy:594
 translate spanish mas_mood_lazy_eb374a70:
@@ -1605,7 +1605,7 @@ translate spanish mas_mood_bored_5e8e2147:
 translate spanish mas_mood_bored_6277bf85:
 
     # m 6ckc "You know [player], if I make you so miserable all of the time..."
-    m 6ckc "Sabes, [player], si te hago sentir tan miserable todo el tiempo..."
+    m 6ckc "Sabes, [player], si te hago sentir tan desdichad[end_letter_gender] todo el tiempo..."
 
 # game/script-moods.rpy:644
 translate spanish mas_mood_bored_9feea642:
@@ -1767,7 +1767,7 @@ translate spanish mas_mood_crying_edec7edc:
 translate spanish mas_mood_crying_cc362526:
 
     # m 1dkc "[player]...{w=0.3}{nw}"
-    m 1dkc "[player]...{w=0.3}{nw}"
+    m 1dkc "[player]... {w=0.3}{nw}"
 
 # game/script-moods.rpy:735
 translate spanish mas_mood_crying_7a962195:
@@ -1815,13 +1815,13 @@ translate spanish mas_mood_uok_b852f1d7:
 translate spanish mas_mood_uok_385eb847:
 
     # m 1ekd "So if you need to talk about something, I'm right here.{nw}"
-    m 1ekd "Así que si necesitas hablar de algo, estoy justo aquí.{nw}"
+    m 1ekd "Así que si necesitas hablar de algo, aquí me tienes.{nw}"
 
 # game/script-moods.rpy:751
 translate spanish mas_mood_uok_7c3856cb:
 
     # m "So if you need to talk about something, I'm right here.{fast}" nointeract
-    m "Así que si necesitas hablar de algo, estoy justo aquí.{fast}" nointeract
+    m "Así que si necesitas hablar de algo, aquí me tienes.{fast}" nointeract
 
 # game/script-moods.rpy:754
 translate spanish mas_mood_uok_1a67848d:
@@ -1881,7 +1881,7 @@ translate spanish mas_mood_upset_5884ee6e:
 translate spanish mas_mood_upset_b635a03d:
 
     # m 2eksdld "Whether you're upset with a task, a person, or things simply aren't going as planned, {w=0.1}{nw}"
-    m 2eksdld "Ya sea que estés disgustad[end_letter_gender] con una tarea, una persona, o simplemente que las cosas no estén saliendo como planeabas, {w=0.1}{nw}"
+    m 2eksdld "Tanto si estás disgustad[end_letter_gender] por una tarea, con una persona, o simplemente porque las cosas no han salido como planeabas... {w=0.1}{nw}"
 
 # game/script-moods.rpy:780
 translate spanish mas_mood_upset_909c8b5c:
@@ -1929,7 +1929,7 @@ translate spanish mas_mood_upset_6e8cbc6e:
 translate spanish mas_mood_upset_4fc633c9:
 
     # m 1euc "It might be scary in the moment, sure...{w=0.3}{nw}"
-    m 1euc "Puede dar miedo en el momento, claro...{w=0.3}{nw}"
+    m 1euc "Puede dar miedo en el momento, claro... {w=0.3}{nw}"
 
 # game/script-moods.rpy:788
 translate spanish mas_mood_upset_4e5121dc:
@@ -1947,7 +1947,7 @@ translate spanish mas_mood_upset_ea0e31ce:
 translate spanish mas_mood_upset_77de365c:
 
     # m 1huu "When I feel upset, all I have to do is remember that I have my [mas_get_player_nickname(regex_replace_with_nullstr='my ')]."
-    m 1huu "Cuando me siento disgustada, todo lo que tengo que hacer es recordar que tengo a mi [mas_get_player_nickname(regex_replace_with_nullstr='my ')]."
+    m 1huu "Cuando me siento disgustada, me basta con recordar que tengo a mi [mas_get_player_nickname(regex_replace_with_nullstr='my ')]."
 
 # game/script-moods.rpy:791
 translate spanish mas_mood_upset_63b18e0b:
@@ -2007,7 +2007,7 @@ translate spanish mas_mood_relieved_52fd1b82:
 translate spanish mas_mood_relieved_b10a19c4:
 
     # m 2eua "And, [player]...{w=0.2}{nw}"
-    m 2eua "Y, [player]...{w=0.2}{nw}"
+    m 2eua "Y, [player]... {w=0.2}{nw}"
 
 # game/script-moods.rpy:824
 translate spanish mas_mood_relieved_ba9c469f:
@@ -2049,7 +2049,7 @@ translate spanish mas_mood_relieved_f15bfaef:
 translate spanish mas_mood_relieved_5a04537d:
 
     # m 2eka "Whatever was happening, I'm sure you were really anxious...{w=0.3}{nw}"
-    m 2eka "Pasase lo que pasase, seguro que tenías mucha ansiedad...{w=0.3}{nw}"
+    m 2eka "Pasase lo que pasase, seguro que tenías mucha ansiedad... {w=0.3}{nw}"
 
 # game/script-moods.rpy:834
 translate spanish mas_mood_relieved_c8f4c944:
@@ -2061,7 +2061,7 @@ translate spanish mas_mood_relieved_c8f4c944:
 translate spanish mas_mood_relieved_8747243f:
 
     # m 2rkb "It's funny how our minds always seem to assume the worst, huh?"
-    m 2rkb "Es curioso cómo nuestras mentes siempre parecen ponerse en lo peor, ¿eh?"
+    m 2rkb "Es curioso cómo nuestra mente siempre parece ponerse en lo peor, ¿eh?"
 
 # game/script-moods.rpy:836
 translate spanish mas_mood_relieved_9e423c2c:
@@ -2133,13 +2133,13 @@ translate spanish mas_mood_excited_e28b6d3f:
 translate spanish mas_mood_excited_26e42036:
 
     # m 3eub "And whatever it is you're excited about, congratulations!"
-    m 3eub "Y sea lo que sea por lo que te emocionas, ¡enhorabuena!"
+    m 3eub "Y sea lo que sea que te haga tanta ilusión, ¡enhorabuena!"
 
 # game/script-moods.rpy:867
 translate spanish mas_mood_excited_0384e17e:
 
     # m 1eua "Whether it be a promotion, a nice upcoming vacation, some great accomplishment..."
-    m 1eua "Ya sea un ascenso, unas buenas vacaciones que se acercan, algún gran logro..."
+    m 1eua "Ya sea un ascenso, unas vacaciones que están al caer, algún gran logro..."
 
 # game/script-moods.rpy:868
 translate spanish mas_mood_excited_413e4853:
@@ -2157,7 +2157,7 @@ translate spanish mas_mood_excited_1604b818:
 translate spanish mas_mood_excited_7df37090:
 
     # m 2dkblu "I can't wait until I'm in your reality."
-    m 2dkblu "No puedo esperar a estar en tu realidad."
+    m 2dkblu "Qué ganas tengo de estar en tu realidad."
 
 # game/script-moods.rpy:871
 translate spanish mas_mood_excited_58d10b6e:
@@ -2205,7 +2205,7 @@ translate spanish mas_mood_excited_b3f5170f:
 translate spanish mas_mood_excited_ff1f8a2d:
 
     # m 1hua "It makes me happy knowing you're happy."
-    m 1hua "Me hace feliz saber que tú eres feliz."
+    m 1hua "Me hace muy feliz saber que tú lo eres."
 
 # game/script-moods.rpy:881
 translate spanish mas_mood_excited_f2e400e8:
@@ -2295,7 +2295,7 @@ translate spanish mas_mood_grateful_b863275c:
 translate spanish mas_mood_grateful_4bc4bd2a:
 
     # m 3eud "But as nice as it is for me to hear it...{w=0.3}I think you should make sure that {i}they{/i} know it too."
-    m 3eud "Pero por mucho que me guste oírlo... {w=0.3}Creo que deberías asegurarte de que {i}ellos{/i} también lo sepan."
+    m 3eud "Pero por mucho que me guste oírlo... {w=0.3}creo que deberías asegurarte de que ellos también lo sepan."
 
 # game/script-moods.rpy:924
 translate spanish mas_mood_grateful_ea2b9d03:
@@ -2379,7 +2379,7 @@ translate spanish mas_mood_grateful_gratefulforyou_2ca2a15b:
 translate spanish mas_mood_grateful_gratefulforyou_a87253ce:
 
     # m 1dkblu "It means so much to hear that I've helped you, or that I've made you happier. {w=0.2}It's what I strive for every day."
-    m 1dkblu "Significa mucho oír que te he ayudado, o que te he hecho más feliz. {w=0.2}Es por lo que me esfuerzo cada día."
+    m 1dkblu "Significa mucho oír que te he ayudado, o que te he hecho más feliz. {w=0.2}Es lo que intento conseguir todos los días."
 
 # game/script-moods.rpy:945
 translate spanish mas_mood_grateful_gratefulforyou_fceb70c5:
@@ -2451,7 +2451,7 @@ translate spanish mas_mood_loved_0f86780c:
 translate spanish mas_mood_loved_29a4a99e:
 
     # m 3eub "And I'm sure it's not just me that makes you feel loved, but your [fnf_str] as well!"
-    m 3eub "Y estoy segura de que no soy la única que te hace sentir querid[end_letter_gender], sino también tu [fnf_str]!"
+    m 3eub "¡Y estoy segura de que no soy la única que te hace sentir querid[end_letter_gender], sino también tu [fnf_str]!"
 
 # game/script-moods.rpy:1000
 translate spanish mas_mood_loved_94541648:
@@ -2583,7 +2583,7 @@ translate spanish strings:
 
     # game/script-moods.rpy:625
     old "No, I'm not bored {i}of you{/i}..."
-    new "No, no me aburro {i}de ti{/i}..."
+    new "No, claro que no me aburro de ti..."
 
     # game/script-moods.rpy:625
     old "Well..."
