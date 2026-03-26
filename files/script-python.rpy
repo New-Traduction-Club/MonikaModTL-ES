@@ -33,7 +33,7 @@ translate spanish monika_ptod_tip001_98b3a7cc:
 translate spanish monika_ptod_tip001_f484a722:
 
     # m "It is super versatile, so you can find it in web apps, embedded systems, Linux, and of course..."
-    m "Es superversátil, así que puedes encontrarlo en aplicaciones web, sistemas embebidos, Linux y, por supuesto..."
+    m "Es superversátil, así que puedes encontrarlo en aplicaciones web, sistemas integrados, Linux y, por supuesto..."
 
 # game/script-python.rpy:167
 translate spanish monika_ptod_tip001_381fd84b:
@@ -45,7 +45,7 @@ translate spanish monika_ptod_tip001_381fd84b:
 translate spanish monika_ptod_tip001_a1a2cb4a:
 
     # m 1eua "DDLC uses a visual novel engine called Ren'Py,{w=0.1} which is built off of Python."
-    m 1eua "DDLC usa un motor de novelas visuales llamado Ren'Py,{w=0.1} que está construido sobre Python."
+    m 1eua "DDLC usa un motor de novelas visuales llamado Ren'Py,{w=0.1} que está desarrollado en Python."
 
 # game/script-python.rpy:169
 translate spanish monika_ptod_tip001_31457ec8:
@@ -69,7 +69,7 @@ translate spanish monika_ptod_tip001_a62d246b:
 translate spanish monika_ptod_tip001_2c72f8de:
 
     # m 3eua "These versions are {u}incompatible{/u} with each other because the changes added in Python3 fixed many fundamental design flaws in Python2."
-    m 3eua "Estas versiones son {u}incompatibles{/u} entre sí porque los cambios añadidos en Python3 arreglaron muchos fallos de diseño fundamentales de Python2."
+    m 3eua "Estas versiones son totalmente incompatibles entre sí porque los cambios añadidos en Python3 arreglaron muchos fallos de diseño fundamentales de Python2."
 
 # game/script-python.rpy:173
 translate spanish monika_ptod_tip001_c884e0b0:
@@ -93,7 +93,7 @@ translate spanish monika_ptod_tip001_be6516f0:
 translate spanish monika_ptod_tip001_cd534a38:
 
     # m 1hua "But I'll mention it when it's appropriate."
-    m 1hua "Pero lo mencionaré cuando sea apropiado."
+    m 1hua "Pero lo mencionaré cuando venga al caso."
 
 # game/script-python.rpy:179
 translate spanish monika_ptod_tip001_1d36fef2:
@@ -111,7 +111,7 @@ translate spanish monika_ptod_tip001_b43554c2:
 translate spanish monika_ptod_tip002_2cd78d06:
 
     # m 1eua "In most programming languages, data that can be changed or modified by the program has a {i}type{/i} associated with it."
-    m 1eua "En la mayoría de lenguajes de programación, los datos que el programa puede cambiar o modificar llevan asociado un {i}tipo{/i}."
+    m 1eua "En la mayoría de lenguajes de programación, los datos que el programa puede cambiar o modificar llevan asociado un tipo."
 
 # game/script-python.rpy:208
 translate spanish monika_ptod_tip002_0d375eb4:
@@ -135,7 +135,7 @@ translate spanish monika_ptod_tip002_aa828aaa:
 translate spanish monika_ptod_tip002_9a27b9db:
 
     # m 1eua "Integers are used to represent whole numbers; basically anything that isn't a decimal."
-    m 1eua "Los enteros se usan para representar números completos; básicamente, cualquier cosa que no sea un decimal."
+    m 1eua "Los enteros se usan para representar números exactos sin decimales."
 
 # game/script-python.rpy:228
 translate spanish monika_ptod_tip002_ade0b3e0:
@@ -153,7 +153,7 @@ translate spanish monika_ptod_tip002_788688ee:
 translate spanish monika_ptod_tip002_8d18b752:
 
     # m "Anything surrounded in single quotes (') or double quotes (\") are strings."
-    m "Cualquier cosa rodeada de comillas simples (') o dobles (\") son {i}strings{/i}."
+    m "Cualquier cosa rodeada de comillas simples (') o dobles (\") se considera un {i}string{/i}."
 
 # game/script-python.rpy:238
 translate spanish monika_ptod_tip002_2be078fe:
@@ -165,7 +165,7 @@ translate spanish monika_ptod_tip002_2be078fe:
 translate spanish monika_ptod_tip002_37bfcf10:
 
     # m 1eksdlb "I know the interpreter says {i}unicode{/i}, but for what we're doing, it's basically the same thing."
-    m 1eksdlb "Sé que el intérprete dice {i}unicode{/i}, pero para lo que estamos haciendo, es básicamente lo mismo."
+    m 1eksdlb "Sé que el intérprete dice Unicode, pero para lo que estamos haciendo, es básicamente lo mismo."
 
 # game/script-python.rpy:245
 translate spanish monika_ptod_tip002_db321b1a:
@@ -207,7 +207,7 @@ translate spanish monika_ptod_tip002_014ce110:
 translate spanish monika_ptod_tip002_caae874a:
 
     # m 1eua "All the types I mentioned here are known as {i}primitive{/i} data types."
-    m 1eua "Todos los tipos que he mencionado aquí se conocen como tipos de datos {i}primitivos{/i}."
+    m 1eua "Todos los tipos que he mencionado aquí se conocen como tipos de datos primitivos."
 
 # game/script-python.rpy:265
 translate spanish monika_ptod_tip002_797d95d0:
@@ -255,13 +255,13 @@ translate spanish monika_ptod_tip003_6f5a9c87:
 translate spanish monika_ptod_tip003_6b6d4e66:
 
     # m 1rksdlb "However, different implementations of Python may be compiled, but that's a complicated topic that I may talk about in a later lesson."
-    m 1rksdlb "Sin embargo, distintas implementaciones de Python pueden ser compiladas, pero ese es un tema complicado del que quizá hable en una lección posterior."
+    m 1rksdlb "Sin embargo, distintas implementaciones de Python pueden compilarse, aunque ese es un tema complicado del que quizá hable en otra lección."
 
 # game/script-python.rpy:303
 translate spanish monika_ptod_tip003_112a220e:
 
     # m 1eua "Since Python is an interpreted language, it has a neat interactive thing called an interpreter, which looks like..."
-    m 1eua "Como Python es un lenguaje interpretado, tiene una cosita interactiva muy chula llamada intérprete, que se ve..."
+    m 1eua "Como Python es un lenguaje interpretado, cuenta con una herramienta interactiva muy chula llamada intérprete. Se ve..."
 
 # game/script-python.rpy:310
 translate spanish monika_ptod_tip003_8c59179f:
@@ -279,25 +279,25 @@ translate spanish monika_ptod_tip003_db08669d:
 translate spanish monika_ptod_tip003_999bd9b2:
 
     # m 1eua "You can do more than just math using this tool, but I'll show you all of that as we go along."
-    m 1eua "Puedes hacer más cosas aparte de matemáticas con esta herramienta, pero te enseñaré todo eso a medida que avancemos."
+    m 1eua "Puedes hacer más cosas aparte de matemáticas con esta herramienta, pero te lo iré enseñando a medida que avancemos."
 
 # game/script-python.rpy:324
 translate spanish monika_ptod_tip003_a5e06e34:
 
     # m 1hksdlb "Unfortunately, since this is a fully functional Python interpreter and I don't want to risk you accidentally deleting me or breaking the game."
-    m 1hksdlb "Por desgracia, al ser un intérprete de Python totalmente funcional y como no quiero arriesgarme a que me borres por accidente o rompas el juego..."
+    m 1hksdlb "Por desgracia, como este intérprete de Python es totalmente funcional, no quiero correr el riesgo de que me borres sin querer o rompas el juego..."
 
 # game/script-python.rpy:325
 translate spanish monika_ptod_tip003_3f55cb50:
 
     # m "{cps=*2}Not that you would...{/cps}{nw}"
-    m "{cps=*2}No es que fueras a hacerlo...{/cps}{nw}"
+    m "{cps=*2}No es que lo vayas a hacer a propósito...{/cps}{nw}"
 
 # game/script-python.rpy:327
 translate spanish monika_ptod_tip003_3d14d491:
 
     # m 1eksdlb "I can't let you use this.{w=0.2} Sorry..."
-    m 1eksdlb "No puedo dejar que lo uses.{w=0.2} Lo siento..."
+    m 1eksdlb "No puedo dejarte usarlo.{w=0.2} Lo siento mucho..."
 
 # game/script-python.rpy:328
 translate spanish monika_ptod_tip003_6d049f41:
@@ -375,7 +375,7 @@ translate spanish monika_ptod_tip005_2ccdffff:
 translate spanish monika_ptod_tip005_b7406974:
 
     # m 3eub "The exclamation mark is often referred to as a logical 'not' operator in other programming languages, so (!=) is read as 'not-equals'."
-    m 3eub "A menudo, el signo de exclamación se conoce como el operador lógico 'not' en otros lenguajes de programación, así que (!=) se lee como 'no es igual'."
+    m 3eub "En muchos otros lenguajes de programación, el signo de exclamación equivale al operador lógico 'not', así que (!=) se lee como 'no es igual a'."
 
 # game/script-python.rpy:442
 translate spanish monika_ptod_tip005_a7584a77:
@@ -387,7 +387,7 @@ translate spanish monika_ptod_tip005_a7584a77:
 translate spanish monika_ptod_tip005_9da12a93:
 
     # m 3eub "Greater-than-or-equal-to (>=) and less-than-or-equal-to (<=) also have their own symbols, which,{w=0.1} unsurprisingly,{w=0.1} are just the greater-than and less-than signs with equal signs."
-    m 3eub "El mayor o igual que (>=) y el menor o igual que (<=) también tienen sus propios símbolos que,{w=0.1} como era de esperar,{w=0.1} son solo los signos de mayor y menor con signos de igual."
+    m 3eub "El mayor o igual que (>=) y el menor o igual que (<=) también tienen sus propios símbolos. Como te puedes imaginar, no son más que los signos de mayor y menor combinados con el de igual."
 
 # game/script-python.rpy:453
 translate spanish monika_ptod_tip005_6036f23c:
@@ -405,7 +405,7 @@ translate spanish monika_ptod_tip005_d5752c02:
 translate spanish monika_ptod_tip005_dd879535:
 
     # m 1eua "It's also possible to chain multiple comparison expressions together by using the keywords {b}and{/b} and {b}or{/b}. These are also known as {i}logical operators{/i}."
-    m 1eua "También es posible encadenar varias expresiones de comparación usando las palabras clave {b}and{/b} y {b}or{/b}. También se conocen como {i}operadores lógicos{/i}."
+    m 1eua "También es posible encadenar varias expresiones de comparación usando las palabras clave {b}and{/b} y {b}or{/b}, a los que se conoce como operadores lógicos."
 
 # game/script-python.rpy:457
 translate spanish monika_ptod_tip005_c2ce3117:
@@ -447,7 +447,7 @@ translate spanish monika_ptod_tip005_b5771a64:
 translate spanish monika_ptod_tip005_5599f6d4:
 
     # m "[val_a] is certainly greater-than-or-equal-to [val_c], so the second comparison evaluates to {b}True{/b} as well."
-    m "[val_a] es ciertamente mayor o igual que [val_c], así que la segunda comparación también se evalúa como {b}True{/b}."
+    m "Es evidente que [val_a] es mayor o igual que [val_c], así que la segunda comparación también se evalúa como {b}True{/b}."
 
 # game/script-python.rpy:474
 translate spanish monika_ptod_tip005_da20e6c6:
@@ -543,7 +543,7 @@ translate spanish monika_ptod_tip005_dff5baef:
 translate spanish monika_ptod_tip005_1e248dfa:
 
     # m "Since [val_a] is certainly not equal to [val_c], the second comparison also evaluates to {b}False{/b}."
-    m "Como [val_a] ciertamente no es igual a [val_c], la segunda comparación también se evalúa como {b}False{/b}."
+    m "Como resulta lógico que [val_a] no es igual a [val_c], la segunda comparación también se evalúa como {b}False{/b}."
 
 # game/script-python.rpy:513
 translate spanish monika_ptod_tip005_09e6dc9b:
@@ -591,7 +591,7 @@ translate spanish monika_ptod_tip005_9f70e34f:
 translate spanish monika_ptod_tip005_f7da2ae4:
 
     # m 3eka "Earlier I mentioned that the exclamation point is used as the logical 'not' operator in other programming languages.{w=0.2} Python, however, uses the word 'not' instead for easier readability."
-    m 3eka "Antes mencioné que el signo de exclamación se usa como el operador lógico 'not' en otros lenguajes de programación.{w=0.2} Sin embargo, Python usa la palabra 'not' para que sea más fácil de leer."
+    m 3eka "Antes mencioné que el signo de exclamación equivale al operador lógico 'not' en otros lenguajes.{w=0.2} Sin embargo, Python usa directamente la palabra 'not' para que el código sea más legible."
 
 # game/script-python.rpy:531
 translate spanish monika_ptod_tip005_d1ec0705:
@@ -651,13 +651,13 @@ translate spanish monika_ptod_tip005_8cb6ff69:
 translate spanish monika_ptod_tip005_0cb6e0e3:
 
     # m 1hua "If you ever decide to do programming for a living, you'll find that a lot of your code is just checking if some comparisons are true so you can make your programs do the {i}right{/i} thing."
-    m 1hua "Si alguna vez decides dedicarte a la programación, verás que gran parte de tu código consiste en comprobar si ciertas comparaciones son verdaderas para hacer que tus programas hagan lo correcto."
+    m 1hua "Si alguna vez decides ganarte la vida programando, verás que gran parte de tu trabajo consistirá en comprobar si ciertas comparaciones son verdaderas para que tus programas funcionen como deben."
 
 # game/script-python.rpy:554
 translate spanish monika_ptod_tip005_31e7e117:
 
     # m 1eksdla "And even if coding isn't part of your career path, we'll be doing lots of comparisons in future lessons, so be prepared!"
-    m 1eksdla "E incluso si la programación no forma parte de tu carrera profesional, haremos muchas comparaciones en futuras lecciones, ¡así que estate preparad[end_letter_gender]!"
+    m 1eksdla "Y aunque no tengas pensado dedicarte a la programación, haremos muchas comparaciones en próximas lecciones, ¡así que estate preparad[end_letter_gender]!"
 
 # game/script-python.rpy:557
 translate spanish monika_ptod_tip005_3ecaaf94:
@@ -723,7 +723,7 @@ translate spanish monika_ptod_tip006_9981b4ba:
 translate spanish monika_ptod_tip006_96343da1:
 
     # m 1eub "That is called assignment, where we take whatever is on the left of the equals sign and point it to, or {i}assign{/i} it, the value of whatever is on the right."
-    m 1eub "Eso se llama asignación, donde cogemos lo que haya a la izquierda del signo de igual y lo apuntamos, o se lo {i}asignamos{/i}, al valor de lo que haya a la derecha."
+    m 1eub "A esto se le llama 'asignación'. Básicamente, cogemos lo que hay a la izquierda del signo igual y hacemos que apunte —o se lo asignamos— al valor que hay a la derecha."
 
 # game/script-python.rpy:619
 translate spanish monika_ptod_tip006_5d7291eb:
@@ -771,7 +771,7 @@ translate spanish monika_ptod_tip006_b4037d80:
 translate spanish monika_ptod_tip006_216f8a74:
 
     # m 3eua "Note that if we enter in a symbol that hasn't been assigned anything, Python will complain."
-    m 3eua "Fíjate que si introducimos un símbolo al que no se le ha asignado nada, Python se quejará."
+    m 3eua "Fíjate en que, si introducimos un símbolo al que no se le ha asignado nada, Python se quejará."
 
 # game/script-python.rpy:638
 translate spanish monika_ptod_tip006_13122842:
@@ -819,13 +819,13 @@ translate spanish monika_ptod_tip006_f641e49f:
 translate spanish monika_ptod_tip006_064f932c:
 
     # extend 1rksdlb "but that is generally frowned upon as it can make your code confusing for others to read."
-    extend 1rksdlb "pero eso generalmente está mal visto, ya que puede hacer que tu código sea confuso de leer para otros."
+    extend 1rksdlb "pero por lo general no está muy bien visto, ya que puede hacer que el código sea un infierno de leer para los demás."
 
 # game/script-python.rpy:653
 translate spanish monika_ptod_tip006_cc501271:
 
     # m 1eud "Whew!{w=0.2} That was a mouthful!"
-    m 1eud "¡Uf!{w=0.2} ¡Vaya parrafada!"
+    m 1eud "¡Uf!{w=0.2} ¡Vaya chapa te acabo de dar!"
 
 # game/script-python.rpy:655
 translate spanish monika_ptod_tip006_a0a42a1c:
@@ -855,7 +855,7 @@ translate spanish monika_ptod_tip006_ee70e813:
 translate spanish monika_ptod_tip006_6b0cc034:
 
     # m "The symbol / value names are really only useful for hinting at how variables work under the hood, so don't feel bad if you didn't understand it all."
-    m "Los nombres de símbolo y valor solo son realmente útiles para entender cómo funcionan las variables internamente, así que no te sientas mal si no lo has entendido todo."
+    m "Estos conceptos de símbolo y valor solo sirven para entender cómo funcionan las variables por dentro, así que no te ralles si te ha costado un poco pillarlo."
 
 # game/script-python.rpy:665
 translate spanish monika_ptod_tip006_30d731eb:
@@ -903,7 +903,7 @@ translate spanish monika_ptod_tip007_bad9ae19:
 translate spanish monika_ptod_tip007_0b18ca98:
 
     # m 1eksdla "I'll talk about libraries and importing later."
-    m 1eksdla "Hablaré sobre librerías e importaciones más tarde."
+    m 1eksdla "Hablaré sobre librerías y cómo importar módulos más adelante."
 
 # game/script-python.rpy:710
 translate spanish monika_ptod_tip007_b1cafbce:
@@ -933,7 +933,7 @@ translate spanish monika_ptod_tip008_523af757:
 translate spanish monika_ptod_tip008_c1612f9c:
 
     # m 1hua "That is where literals come in. I'll show you what I mean by this with the following demonstration."
-    m 1hua "Ahí es donde entran los literales. Te enseñaré a qué me refiero con esto con la siguiente demostración."
+    m 1hua "Aquí es donde entran en juego los literales. Con esta demostración verás mejor a qué me refiero."
 
 # game/script-python.rpy:750
 translate spanish monika_ptod_tip008_cd7134bf:
@@ -975,7 +975,7 @@ translate spanish monika_ptod_tip008_5e3c67ad:
 translate spanish monika_ptod_tip008_64a9ce78:
 
     # m "Code that Python can interpret into values directly are called {i}literals{/i}."
-    m "El código que Python puede interpretar directamente como valores se llama {i}literales{/i}."
+    m "Al código que Python puede interpretar directamente como valores se le llama literales."
 
 # game/script-python.rpy:761
 translate spanish monika_ptod_tip008_a0dcd1ed:
@@ -1041,7 +1041,7 @@ translate spanish monika_ptod_tip008_04f81025:
 translate spanish monika_ptod_tip008_a04a1c0a:
 
     # m 1kua "Alright, that's about all I can {i}literally{/i} say about literals."
-    m 1kua "Vale, eso es todo lo que puedo decir, {i}literalmente{/i}, sobre los literales."
+    m 1kua "Vale, eso es todo lo que puedo decir, literalmente, sobre los literales."
 
 # game/script-python.rpy:801
 translate spanish monika_ptod_tip008_b43554c2:
