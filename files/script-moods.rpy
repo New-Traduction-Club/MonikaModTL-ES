@@ -2181,7 +2181,7 @@ translate spanish mas_mood_excited_ffa7927b:
 translate spanish mas_mood_excited_6a830002:
 
     # m 3eua "It's important to get excited about small things like that."
-    m 3eua "Es importante emocionarse con pequeñas cosas como esa."
+    m 3eua "Es importante ilusionarse con detallitos así."
 
 # game/script-moods.rpy:877
 translate spanish mas_mood_excited_0d752e2b:
