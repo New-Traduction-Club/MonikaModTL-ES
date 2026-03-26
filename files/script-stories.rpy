@@ -105,13 +105,13 @@ translate spanish mas_story_despise_8d1839f4:
 translate spanish mas_story_despise_0983f969:
 
     # m 1eua "Drawing back a few paces, he took a run and a jump, and just missed the bunch."
-    m 1eua "Retrocediendo unos pasos, cogió carrerilla, saltó y por poco no alcanzó el racimo."
+    m 1eua "Retrocediendo unos pasos, cogió carrerilla, saltó y por poco no llega al racimo."
 
 # game/script-stories.rpy:396
 translate spanish mas_story_despise_2ec2412f:
 
     # m 3eub "Turning round again with a one,{w=1.0} two,{w=1.0} three,{w=1.0} he jumped up, but with no greater success."
-    m 3eub "Dando la vuelta otra vez con un uno,{w=1.0} dos,{w=1.0} tres,{w=1.0} saltó hacia arriba, pero sin mayor éxito."
+    m 3eub "Lo volvió a intentar contando uno,{w=1.0} dos,{w=1.0} tres...{w=1.0} dio un gran salto, pero sin mucho éxito."
 
 # game/script-stories.rpy:397
 translate spanish mas_story_despise_ba643386:
@@ -225,7 +225,7 @@ translate spanish mas_story_grasshoper_eb414e31:
 translate spanish mas_story_grasshoper_ebeba149:
 
     # m 3eud "'Why not come and chat with me,' said the Grasshopper, 'instead of toiling in that way?'"
-    m 3eud "'¿Por qué no vienes a charlar conmigo', dijo la Cigarra, 'en vez de trabajar de esa manera?'"
+    m 3eud "'¿Por qué no vienes a charlar conmigo', dijo la Cigarra, 'en vez de deslomarte de esa manera?'"
 
 # game/script-stories.rpy:448
 translate spanish mas_story_grasshoper_a144ad1d:
@@ -249,7 +249,7 @@ translate spanish mas_story_grasshoper_7950a284:
 translate spanish mas_story_grasshoper_ff7324d3:
 
     # m 1dsc "When winter came, the Grasshopper had no food and found itself dying of hunger, while it saw the ants distributing corn and grain from the stores they had collected in the summer."
-    m 1dsc "Cuando llegó el invierno, la Cigarra no tenía comida y se vio muriendo de hambre, mientras veía a las hormigas repartiendo el maíz y el grano de las provisiones que habían recogido en verano."
+    m 1dsc "Cuando llegó el invierno, la Cigarra no tenía comida y se estaba muriendo de hambre, mientras veía a las hormigas repartiendo el maíz y el grano de las provisiones que habían recogido en verano."
 
 # game/script-stories.rpy:452
 translate spanish mas_story_grasshoper_04e321d8:
@@ -465,7 +465,7 @@ translate spanish mas_story_fisherman_1c68e4aa:
 translate spanish mas_story_fisherman_fb8e97c9:
 
     # m 3ekd "'Please spare me, Mr. Fisherman! I am so small it is not worthwhile to carry me home. When I am bigger, I shall make you a much better meal!'"
-    m 3ekd "'¡Por favor, perdone mi vida, señor Pescador! Soy tan pequeño que no merece la pena llevarme a casa. ¡Cuando sea más grande, seré una comida mucho mejor para usted!'."
+    m 3ekd "'¡Por favor, perdone mi vida, señor Pescador! Soy tan pequeño que no merece la pena llevarme a casa. ¡Cuando crezca, seré un manjar mucho mejor para usted!'."
 
 # game/script-stories.rpy:552
 translate spanish mas_story_fisherman_21a4f3fa:
@@ -513,7 +513,7 @@ translate spanish mas_story_ravel_a67c32ee:
 translate spanish mas_story_ravel_5a73c669:
 
     # m 1tfu "She grinned toothlessly and with a cackle, spoke: 'Now your {i}third{/i} wish. What will it be?'"
-    m 1tfu "Ella sonrió con la boca desdentada y, con una carcajada, habló: 'Ahora tu {i}tercer{/i} deseo. ¿Cuál será?'."
+    m 1tfu "Ella sonrió con la boca desdentada y, con una carcajada, habló: 'Ahora tu tercer deseo. ¿Cuál será?'."
 
 # game/script-stories.rpy:576
 translate spanish mas_story_ravel_9f6d1c05:
@@ -783,7 +783,7 @@ translate spanish mas_story_genie_regret_d07a4ef8:
 translate spanish mas_story_genie_regret_0f72b41b:
 
     # m 1ekc "At first, he wasn't too concerned with the consequences...but after a while, it began to bother him more and more."
-    m 1ekc "Al principio no le preocupaban demasiado las consecuencias... pero después de un tiempo, empezó a molestarle cada vez más."
+    m 1ekc "Al principio no le preocupaban demasiado las consecuencias... pero con el tiempo, empezaron a atormentarle cada vez más."
 
 # game/script-stories.rpy:655
 translate spanish mas_story_genie_regret_39f5331b:
@@ -831,7 +831,7 @@ translate spanish mas_story_genie_regret_39caae18:
 translate spanish mas_story_genie_regret_04cf0f41:
 
     # m 3ekd "There was always going to be jealousy and unfairness among people...{w=0.3}{nw}"
-    m 3ekd "Siempre iba a haber celos e injusticias entre la gente...{w=0.3}{nw}"
+    m 3ekd "Siempre iba a haber celos e injusticias entre la gente... {w=0.3}{nw}"
 
 # game/script-stories.rpy:663
 translate spanish mas_story_genie_regret_d3ed109d:
@@ -903,7 +903,7 @@ translate spanish mas_story_genie_regret_70862105:
 translate spanish mas_story_genie_regret_9725c32a:
 
     # m 1eua "You've gotten to know each and every club member here, so I'd guess you don't regret missing out on anything."
-    m 1eua "Has llegado a conocer a todas y cada una de las miembros del club, así que supongo que no te arrepientes de haberte perdido nada."
+    m 1eua "Has llegado a conocer a todas y cada una de las integrantes del club, así que supongo que no te arrepientes de haberte perdido nada."
 
 # game/script-stories.rpy:679
 translate spanish mas_story_genie_regret_e6f89ce6:
@@ -1215,7 +1215,7 @@ translate spanish mas_story_mother_and_trees_4a56f05b:
 translate spanish mas_story_mother_and_trees_f75cc746:
 
     # m 3eud "She gave him all the affection a mother could give...{w=0.2}{nw}"
-    m 3eud "Ella le daba todo el cariño que una madre podía dar...{w=0.2}{nw}"
+    m 3eud "Ella le daba todo el cariño que una madre podía dar... {w=0.2}{nw}"
 
 # game/script-stories.rpy:780
 translate spanish mas_story_mother_and_trees_c8a8a3cd:
@@ -1245,7 +1245,7 @@ translate spanish mas_story_mother_and_trees_a70899c1:
 translate spanish mas_story_mother_and_trees_8198f405:
 
     # m 2euc "What stood out most with her however...{w=0.3}{nw}"
-    m 2euc "Sin embargo, lo que más destacaba de ella...{w=0.3}{nw}"
+    m 2euc "Sin embargo, lo que más destacaba de ella... {w=0.3}{nw}"
 
 # game/script-stories.rpy:785
 translate spanish mas_story_mother_and_trees_655418ba:
@@ -1857,7 +1857,7 @@ translate spanish mas_story_crow_and_pitcher_02c772db:
 translate spanish mas_story_crow_and_pitcher_8f05c15f:
 
     # m 1eka "When I think about it that way--the water level in that pitcher slowly rising--it makes it a lot easier to keep going every day."
-    m 1eka "Cuando lo pienso de esa manera (el nivel del agua en ese cántaro subiendo lentamente) se hace mucho más fácil seguir adelante cada día."
+    m 1eka "Cuando lo pienso de esa manera —el nivel del agua de ese cántaro subiendo poco a poco—, se me hace mucho más fácil seguir adelante cada día."
 
 # game/script-stories.rpy:937
 translate spanish mas_story_crow_and_pitcher_4e62da6e:
@@ -1875,13 +1875,13 @@ translate spanish mas_story_friend_d2c24ebf:
 translate spanish mas_story_friend_cf9d03be:
 
     # m 1eua "During some point of their journey, they had an argument {nw}"
-    m 1eua "En algún momento de su viaje, tuvieron una discusión {nw}"
+    m 1eua "En algún momento de su viaje, tuvieron una discusión... {nw}"
 
 # game/script-stories.rpy:956
 translate spanish mas_story_friend_8c2b5662:
 
     # extend 1wud "and one friend slapped the other in the face!"
-    extend 1wud "¡y un amigo abofeteó al otro en la cara!"
+    extend 1wud "¡y uno de ellos le dio una bofetada al otro!"
 
 # game/script-stories.rpy:957
 translate spanish mas_story_friend_332e0e2a:
@@ -2037,7 +2037,7 @@ translate spanish mas_story_tanabata_b7afe4b1:
 translate spanish mas_story_tanabata_cbae66b7:
 
     # m 1dksdlc "I can't imagine what it must be like to be only able to meet your loved one once a year."
-    m 1dksdlc "No puedo imaginar lo que debe ser poder ver a tu ser amado solo una vez al año."
+    m 1dksdlc "No me quiero ni imaginar lo duro que debe ser poder ver a la persona que amas solo una vez al año."
 
 # game/script-stories.rpy:1000
 translate spanish mas_story_tanabata_93661680:
@@ -2211,7 +2211,7 @@ translate spanish mas_story_knock_462007fc:
 translate spanish mas_story_knock_72160657:
 
     # m 3duc "Some may say this is where the story ends.{w=0.2} {nw}"
-    m 3duc "Algunos dirán que aquí es donde termina la historia.{w=0.2} {nw}"
+    m 3duc "Algunos dirán que aquí es donde termina la historia... {w=0.2}{nw}"
 
 # game/script-stories.rpy:1062
 translate spanish mas_story_knock_7f89295e:
@@ -2703,13 +2703,13 @@ translate spanish mas_scary_story_kuchisake_onna_72fcab42:
 translate spanish mas_scary_story_kuchisake_onna_b4e920f0:
 
     # m 1cua "{b}{i}Am I p r e t t y?{/i}{/b}"
-    m 1cua "{b}{i}¿S o y g u a p a?{/i}{/b}"
+    m 1cua "¿S o y  g u a p a?"
 
 # game/script-stories.rpy:1201
 translate spanish mas_scary_story_kuchisake_onna_no_f5560688:
 
     # "{b}{i}Is that, so?{w=1.0}{nw}{/i}{/b}"
-    "{b}{i}¿Ah, sí?{w=1.0}{nw}{/i}{/b}"
+    "¿Ah, sí? {w=1.0}{nw}"
 
 # game/script-stories.rpy:1222
 translate spanish mas_scary_story_kuchisake_onna_end_ddeae75c:
@@ -2865,7 +2865,7 @@ translate spanish mas_scary_story_mujina_5be3fcae:
 translate spanish mas_scary_story_mujina_cb5fe030:
 
     # m 2tub "The salesman responded, 'Oh, you mean...{w=2}{b}like this?{/b}'{nw}"
-    m 2tub "El vendedor respondió: 'Ah, quieres decir... {w=2}{b}¿como esta?{/b}'{nw}"
+    m 2tub "El vendedor respondió: 'Ah, ¿quieres decir... {w=2}como esta?'{nw}"
 
 # game/script-stories.rpy:1268
 translate spanish mas_scary_story_mujina_4972fe4c:
@@ -3087,7 +3087,7 @@ translate spanish mas_scary_story_womaninblack_80e749f4:
 translate spanish mas_scary_story_womaninblack_894cb191:
 
     # m 1esc "When he exited the train, a railway official that overheard him talked to the colonel about the woman he was asking about."
-    m 1esc "Al salir del tren, un funcionario del ferrocarril que le oyó, habló con el coronel sobre la mujer por la que preguntaba."
+    m 1esc "Al salir del tren, un revisor que le había escuchado hablar se acercó al coronel para contarle la historia de esa mujer."
 
 # game/script-stories.rpy:1335
 translate spanish mas_scary_story_womaninblack_370ec312:
@@ -3111,7 +3111,7 @@ translate spanish mas_scary_story_womaninblack_4c91ebf5:
 translate spanish mas_scary_story_womaninblack_4eab5b0b:
 
     # m 3wud "When the train arrived at its stop, she was found holding the corpse and singing a lullaby to it."
-    m 3wud "Cuando el tren llegó a su parada, la encontraron sosteniendo el cadáver y cantándole una nana."
+    m 3wud "Cuando el tren llegó a su parada, la encontraron abrazando el cadáver mientras le cantaba una nana."
 
 # game/script-stories.rpy:1339
 translate spanish mas_scary_story_womaninblack_37720cf2:
@@ -3309,7 +3309,7 @@ translate spanish mas_scary_story_corpse_96410f80:
 translate spanish mas_scary_story_corpse_8646f69c:
 
     # m 4wud "At the last second, the man dodged and she struck the tree with great ferocity."
-    m 4wud "En el último segundo, el hombre la esquivó y ella golpeó el árbol con gran ferocidad."
+    m 4wud "En el último segundo, el hombre la esquivó y ella se estampó contra el árbol con gran ferocidad."
 
 # game/script-stories.rpy:1403
 translate spanish mas_scary_story_corpse_2565aa83:
@@ -3699,7 +3699,7 @@ translate spanish mas_scary_story_revenant_9b1decb4:
 translate spanish mas_scary_story_revenant_121936e0:
 
     # m 4eud "The man, at this time, clumsily fell to the ground not far from where the two were, unconscious."
-    m 4eud "El hombre, en ese momento, cayó torpemente al suelo no muy lejos de donde estaban los dos, inconsciente."
+    m 4eud "En ese momento, el hombre cayó torpemente al suelo, quedando inconsciente a poca distancia de ellos."
 
 # game/script-stories.rpy:1554
 translate spanish mas_scary_story_revenant_f51541c6:
@@ -4461,7 +4461,7 @@ translate spanish mas_scary_story_flowered_lantern_2_212d0729:
 translate spanish mas_scary_story_flowered_lantern_2_abfcdd00:
 
     # m 4dsc "Love between one who is alive and one who is dead can only result in the death of the one who is alive."
-    m 4dsc "El amor entre alguien que está vivo y alguien que está muerto solo puede resultar en la muerte del que está vivo."
+    m 4dsc "El amor entre alguien vivo y alguien muerto solo puede acabar con la muerte de quien aún respira."
 
 # game/script-stories.rpy:1808
 translate spanish mas_scary_story_flowered_lantern_2_94244c7c:
@@ -4539,7 +4539,7 @@ translate spanish mas_scary_story_flowered_lantern_3_6192815b:
 translate spanish mas_scary_story_flowered_lantern_3_6c32149c:
 
     # m 4wkd "He foolishly approached the shutters and through a chink saw Tsuyu standing at the entrance of his house with her paper lantern staring at the paper talismans."
-    m 4wkd "Tontamente se acercó a los postigos y a través de una rendija vio a Tsuyu de pie en la entrada de su casa con su linterna de papel mirando fijamente los talismanes de papel."
+    m 4wkd "Cometió la estupidez de acercarse a los postigos y, a través de una rendija, vio a Tsuyu de pie en la entrada con su linterna, mirando fijamente los talismanes de papel."
 
 # game/script-stories.rpy:1846
 translate spanish mas_scary_story_flowered_lantern_3_6a340242:
