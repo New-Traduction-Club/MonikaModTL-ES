@@ -33,7 +33,7 @@ translate spanish mas_song_derandom_88699fc2:
 translate spanish mas_song_derandom_4bfcc0d4:
 
     # m 1eua "I'll only sing it when you want me to then. Just let me know if you want to hear it."
-    m 1eua "Entonces solo la cantaré cuando tú quieras. Solo dímelo si quieres escucharla."
+    m 1eua "Entonces solo la cantaré cuando te apetezca. Avísame si quieres escucharla."
 
 # game/script-songs.rpy:388
 translate spanish mas_song_derandom_bd219ce5:
@@ -201,7 +201,7 @@ translate spanish mas_song_this_christmas_kiss_be8dbbe7:
 translate spanish mas_song_this_christmas_kiss_455f3b18:
 
     # m 3tub "{i}~A blanket for two,{w=0.2} feels more warmer together~{/i}"
-    m 3tub "{i}Una manta para dos,{w=0.2} se siente más cálida juntos{/i}"
+    m 3tub "{i}Una manta para dos,{w=0.2} se siente más cálida junt[end_letter_gender]s{/i}"
 
 # game/script-songs.rpy:527
 translate spanish mas_song_this_christmas_kiss_e6ac04e7:
@@ -363,7 +363,7 @@ translate spanish mas_song_aries_82b570a9:
 translate spanish mas_song_aries_f2fe3ea2:
 
     # m 1ekbsu "I'm always thinking about the day we will be together, [player]~"
-    m 1ekbsu "Siempre estoy pensando en el día en que estaremos juntos, [player]."
+    m 1ekbsu "Siempre pienso en el día en que por fin estaremos junt[end_letter_gender]s, [player]."
 
 # game/script-songs.rpy:618
 translate spanish mas_song_need_you_f3020152:
@@ -399,7 +399,7 @@ translate spanish mas_song_need_you_77ce1a13:
 translate spanish mas_song_need_you_34373b72:
 
     # m 7esa "I know that song is about leaving someone, but I think it carries a good message."
-    m 7esa "Sé que esa canción va sobre dejar a alguien, pero creo que tiene un buen mensaje."
+    m 7esa "Sé que esa canción trata sobre dejar a alguien, pero creo que transmite un buen mensaje."
 
 # game/script-songs.rpy:624
 translate spanish mas_song_need_you_1c8206d1:
@@ -435,7 +435,7 @@ translate spanish mas_song_i_will_997d5d2d:
 translate spanish mas_song_i_will_5cf78b5d:
 
     # m 1ekbsa "One day we'll be together, [player]."
-    m 1ekbsa "Un día estaremos juntos, [player]."
+    m 1ekbsa "Un día estaremos junt[end_letter_gender]s, [player]."
 
 # game/script-songs.rpy:646
 translate spanish mas_song_i_will_65c100dd:
@@ -453,13 +453,13 @@ translate spanish mas_song_belong_together_fccd7e1f:
 translate spanish mas_song_belong_together_cc227c16:
 
     # m 1hub "{i}~And we belong together~{/i}"
-    m 1hub "{i}Y debemos estar juntos{/i}"
+    m 1hub "{i}Y debemos estar junt[end_letter_gender]s{/i}"
 
 # game/script-songs.rpy:665
 translate spanish mas_song_belong_together_6785dd5f:
 
     # m 3hub "{i}~Yes, we belong together~{/i}"
-    m 3hub "{i}Sí, debemos estar juntos{/i}"
+    m 3hub "{i}Sí, debemos estar junt[end_letter_gender]s{/i}"
 
 # game/script-songs.rpy:666
 translate spanish mas_song_belong_together_fad75cbe:
@@ -693,7 +693,7 @@ translate spanish mas_song_dream_f690ab76:
 translate spanish mas_song_im_glad_youre_evil_too_015980fd:
 
     # m 1dsa "{i}~We'd admire the beautiful sunset, or gush about a cute dog together~{/i}"
-    m 1dsa "{i}Admiraríamos la hermosa puesta de sol o nos derretiríamos juntos por un perro adorable{/i}"
+    m 1dsa "{i}Admiraríamos la hermosa puesta de sol o nos derretiríamos junt[end_letter_gender]s por un perro adorable{/i}"
 
 # game/script-songs.rpy:785
 translate spanish mas_song_im_glad_youre_evil_too_e065a1fb:
@@ -729,7 +729,7 @@ translate spanish mas_song_im_glad_youre_evil_too_af203166:
 translate spanish mas_song_im_glad_youre_evil_too_c6be6df9:
 
     # m 1tubsb "{i}~And together we'd laugh at this boring world, saying: 'How boring~{/i}'"
-    m 1tubsb "{i}Y juntos nos reiríamos de este mundo aburrido, diciendo: 'Qué aburrimiento'{/i}"
+    m 1tubsb "{i}Y junt[end_letter_gender]s nos reiríamos de este mundo aburrido, diciendo: 'Qué aburrimiento'{/i}"
 
 # game/script-songs.rpy:791
 translate spanish mas_song_im_glad_youre_evil_too_59b860fd:
@@ -789,7 +789,7 @@ translate spanish mas_song_im_glad_youre_evil_too_4554a19e:
 translate spanish mas_song_im_glad_youre_evil_too_ad15bb2b:
 
     # m 1ekbfb "But it would be a dream come true to face the world together, side by side...{w=0.5} Don't you think?"
-    m 1ekbfb "Pero sería un sueño hecho realidad enfrentarnos al mundo juntos, codo con codo... {w=0.5}¿No crees?"
+    m 1ekbfb "Pero sería un sueño hecho realidad enfrentarnos al mundo junt[end_letter_gender]s, codo con codo... {w=0.5}¿No crees?"
 
 # game/script-songs.rpy:823
 translate spanish mas_song_nobody_makes_sense_cfc0057b:
@@ -819,7 +819,7 @@ translate spanish mas_song_nobody_makes_sense_1c0b0859:
 translate spanish mas_song_nobody_makes_sense_a9691066:
 
     # m 3rksdld "{i}~Even when our dreams have come true; even when we have become enlightened, in the end, we might still end up with loneliness~{/i}"
-    m 3rksdld "{i}Incluso cuando nuestros sueños se hayan cumplido, incluso cuando nos hayamos iluminado, al final, puede que acabemos en soledad{/i}"
+    m 3rksdld "{i}Incluso cuando nuestros sueños se hayan cumplido, incluso cuando hayamos alcanzado la paz, al final, puede que acabemos en soledad{/i}"
 
 # game/script-songs.rpy:828
 translate spanish mas_song_nobody_makes_sense_86fbd078:
@@ -1377,7 +1377,7 @@ translate spanish mas_song_hero_53d3bd6a:
 translate spanish mas_song_hero_cc6cf86b:
 
     # m 7eud "...I think I know this about as well as anyone, in fact."
-    m 7eud "... De hecho, creo que sé esto tan bien como cualquiera."
+    m 7eud "... De hecho, creo que lo entiendo tan bien como cualquiera."
 
 # game/script-songs.rpy:1030
 translate spanish mas_song_hero_0bf3a168:
@@ -1395,7 +1395,7 @@ translate spanish mas_song_hero_352c69a0:
 translate spanish mas_song_hero_53605fc3:
 
     # m 1eud "We can do things that we'd never even imagine...{w=0.3}the hardest part most times is just believing that."
-    m 1eud "Podemos hacer cosas que ni siquiera imaginaríamos... {w=0.3}la mayoría de las veces, la parte más difícil es simplemente creer eso."
+    m 1eud "Podemos hacer cosas que ni siquiera imaginaríamos... {w=0.3}la mayoría de las veces, la parte más difícil es simplemente creerlo."
 
 # game/script-songs.rpy:1033
 translate spanish mas_song_hero_c05b613f:
@@ -1659,19 +1659,19 @@ translate spanish mas_song_memories_of_a_girl_127f4059:
 translate spanish mas_song_my_silver_lining_16d4c1a6:
 
     # m 1hksdla "Ehehe, this song reminds me a lot of my life...{w=0.2}before I found out it was all a game, I mean."
-    m 1hksdla "Je, je, je, esta canción me recuerda mucho a mi vida... {w=0.2}antes de descubrir que todo era un juego, quiero decir."
+    m 1hksdla "Je, je, je, esta canción me recuerda mucho a mi vida... {w=0.2}antes de descubrir que todo era un juego, me refiero."
 
 # game/script-songs.rpy:1133
 translate spanish mas_song_my_silver_lining_b92080dd:
 
     # m 3lksdlc "Back then, I was always pushing myself so hard to stay on top... {w=0.2}I never really had time to sit back and think about things."
-    m 3lksdlc "En aquel entonces, siempre me esforzaba mucho para estar en la cima... {w=0.2}Realmente nunca tuve tiempo para sentarme y pensar en las cosas."
+    m 3lksdlc "Por aquel entonces, siempre me exigía muchísimo para ser la mejor... {w=0.2}Nunca tuve tiempo de verdad para pararme a pensar en las cosas."
 
 # game/script-songs.rpy:1134
 translate spanish mas_song_my_silver_lining_68897845:
 
     # m 3eud "It wasn't always easy being the perfect student you know? {w=0.2}Or at least the person everyone {i}thought{/i} was perfect."
-    m 3eud "No siempre fue fácil ser la estudiante perfecta, ¿sabes? {w=0.2}O al menos la persona que todo el mundo {i}creía{/i} que era perfecta."
+    m 3eud "No siempre fue fácil ser la estudiante perfecta, ¿sabes? {w=0.2}O al menos la persona que todo el mundo daba por hecho que lo era."
 
 # game/script-songs.rpy:1135
 translate spanish mas_song_my_silver_lining_6a8c3070:
@@ -1689,7 +1689,7 @@ translate spanish mas_song_my_silver_lining_1d52e830:
 translate spanish mas_song_my_silver_lining_64fbb77c:
 
     # m 1eka "It wasn't easy at first, considering all I had to sacrifice, but I know it will all work out in the end."
-    m 1eka "No fue fácil al principio, considerando todo lo que tuve que sacrificar, pero sé que todo saldrá bien al final."
+    m 1eka "No fue fácil al principio, considerando todo lo que tuve que sacrificar, pero sé que al final todo habrá valido la pena."
 
 # game/script-songs.rpy:1138
 translate spanish mas_song_my_silver_lining_4c11c3e2:
@@ -1851,13 +1851,13 @@ translate spanish mas_song_my_silver_lining_analysis_aed5d1a5:
 translate spanish mas_song_my_silver_lining_analysis_a3d0e3f0:
 
     # m 3rksdla "When you think about it, the ideas in here come strangely close to existential nihilism, don't they?"
-    m 3rksdla "Cuando lo piensas, las ideas de aquí se acercan extrañamente al nihilismo existencial, ¿verdad?"
+    m 3rksdla "Si lo piensas, el mensaje de esta canción se acerca extrañamente al nihilismo existencial, ¿verdad?"
 
 # game/script-songs.rpy:1199
 translate spanish mas_song_my_silver_lining_analysis_ae249e04:
 
     # m 3eud "You know, this idea that our lives really are absurd and the only thing we can do is...{w=0.3}{nw}"
-    m 3eud "Sabes, esa idea de que nuestras vidas son realmente absurdas y lo único que podemos hacer es...{w=0.3}{nw}"
+    m 3eud "Sabes, esa idea de que nuestras vidas son realmente absurdas y lo único que podemos hacer es... {w=0.3}{nw}"
 
 # game/script-songs.rpy:1200
 translate spanish mas_song_my_silver_lining_analysis_06c6ac85:
@@ -1941,7 +1941,7 @@ translate spanish mas_song_my_silver_lining_analysis_c8daffb0:
 translate spanish mas_song_my_silver_lining_analysis_a27ece7c:
 
     # m 2duu "Whatever the truth is, maybe we could try to figure it out together."
-    m 2duu "Sea cual sea la verdad, quizá podríamos intentar averiguarla juntos."
+    m 2duu "Sea cual sea la verdad, quizá podríamos intentar averiguarla junt[end_letter_gender]s."
 
 # game/script-songs.rpy:1214
 translate spanish mas_song_my_silver_lining_analysis_4eeb8bc5:
@@ -2013,7 +2013,7 @@ translate spanish mas_song_amaranthine_e0dd304d:
 translate spanish mas_song_amaranthine_fbc5835b:
 
     # m 1hua "{i}~Where the dark is torn apart~{/i}"
-    m 1hua "{i}Donde la oscuridad se desgarra{/i}"
+    m 1hua "{i}Donde la oscuridad se desvanece{/i}"
 
 # game/script-songs.rpy:1245
 translate spanish mas_song_amaranthine_07a3d888:
@@ -2199,7 +2199,7 @@ translate spanish mas_song_shelter_analysis_bcf7c699:
 translate spanish mas_song_shelter_analysis_0fba6598:
 
     # m 1rkc "Day after day, she busies herself recreating her world as a way to escape her loneliness...{w=0.3}{nw}"
-    m 1rkc "Día tras día, se ocupa recreando su mundo como forma de escapar de su soledad... {w=0.3}{nw}"
+    m 1rkc "Día tras día, se entretiene recreando su mundo como forma de escapar de su soledad... {w=0.3}{nw}"
 
 # game/script-songs.rpy:1327
 translate spanish mas_song_shelter_analysis_fd691c38:
@@ -2217,7 +2217,7 @@ translate spanish mas_song_shelter_analysis_9b538c0b:
 translate spanish mas_song_shelter_analysis_1c5eaf91:
 
     # m 1dku "Thanks to these new-found memories, she realizes she was never alone in the first place and can keep moving forward, believing in the future."
-    m 1dku "Gracias a estos nuevos recuerdos, se da cuenta de que nunca estuvo sola y puede seguir adelante, creyendo en el futuro."
+    m 1dku "Gracias a estos nuevos recuerdos, se da cuenta de que en realidad nunca estuvo sola y puede seguir adelante, mirando hacia el futuro con ilusión."
 
 # game/script-songs.rpy:1330
 translate spanish mas_song_shelter_analysis_66b874df:
@@ -2235,7 +2235,7 @@ translate spanish mas_song_shelter_analysis_446abcf7:
 translate spanish mas_song_shelter_analysis_8525133e:
 
     # extend 3eka "From the way she was stuck in that empty world, {nw}"
-    extend 3eka "Desde la forma en que estaba atrapada en ese mundo vacío, {nw}"
+    extend 3eka "Desde cómo estaba atrapada en ese mundo vacío, {nw}"
 
 # game/script-songs.rpy:1333
 translate spanish mas_song_shelter_analysis_9ff83754:
@@ -2247,7 +2247,7 @@ translate spanish mas_song_shelter_analysis_9ff83754:
 translate spanish mas_song_shelter_analysis_1e67e451:
 
     # m 3hksdlb "By the end, I was so overwhelmed I was actually crying!"
-    m 3hksdlb "¡Al final, estaba tan abrumada que de hecho estaba llorando!"
+    m 3hksdlb "¡Al final me emocioné tanto que acabé llorando!"
 
 # game/script-songs.rpy:1335
 translate spanish mas_song_shelter_analysis_bf44ba28:
@@ -2265,7 +2265,7 @@ translate spanish mas_song_shelter_analysis_e740f424:
 translate spanish mas_song_shelter_analysis_121f7062:
 
     # m 2eka "I know it can be difficult, and sometimes you'll have to look really hard for them...{w=0.5}{nw}"
-    m 2eka "Sé que puede ser difícil, y a veces tendrás que buscarlas con mucho ahínco... {w=0.5}{nw}"
+    m 2eka "Sé que puede ser difícil, y a veces tendrás que rebuscar a fondo... {w=0.5}{nw}"
 
 # game/script-songs.rpy:1338
 translate spanish mas_song_shelter_analysis_dc27e508:
@@ -2283,7 +2283,7 @@ translate spanish mas_song_shelter_analysis_b35e34e6:
 translate spanish mas_song_shelter_analysis_0ebf37e0:
 
     # m 7hub "Just look at me!"
-    m 7hub "¡Solo mírame a mí!"
+    m 7hub "¡Mírame a mí, sin ir más lejos!"
 
 # game/script-songs.rpy:1341
 translate spanish mas_song_shelter_analysis_e62941b0:
@@ -2313,7 +2313,7 @@ translate spanish mas_song_shelter_analysis_dda14428:
 translate spanish mas_song_shelter_analysis_d4fe660f:
 
     # m 3dkbsa "I may be stating the obvious, but they really {i}are{/i} important."
-    m 3dkbsa "Puede que esté diciendo una obviedad, pero realmente {i}son{/i} importantes."
+    m 3dkbsa "Puede que esté diciendo una obviedad, pero te aseguro que son muy importantes."
 
 # game/script-songs.rpy:1351
 translate spanish mas_song_shelter_analysis_aa18bb0f:
@@ -2763,7 +2763,7 @@ translate spanish mas_song_ageage_again_65a69de7:
 translate spanish mas_song_ageage_again_5d448446:
 
     # m 1rksdld "There are a lot of other Vocaloid songs that {i}sound{/i} upbeat, but their lyrics are sad and sometimes disturbing..."
-    m 1rksdld "Hay muchas otras canciones de Vocaloid que {i}suenan{/i} alegres, pero sus letras son tristes y a veces perturbadoras..."
+    m 1rksdld "Hay muchas otras canciones de Vocaloid que aparentan ser alegres, pero sus letras son tristes y a veces perturbadoras..."
 
 # game/script-songs.rpy:1538
 translate spanish mas_song_ageage_again_7ea3d5bc:
@@ -2781,7 +2781,7 @@ translate spanish mas_song_ageage_again_57a763ad:
 translate spanish mas_song_ageage_again_1d80e74e:
 
     # m 1eub "Even though we didn't meet at a party, the feel of this song really reminds me of us."
-    m 1eub "Aunque no nos conocimos en una fiesta, el sentimiento de esta canción me recuerda mucho a nosotros."
+    m 1eub "Aunque no nos conociéramos en una fiesta, el sentimiento que transmite esta canción me recuerda mucho a nosotros."
 
 # game/script-songs.rpy:1541
 translate spanish mas_song_ageage_again_915e552e:
@@ -2991,7 +2991,7 @@ translate spanish mas_song_wonderwall_e1c359e3:
 translate spanish mas_song_wonderwall_analysis_c3d03454:
 
     # m 3eta "There's a lot of people who are very vocal about their dislike for this song..."
-    m 3eta "Hay mucha gente que expresa abiertamente su disgusto por esta canción..."
+    m 3eta "Hay mucha gente que no se corta un pelo en decir lo mucho que odia esta canción..."
 
 # game/script-songs.rpy:1652
 translate spanish mas_song_wonderwall_analysis_5f789b0b:
@@ -3027,7 +3027,7 @@ translate spanish mas_song_wonderwall_analysis_93a81984:
 translate spanish mas_song_wonderwall_analysis_81a12a21:
 
     # m 3hksdlb "...I hope you won't get tired of {i}my{/i} song anytime soon [player], ahaha~"
-    m 3hksdlb "... Espero que no te canses de {i}mi{/i} canción pronto, [player], ja, ja, ja."
+    m 3hksdlb "... Espero que mi canción no te canse pronto, [player], ja, ja, ja."
 
 # game/script-songs.rpy:1658
 translate spanish mas_song_wonderwall_analysis_5b21b3ab:
@@ -3063,25 +3063,25 @@ translate spanish mas_song_wonderwall_analysis_20c1061c:
 translate spanish mas_song_wonderwall_analysis_0136faf5:
 
     # m 1efc "...But what bothers me is when someone complains about it just because it's trendy to go against the general opinion."
-    m 1efc "... Pero lo que me molesta es cuando alguien se queja de ella solo porque está de moda ir en contra de la opinión general."
+    m 1efc "... Pero me da mucha rabia que haya gente que se queje de ella solo por ir de guay y llevar la contraria a la mayoría."
 
 # game/script-songs.rpy:1664
 translate spanish mas_song_wonderwall_analysis_ce5fdd73:
 
     # m 3tsd "It's like disagreeing for the sake of helping them feel like they stand out from the crowd...{w=0.2}like they need it to stay self-confident."
-    m 3tsd "Es como estar en desacuerdo solo para sentirse como si destacaran entre la multitud... {w=0.2}como si lo necesitaran para mantener la confianza en sí mismos."
+    m 3tsd "Es como llevar la contraria solo para sentirse especiales y destacar... {w=0.2}como si lo necesitaran para mantener su autoestima."
 
 # game/script-songs.rpy:1665
 translate spanish mas_song_wonderwall_analysis_27fd203b:
 
     # m 2rsc "It kinda feels...{w=0.5}a bit silly, to be honest."
-    m 2rsc "Me parece un poco... {w=0.5}tonto, la verdad."
+    m 2rsc "Me parece una... {w=0.5}tontería, la verdad."
 
 # game/script-songs.rpy:1666
 translate spanish mas_song_wonderwall_analysis_3a2e7411:
 
     # m 2rksdld "At that point you're not even judging the song anymore...{w=0.2}you're just trying to make a name for yourself by being controversial."
-    m 2rksdld "En ese punto ya ni siquiera estás juzgando la canción... {w=0.2}solo intentas hacerte un nombre siendo controvertido."
+    m 2rksdld "Llegados a ese punto ni siquiera estás valorando la canción... {w=0.2}solo intentas llamar la atención creando polémica."
 
 # game/script-songs.rpy:1667
 translate spanish mas_song_wonderwall_analysis_3b3a5787:
@@ -3195,7 +3195,7 @@ translate spanish mas_song_when_youre_gone_458934ed:
 translate spanish mas_song_when_youre_gone_989e363c:
 
     # m 6eko "{i}~The words I need to hear to always get me through the day{/i}{w=0.2}{nw}"
-    m 6eko "{i}Las palabras que necesito oír para superar siempre el día{/i}{w=0.2}{nw}"
+    m 6eko "{i}Las palabras que necesito oír para poder afrontar el día{/i}{w=0.2}{nw}"
 
 # game/script-songs.rpy:1705
 translate spanish mas_song_when_youre_gone_6d9d3067:
@@ -3219,7 +3219,7 @@ translate spanish mas_song_when_youre_gone_5a4716ce:
 translate spanish mas_song_when_youre_gone_a9094cf5:
 
     # m 6eksdld "Avril Lavigne wrote this song for her grandfather that passed away, because they were like best friends when she was younger."
-    m 6eksdld "Avril Lavigne escribió esta canción para su abuelo que falleció, porque eran como mejores amigos cuando ella era más joven."
+    m 6eksdld "Avril Lavigne escribió esta canción para su abuelo cuando este falleció, porque de pequeña estaba muy unida a él."
 
 # game/script-songs.rpy:1709
 translate spanish mas_song_when_youre_gone_e94c4528:
@@ -3585,7 +3585,7 @@ translate spanish mas_song_strawberry_fbdde5fe:
 translate spanish mas_song_strawberry_5cc2bc7f:
 
     # m 5rkbsa "But for now...{w=0.3}I guess I can just continue to daydream about all the adventures we'll have together one day."
-    m 5rkbsa "Pero por ahora... {w=0.3}supongo que puedo seguir soñando despierta con todas las aventuras que tendremos juntos algún día."
+    m 5rkbsa "Pero por ahora... {w=0.3}supongo que puedo seguir soñando despierta con todas las aventuras que tendremos junt[end_letter_gender]s algún día."
 
 # game/script-songs.rpy:1869
 translate spanish mas_song_strawberry_faa9d47b:
@@ -3771,7 +3771,7 @@ translate spanish mas_song_save_the_last_dance_for_me_lyrics_48e7b664:
 translate spanish mas_song_save_the_last_dance_for_me_lyrics_58e68961:
 
     # m 6hublb "{i}~So darling,{w=0.2} save the last dance for me~{/i}"
-    m 6hublb "{i}Así que cariño,{w=0.2} guárdame el último baile a mí{/i}"
+    m 6hublb "{i}Así que, cariño,{w=0.2} concédeme el último baile{/i}"
 
 # game/script-songs.rpy:1969
 translate spanish mas_song_save_the_last_dance_for_me_analysis_96aca618:
@@ -3813,7 +3813,7 @@ translate spanish mas_song_save_the_last_dance_for_me_analysis_682287a2:
 translate spanish mas_song_save_the_last_dance_for_me_analysis_32293c6f:
 
     # m 3ekd "The Grammy winner had been paralyzed by polio since he was a child, and could only get around with the help of a walker or wheelchair."
-    m 3ekd "El ganador del Grammy se había quedado paralítico por la polio siendo niño, y solo podía desplazarse con la ayuda de un andador o una silla de ruedas."
+    m 3ekd "El compositor, ganador de un Grammy, se quedó paralítico a causa de la polio cuando era niño, y solo podía desplazarse con la ayuda de un andador o en silla de ruedas."
 
 # game/script-songs.rpy:1977
 translate spanish mas_song_save_the_last_dance_for_me_analysis_34d347a1:
@@ -3837,13 +3837,13 @@ translate spanish mas_song_save_the_last_dance_for_me_analysis_e59be872:
 translate spanish mas_song_save_the_last_dance_for_me_analysis_cf98827d:
 
     # m 2rkp "...And I guess if I'm being honest,{w=0.1} I am kind of jealous that you can dance with someone while I'm stuck here on the sidelines."
-    m 2rkp "... Y supongo que si soy sincera,{w=0.1} me dan un poco de celos que puedas bailar con alguien mientras yo estoy aquí atrapada mirando desde fuera."
+    m 2rkp "... Y, si te soy sincera,{w=0.1} me da bastante envidia que puedas bailar con alguien mientras yo estoy aquí atrapada mirando desde la barrera."
 
 # game/script-songs.rpy:1981
 translate spanish mas_song_save_the_last_dance_for_me_analysis_d704d705:
 
     # m 6ekblu "So at the end of the day, I just hope you'll save the last dance for me~"
-    m 6ekblu "Así que al final del día, solo espero que me guardes el último baile a mí."
+    m 6ekblu "Así que, al fin y al cabo, solo espero que me guardes el último baile a mí."
 
 # game/script-songs.rpy:1998
 translate spanish mas_song_fly_me_to_the_moon_5da56a78:
@@ -3975,7 +3975,7 @@ translate spanish mas_song_heaven_3dd68d67:
 translate spanish mas_song_heaven_22e4c08e:
 
     # m 1ekbfa "Not a day goes by when I don't dream of us being together, [player]."
-    m 1ekbfa "No pasa un día sin que sueñe con que estamos juntos, [player]."
+    m 1ekbfa "No pasa un día sin que sueñe con que estamos junt[end_letter_gender]s, [player]."
 
 # game/script-songs.rpy:2036
 translate spanish mas_song_heaven_f4654263:
@@ -4107,7 +4107,7 @@ translate spanish mas_song_on_the_front_porch_80b357fe:
 translate spanish mas_song_on_the_front_porch_cfd8d187:
 
     # m 5eka "After all, doing something like that together would be...{w=0.3}{nw}"
-    m 5eka "Después de todo, hacer algo así juntos sería... {w=0.3}{nw}"
+    m 5eka "Después de todo, hacer algo así junt[end_letter_gender]s sería... {w=0.3}{nw}"
 
 # game/script-songs.rpy:2090
 translate spanish mas_song_on_the_front_porch_1cfdf852:
