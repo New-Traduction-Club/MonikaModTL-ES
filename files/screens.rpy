@@ -565,7 +565,7 @@ translate spanish strings:
 
     # game/screens.rpy:1285
     old "Original creators of the Monika After Story mod: Monika After Story Team.\nOriginal game creators: Team Salvato.\nModifications for this build by Traduction Club!.\n"
-    new ""Original creators of the Monika After Story mod: Monika After Story Team.\nOriginal game creators: Team Salvato.\nModifications for this build by Traduction Club!.\n""
+    new "Original creators of the Monika After Story mod: Monika After Story Team.\nOriginal game creators: Team Salvato.\nModifications for this build by Traduction Club!.\n"
 
     # game/screens.rpy:1988
     old "Click 'Help' for the complete list."
