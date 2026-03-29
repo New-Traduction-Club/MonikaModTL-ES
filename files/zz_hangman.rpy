@@ -45,13 +45,13 @@ translate spanish mas_hangman_game_loop_af911328:
 translate spanish mas_hangman_game_loop_3b6e1424:
 
     # m "You couldn't guess your own name?"
-    m "¿No has podido adivinar tu propio nombre?"
+    m "¿No has sido capaz de adivinar tu propio nombre?"
 
 # game/zz_hangman.rpy:567
 translate spanish mas_hangman_game_loop_192ec138:
 
     # m 1hua "Better luck next time~"
-    m 1hua "Mejor suerte la próxima vez."
+    m 1hua "¡Más suerte para la próxima!"
 
 # game/zz_hangman.rpy:588
 translate spanish mas_hangman_game_loop_6f9f945d_1:
@@ -69,13 +69,13 @@ translate spanish mas_hangman_game_loop_c20402db:
 translate spanish mas_hangman_game_loop_9809a66e:
 
     # m "I thought you said you wanted to play [store.mas_hangman.game_name]."
-    m "Pensaba que querías jugar a [store.mas_hangman.game_name]."
+    m "Pensaba que querías jugar al [store.mas_hangman.game_name]."
 
 # game/zz_hangman.rpy:601
 translate spanish mas_hangman_game_loop_514482b6:
 
     # m 1lksdlc "You didn't even guess a single letter."
-    m 1lksdlc "Ni siquiera has adivinado una sola letra."
+    m 1lksdlc "No has acertado ni una sola letra."
 
 # game/zz_hangman.rpy:602
 translate spanish mas_hangman_game_loop_e612037c:
@@ -123,7 +123,7 @@ translate spanish mas_hangman_game_loop_0445ef5f:
 translate spanish mas_hangman_game_loop_10ce11f1:
 
     # m 1eka "It would really mean a lot to me if you just tried a bit harder."
-    m 1eka "Significaría mucho para mí si te esforzaras un poco más."
+    m 1eka "Significaría mucho para mí que te esforzaras un poco más."
 
 # game/zz_hangman.rpy:617
 translate spanish mas_hangman_game_loop_731a3739:
@@ -135,19 +135,19 @@ translate spanish mas_hangman_game_loop_731a3739:
 translate spanish mas_hangman_game_loop_00b0f85b:
 
     # m 1ekc "Giving up so easily is a sign of poor resolve."
-    m 1ekc "Rendirse tan fácilmente es una señal de poca determinación."
+    m 1ekc "Rendirse tan rápido demuestra muy poca determinación."
 
 # game/zz_hangman.rpy:620
 translate spanish mas_hangman_game_loop_5a6e4179:
 
     # m "I mean, you'd have to miss [chances] more letters to actually lose."
-    m "Quiero decir, tendrías que fallar [chances] letras más para perder."
+    m "O sea, tendrías que fallar [chances] letras más para llegar a perder."
 
 # game/zz_hangman.rpy:622
 translate spanish mas_hangman_game_loop_64d6f610:
 
     # m "I mean, you'd have to miss [chances] more letter to actually lose."
-    m "Quiero decir, tendrías que fallar [chances] letra más para perder."
+    m "O sea, tendrías que fallar [chances] letra más para llegar a perder."
 
 # game/zz_hangman.rpy:624
 translate spanish mas_hangman_game_loop_17be01df:
@@ -159,7 +159,7 @@ translate spanish mas_hangman_game_loop_17be01df:
 translate spanish mas_hangman_game_loop_c7891309:
 
     # m 1hua "Wow, you guessed [the_word] correctly!"
-    m 1hua "¡Guau, has adivinado [the_word] correctamente!"
+    m 1hua "¡Vaya, has acertado [the_word]!"
 
 # game/zz_hangman.rpy:659
 translate spanish mas_hangman_game_loop_73956dbf:
@@ -183,7 +183,7 @@ translate spanish mas_hangman_game_loop_32d0248c:
 translate spanish mas_hangman_dlg_game_end_long_a3194e1a:
 
     # m 1euc "[store.mas_hangman.game_name] is actually a pretty hard game."
-    m 1euc "El [store.mas_hangman.game_name] es en realidad un juego bastante difícil."
+    m 1euc "La verdad es que el Ahorcado es un juego bastante difícil."
 
 # game/zz_hangman.rpy:720
 translate spanish mas_hangman_dlg_game_end_long_5a7c1bd2:
