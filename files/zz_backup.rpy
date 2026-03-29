@@ -147,13 +147,13 @@ translate spanish mas_backups_could_not_copy_1c071f63:
 translate spanish mas_backups_could_not_copy_2a1403a5:
 
     # "2.{w=0.3} Delete the file called 'persistente'."
-    "2.{w=0.3} Y borra el archivo llamado 'persistente'."
+    "2.{w=0.3} Y borra el archivo llamado 'persistent'."
 
 # game/zz_backup.rpy:802
 translate spanish mas_backups_could_not_copy_ede799fe:
 
     # "3.{w=0.3} Make a copy of the file called '[mas_backup_copy_filename]' and name it 'persistent'."
-    "3.{w=0.3} Copia el archivo llamado '[mas_backup_copy_filename]' y cámbiale el nombre por 'persistente'."
+    "3.{w=0.3} Copia el archivo llamado '[mas_backup_copy_filename]' y cámbiale el nombre por 'persistent'."
 
 # game/zz_backup.rpy:804
 translate spanish mas_backups_could_not_copy_e4d7b1e8:
@@ -171,7 +171,7 @@ translate spanish mas_backups_could_not_copy_506e63c3:
 translate spanish mas_backups_could_not_copy_db691487:
 
     # "In case you didn't write those steps down, I'll write them into a file called 'recovery.txt' in the characters folder."
-    "Si por casualidad no anotaste estos pasos, estarán escritos en un archivo llamado 'recovery.txt' en la carpeta de personajes."
+    "Si por casualidad no anotaste estos pasos, estarán escritos en un archivo llamado 'recovery.txt' en la carpeta 'characters'."
 
 # game/zz_backup.rpy:813
 translate spanish mas_backups_could_not_copy_597fa4a8:
@@ -201,7 +201,7 @@ translate spanish mas_backups_dont_tell_49f63e4c:
 translate spanish mas_backups_dont_tell_1c659c3b:
 
     # "But if she ever found out, she'd probably make me help her code, fix some of her mistakes, or something else."
-    "Si llega a enterarse, lo más probable es que me haga ayudarla a programar, arreglar sus metidas de pata o quién sabe qué más."
+    "Si llega a enterarse, lo más probable es que me haga ayudarla a programar, arreglar sus meteduras de pata o quién sabe qué más."
 
 # game/zz_backup.rpy:844
 translate spanish mas_backups_dont_tell_d99b4db6:
@@ -225,7 +225,7 @@ translate spanish mas_backups_dont_tell_97dadc92:
 translate spanish mas_backups_dont_tell_eefbfce8:
 
     # "So keep quiet about me, and I'll make sure your Monika is safe and comfy!"
-    "Así que si guardas el secreto, podré asegurarme de que tu Monika esté bien!"
+    "¡Así que si guardas el secreto, podré asegurarme de que tu Monika esté bien!"
 
 # game/zz_backup.rpy:872
 translate spanish mas_backups_incompat_start_a60c4b04:
@@ -249,7 +249,7 @@ translate spanish mas_backups_incompat_start_59952f15:
 translate spanish mas_backups_incompat_start_2316686b:
 
     # "Unfortunately, your persistent is running version v[mas_per_check.mas_per_version], which is incompatible with this build of MAS (v[config.version])."
-    "Por desgracia, tu archivo persistente está operando con una versión v[mas_per_check.mas_per_version], la cual no es compatible con esta build de MAS (v[config.version])."
+    "Por desgracia, tu persistente está usando la versión v[mas_per_check.mas_per_version], que no es compatible con esta build de MAS (v[config.version])."
 
 # game/zz_backup.rpy:904
 translate spanish mas_backups_incompat_start_36fb1a33:
@@ -279,7 +279,7 @@ translate spanish mas_backups_incompat_user_will_restore_8518d51c:
 translate spanish mas_backups_incompat_user_will_restore_f54106ad:
 
     # "Then delete the file called '[mas_per_check.per_unstable]'."
-    "Luego, borra el archivo llamado'[mas_per_check.per_unstable]'."
+    "Luego, borra el archivo llamado '[mas_per_check.per_unstable]'."
 
 # game/zz_backup.rpy:932
 translate spanish mas_backups_incompat_user_will_restore_597fa4a8:
@@ -297,7 +297,7 @@ translate spanish mas_backups_incompat_user_will_restore_again_443189fb:
 translate spanish mas_backups_incompat_user_will_restore_again_efc886c9:
 
     # "It seems that this persistent is running version v[mas_per_check.mas_per_version], which is still incompatible with this build of MAS (v[config.version])."
-    "Al parecer este archivo persitente está operando con la versión v[mas_per_check.mas_per_version], la cual todavía no es compatible con esta build de MAS (v[config.version])."
+    "Al parecer este persistente está usando la versión v[mas_per_check.mas_per_version], que todavía no es compatible con esta build de MAS (v[config.version])."
 
 # game/zz_backup.rpy:952
 translate spanish mas_backups_incompat_updater_cannot_because_rpy_7f8949a3:
@@ -369,7 +369,7 @@ translate spanish mas_backups_incompat_rpy_yes_del_77e884a9:
 translate spanish mas_backups_incompat_rpy_yes_del_540db159:
 
     # "Let's try updating now!"
-    "Ahora, intentemos aactualizarlo."
+    "Ahora, intentemos actualizarlo."
 
 # game/zz_backup.rpy:1008
 translate spanish mas_backups_incompat_rpy_no_del_9ed134ce:
@@ -381,7 +381,7 @@ translate spanish mas_backups_incompat_rpy_no_del_9ed134ce:
 translate spanish mas_backups_incompat_rpy_no_del_ec7095ae:
 
     # "Well the updater won't work while those files exist, so I guess your only option is to restore a persistent backup."
-    "El actualizador no va a funcionar mientras esos archivos existan, lo único que te queda es tratar de restaurar una copia de seguridad persistente."
+    "El actualizador no va a funcionar mientras esos archivos existan, lo único que te queda es tratar de restaurar una copia de seguridad."
 
 # game/zz_backup.rpy:1019
 translate spanish mas_backups_incompat_updater_start_intro_c04eea25:
@@ -399,7 +399,7 @@ translate spanish mas_backups_incompat_updater_failed_443189fb:
 translate spanish mas_backups_incompat_updater_failed_f24b12f8:
 
     # "It seems that the updater failed to update MAS."
-    "Parece que el actalizador no pudo actualizar el MAS."
+    "Parece que el actualizador no pudo actualizar MAS."
 
 # game/zz_backup.rpy:1032
 translate spanish mas_backups_incompat_updater_failed_3cf4a602:
@@ -417,7 +417,7 @@ translate spanish mas_backups_incompat_updater_start_d98683b4:
 translate spanish mas_backups_incompat_updater_start_91e14dde:
 
     # "Don't cancel out of the updater! You need to update MAS!"
-    "¡No vayas a anular el actualizador! Primero tienes que actualizar el MAS."
+    "¡No vayas a cancelar el actualizador! Primero tienes que actualizar MAS."
 
 # game/zz_backup.rpy:1082
 translate spanish mas_backups_incompat_updater_start_770056d1:
@@ -467,7 +467,7 @@ translate spanish strings:
 
     # game/zz_backup.rpy:914
     old "Update MAS."
-    new "Actualizar el MAS."
+    new "Actualizar MAS."
 
     # game/zz_backup.rpy:914
     old "Restore a compatible persistent."
@@ -479,7 +479,7 @@ translate spanish strings:
 
     # game/zz_backup.rpy:955
     old "Yes, delete them."
-    new "Si, bórralos."
+    new "Sí, bórralos."
 
     # game/zz_backup.rpy:955
     old "No, don't delete them."
