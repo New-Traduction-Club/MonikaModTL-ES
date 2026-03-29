@@ -9,13 +9,13 @@ translate spanish monika_change_background_74680220:
 translate spanish monika_change_background_loop_dbb69512:
 
     # m "Where would you like to go?" nointeract
-    m "¿Dónde te apetece ir?" nointeract
+    m "¿Adónde te apetece ir?" nointeract
 
 # game/zz_backgrounds.rpy:3358
 translate spanish monika_change_background_loop_b14bb466:
 
     # m 1hua "We're here right now, silly."
-    m 1hua "Pero si ya estamos aquí, idiota."
+    m 1hua "Pero si ya estamos aquí, tont[end_letter_gender]."
 
 # game/zz_backgrounds.rpy:3359
 translate spanish monika_change_background_loop_321f071e:
@@ -33,7 +33,7 @@ translate spanish mas_background_change_3d8a873d:
 translate spanish mas_background_change_f04503eb:
 
     # m 1hua "Let's go, [player]!"
-    m 1hua "!Vamos, [player]!"
+    m 1hua "¡Vamos, [player]!"
 
 # game/zz_backgrounds.rpy:3434
 translate spanish mas_background_change_e162a061:
@@ -45,7 +45,7 @@ translate spanish mas_background_change_e162a061:
 translate spanish mas_background_change_e43af2ef:
 
     # m "Let me know if you want to go somewhere else, okay?"
-    m "Sólo házmelo saber si es quieres ir a algún otro lugar, ¿vale?"
+    m "Avísame si te apetece ir a otro sitio, ¿vale?"
 
 translate spanish strings:
 
