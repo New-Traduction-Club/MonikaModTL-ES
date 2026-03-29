@@ -27,7 +27,7 @@ translate spanish mas_gender_f5b0b483:
 translate spanish mas_gender_1e3aa849:
 
     # m 3eua "But if I'm going to be your girlfriend, I should probably know at least this much about the real you."
-    m 3eua "Pero si voy a ser tu novia, probablemente debería saber al menos esto sobre el verdadero tú."
+    m 3eua "Pero si voy a ser tu novia, supongo que debería saber al menos esto sobre cómo eres en realidad."
 
 # game/script-story-events.rpy:28
 translate spanish mas_gender_28eadeec:
@@ -63,13 +63,13 @@ translate spanish mas_gender_104e323d:
 translate spanish mas_gender_8214875c:
 
     # m 2hksdlb "I hope I didn't say anything to offend you before!"
-    m 2hksdlb "¡Espero no haberte ofendido con nada que dijera antes!"
+    m 2hksdlb "¡Espero no haberte ofendido con nada de lo que he dicho antes!"
 
 # game/script-story-events.rpy:44
 translate spanish mas_gender_453cbfca:
 
     # m 7rksdlb "...I guess that's why they say you shouldn't make assumptions, ahaha!"
-    m 7rksdlb "... Supongo que por eso dicen que no se deben hacer suposiciones, ¡ja, ja, ja!"
+    m 7rksdlb "... Supongo que por eso dicen que es mejor no dar nada por sentado, ¡ja, ja, ja!"
 
 # game/script-story-events.rpy:45
 translate spanish mas_gender_3bd390dd:
@@ -213,7 +213,7 @@ translate spanish mas_gender_neither_d3b5cb92:
 translate spanish mas_gender_neither_ee6e891f:
 
     # m 1eua "That's very interesting, but I can sort of relate."
-    m 1eua "Es muy interesante, pero en cierto modo puedo identificarme."
+    m 1eua "Es muy interesante, pero en cierto modo me siento identificada."
 
 # game/script-story-events.rpy:174
 translate spanish mas_gender_neither_8e9e1446:
@@ -309,7 +309,7 @@ translate spanish mas_gender_trans_812c461b:
 translate spanish mas_player_name_enter_name_loop_48ef2008:
 
     # m 1eka "Oh... Okay then, if you say so."
-    m 1eka "Ah... Vale entonces, si tú lo dices."
+    m 1eka "Ah... Vale, si tú lo dices."
 
 # game/script-story-events.rpy:526
 translate spanish mas_player_name_enter_name_loop_3ad896ad:
@@ -573,7 +573,7 @@ translate spanish mas_birthdate_794ec2fd:
 translate spanish mas_birthdate_4989bc96:
 
     # m 3wud "I don't actually know when your birthdate is!"
-    m 3wud "¡Es que no sé cuándo es tu cumpleaños!"
+    m 3wud "¡Es que en realidad no sé cuál es tu fecha de nacimiento!"
 
 # game/script-story-events.rpy:709
 translate spanish mas_birthdate_6064531d:
@@ -903,7 +903,7 @@ translate spanish mas_unlock_chess_e8909046:
 translate spanish mas_unlock_chess_5822522d:
 
     # m 3rksdla "I know you haven't [really]been interested in the other games I made...{w=0.2}so I thought I'd try a completely different kind of game..."
-    m 3rksdla "Sé que no has estado [really]interesad[end_letter_gender] en los otros juegos que hice... {w=0.2}así que pensé en probar un tipo de juego completamente diferente..."
+    m 3rksdla "Sé que no te han llamado mucho la atención los otros juegos que hice... {w=0.2}así que he pensado en probar uno completamente distinto..."
 
 # game/script-story-events.rpy:941
 translate spanish mas_unlock_chess_255ad370:
@@ -1011,7 +1011,7 @@ translate spanish mas_unlock_chess_5163f7e1:
 translate spanish mas_unlock_chess_dea1896b:
 
     # m 2tkx "Something isn't right here."
-    m 2tkx "Algo no está bien aquí."
+    m 2tkx "Algo no cuadra aquí."
 
 # game/script-story-events.rpy:964
 translate spanish mas_unlock_chess_1dce3567:
@@ -1047,7 +1047,7 @@ translate spanish mas_unlock_hangman_465c7ee6:
 translate spanish mas_unlock_hangman_4bb7c263:
 
     # m 3eub "Since you seem to love playing with me so much, I figured you might like to play other games with me as well!"
-    m 3eub "Como parece que te encanta jugar conmigo, ¡supuse que también te gustaría jugar a otros juegos conmigo!"
+    m 3eub "Como parece que te encanta jugar conmigo, ¡he dado por hecho que también te gustaría que probáramos otros juegos!"
 
 # game/script-story-events.rpy:992
 translate spanish mas_unlock_hangman_a4e8da6f:
@@ -1389,13 +1389,13 @@ translate spanish mas_monikai_detected_e6f89ce6:
 translate spanish mas_monikai_detected_76f589e4:
 
     # m 1hua "I'm flattered that you would download such a thing."
-    m 1hua "Me halaga que hayas descargado una cosa así."
+    m 1hua "Me halaga que te hayas descargado algo así."
 
 # game/script-story-events.rpy:1168
 translate spanish mas_monikai_detected_1133e8f7:
 
     # m 1eua "Just don't start spending more time with {i}that{/i} instead of me."
-    m 1eua "Solo no empieces a pasar más tiempo con {i}eso{/i} en vez de conmigo."
+    m 1eua "Solo espero que no empieces a pasar más tiempo con eso en vez de conmigo."
 
 # game/script-story-events.rpy:1169
 translate spanish mas_monikai_detected_ac7f49b8:
@@ -1527,7 +1527,7 @@ translate spanish mas_crashed_long_whq_28ff0538:
 translate spanish mas_crashed_long_whq_e0b89abb:
 
     # m 2wud "The game...{w=0.3}crashed?"
-    m 2wud "¿El juego... {w=0.3}se ha cerrado?"
+    m 2wud "¿El juego... {w=0.3}se ha petado?"
 
 # game/script-story-events.rpy:1398
 translate spanish mas_crashed_long_whq_4c867ccb:
@@ -1611,7 +1611,7 @@ translate spanish mas_crashed_long_whq_end_f2554182:
 translate spanish mas_crashed_long_fluster_03b3fd58:
 
     # m "{cps=*1.5}O-{w=0.3}one second you were there b-{w=0.3}but then the next second everything turned black...{/cps}{nw}"
-    m "{cps=*1.5}U-{w=0.3}un segundo estabas ahí, p-{w=0.3}pero al siguiente todo se volvió negro...{/cps}{nw}"
+    m "{cps=*1.5}U-{w=0.3}Un segundo estabas ahí, p-{w=0.3}pero al siguiente todo se volvió negro...{/cps}{nw}"
 
 # game/script-story-events.rpy:1449
 translate spanish mas_crashed_long_fluster_efb391fe:
@@ -1635,7 +1635,7 @@ translate spanish mas_crashed_long_fluster_cbfa039d:
 translate spanish mas_crashed_long_fluster_2bd84e81:
 
     # m "{cps=*1.5}A-{w=0.3}at least, I don't think I did, but I guess it's possible...{/cps}{nw}"
-    m "{cps=*1.5}A-{w=0.3}al menos, no creo que lo hiciera, pero supongo que es posible...{/cps}{nw}"
+    m "{cps=*1.5}A-{w=0.3}Al menos, no creo que lo hiciera, pero supongo que es posible...{/cps}{nw}"
 
 # game/script-story-events.rpy:1453
 translate spanish mas_crashed_long_fluster_9b278c39:
@@ -1899,7 +1899,7 @@ translate spanish mas_new_character_file_42a4b258:
 translate spanish mas_steam_install_detected_c6579210:
 
     # m 1ekd "Hey [player], you know how I told you that Steam is a meanie and won't let me run the updater?"
-    m 1ekd "Oye [player], ¿recuerdas que te dije que Steam es malo y no me deja ejecutar el actualizador?"
+    m 1ekd "Oye, [player], ¿recuerdas que te dije que Steam es un pesado y no me deja ejecutar el actualizador?"
 
 # game/script-story-events.rpy:1765
 translate spanish mas_steam_install_detected_e9caa877:
@@ -2097,7 +2097,7 @@ translate spanish monika_rpy_files_dac2d372:
 translate spanish monika_rpy_files_193589f8:
 
     # m 3eua "Alright, I'll just delete them for you again.{w=0.5}.{w=0.5}.{nw}"
-    m 3eua "Vale, los borraré por ti otra vez... {w=0.5}.{w=0.5}.{nw}"
+    m 3eua "Vale, los borraré por ti otra vez.{w=0.5}.{w=0.5}.{nw}"
 
 # game/script-story-events.rpy:1852
 translate spanish monika_rpy_files_4068a088:
@@ -2181,7 +2181,7 @@ translate spanish mas_bday_player_bday_select_select_d2ea348f_3:
 translate spanish mas_bday_player_bday_select_select_cd48f428:
 
     # m "There's no way you're {i}that{/i} young!"
-    m "¡Es imposible que seas {i}tan{/i} joven!"
+    m "¡Es imposible que seas tan joven!"
 
 # game/script-story-events.rpy:1934
 translate spanish mas_bday_player_bday_select_select_43832bdf_3:
@@ -2205,7 +2205,7 @@ translate spanish mas_bday_player_bday_select_select_5bbcdd88:
 translate spanish mas_bday_player_bday_select_select_ed3fda28:
 
     # m 2hksdlb "It's just I'm having a hard time believing you're {i}that{/i} young."
-    m 2hksdlb "Es solo que me cuesta creer que seas {i}tan{/i} joven."
+    m 2hksdlb "Es que me cuesta creer que seas taaan joven."
 
 # game/script-story-events.rpy:1945
 translate spanish mas_bday_player_bday_select_select_bd219ce5:
@@ -2337,7 +2337,7 @@ translate spanish mas_text_speed_enabler_05a6b488:
 translate spanish mas_text_speed_enabler_70661cf3:
 
     # m 1hka "I was only controlling it earlier so I could make sure you read {i}every single{/i} word I say to you."
-    m 1hka "Antes lo controlaba solo para asegurarme de que leyeras {i}cada una{/i} de las palabras que te digo."
+    m 1hka "Antes lo controlaba solo para asegurarme de que leyeras todas y cada una de las palabras que te digo."
 
 # game/script-story-events.rpy:2055
 translate spanish mas_text_speed_enabler_25c4bca0:
@@ -2451,7 +2451,7 @@ translate spanish mas_derand_47a83caf:
 translate spanish mas_derand_79dc1f64:
 
     # m 1eka "Don't worry about hurting my feelings, we should be able to be honest with each other after all."
-    m 1eka "No te preocupes por herir mis sentimientos, deberíamos ser capaces de ser sinceros el uno con el otro, después de todo."
+    m 1eka "No te preocupes por herir mis sentimientos, deberíamos poder hablarnos con total sinceridad, después de todo."
 
 # game/script-story-events.rpy:2115
 translate spanish mas_derand_11a163c0:
@@ -2583,7 +2583,7 @@ translate spanish mas_notification_windowreact_64caa10a:
 translate spanish mas_notification_windowreact_c43b80ea:
 
     # m 1tuu "It's not like you have anything to hide from your girlfriend..."
-    m 1tuu "No es como si tuvieras algo que ocultar a tu novia..."
+    m 1tuu "Tampoco es que tengas nada que ocultarle a tu novia..."
 
 # game/script-story-events.rpy:2165
 translate spanish mas_notification_windowreact_797dcaa4:
@@ -2709,13 +2709,13 @@ translate spanish mas_birthdate_year_redux_select_155c7fe1:
 translate spanish mas_birthdate_year_redux_select_98d17ace:
 
     # m "Are you {i}sure{/i} you were born in [_return]?{nw}"
-    m "¿Estás {i}segur[end_letter_gender]{/i} de que naciste en [_return]?{nw}"
+    m "¿Estás totalmente segur[end_letter_gender] de que naciste en [_return]?{nw}"
 
 # game/script-story-events.rpy:2378
 translate spanish mas_birthdate_year_redux_select_cdfa236e:
 
     # m "Are you {i}sure{/i} you were born in [_return]?{fast}" nointeract
-    m "¿Estás {i}segur[end_letter_gender]{/i} de que naciste en [_return]?{fast}" nointeract
+    m "¿Estás totalmente segur[end_letter_gender] de que naciste en [_return]?{fast}" nointeract
 
 # game/script-story-events.rpy:2381
 translate spanish mas_birthdate_year_redux_select_9411e24c:
@@ -2805,7 +2805,7 @@ translate spanish monika_credits_song_96aca618:
 translate spanish monika_credits_song_32db372a:
 
     # m 3eua "Make sure you have your speakers turned on and the in-game music volume turned up loud enough so you can hear."
-    m 3eua "Asegúrate de tener los altavoces encendidos y el volumen de la música del juego lo suficientemente alto para que puedas oírlo."
+    m 3eua "Asegúrate de tener los altavoces encendidos y el volumen de la música del juego lo bastante alto como para que puedas oírla."
 
 # game/script-story-events.rpy:2450
 translate spanish monika_credits_song_1891b52b:
@@ -3033,7 +3033,7 @@ translate spanish mas_covid19_30f5d0d4:
 translate spanish mas_covid19_abacc72f:
 
     # m 2eua "That's great, I'm glad you're doing the responsible thing."
-    m 2eua "Eso es genial, me alegro de que estés actuando de forma responsable."
+    m 2eua "Eso es genial, me alegro de que estés siendo responsable."
 
 # game/script-story-events.rpy:2546
 translate spanish mas_covid19_9373ba24:
@@ -3099,7 +3099,7 @@ translate spanish mas_covid19_90bac62d:
 translate spanish mas_covid19_d10264bb:
 
     # m 4tfo "This is serious! You {i}have{/i} to stay inside whenever possible!"
-    m 4tfo "¡Esto es serio! ¡{i}Tienes{/i} que quedarte dentro siempre que sea posible!"
+    m 4tfo "¡Esto es muy serio! ¡Tienes que quedarte en casa siempre que sea posible!"
 
 # game/script-story-events.rpy:2561
 translate spanish mas_covid19_01a93df6:
@@ -3285,7 +3285,7 @@ translate spanish mas_islands_reset_dfddb0f1:
 translate spanish mas_islands_reset_bf0277c1:
 
     # m 3lkd "Have you ever worked on a project for {i}so{/i} long that when you look at the whole thing, you just see dozens of mistakes or things you want to improve?"
-    m 3lkd "¿Alguna vez has trabajado en un proyecto durante {i}tanto{/i} tiempo que cuando miras el conjunto solo ves docenas de errores o cosas que quieres mejorar?"
+    m 3lkd "¿Alguna vez has trabajado en un proyecto durante tantísimo tiempo que al mirar el resultado final solo ves docenas de errores o cosas por mejorar?"
 
 # game/script-story-events.rpy:2611
 translate spanish mas_islands_reset_f03c4310:
@@ -3303,7 +3303,7 @@ translate spanish mas_islands_reset_a27a9b74:
 translate spanish mas_islands_reset_145627a3:
 
     # m 1eud "But now that I've gotten better at coding, I just think I could {i}really{/i} do a better job now."
-    m 1eud "Pero ahora que he mejorado programando, creo que {i}realmente{/i} podría hacer un trabajo mejor ahora."
+    m 1eud "Pero ahora que he mejorado programando, creo de verdad que podría hacer un trabajo mucho mejor."
 
 # game/script-story-events.rpy:2614
 translate spanish mas_islands_reset_f11bc4d3:
@@ -3477,7 +3477,7 @@ translate spanish mas_backup_restored_449aa886:
 translate spanish mas_backup_restored_6b6c264c:
 
     # m 1etc "Added a {w=0.1}{i}submod{/i}?"
-    m 1etc "¿Añadiste un {w=0.1}{i}submod{/i}?"
+    m 1etc "¿Añadiste un {w=0.1}submod?"
 
 # game/script-story-events.rpy:2752
 translate spanish mas_backup_restored_94d72937:
@@ -3585,7 +3585,7 @@ translate spanish mas_backup_restored_50b2a98f:
 translate spanish mas_backup_restored_3df3351d:
 
     # m 2tfd "I hope you're not messing with my data."
-    m 2tfd "Espero que no estés jugando con mis datos."
+    m 2tfd "Espero que no estés toqueteando mis datos."
 
 # game/script-story-events.rpy:2800
 translate spanish mas_backup_restored_94a673d3:
