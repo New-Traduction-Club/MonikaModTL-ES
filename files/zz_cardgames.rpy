@@ -9,7 +9,7 @@ translate spanish monika_introduce_nou_house_rules_7813486e:
 translate spanish monika_introduce_nou_house_rules_4b2fe472:
 
     # m 3eua "If you ever feel like those official rules aren't fun enough...{w=0.5}{nw}"
-    m 3eua "Si alguna vez sientes que esas reglas oficiales no te molan mucho...{w=0.5}{nw}"
+    m 3eua "Si alguna vez sientes que esas reglas oficiales no te molan mucho... {w=0.5}{nw}"
 
 # game/zz_cardgames.rpy:3970
 translate spanish monika_introduce_nou_house_rules_e688262c:
@@ -69,7 +69,7 @@ translate spanish monika_change_nou_house_rules_menu_loop_525c8cd7:
 translate spanish monika_change_nou_house_rules_menu_loop_7d35bf3c:
 
     # m 1ttu "Afraid that I'll make you draw all the cards?~"
-    m 1ttu "¿Tienes miedo de que te haga tomar todas las cartas?"
+    m 1ttu "¿Tienes miedo de que te haga robar todas las cartas?"
 
 # game/zz_cardgames.rpy:4094
 translate spanish monika_change_nou_house_rules_menu_loop_57120ce2:
@@ -141,7 +141,7 @@ translate spanish monika_change_nou_house_rules_menu_loop_5b31beae:
 translate spanish monika_change_nou_house_rules_menu_loop_bd15364d:
 
     # m 1eua "{i}Stackable Draw 2's{/i} means that every time someone mirrors a {i}Draw Two{/i}, the cards {i}stack{/i}...{w=0.3}{nw}"
-    m 1eua "{i}Roba 2 Acumulables{/i} significa que cada vez que alguien responde a un {i}Roba Dos{/i}, las cartas se {i}acumulan{/i}...{w=0.3}{nw}"
+    m 1eua "{i}Roba 2 Acumulables{/i} significa que cada vez que alguien responde a un {i}Roba Dos{/i}, las cartas se acumulan... {w=0.3}{nw}"
 
 # game/zz_cardgames.rpy:4133
 translate spanish monika_change_nou_house_rules_menu_loop_d40ce0dd:
@@ -189,7 +189,7 @@ translate spanish monika_change_nou_house_rules_menu_loop_9bd084e3:
 translate spanish monika_change_nou_house_rules_menu_loop_e5ace509:
 
     # extend 1tsu "{i}chaotic{/i}...{w=0.3}{nw}"
-    extend 1tsu "{i}caótico{/i}...{w=0.3}{nw}"
+    extend 1tsu "caótico... {w=0.3}{nw}"
 
 # game/zz_cardgames.rpy:4141
 translate spanish monika_change_nou_house_rules_menu_loop_b3fcbed8:
@@ -255,13 +255,13 @@ translate spanish monika_change_nou_house_rules_change_points_to_win_loop_765dc7
 translate spanish monika_change_nou_house_rules_change_points_to_win_loop_da841308:
 
     # m 7ekb "Try again, silly!"
-    m 7ekb "¡Inténtalo de nuevo, tontín!"
+    m 7ekb "¡Inténtalo de nuevo, bob[end_letter_gender]!"
 
 # game/zz_cardgames.rpy:4201
 translate spanish monika_change_nou_house_rules_change_points_to_win_loop_cbcc7b3b:
 
     # m 3eua "Oh, you just want to have quick games?"
-    m 3eua "Oh, ¿solo quieres tener partidas rápidas?"
+    m 3eua "Ah, ¿solo quieres tener partidas rápidas?"
 
 # game/zz_cardgames.rpy:4202
 translate spanish monika_change_nou_house_rules_change_points_to_win_loop_a457c9f2:
@@ -273,7 +273,7 @@ translate spanish monika_change_nou_house_rules_change_points_to_win_loop_a457c9
 translate spanish monika_change_nou_house_rules_change_points_to_win_loop_465be467:
 
     # m 3rksdlb "Hmm, It doesn't make sense to play with a point total {i}that{/i} small."
-    m 3rksdlb "Hmm, no tiene sentido jugar con un total de puntos {i}tan{/i} pequeño."
+    m 3rksdlb "Mmm, no tiene sentido jugar con un total de puntos tan pequeño."
 
 # game/zz_cardgames.rpy:4208
 translate spanish monika_change_nou_house_rules_change_points_to_win_loop_f7c5daa6:
@@ -303,7 +303,7 @@ translate spanish monika_change_nou_house_rules_change_points_to_win_loop_0496a3
 translate spanish monika_change_nou_house_rules_change_points_to_win_loop_09860223:
 
     # m 2eka "Oh it's too much I think..."
-    m 2eka "Uh, creo que es demasiado..."
+    m 2eka "Ah, creo que es demasiado..."
 
 # game/zz_cardgames.rpy:4223
 translate spanish monika_change_nou_house_rules_change_points_to_win_loop_47430808:
@@ -345,7 +345,7 @@ translate spanish monika_change_nou_house_rules_change_starting_cards_loop_44965
 translate spanish monika_change_nou_house_rules_change_starting_cards_loop_e5b59a07:
 
     # m 7ekb "Try again, silly~"
-    m 7ekb "Inténtalo de nuevo, tontín."
+    m 7ekb "Inténtalo de nuevo, bob[end_letter_gender]."
 
 # game/zz_cardgames.rpy:4264
 translate spanish monika_change_nou_house_rules_change_starting_cards_loop_eb511969:
@@ -459,7 +459,7 @@ translate spanish monika_explain_nou_rules_588571d4:
 translate spanish monika_explain_nou_rules_6b924562:
 
     # m 1esa "You don't {i}have{/i} to play it, though."
-    m 1esa "Sin embargo, no {i}tienes{/i} por qué jugarla."
+    m 1esa "Sin embargo, no tienes por qué jugarla."
 
 # game/zz_cardgames.rpy:4340
 translate spanish monika_explain_nou_rules_9e01fcf4:
@@ -501,7 +501,7 @@ translate spanish monika_explain_nou_rules_ee3771c3:
 translate spanish monika_explain_nou_rules_d29bf416:
 
     # m 3eub "One important rule is {i}before{/i} playing your second last card, {w=0.2}{nw}"
-    m 3eub "Una regla importante es {i}antes{/i} de jugar tu penúltima carta, {w=0.2}{nw}"
+    m 3eub "Una regla importante es antes de jugar tu penúltima carta, {w=0.2}{nw}"
 
 # game/zz_cardgames.rpy:4350
 translate spanish monika_explain_nou_rules_2e821b80:
@@ -525,7 +525,7 @@ translate spanish monika_explain_nou_rules_bfdea9c3:
 translate spanish monika_explain_nou_rules_b927e9c5:
 
     # m 1eua "If one of us forgot to say 'NOU,' the other can {i}remind{/i} them. That will make the unlucky person draw 2 more cards."
-    m 1eua "Si uno de nosotros se olvida de decir '¡NOU!', el otro puede {i}recordárselo{/i}. Eso hará que el desafortunado robe 2 cartas más."
+    m 1eua "Si uno de nosotros se olvida de decir '¡NOU!', el otro puede recordárselo. Eso hará que robe 2 cartas más."
 
 # game/zz_cardgames.rpy:4354
 translate spanish monika_explain_nou_rules_723caba0:
@@ -621,7 +621,7 @@ translate spanish mas_nou_game_start_2312e484:
 translate spanish mas_nou_game_start_bd65c4d0:
 
     # m 1tuu "You better be ready, I'm not going easy on you this time~"
-    m 1tuu "Más vale que estés preparado, esta vez no te lo pondré fácil."
+    m 1tuu "Más vale que estés preparad[end_letter_gender], esta vez no te lo pondré fácil."
 
 # game/zz_cardgames.rpy:4402
 translate spanish mas_nou_game_start_d4ebca2b:
@@ -663,7 +663,7 @@ translate spanish mas_nou_game_end_ca9a653f:
 translate spanish mas_nou_game_end_0dbb251c:
 
     # m 1hub "Yay!"
-    m 1hub "¡Yupi!"
+    m 1hub "Bieeen!"
 
 # game/zz_cardgames.rpy:4508
 translate spanish mas_nou_game_end_5aab7375:
@@ -687,7 +687,7 @@ translate spanish mas_nou_game_end_ca9a653f_1:
 translate spanish mas_nou_game_end_0dbb251c_1:
 
     # m 1hub "Yay!"
-    m 1hub "¡Yupi!"
+    m 1hub "Bieeen!"
 
 # game/zz_cardgames.rpy:4548
 translate spanish mas_nou_game_end_5aab7375_1:
@@ -717,13 +717,13 @@ translate spanish mas_nou_game_end_52701190:
 translate spanish mas_nou_game_end_change_rules_and_continue_b4fcf462:
 
     # m 3hub "Ready to continue?{nw}"
-    m 3hub "¿Listo para continuar?{nw}"
+    m 3hub "¿List[end_letter_gender] para continuar?{nw}"
 
 # game/zz_cardgames.rpy:4600
 translate spanish mas_nou_game_end_change_rules_and_continue_4aed44b7:
 
     # m "Ready to continue?{fast}" nointeract
-    m "¿Listo para continuar?{fast}" nointeract
+    m "¿List[end_letter_gender] para continuar?{fast}" nointeract
 
 # game/zz_cardgames.rpy:4612
 translate spanish mas_nou_game_end_change_rules_and_continue_417d1e8f:
@@ -735,7 +735,7 @@ translate spanish mas_nou_game_end_change_rules_and_continue_417d1e8f:
 translate spanish mas_nou_game_end_change_rules_and_continue_bd2a5f73:
 
     # m 1eka "Oh, alright."
-    m 1eka "Oh, está bien."
+    m 1eka "Ah, está bien."
 
 # game/zz_cardgames.rpy:4623
 translate spanish mas_nou_reaction_player_wins_round_7372473d:
@@ -783,7 +783,7 @@ translate spanish mas_nou_reaction_player_wins_round_ee2f7453:
 translate spanish mas_nou_reaction_player_wins_round_12bbd7a3:
 
     # m 1wud "Wow! You won again!"
-    m 1wud "¡Guau! ¡Has vuelto a ganar!"
+    m 1wud "¡Hala! ¡Has vuelto a ganar!"
 
 # game/zz_cardgames.rpy:4644
 translate spanish mas_nou_reaction_player_wins_round_c0473dc0:
@@ -885,13 +885,13 @@ translate spanish mas_nou_reaction_player_wins_round_cae3c1ae:
 translate spanish mas_nou_reaction_player_wins_round_4984f9df:
 
     # m 1hub "Yay, you won!~"
-    m 1hub "¡Yupi, has ganado!"
+    m 1hub "Bieeen, has ganado!"
 
 # game/zz_cardgames.rpy:4689
 translate spanish mas_nou_reaction_player_wins_round_e9d21380:
 
     # m 1tsa "Oh, you started playing seriously?"
-    m 1tsa "Oh, ¿has empezado a jugar en serio?"
+    m 1tsa "Ah, ¿has empezado a jugar en serio?"
 
 # game/zz_cardgames.rpy:4690
 translate spanish mas_nou_reaction_player_wins_round_e6f89ce6:
@@ -993,7 +993,7 @@ translate spanish mas_nou_reaction_player_wins_round_d73039b3:
 translate spanish mas_nou_reaction_player_wins_round_432b858f:
 
     # m 4wuo "Wow!{w=0.2} Played all your cards already?"
-    m 4wuo "¡Guau!{w=0.2} ¿Ya has jugado todas tus cartas?"
+    m 4wuo "¡Hala!{w=0.2} ¿Ya has jugado todas tus cartas?"
 
 # game/zz_cardgames.rpy:4744
 translate spanish mas_nou_reaction_player_wins_round_892cb713:
@@ -1071,7 +1071,7 @@ translate spanish mas_nou_reaction_player_wins_round_38ab750d:
 translate spanish mas_nou_reaction_player_wins_round_17812918:
 
     # extend 1eub "You're really good!"
-    extend 1eub "¡Eres realmente bueno!"
+    extend 1eub "¡Eres realmente buen[end_letter_gender]!"
 
 # game/zz_cardgames.rpy:4792
 translate spanish mas_nou_reaction_player_wins_round_c76c197c:
@@ -1119,7 +1119,7 @@ translate spanish mas_nou_reaction_player_wins_round_8959364b:
 translate spanish mas_nou_reaction_player_wins_game_96573da8:
 
     # m 1eud "Oh! {w=0.2}{nw}"
-    m 1eud "¡Oh! {w=0.2}{nw}"
+    m 1eud "¡Ah! {w=0.2}{nw}"
 
 # game/zz_cardgames.rpy:4817
 translate spanish mas_nou_reaction_player_wins_game_1130311b:
@@ -1143,7 +1143,7 @@ translate spanish mas_nou_reaction_player_wins_game_b56a925b:
 translate spanish mas_nou_reaction_player_wins_game_87ed2b07:
 
     # m 3eub "Oh, and you won this game too!"
-    m 3eub "¡Oh, y también has ganado esta partida!"
+    m 3eub "¡Ah, y también has ganado esta partida!"
 
 # game/zz_cardgames.rpy:4824
 translate spanish mas_nou_reaction_player_wins_game_0440478f:
@@ -1161,7 +1161,7 @@ translate spanish mas_nou_reaction_player_wins_game_d2e8503b:
 translate spanish mas_nou_reaction_player_wins_game_a524d9a1:
 
     # m 4eub "Oh, [player]! You won this game!"
-    m 4eub "¡Oh, [player]! ¡Has ganado esta partida!"
+    m 4eub "¡Ah, [player]! ¡Has ganado esta partida!"
 
 # game/zz_cardgames.rpy:4831
 translate spanish mas_nou_reaction_player_wins_game_3a8a38ca:
@@ -1185,7 +1185,7 @@ translate spanish mas_nou_reaction_player_wins_game_2c82f514:
 translate spanish mas_nou_reaction_player_wins_game_1225f663:
 
     # m 4eub "...And you're the first who reached [mas_nou.get_house_rule('points_to_win')] points!"
-    m 4eub "¡... Y eres el primero en alcanzar los [mas_nou.get_house_rule('points_to_win')] puntos!"
+    m 4eub "¡Y has llegado en primer lugar a los [mas_nou.get_house_rule('points_to_win')] puntos!"
 
 # game/zz_cardgames.rpy:4838
 translate spanish mas_nou_reaction_player_wins_game_cfcffb88:
@@ -1275,7 +1275,7 @@ translate spanish mas_nou_reaction_monika_wins_round_43265de8:
 translate spanish mas_nou_reaction_monika_wins_round_063d7b23:
 
     # m 1hub "Yay I won this time!~"
-    m 1hub "¡Yupi, he ganado esta vez!"
+    m 1hub "Vaaale, he ganado esta vez!"
 
 # game/zz_cardgames.rpy:4883
 translate spanish mas_nou_reaction_monika_wins_round_38868a44:
@@ -1371,13 +1371,13 @@ translate spanish mas_nou_reaction_monika_wins_round_cae29a75:
 translate spanish mas_nou_reaction_monika_wins_round_fc1a0b14:
 
     # m 1eub "Yay, I won again!"
-    m 1eub "¡Yupi, he vuelto a ganar!"
+    m 1eub "Vaaale, he vuelto a ganar!"
 
 # game/zz_cardgames.rpy:4936
 translate spanish mas_nou_reaction_monika_wins_round_eb902a6f:
 
     # m 1wub "Yay, I won~"
-    m 1wub "Yupi, he ganado."
+    m 1wub "Vale, he ganado."
 
 # game/zz_cardgames.rpy:4939
 translate spanish mas_nou_reaction_monika_wins_round_8623180f:
@@ -1449,7 +1449,7 @@ translate spanish mas_nou_reaction_monika_wins_round_e6f89ce6:
 translate spanish mas_nou_reaction_monika_wins_round_fcb81269:
 
     # m 1wub "Oh, I won!"
-    m 1wub "¡Oh, he ganado!"
+    m 1wub "¡Ah, he ganado!"
 
 # game/zz_cardgames.rpy:4974
 translate spanish mas_nou_reaction_monika_wins_round_56bb508c:
@@ -1515,7 +1515,7 @@ translate spanish mas_nou_reaction_monika_wins_game_0038d63e:
 translate spanish mas_nou_reaction_monika_wins_game_848734a6:
 
     # m 1wub "Oh!{w=0.1} I won this game!"
-    m 1wub "¡Oh!{w=0.1} ¡He ganado esta partida!"
+    m 1wub "¡Ah!{w=0.1} ¡He ganado esta partida!"
 
 # game/zz_cardgames.rpy:5004
 translate spanish mas_nou_reaction_monika_wins_game_133a5cae:
@@ -1587,7 +1587,7 @@ translate spanish mas_nou_reaction_player_surrenders_7932cd04:
 translate spanish mas_nou_reaction_player_surrenders_8fb6ffb1:
 
     # m 1ekc "[player]...{w=0.3}{nw}"
-    m 1ekc "[player]...{w=0.3}{nw}"
+    m 1ekc "[player]... {w=0.3}{nw}"
 
 # game/zz_cardgames.rpy:5034
 translate spanish mas_nou_reaction_player_surrenders_6044019b:
@@ -1683,7 +1683,7 @@ translate spanish strings:
 
     # game/zz_cardgames.rpy:115
     old "Oh, let me shuffle it again.{w=1.5}{nw}"
-    new "Oh, deja que baraje de nuevo.{w=1.5}{nw}"
+    new "Ah, deja que baraje de nuevo.{w=1.5}{nw}"
 
     # game/zz_cardgames.rpy:115
     old "Oops, let's try again.{w=1.5}{nw}"
@@ -1695,11 +1695,11 @@ translate spanish strings:
 
     # game/zz_cardgames.rpy:115
     old "No, no, no... Let's shuffle again...{w=1.5}{nw}"
-    new "No, no, no... Vamos a barajar de nuevo...{w=1.5}{nw}"
+    new "No, no, no... Vamos a barajar de nuevo... {w=1.5}{nw}"
 
     # game/zz_cardgames.rpy:123
     old "Oh, it's my turn."
-    new "Oh, es mi turno."
+    new "Ah, es mi turno."
 
     # game/zz_cardgames.rpy:123
     old "My turn~"
@@ -1711,7 +1711,7 @@ translate spanish strings:
 
     # game/zz_cardgames.rpy:128
     old "Oh, I have to skip my turn."
-    new "Oh, tengo que saltarme el turno."
+    new "Ah, tengo que saltarme el turno."
 
     # game/zz_cardgames.rpy:128
     old "Lucky you, I'll have to skip this turn."
@@ -1723,7 +1723,7 @@ translate spanish strings:
 
     # game/zz_cardgames.rpy:133
     old "Oh, I must draw some more."
-    new "Oh, debo robar algunas más."
+    new "Ah, debo robar algunas más."
 
     # game/zz_cardgames.rpy:133
     old "Lucky you, I'll give you a handicap with these cards."
@@ -1735,7 +1735,7 @@ translate spanish strings:
 
     # game/zz_cardgames.rpy:133
     old "Oh, guess I'll have to draw more cards."
-    new "Oh, supongo que tendré que robar más cartas."
+    new "Ah, supongo que tendré que robar más cartas."
 
     # game/zz_cardgames.rpy:139
     old "I prepared! Ehehe~"
@@ -1795,7 +1795,7 @@ translate spanish strings:
 
     # game/zz_cardgames.rpy:164
     old "This is a little embarrassing~"
-    new "Esto es un poco embarazoso."
+    new "Esto da un poco de corte."
 
     # game/zz_cardgames.rpy:164
     old "Ah?{w=0.2} What are you trying to do?~"
@@ -1807,7 +1807,7 @@ translate spanish strings:
 
     # game/zz_cardgames.rpy:176
     old "I don't think we're already {i}that{/i} far in our relationship~"
-    new "No creo que estemos ya {i}tan{/i} lejos en nuestra relación."
+    new "No creo que estemos ya tan lejos en nuestra relación."
 
     # game/zz_cardgames.rpy:181
     old "Are you trying to cheat again?"
@@ -1883,7 +1883,7 @@ translate spanish strings:
 
     # game/zz_cardgames.rpy:209
     old "Ehehe~ No.{w=0.2}.{w=0.2}.{w=0.2}U!"
-    new "Je, je, je. ¡No...{w=0.2}.{w=0.2}.{w=0.2}U!"
+    new "Je, je, je. ¡N-o-o-o... {w=0.5}U!"
 
     # game/zz_cardgames.rpy:209
     old "NOU!"
@@ -1899,7 +1899,7 @@ translate spanish strings:
 
     # game/zz_cardgames.rpy:221
     old "Silly, I already did that!~"
-    new "¡Tontín, ya lo he hecho!"
+    new "¡Bob[end_letter_gender], ya lo he hecho!"
 
     # game/zz_cardgames.rpy:221
     old "[player]... How did you miss that? I already said 'NOU'!"
@@ -1915,7 +1915,7 @@ translate spanish strings:
 
     # game/zz_cardgames.rpy:229
     old "Silly, you yell 'NOU' when you have only one card left!"
-    new "¡Tontín, se grita '¡NOU!' cuando solo te queda una carta!"
+    new "¡Bob[end_letter_gender], se grita '¡NOU!' cuando solo te queda una carta!"
 
     # game/zz_cardgames.rpy:229
     old "Ahaha~ A bit too early, [player]!"
@@ -1951,7 +1951,7 @@ translate spanish strings:
 
     # game/zz_cardgames.rpy:245
     old "Oh... You're right!"
-    new "Oh... ¡Tienes razón!"
+    new "Ah... ¡Tienes razón!"
 
     # game/zz_cardgames.rpy:245
     old "Whoops, you got me there!"
@@ -1999,7 +1999,7 @@ translate spanish strings:
 
     # game/zz_cardgames.rpy:267
     old "You've already said it, silly~"
-    new "Ya lo has dicho, tontín."
+    new "Ya lo has dicho, bob[end_letter_gender]."
 
     # game/zz_cardgames.rpy:267
     old "I heard you, [player]!"
@@ -2007,11 +2007,11 @@ translate spanish strings:
 
     # game/zz_cardgames.rpy:267
     old "No need to repeat it each turn, silly~"
-    new "No hace falta repetirlo en cada turno, tontín."
+    new "No hace falta repetirlo en cada turno, bob[end_letter_gender]."
 
     # game/zz_cardgames.rpy:274
     old "Silly, you still have a lot of cards to play!"
-    new "¡Tontín, todavía te quedan muchas cartas por jugar!"
+    new "¡Bob[end_letter_gender], todavía te quedan muchas cartas por jugar!"
 
     # game/zz_cardgames.rpy:274
     old "I think you still have more than one card, [player]."
@@ -2031,7 +2031,7 @@ translate spanish strings:
 
     # game/zz_cardgames.rpy:274
     old "[player], you can be so silly sometimes~"
-    new "[player], a veces puedes ser tan tontín."
+    new "[player], a veces puedes ser tan bob[end_letter_gender]."
 
     # game/zz_cardgames.rpy:284
     old "Aha!{w=0.3} You didn't say NOU, [player]!"
@@ -2091,7 +2091,7 @@ translate spanish strings:
 
     # game/zz_cardgames.rpy:323
     old "But were you ready for this, huh?"
-    new "Pero, ¿estabas preparado para esto, eh?"
+    new "Pero, ¿estabas preparad[end_letter_gender] para esto, eh?"
 
     # game/zz_cardgames.rpy:323
     old "Still nope!"
@@ -2139,7 +2139,7 @@ translate spanish strings:
 
     # game/zz_cardgames.rpy:342
     old "You {i}really{/i} want me to take this, huh?~"
-    new "De {i}verdad{/i} quieres que me quede con esto, ¿eh?"
+    new "De verdad quieres que me quede con esto, ¿eh?"
 
     # game/zz_cardgames.rpy:342
     old "One second.{w=0.2}.{w=0.2}.{w=0.2}I've got more for you~"
@@ -2215,7 +2215,7 @@ translate spanish strings:
 
     # game/zz_cardgames.rpy:421
     old "{i}No,{w=0.1} you{/i} will skip this turn~"
-    new "{i}No,{w=0.1} tú{/i} te saltarás este turno."
+    new "No,{w=0.1} tú te saltarás este turno."
 
     # game/zz_cardgames.rpy:421
     old "Nope, [player]!"
@@ -2243,7 +2243,7 @@ translate spanish strings:
 
     # game/zz_cardgames.rpy:440
     old "I.{w=0.1}.{w=0.1}.{w=0.1}will let it slide...{w=0.3}but just this time!"
-    new "Lo.{w=0.1}.{w=0.1}.{w=0.1} dejaré pasar... {w=0.3} ¡pero solo por esta vez!"
+    new "Lo... {w=0.3}dejaré pasar... {w=0.3}¡pero solo por esta vez!"
 
     # game/zz_cardgames.rpy:440
     old "You're pretty lucky!"
@@ -2255,7 +2255,7 @@ translate spanish strings:
 
     # game/zz_cardgames.rpy:440
     old "You...{w=0.3}{i}could{/i} go a bit easier on your girlfriend, you know~"
-    new "Podrías... {w=0.3}{i}podrías{/i} ser un poco más bueno con tu novia, ¿sabes?"
+    new "Podrías... {w=0.3}ser un poco más buen[end_letter_gender] con tu novia, ¿sabes?"
 
     # game/zz_cardgames.rpy:440
     old "[player]!"
@@ -2319,11 +2319,11 @@ translate spanish strings:
 
     # game/zz_cardgames.rpy:476
     old "Alright...{w=0.2}this time {i}you{/i} choose the color~"
-    new "Vale... {w=0.2}esta vez {i}tú{/i} eliges el color."
+    new "Vale... {w=0.2}esta vez tú eliges el color."
 
     # game/zz_cardgames.rpy:476
     old "Oh jeez!"
-    new "¡Oh, cachis!"
+    new "¡Ah, cachis!"
 
     # game/zz_cardgames.rpy:490
     old "Hmm, I wasn't prepared for that!"
@@ -2355,7 +2355,7 @@ translate spanish strings:
 
     # game/zz_cardgames.rpy:515
     old "Oh, good, now I'm holding the whole deck in my hands."
-    new "Oh, genial, ahora tengo todo el mazo en mis manos."
+    new "Ah, genial, ahora tengo todo el mazo en mis manos."
 
     # game/zz_cardgames.rpy:515
     old "Thanks, love!"
@@ -2375,7 +2375,7 @@ translate spanish strings:
 
     # game/zz_cardgames.rpy:1912
     old "Just git gud, [player]! Ahaha~"
-    new "¡Solo... mejora, [player]! ¡Ja, ja, ja!"
+    new "¡A llorar a la llorería, [player]! Ja, ja, ja."
 
     # game/zz_cardgames.rpy:1918
     old "Play anything but {i}Draw Two{/i} and {i}Draw Four{/i}, darling. I don't have anything to counter those~"
@@ -2423,7 +2423,7 @@ translate spanish strings:
 
     # game/zz_cardgames.rpy:2008
     old " If you have a {}{}{{i}}{}{{/i}}, you could {{i}}try{{/i}} to reflect {} card."
-    new " Si tienes un {}{}{{i}}{}{{/i}}, podrías {{i}}intentar{{/i}} contrarrestar {} carta."
+    new " Si tienes un {}{}{{i}}{}{{/i}}, podrías intentar contrarrestar {} carta."
 
     # game/zz_cardgames.rpy:2018
     old " Can't promise I won't reflect it back to you~"
