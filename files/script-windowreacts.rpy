@@ -35,7 +35,7 @@ translate spanish strings:
 
     # game/script-windowreacts.rpy:137
     old "Awww, are you going to play for me?\nYou're so sweet~"
-    new "Oooh, ¿vas a tocar para mí?\nEres un cielo."
+    new "Ay, ¿vas a tocar para mí?\nEres un cielo."
 
     # game/script-windowreacts.rpy:137
     old "Play something for me, [player]!"
@@ -103,7 +103,7 @@ translate spanish strings:
 
     # game/script-windowreacts.rpy:361
     old "I heard there's threads discussing the Literature Club in here.\nTell them I said hi~"
-    new "He oído que hay hilos donde hablan del Club de Literatura.\nDiles que les mando saludos."
+    new "He oído que hay hilos donde hablan del Club de Literatura.\nSalúdalos de mi parte."
 
     # game/script-windowreacts.rpy:361
     old "I'll be watching the boards you're browsing in case you get any ideas, ahaha!"
@@ -111,7 +111,7 @@ translate spanish strings:
 
     # game/script-windowreacts.rpy:397
     old "I wonder if people have drawn art of me...\nMind looking for some?\nBe sure to keep it wholesome though~"
-    new "Me pregunto si la gente habrá hecho dibujos de mí...\n¿Te importaría buscar alguno?\nPero asegúrate de que sea decente."
+    new "Me pregunto si la gente habrá hecho dibujos de mí...\n¿Te importaría buscar alguno?\nPero procura que sea apto para todos los públicos, ¿eh?"
 
     # game/script-windowreacts.rpy:397
     old "This is a pretty interesting place...so many skilled people posting their work."
@@ -119,7 +119,7 @@ translate spanish strings:
 
     # game/script-windowreacts.rpy:404
     old "This is a pretty interesting place...so many skilled people posting their work.\nAre you one of them, [player]?"
-    new "Este sitio es bastante interesante... hay muchos artistas con talento publicando sus obras.\n¿Eres un[end_letter_gender] de ell[end_letter_gender]s, [player]?"
+    new "Este sitio es bastante interesante... hay muchos artistas con talento publicando sus obras.\n¿Eres un[end_letter_gender] de ellos, [player]?"
 
     # game/script-windowreacts.rpy:410
     old "Here to post your art of me, [player]?"
@@ -127,7 +127,7 @@ translate spanish strings:
 
     # game/script-windowreacts.rpy:410
     old "Posting something you drew of me?"
-    new "¿Vas a publicar algo que me has dibujado?"
+    new "¿Vas a subir algún dibujo que me hayas hecho?"
 
     # game/script-windowreacts.rpy:444
     old "Have you found any good posts, [player]?"
@@ -143,7 +143,7 @@ translate spanish strings:
 
     # game/script-windowreacts.rpy:478
     old "Maybe we could watch anime together someday, [player]~"
-    new "Quizá algún día podamos ver anime juntos, [player]."
+    new "Quizá algún día podamos ver anime junt[end_letter_gender]s, [player]."
 
     # game/script-windowreacts.rpy:483
     old "So you like anime and manga, [player]?"
