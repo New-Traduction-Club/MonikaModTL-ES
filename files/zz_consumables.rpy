@@ -51,7 +51,7 @@ translate spanish mas_consumables_generic_finish_having_8b7b43c5:
 translate spanish mas_consumables_generic_finish_having_460692de:
 
     # m 1esd "Oh, I've finished my [consumable.disp_name][plur].{w=1}{nw}"
-    m 1esd "Oh, me he terminado mi [consumable.disp_name][plur].{w=1}{nw}"
+    m 1esd "Ah, me he terminado mi [consumable.disp_name][plur].{w=1}{nw}"
 
 # game/zz_consumables.rpy:1481
 translate spanish mas_consumables_generic_finish_having_1640fa5f:
@@ -75,7 +75,7 @@ translate spanish mas_consumables_generic_finish_having_7a2f3a16:
 translate spanish mas_consumables_generic_finished_prepping_548d993c:
 
     # m 1esd "Oh, my [consumable.disp_name][plur] [is_are] ready."
-    m 1esd "Oh, mi [consumable.disp_name][plur] ya [is_are] lista."
+    m 1esd "Ah, mi [consumable.disp_name][plur] ya [is_are] lista."
 
 # game/zz_consumables.rpy:1544
 translate spanish mas_consumables_generic_finished_prepping_a644a99b:
@@ -129,7 +129,7 @@ translate spanish mas_consumables_generic_running_out_bf9fbe47:
 translate spanish mas_consumables_generic_running_out_5b012938:
 
     # m 3eud "I just wanted to let you know I only have [about][amt_left] [line_ender]"
-    m 3eud "Solo quería que supieras que solo me queda [about][amt_left] [line_ender]"
+    m 3eud "Quería avisarte de que solo me queda [about][amt_left] [line_ender]"
 
 # game/zz_consumables.rpy:1626
 translate spanish mas_consumables_generic_running_out_a3784acf:
@@ -195,7 +195,7 @@ translate spanish mas_consumables_generic_queued_running_out_dlg_2ed3ad8a:
 translate spanish mas_consumables_generic_queued_running_out_dlg_63f39e8f:
 
     # m 1eka "You wouldn't mind getting [them] for me, would you?"
-    m 1eka "No te importaría [them] para mí, ¿verdad?"
+    m 1eka "No te importaría conseguir [them] para mí, ¿verdad?"
 
 # game/zz_consumables.rpy:1729
 translate spanish mas_consumables_remove_thermos_8f907c3a:
@@ -237,7 +237,7 @@ translate spanish mas_consumables_candycane_finish_having_8b7b43c5:
 translate spanish mas_consumables_candycane_finish_having_42e93436:
 
     # m 1esd "Oh, I've eaten my candy canes.{w=1}{nw}"
-    m 1esd "Oh, me he comido mis bastones de caramelo.{w=1}{nw}"
+    m 1esd "Ah, me he comido mis bastones de caramelo.{w=1}{nw}"
 
 # game/zz_consumables.rpy:1788
 translate spanish mas_consumables_candycane_finish_having_7ae0fc82:
@@ -261,19 +261,19 @@ translate spanish mas_consumables_candycane_finish_having_7a2f3a16:
 translate spanish monika_consumables_check_3e2a81fd:
 
     # m 3eua "Oh{w=0.1}, I'm not running out of anything at the moment, [player]...{w=0.3}{nw}"
-    m 3eua "Oh{w=0.1}, no me estoy quedando sin nada por el momento, [player]...{w=0.3}{nw}"
+    m 3eua "Ah{w=0.1}, ahora mismo no me falta de nada, [player]... {w=0.3}{nw}"
 
 # game/zz_consumables.rpy:1848
 translate spanish monika_consumables_check_b09e2c7c:
 
     # extend 3hua "but I'll be sure to let you know if I do~"
-    extend 3hua "pero me aseguraré de hacértelo saber si lo hago."
+    extend 3hua "pero ten por seguro que te avisaré si me hace falta algo."
 
 # game/zz_consumables.rpy:1852
 translate spanish monika_consumables_check_d789c0e9:
 
     # m 3rusdlb "Oh{w=0.1}, glad you asked!"
-    m 3rusdlb "¡Oh{w=0.1}, me alegra que preguntes!"
+    m 3rusdlb "¡Ah{w=0.1}, me alegra que preguntes!"
 
 # game/zz_consumables.rpy:1853
 translate spanish monika_consumables_check_bf389125:
@@ -291,7 +291,7 @@ translate spanish monika_consumables_check_f9bef97b:
 translate spanish monika_consumables_check_baa75fa2:
 
     # m 1rtd "Umm...{w=0.3}{nw}"
-    m 1rtd "Emm...{w=0.3}{nw}"
+    m 1rtd "Mmm... {w=0.3}{nw}"
 
 # game/zz_consumables.rpy:1859
 translate spanish monika_consumables_check_0b62c6c3:
@@ -339,13 +339,13 @@ translate spanish monika_consumables_check_a2abda03:
 translate spanish monika_consumables_check_cefa71e5:
 
     # m 3eua "I'm not running out of anything at the moment, [player]...{w=0.3}{nw}"
-    m 3eua "No me estoy quedando sin nada por el momento, [player]...{w=0.3}{nw}"
+    m 3eua "Ahora mismo no me falta de nada, [player]... {w=0.3}{nw}"
 
 # game/zz_consumables.rpy:1889
 translate spanish monika_consumables_check_b09e2c7c_1:
 
     # extend 3hua "but I'll be sure to let you know if I do~"
-    extend 3hua "pero me aseguraré de hacértelo saber si lo hago."
+    extend 3hua "pero ten por seguro que te avisaré si me hace falta algo."
 
 translate spanish strings:
 
