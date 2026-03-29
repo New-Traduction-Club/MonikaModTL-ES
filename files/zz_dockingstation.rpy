@@ -33,7 +33,7 @@ translate spanish mas_dockstat_first_time_goers_b24c1ac9:
 translate spanish mas_dockstat_first_time_goers_8a333801:
 
     # m 1ekc "Please be careful with me. It's so easy to delete files after all..."
-    m 1ekc "Por favor, ten cuidado conmigo. Después de todo, es muy fácil borrar archivos..."
+    m 1ekc "Por favor, ten cuidado conmigo. Al fin y al cabo, es muy fácil borrar archivos..."
 
 # game/zz_dockingstation.rpy:2141
 translate spanish mas_dockstat_first_time_goers_fe9c0937:
@@ -51,7 +51,7 @@ translate spanish mas_dockstat_different_monika_de87a206:
 translate spanish mas_dockstat_different_monika_3a351d89:
 
     # m "Wait, you're not [player]."
-    m "Espera, tú no eres [player]."
+    m "Un momento, tú no eres [player]."
 
 # game/zz_dockingstation.rpy:2415
 translate spanish mas_dockstat_generic_iowait_e71a1fd6:
@@ -69,7 +69,7 @@ translate spanish mas_dockstat_generic_wait_label_0d1042aa:
 translate spanish mas_dockstat_generic_wait_label_1c1d8caa:
 
     # m 2hub "Oh, good! Let me finish getting ready."
-    m 2hub "¡Oh, bien! Deja que termine de prepararme."
+    m 2hub "¡Ah, bien! Deja que termine de prepararme."
 
 # game/zz_dockingstation.rpy:2506
 translate spanish mas_dockstat_generic_rtg_05fd4282:
@@ -81,7 +81,7 @@ translate spanish mas_dockstat_generic_rtg_05fd4282:
 translate spanish mas_dockstat_generic_rtg_2cb63058:
 
     # m 1ekc "Oh no..."
-    m 1ekc "Oh, no..."
+    m 1ekc "Ah, no..."
 
 # game/zz_dockingstation.rpy:2512
 translate spanish mas_dockstat_generic_rtg_ebefb5a0:
@@ -93,7 +93,7 @@ translate spanish mas_dockstat_generic_rtg_ebefb5a0:
 translate spanish mas_dockstat_generic_rtg_b70200cf:
 
     # m "I think you'll have to go on without me this time."
-    m "Creo que tendrás que irte sin mí esta vez."
+    m "Creo que esta vez tendrás que irte sin mí."
 
 # game/zz_dockingstation.rpy:2514
 translate spanish mas_dockstat_generic_rtg_db93a8b3:
@@ -123,13 +123,13 @@ translate spanish mas_dockstat_generic_cancel_dc0b4ce9:
 translate spanish mas_dockstat_generic_cancel_6253beb6:
 
     # m 1ekd "Oh,{w=0.3} all right. Maybe next time?"
-    m 1ekd "Oh,{w=0.3} vale. ¿Quizá la próxima vez?"
+    m 1ekd "Ah,{w=0.3} vale. ¿Quizá la próxima vez?"
 
 # game/zz_dockingstation.rpy:2539
 translate spanish mas_dockstat_generic_cancel_bf314d3a:
 
     # m 2ekp "Aw..."
-    m 2ekp "Oh..."
+    m 2ekp "Ah..."
 
 # game/zz_dockingstation.rpy:2540
 translate spanish mas_dockstat_generic_cancel_f275bdd8:
@@ -141,13 +141,13 @@ translate spanish mas_dockstat_generic_cancel_f275bdd8:
 translate spanish mas_dockstat_generic_cancelled_still_going_ask_1b6c83c8:
 
     # m 1euc "Are you still going to go?{nw}"
-    m 1euc "¿Todavía vas a irte?{nw}"
+    m 1euc "¿Aún así vas a irte?{nw}"
 
 # game/zz_dockingstation.rpy:2553
 translate spanish mas_dockstat_generic_cancelled_still_going_ask_84de4e26:
 
     # m "Are you still going to go?{fast}" nointeract
-    m "¿Todavía vas a irte?{fast}" nointeract
+    m "¿Aún así vas a irte?{fast}" nointeract
 
 # game/zz_dockingstation.rpy:2556
 translate spanish mas_dockstat_generic_cancelled_still_going_ask_d2bae698:
@@ -165,25 +165,25 @@ translate spanish mas_dockstat_generic_cancelled_still_going_ask_53acdc5c:
 translate spanish mas_dockstat_generic_cancelled_still_going_ask_26233271:
 
     # m 2tfd "...Fine."
-    m 2tfd "...Vale."
+    m 2tfd "... Vale."
 
 # game/zz_dockingstation.rpy:2567
 translate spanish mas_dockstat_generic_cancelled_still_going_ask_4edac8b9:
 
     # m 2eka "...Thank you."
-    m 2eka "...Gracias."
+    m 2eka "... Gracias."
 
 # game/zz_dockingstation.rpy:2568
 translate spanish mas_dockstat_generic_cancelled_still_going_ask_09e19c2a:
 
     # m "It means a lot that you're going to spend more time with me since I can't come along."
-    m "Significa mucho que vayas a pasar más tiempo conmigo ya que no puedo ir."
+    m "Significa mucho para mí que te quedes a pasar más tiempo conmigo, ya que no puedo acompañarte."
 
 # game/zz_dockingstation.rpy:2569
 translate spanish mas_dockstat_generic_cancelled_still_going_ask_775bf62f:
 
     # m 3ekb "Please just go about your day whenever you need to, though. I wouldn't want to make you late!"
-    m 3ekb "Pero, por favor, haz tus cosas cuando lo necesites. ¡No quisiera hacerte llegar tarde!"
+    m 3ekb "Aun así, por favor, sigue con tu día cuando lo necesites. ¡No quisiera que llegaras tarde por mi culpa!"
 
 # game/zz_dockingstation.rpy:2573
 translate spanish mas_dockstat_generic_cancelled_still_going_ask_3b1f989f:
@@ -195,19 +195,19 @@ translate spanish mas_dockstat_generic_cancelled_still_going_ask_3b1f989f:
 translate spanish mas_dockstat_generic_failed_io_still_going_ask_be00124f:
 
     # m "Are you still going to go?{nw}"
-    m "¿Todavía vas a irte?{nw}"
+    m "¿Aún así vas a irte?{nw}"
 
 # game/zz_dockingstation.rpy:2584
 translate spanish mas_dockstat_generic_failed_io_still_going_ask_84de4e26:
 
     # m "Are you still going to go?{fast}" nointeract
-    m "¿Todavía vas a irte?{fast}" nointeract
+    m "¿Aún así vas a irte?{fast}" nointeract
 
 # game/zz_dockingstation.rpy:2586
 translate spanish mas_dockstat_generic_failed_io_still_going_ask_0bb32228:
 
     # m 2eka "I understand. You have things to do, after all..."
-    m 2eka "Lo entiendo. Tienes cosas que hacer, después de todo..."
+    m 2eka "Lo entiendo. Al fin y al cabo, tienes cosas que hacer..."
 
 # game/zz_dockingstation.rpy:2587
 translate spanish mas_dockstat_generic_failed_io_still_going_ask_2ae99183:
@@ -219,7 +219,7 @@ translate spanish mas_dockstat_generic_failed_io_still_going_ask_2ae99183:
 translate spanish mas_dockstat_generic_failed_io_still_going_ask_9a3c6744:
 
     # m 2wub "Really? Are you sure? Even though it's my own fault I can't go with you..."
-    m 2wub "¿En serio? ¿Estás seguro? Aunque sea culpa mía no poder ir contigo..."
+    m 2wub "¿En serio? ¿Estás segur[end_letter_gender]? Aunque sea mi culpa el no poder acompañarte..."
 
 # game/zz_dockingstation.rpy:2592
 translate spanish mas_dockstat_generic_failed_io_still_going_ask_32fb3839:
