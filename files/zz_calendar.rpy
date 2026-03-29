@@ -3,19 +3,19 @@
 translate spanish mas_show_calendar_detail_9c5ff161:
 
     # m 1eub "Oh, you want to take another look at that pretty calendar hanging on the wall, [player]?"
-    m 1eub "Vaya... ¿quieres volver a mirar ese calendario tan chulo que está en la pared, [player]?"
+    m 1eub "Ah, ¿quieres volver a mirar ese calendario tan chulo que está en la pared, [player]?"
 
 # game/zz_calendar.rpy:2165
 translate spanish mas_show_calendar_detail_6b069f8b:
 
     # m 3hua "It helps me keep track of important events, like your birthday, ehehe~"
-    m 3hua "Me es muy útil para llevar cuenta de los sucesos importantes, como tu cumpleaños. Je, je, je"
+    m 3hua "Me es muy útil para llevar la cuenta de los eventos importantes, como tu cumpleaños. Je, je, je."
 
 # game/zz_calendar.rpy:2167
 translate spanish mas_show_calendar_detail_72782367:
 
     # m 1eub "Oh, I see you noticed that pretty calendar hanging on the wall, [player]."
-    m 1eub "Vaya... veo que notaste ese calendario tan chulo que está en la pared, [player]"
+    m 1eub "Ah, veo que te has fijado en ese calendario tan chulo que está en la pared, [player]."
 
 # game/zz_calendar.rpy:2168
 translate spanish mas_show_calendar_detail_b262b5f6:
@@ -27,7 +27,7 @@ translate spanish mas_show_calendar_detail_b262b5f6:
 translate spanish mas_show_calendar_detail_ce9b94b7:
 
     # m 1eua "Here, let me show you."
-    m 1eua "Ven aquí, quiero mostrarte algo."
+    m 1eua "Mira, déjame enseñártelo."
 
 # game/zz_calendar.rpy:2175
 translate spanish mas_show_calendar_detail_f7af61a6:
@@ -45,7 +45,7 @@ translate spanish mas_show_calendar_detail_d2dea50f:
 translate spanish mas_show_calendar_detail_46b69767:
 
     # m 1lksdla "Except for when I'm in the middle of talking, of course."
-    m 1lksdla "Pero, claro, ni se te ocurra hacerlo mientras estoy hablando."
+    m 1lksdla "Excepto cuando te esté hablando, claro."
 
 translate spanish strings:
 
@@ -87,7 +87,7 @@ translate spanish strings:
 
     # game/zz_calendar.rpy:92
     old "September"
-    new "September"
+    new "Septiembre"
 
     # game/zz_calendar.rpy:92
     old "October"
@@ -175,7 +175,7 @@ translate spanish strings:
 
     # game/zz_calendar.rpy:1130
     old "libra"
-    new "libra"
+    new "Libra"
 
     # game/zz_calendar.rpy:1130
     old "scorpio"
@@ -191,11 +191,11 @@ translate spanish strings:
 
     # game/zz_calendar.rpy:1249
     old "on this date"
-    new "En esta fecha"
+    new "en esta fecha"
 
     # game/zz_calendar.rpy:1261
     old "on"
-    new "En"
+    new "en"
 
     # game/zz_calendar.rpy:1884
     old "New Year's Day"
