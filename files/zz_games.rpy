@@ -53,7 +53,7 @@ translate spanish strings:
 
     # game/zz_games.rpy:236
     old "Ready to lose, [mas_get_player_nickname()]?"
-    new "¿Listo para perder, [mas_get_player_nickname()]?"
+    new "¿List[end_letter_gender] para perder, [mas_get_player_nickname()]?"
 
     # game/zz_games.rpy:236
     old "I'm ready when you are, [mas_get_player_nickname()]!"
@@ -61,7 +61,7 @@ translate spanish strings:
 
     # game/zz_games.rpy:236
     old "I hope you're ready, [mas_get_player_nickname()]~"
-    new "Espero que estés listo, [mas_get_player_nickname()]."
+    new "Espero que estés list[end_letter_gender], [mas_get_player_nickname()]."
 
     # game/zz_games.rpy:236
     old "Let's have some fun, [mas_get_player_nickname()]!"
@@ -69,11 +69,11 @@ translate spanish strings:
 
     # game/zz_games.rpy:236
     old "Don't expect me to go easy on you, [mas_get_player_nickname()]!~"
-    new "¡No esperes que sea indulgente contigo, [mas_get_player_nickname()]!"
+    new "¡No esperes que te lo ponga fácil, [mas_get_player_nickname()]!"
 
     # game/zz_games.rpy:236
     old "Throwing down the gauntlet, are we?"
-    new "¿Me estás retando?"
+    new "¿Así que me estás retando, eh?"
 
     # game/zz_games.rpy:236
     old "It's time to duel!"
