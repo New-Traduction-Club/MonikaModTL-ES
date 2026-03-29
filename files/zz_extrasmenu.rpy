@@ -21,13 +21,13 @@ translate spanish mas_extra_menu_firsttime_5f2b2c7d:
 translate spanish mas_extra_menu_firsttime_cdc4a4da:
 
     # m 1hua "Look forward to some neat things in this menu!"
-    m 1hua "¡Espera cosas geniales en este menú!"
+    m 1hua "¡Atent[end_letter_gender] a las cosas chulas que habrá en este menú!"
 
 # game/zz_extrasmenu.rpy:162
 translate spanish mas_extra_menu_zoom_intro_bae8d6be:
 
     # m 1eua "One thing I added is a way for you to adjust your field of view, so now you can sit closer or farther away from me."
-    m 1eua "Una cosa que he añadido es una forma de que ajustes tu campo de visión, así que ahora puedes sentarte más cerca o más lejos de mí."
+    m 1eua "He añadido una opción para que ajustes tu campo de visión, así que ahora puedes sentarte más cerca o más lejos de mí."
 
 # game/zz_extrasmenu.rpy:163
 translate spanish mas_extra_menu_zoom_intro_08492bea:
@@ -39,7 +39,7 @@ translate spanish mas_extra_menu_zoom_intro_08492bea:
 translate spanish mas_extra_menu_zoom_out_first_time_d3589dd2:
 
     # m 1ttu "Can't sit up straight for long?"
-    m 1ttu "¿No puedes sentarte derecho por mucho tiempo?"
+    m 1ttu "¿No puedes sentarte derech[end_letter_gender] mucho rato?"
 
 # game/zz_extrasmenu.rpy:210
 translate spanish mas_extra_menu_zoom_out_first_time_e75cb38e:
@@ -57,7 +57,7 @@ translate spanish mas_extra_menu_zoom_out_first_time_19428ff1:
 translate spanish mas_extra_menu_zoom_in_first_time_8be0e713:
 
     # m 1ttu "Sitting a bit closer?"
-    m 1ttu "¿Sentándote un poco más cerca?"
+    m 1ttu "¿Acercándote un poquito?"
 
 # game/zz_extrasmenu.rpy:216
 translate spanish mas_extra_menu_zoom_in_first_time_577acce3:
@@ -81,13 +81,13 @@ translate spanish mas_extra_menu_zoom_in_max_first_time_7d45d836:
 translate spanish mas_extra_menu_zoom_in_max_first_time_c01e0302:
 
     # m 6ekbfd "I feel..."
-    m 6ekbfd "Me siento..."
+    m 6ekbfd "Siento..."
 
 # game/zz_extrasmenu.rpy:225
 translate spanish mas_extra_menu_zoom_in_max_first_time_dd434783:
 
     # m 6hubfa "Warm..."
-    m 6hubfa "Cálida..."
+    m 6hubfa "Calorcito..."
 
 # game/zz_extrasmenu.rpy:233
 translate spanish mas_extra_menu_boop_intro_75d0b3d9:
