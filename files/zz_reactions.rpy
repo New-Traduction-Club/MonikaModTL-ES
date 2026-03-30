@@ -291,7 +291,7 @@ translate spanish mas_reaction_gifts_generic_f35f0a51:
 translate spanish mas_reaction_gifts_generic_8a256633:
 
     # m 1hub "Thanks for being so thoughtful, [player]!"
-    m 1hub "¡Gracias por ser tan atento, [player]!"
+    m 1hub "¡Gracias por ser tan atent[end_letter_gender], [player]!"
 
 # game/zz_reactions.rpy:1085
 translate spanish mas_reaction_gift_test1_0e361333:
@@ -309,7 +309,7 @@ translate spanish mas_reaction_gift_test2_0bd2f6ad:
 translate spanish mas_reaction_gift_generic_sprite_json_62ff1b67:
 
     # m "Aww, [player]!"
-    m "¡Oh, [player]!"
+    m "¡Ah, [player]!"
 
 # game/zz_reactions.rpy:1121
 translate spanish mas_reaction_gift_generic_sprite_json_4dc5dcf5:
@@ -351,7 +351,7 @@ translate spanish mas_reaction_gift_generic_sprite_json_83b49ce5:
 translate spanish mas_reaction_gift_generic_clothes_json_9b7667f3:
 
     # m 2suo "Oh! {w=0.3}A costume!"
-    m 2suo "¡Oh! {w=0.3}¡Un disfraz!"
+    m 2suo "¡Ah! {w=0.3}¡Un disfraz!"
 
 # game/zz_reactions.rpy:1161
 translate spanish mas_reaction_gift_generic_clothes_json_83022dc6:
@@ -405,7 +405,7 @@ translate spanish mas_reaction_gift_generic_clothes_json_155b4010:
 translate spanish mas_reaction_gift_hairclip_99cd7451:
 
     # m 1rksdlb "You already gave me this hairclip, silly!"
-    m 1rksdlb "¡Ya me habías dado esta horquilla, tontín!"
+    m 1rksdlb "¡Ya me habías dado esta horquilla, tont[end_letter_gender]!"
 
 # game/zz_reactions.rpy:1249
 translate spanish mas_reaction_gift_hairclip_0280bea1:
@@ -705,7 +705,7 @@ translate spanish mas_thermos_mug_handler_4071b486:
 translate spanish mas_thermos_mug_handler_fdbfb853:
 
     # m 1wud "Oh!{w=0.3} Another thermos!"
-    m 1wud "¡Oh!{w=0.3} ¡Otro termo!"
+    m 1wud "¡Ah!{w=0.3} ¡Otro termo!"
 
 # game/zz_reactions.rpy:1446
 translate spanish mas_thermos_mug_handler_c69e1cf6:
@@ -861,7 +861,7 @@ translate spanish mas_reaction_promisering_2f2294e9:
 translate spanish mas_reaction_promisering_9abb98c3:
 
     # m "Your promise that we'll be for each other,{w=0.1} and no one else...{w=0.3}forever..."
-    m "Tu promesa de que seremos el uno para el otro,{w=0.1} y nadie más...{w=0.3}para siempre..."
+    m "Tu promesa de que seremos el uno para el otro,{w=0.1} y nadie más... {w=0.3}para siempre..."
 
 # game/zz_reactions.rpy:1530
 translate spanish mas_reaction_promisering_c1c19edc:
@@ -957,7 +957,7 @@ translate spanish mas_reaction_promisering_be1b8d48:
 translate spanish mas_reaction_promisering_0b83566e:
 
     # m 1sua "Oh...it's the ring!"
-    m 1sua "Oh... ¡es el anillo!"
+    m 1sua "Ah... ¡es el anillo!"
 
 # game/zz_reactions.rpy:1555
 translate spanish mas_reaction_promisering_d341f971:
@@ -1203,7 +1203,7 @@ translate spanish mas_reaction_candy_50722bed:
 translate spanish mas_reaction_candy_48271c6d:
 
     # m 1eka "That's so {i}sweet{/i}..."
-    m 1eka "Eso es tan {i}dulce{/i}..."
+    m 1eka "Qué detalle tan dulce..."
 
 # game/zz_reactions.rpy:1648
 translate spanish mas_reaction_candy_3772217d:
@@ -1257,7 +1257,7 @@ translate spanish mas_reaction_candy_b103491f:
 translate spanish mas_reaction_candy_0c00af7a:
 
     # m 3tku "The first batch was {i}sooo{/i} good, I couldn't wait to have more."
-    m 3tku "La primera tanda estaba {i}taaaan{/i} buena que no podía esperar a tener más."
+    m 3tku "La primera tanda estaba buenísima, no podía esperar a tener más."
 
 # game/zz_reactions.rpy:1659
 translate spanish mas_reaction_candy_f1fb7aae:
@@ -1413,7 +1413,7 @@ translate spanish mas_reaction_candycorn_1ec5a865:
 translate spanish mas_reaction_candycorn_69071440:
 
     # m 2lksdla "But...{w=1}umm...{w=1}I don't actually like candy corn."
-    m 2lksdla "Pero...{w=1}emm...{w=1}en realidad no me gusta el maíz dulce."
+    m 2lksdla "Pero... {w=1}emm... {w=1}en realidad no me gusta el maíz dulce."
 
 # game/zz_reactions.rpy:1723
 translate spanish mas_reaction_candycorn_8c25eb98:
@@ -2307,13 +2307,13 @@ translate spanish mas_reaction_gift_acs_orcaramelo_hairflower_pink_db73877e:
 translate spanish mas_reaction_gift_clothes_velius94_shirt_pink_73cacad3:
 
     # m 1suo "Oh my gosh!"
-    m 1suo "¡Oh, Dios mío!"
+    m 1suo "¡Madre mía!"
 
 # game/zz_reactions.rpy:2622
 translate spanish mas_reaction_gift_clothes_velius94_shirt_pink_53aba6f0:
 
     # m 1suo "It's {i}so{/i} pretty!"
-    m 1suo "¡Es {i}tan{/i} bonito!"
+    m 1suo "¡Es precioso!"
 
 # game/zz_reactions.rpy:2623
 translate spanish mas_reaction_gift_clothes_velius94_shirt_pink_d341f971:
@@ -2349,7 +2349,7 @@ translate spanish mas_reaction_gift_clothes_velius94_shirt_pink_4464c65a:
 translate spanish mas_reaction_gift_clothes_velius94_shirt_pink_f0b2954c:
 
     # m 2tfbsd "Yet for some reason I can't help but feel that your eyes are kind of drifting...{w=0.5}ahem...{w=0.5}{i}elsewhere{/i}."
-    m 2tfbsd "Sin embargo, por alguna razón no puedo evitar sentir que tus ojos se están desviando... {w=0.5}ejem... {w=0.5}a {i}otra parte{/i}."
+    m 2tfbsd "Sin embargo, por alguna razón no puedo evitar sentir que tus ojos se están desviando... {w=0.5}ejem... {w=0.5}a otra parte."
 
 # game/zz_reactions.rpy:2635
 translate spanish mas_reaction_gift_clothes_velius94_shirt_pink_a7b43979:
@@ -2661,7 +2661,7 @@ translate spanish mas_reaction_gift_noudeck_04b75db0:
 translate spanish mas_reaction_gift_noudeck_0958fe80:
 
     # m 1esc "I heard it might {i}affect{/i} your relationships with the people you're playing with."
-    m 1esc "He oído que podría {i}afectar{/i} a tus relaciones con la gente con la que juegas."
+    m 1esc "He oído que podría afectar a tus relaciones con la gente con la que juegas."
 
 # game/zz_reactions.rpy:2815
 translate spanish mas_reaction_gift_noudeck_c03d6902:
