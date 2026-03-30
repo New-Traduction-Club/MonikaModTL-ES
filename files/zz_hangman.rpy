@@ -15,7 +15,7 @@ translate spanish mas_hangman_game_select_diff_9f2bfa77:
 translate spanish mas_hangman_game_loop_6a1c52fe:
 
     # m 1eua "I'll think of a word.{w=0.5}.{w=0.5}.{nw}"
-    m 1eua "Pensaré en una palabra.{w=0.5}.{w=0.5}.{nw}"
+    m 1eua "Voy a pensar en una palabra.{w=0.5}.{w=0.5}.{nw}"
 
 # game/zz_hangman.rpy:456
 translate spanish mas_hangman_game_loop_a447b1ab:
@@ -123,7 +123,7 @@ translate spanish mas_hangman_game_loop_0445ef5f:
 translate spanish mas_hangman_game_loop_10ce11f1:
 
     # m 1eka "It would really mean a lot to me if you just tried a bit harder."
-    m 1eka "Significaría mucho para mí que te esforzaras un poco más."
+    m 1eka "Me haría mucha ilusión que te esforzaras un poquito más."
 
 # game/zz_hangman.rpy:617
 translate spanish mas_hangman_game_loop_731a3739:
@@ -159,7 +159,7 @@ translate spanish mas_hangman_game_loop_17be01df:
 translate spanish mas_hangman_game_loop_c7891309:
 
     # m 1hua "Wow, you guessed [the_word] correctly!"
-    m 1hua "¡Vaya, has acertado [the_word]!"
+    m 1hua "¡Hala, has acertado [the_word]!"
 
 # game/zz_hangman.rpy:659
 translate spanish mas_hangman_game_loop_73956dbf:
@@ -195,13 +195,13 @@ translate spanish mas_hangman_dlg_game_end_long_5a7c1bd2:
 translate spanish mas_hangman_dlg_game_end_long_eba0111e:
 
     # m 1hua "The best way to improve that is to read more books!"
-    m 1hua "¡La mejor manera de mejorar eso es leer más libros!"
+    m 1hua "¡Y la mejor forma de mejorarlo es leyendo más libros!"
 
 # game/zz_hangman.rpy:722
 translate spanish mas_hangman_dlg_game_end_long_5e2797d5:
 
     # m 1eua "I'd be very happy if you did that for me, [player]."
-    m 1eua "Me haría muy feliz si hicieras eso por mí, [player]."
+    m 1eua "Me haría mucha ilusión que lo hicieras por mí, [player]."
 
 # game/zz_hangman.rpy:732
 translate spanish mas_hangman_dlg_game_end_short_05c7b63d:
