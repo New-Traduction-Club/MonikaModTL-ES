@@ -3,7 +3,7 @@
 translate spanish mas_monikamovie_a8bb27b9:
 
     # m 1eub "You want to see a movie?"
-    m 1eub "¿Quieres ver una película?"
+    m 1eub "¿Te apetece ver una película?"
 
 # game/zz_monikamovie.rpy:207
 translate spanish mm_choose_movie_c739ccaa:
@@ -15,7 +15,7 @@ translate spanish mm_choose_movie_c739ccaa:
 translate spanish mm_found_movie_904eb62f:
 
     # m 3eub "Let's synchronize the start of the film."
-    m 3eub "Sincronicemos el inicio de la película."
+    m 3eub "Vamos a sincronizar el inicio de la película."
 
 # game/zz_monikamovie.rpy:237
 translate spanish mm_found_movie_1224f3c7:
@@ -51,13 +51,13 @@ translate spanish movie_loop_7b54c2d5:
 translate spanish movie_loop_da3e29ab:
 
     # m 1eua "Oh, okay! I will just wait for you then~"
-    m 1eua "¡Oh, vale! Entonces te esperaré."
+    m 1eua "¡Ah, vale! Entonces te espero."
 
 # game/zz_monikamovie.rpy:294
 translate spanish mm_movie_pausefilm_4bb8bf03:
 
     # m 1eub "Oh, you just paused the movie, [player]."
-    m 1eub "Oh, acabas de pausar la película, [player]."
+    m 1eub "Ah, has pausado la película, [player]."
 
 # game/zz_monikamovie.rpy:298
 translate spanish mm_movie_pausefilm_c50cd863:
@@ -69,13 +69,13 @@ translate spanish mm_movie_pausefilm_c50cd863:
 translate spanish mm_movie_pausefilm_ef4dc71c:
 
     # m 1eua "Oh, alright then, [player]."
-    m 1eua "Oh, de acuerdo entonces, [player]."
+    m 1eua "Ah, pues de acuerdo, [player]."
 
 # game/zz_monikamovie.rpy:306
 translate spanish mm_movie_settime_b13c6f9f:
 
     # m 1eub "You want to synchronize the time?"
-    m 1eub "¿Quieres sincronizar el tiempo?"
+    m 1eub "¿Quieres sincronizarla?"
 
 # game/zz_monikamovie.rpy:308
 translate spanish mm_movie_repeattime_319eaa31:
@@ -93,7 +93,7 @@ translate spanish mm_movie_repeattime_29bc6b3a:
 translate spanish mm_movie_repeattime_8c9d1589:
 
     # m 1lksdlb "Sorry, I can't understand that, [player]."
-    m 1lksdlb "Lo siento, no puedo entender eso, [player]."
+    m 1lksdlb "Lo siento, no lo entiendo, [player]."
 
 # game/zz_monikamovie.rpy:323
 translate spanish mm_movie_repeattime_159463d9:
@@ -105,7 +105,7 @@ translate spanish mm_movie_repeattime_159463d9:
 translate spanish mm_movie_repeattime_59cdf076:
 
     # m 3eua "That's 'Hours:Minutes:Seconds.'"
-    m 3eua "Eso es 'Horas:Minutos:Segundos'."
+    m 3eua "Me refiero a Horas:Minutos:Segundos."
 
 # game/zz_monikamovie.rpy:325
 translate spanish mm_movie_repeattime_a0aef037:
@@ -129,7 +129,7 @@ translate spanish mm_movie_repeattime_5f927a0c:
 translate spanish mm_movie_repeattime_dd000c61:
 
     # m 3hua "So try again!"
-    m 3hua "¡Así que inténtalo de nuevo!"
+    m 3hua "¡Venga, inténtalo de nuevo!"
 
 # game/zz_monikamovie.rpy:333
 translate spanish mm_movie_repeattime_d39f9237:
@@ -145,7 +145,7 @@ translate spanish strings:
 
     # game/zz_monikamovie.rpy:239
     old "Ready?"
-    new "¿Listo?"
+    new "¿List[end_letter_gender]?"
 
     # game/zz_monikamovie.rpy:295
     old "Do want to continue?"
