@@ -9,13 +9,13 @@ translate spanish mas_piano_start_6251b7f0:
 translate spanish mas_piano_songchoice_1b611ea5:
 
     # m 1eua "Did you want to play a song or play on your own, [player]?{nw}"
-    m 1eua "¿Querías tocar una canción o tocar por tu cuenta, [player]?{nw}"
+    m 1eua "¿Preferirías tocar una canción o ir por libre, [player]?{nw}"
 
 # game/zz_pianokeys.rpy:127
 translate spanish mas_piano_songchoice_7f0f2a55:
 
     # m "Did you want to play a song or play on your own, [player]?{fast}" nointeract
-    m "¿Querías tocar una canción o tocar por tu cuenta, [player]?{fast}" nointeract
+    m "¿Preferirías tocar una canción o ir por libre, [player]?{fast}" nointeract
 
 # game/zz_pianokeys.rpy:129
 translate spanish mas_piano_songchoice_c6757143:
@@ -57,13 +57,13 @@ translate spanish mas_piano_result_default_c9afedae:
 translate spanish mas_piano_result_none_41b09d48:
 
     # m 1lksdla "Uhhh [player]..."
-    m 1lksdla "Ehhh [player]..."
+    m 1lksdla "Ehhh, [player]..."
 
 # game/zz_pianokeys.rpy:226
 translate spanish mas_piano_result_none_e7bb466e:
 
     # m 1hksdlb "I thought you wanted to play the piano?"
-    m 1hksdlb "¿Pensaba que querías tocar el piano?"
+    m 1hksdlb "Pensaba que querías tocar el piano..."
 
 # game/zz_pianokeys.rpy:227
 translate spanish mas_piano_result_none_cf7c92ab:
@@ -75,7 +75,7 @@ translate spanish mas_piano_result_none_cf7c92ab:
 translate spanish mas_piano_result_none_4f2ceaa2:
 
     # m 1hua "Promise to play for me next time?"
-    m 1hua "¿Me prometes que tocarás para mí la próxima vez?"
+    m 1hua "Prométeme que tocarás para mí la próxima vez, ¿vale?"
 
 # game/zz_pianokeys.rpy:234
 translate spanish mas_piano_def_win_47b90b65:
@@ -99,7 +99,7 @@ translate spanish mas_piano_def_fail_bc96da2a:
 translate spanish mas_piano_def_fail_75473d85:
 
     # m 1lksdlb "You did your best, [player]..."
-    m 1lksdlb "Lo hiciste lo mejor que pudiste, [player]..."
+    m 1lksdlb "Lo has hecho lo mejor que has podido, [player]..."
 
 # game/zz_pianokeys.rpy:246
 translate spanish mas_piano_def_fc_4c999446:
@@ -111,7 +111,7 @@ translate spanish mas_piano_def_fc_4c999446:
 translate spanish mas_piano_def_fc_8341ba60:
 
     # m 1hub "Maybe we should play together sometime!"
-    m 1hub "¡Quizá deberíamos tocar juntos alguna vez!"
+    m 1hub "¡Quizá deberíamos tocar junt[end_letter_gender]s alguna vez!"
 
 # game/zz_pianokeys.rpy:252
 translate spanish mas_piano_def_prac_64c605d0:
@@ -123,7 +123,7 @@ translate spanish mas_piano_def_prac_64c605d0:
 translate spanish mas_piano_def_prac_fa0a49ca:
 
     # m 1eka "Make sure to practice often!"
-    m 1eka "¡Asegúrate de practicar a menudo!"
+    m 1eka "¡Procura practicar a menudo!"
 
 # game/zz_pianokeys.rpy:260
 translate spanish mas_piano_hb_win_47b90b65:
@@ -171,7 +171,7 @@ translate spanish mas_piano_hb_win_d70f3474:
 translate spanish mas_piano_hb_win_a4cce50d:
 
     # m 3eub "Make sure you keep practicing. I'm sure you'll play it perfectly next time!"
-    m 3eub "Asegúrate de seguir practicando. ¡Estoy segura de que la tocarás perfectamente la próxima vez!"
+    m 3eub "Procura seguir practicando. ¡Seguro que la próxima vez te sale perfecta!"
 
 # game/zz_pianokeys.rpy:284
 translate spanish mas_piano_hb_fail_f2e08031:
@@ -189,7 +189,7 @@ translate spanish mas_piano_hb_fail_acce927d:
 translate spanish mas_piano_hb_fail_c5b66d76:
 
     # m 1eka "Aw, that's okay, [player]..."
-    m 1eka "Oh, no pasa nada, [player]..."
+    m 1eka "Ah, no pasa nada, [player]..."
 
 # game/zz_pianokeys.rpy:288
 translate spanish mas_piano_hb_fail_d06df547:
@@ -243,7 +243,7 @@ translate spanish mas_piano_hb_fail_bc96da2a:
 translate spanish mas_piano_hb_fail_75473d85:
 
     # m 1lksdlb "You did your best, [player]..."
-    m 1lksdlb "Lo hiciste lo mejor que pudiste, [player]..."
+    m 1lksdlb "Lo has hecho lo mejor que has podido, [player]..."
 
 # game/zz_pianokeys.rpy:300
 translate spanish mas_piano_hb_fail_6c2f3260:
@@ -255,7 +255,7 @@ translate spanish mas_piano_hb_fail_6c2f3260:
 translate spanish mas_piano_hb_fc_20a94290:
 
     # m 3hub "Ahaha! That was {i}so{/i} cool!"
-    m 3hub "¡Ja, ja, ja! ¡Ha sido {i}tan{/i} genial!"
+    m 3hub "¡Ja, ja, ja! ¡Ha sido increíble!"
 
 # game/zz_pianokeys.rpy:310
 translate spanish mas_piano_hb_fc_38815ebe:
@@ -279,13 +279,13 @@ translate spanish mas_piano_hb_fc_37c9f909:
 translate spanish mas_piano_hb_fc_5ea59645:
 
     # m 1hub "But you did such a great job playing it!"
-    m 1hub "¡Pero has hecho un gran trabajo tocándola!"
+    m 1hub "¡Pero te ha salido genial al tocarla!"
 
 # game/zz_pianokeys.rpy:315
 translate spanish mas_piano_hb_fc_c90d328d:
 
     # m 1ekbfa "You must have practiced really hard for me..."
-    m 1ekbfa "Debes haber practicado mucho por mí..."
+    m 1ekbfa "Seguro que has practicado muchísimo por mí..."
 
 # game/zz_pianokeys.rpy:316
 translate spanish mas_piano_hb_fc_8dd16e2c:
@@ -321,7 +321,7 @@ translate spanish mas_piano_hb_fc_c15312ab:
 translate spanish mas_piano_hb_fc_94163349:
 
     # m 1eua "Hehe, great job!"
-    m 1eua "¡Je, je, gran trabajo!"
+    m 1eua "Je, je, ¡muy bien hecho!"
 
 # game/zz_pianokeys.rpy:325
 translate spanish mas_piano_hb_fc_181172ec:
@@ -339,7 +339,7 @@ translate spanish mas_piano_hb_fc_9d79ff35:
 translate spanish mas_piano_hb_prac_ae921fa3:
 
     # m 1eka "Aww, you're trying the Birthday Song on our birthday, [player]!"
-    m 1eka "¡Ohh, estás intentando tocar el Cumpleaños Feliz en nuestro cumpleaños, [player]!"
+    m 1eka "¡Ayy, estás intentando tocar el Cumpleaños Feliz por nuestro cumpleaños, [player]!"
 
 # game/zz_pianokeys.rpy:333
 translate spanish mas_piano_hb_prac_04fa6f79:
@@ -399,7 +399,7 @@ translate spanish mas_piano_yr_win_c8837687:
 translate spanish mas_piano_yr_win_a581838f:
 
     # m 1lksdlb "You could do better with some more practice..."
-    m 1lksdlb "Podrías hacerlo mejor con un poco más de práctica..."
+    m 1lksdlb "Seguro que te sale mejor con un poco más de práctica..."
 
 # game/zz_pianokeys.rpy:354
 translate spanish mas_piano_yr_win_3ac76cef:
@@ -423,7 +423,7 @@ translate spanish mas_piano_yr_fc_5afc4a98:
 translate spanish mas_piano_yr_fc_8341ba60:
 
     # m 1hub "Maybe we should play together sometime!"
-    m 1hub "¡Quizá deberíamos tocar juntos alguna vez!"
+    m 1hub "¡Quizá deberíamos tocar junt[end_letter_gender]s alguna vez!"
 
 # game/zz_pianokeys.rpy:367
 translate spanish mas_piano_yr_fail_8018692b:
@@ -453,13 +453,13 @@ translate spanish mas_piano_yr_prac_3f724d44:
 translate spanish mas_piano_yr_prac_a6618476:
 
     # m 3eua "With some more practice, you'll be able to play my song perfectly."
-    m 3eua "Con un poco más de práctica, podrás tocar mi canción perfectamente."
+    m 3eua "Con un poco más de práctica, te saldrá mi canción perfecta."
 
 # game/zz_pianokeys.rpy:376
 translate spanish mas_piano_yr_prac_7ad9e4fb:
 
     # m 1eka "Make sure to practice every day for me, okay?~"
-    m 1eka "Asegúrate de practicar todos los días por mí, ¿vale?"
+    m 1eka "Acuérdate de practicar todos los días por mí, ¿vale?"
 
 # game/zz_pianokeys.rpy:1582
 translate spanish mas_piano_dpco_win_39267b02:
