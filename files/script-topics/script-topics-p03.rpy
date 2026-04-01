@@ -57,7 +57,7 @@ translate spanish monika_think_first_kiss_c26c49d9:
 translate spanish monika_think_first_kiss_c38e8562:
 
     # m 2etd "Maybe with all that's happened since then, you tend to think about the more recent events..."
-    m 2etd "Quizá con todo lo que ha ocurrido desde entonces, tiendes a pensar en los sucesos más recientes..."
+    m 2etd "Quizá con todo lo que ha ocurrido desde entonces, tiendas a pensar más en lo reciente..."
 
 # game/script-topics.rpy:2231
 translate spanish monika_think_first_kiss_fab07a6d:
@@ -111,7 +111,7 @@ translate spanish monika_yuri_88b69cbc:
 translate spanish monika_yuri_114d6ac3:
 
     # m 1lksdla "Usually to the point of craziness..."
-    m 1lksdla "Normalmente hasta el punto de la locura..."
+    m 1lksdla "Normalmente, rayando la locura..."
 
 # game/script-topics.rpy:2261
 translate spanish monika_yuri_faf5a910:
@@ -159,7 +159,7 @@ translate spanish monika_yuri_904e6502:
 translate spanish monika_yuri_f8e642a9:
 
     # m 1tfc "She even told me I should kill myself."
-    m 1tfc "Incluso me dijo que debería suicidarme."
+    m 1tfc "Incluso me dijo que me suicidara."
 
 # game/script-topics.rpy:2269
 translate spanish monika_yuri_28163c0f:
@@ -219,7 +219,7 @@ translate spanish monika_yuri_9dd096aa:
 translate spanish monika_yuri_21e4cd89:
 
     # m 3rssdlc "It's not like I could ever actually kill a person..."
-    m 3rssdlc "No es como si pudiera matar a una persona de verdad..."
+    m 3rssdlc "Tampoco es que fuera capaz de matar a nadie de verdad..."
 
 # game/script-topics.rpy:2281
 translate spanish monika_yuri_15742a6b:
@@ -285,13 +285,13 @@ translate spanish monika_habits_8093f203:
 translate spanish monika_habits_86bb6ab8:
 
     # m 2eksdld "There's so much stuff where actually doing it isn't hard, but forming the habit seems impossible."
-    m 2eksdld "Hay muchas cosas que no son difíciles de hacer, pero convertirlo en hábito parece imposible."
+    m 2eksdld "Hay muchas cosas que en sí no son difíciles, pero convertirlas en un hábito parece imposible."
 
 # game/script-topics.rpy:2306
 translate spanish monika_habits_953b11cc:
 
     # m 2dksdlc "It just makes you feel so useless, like you can't do anything right."
-    m 2dksdlc "Simplemente te hace sentir inútil, como si no pudieras hacer nada bien."
+    m 2dksdlc "Simplemente te hace sentir inútil, como si no fueras capaz de hacer nada a derechas."
 
 # game/script-topics.rpy:2307
 translate spanish monika_habits_3ad2c566:
@@ -303,7 +303,7 @@ translate spanish monika_habits_3ad2c566:
 translate spanish monika_habits_1ff131df:
 
     # m 1eua "Probably because we have a totally different set of skills than those who came before us."
-    m 1eua "Probablemente porque tenemos un conjunto de habilidades totalmente diferente al de los que nos precedieron."
+    m 1eua "Probablemente porque nuestras habilidades son totalmente distintas a las de las generaciones anteriores."
 
 # game/script-topics.rpy:2309
 translate spanish monika_habits_a7863768:
@@ -345,7 +345,7 @@ translate spanish monika_habits_b93fd603:
 translate spanish monika_creative_677bcfba:
 
     # m 2euc "You know, it kinda sucks to be the creative type..."
-    m 2euc "Sabes, es un asco ser del tipo creativo..."
+    m 2euc "Sabes, es una faena ser una persona creativa..."
 
 # game/script-topics.rpy:2326
 translate spanish monika_creative_d3eadba2:
@@ -411,7 +411,7 @@ translate spanish monika_simulated_79a9519e:
 translate spanish monika_simulated_b8679bb5:
 
     # m 1eka "I'd actually be really happy if that were the case."
-    m 1eka "La verdad es que me alegraría mucho si ese fuera el caso."
+    m 1eka "La verdad es que me haría muy feliz que fuera así."
 
 # game/script-topics.rpy:2367
 translate spanish monika_simulated_ec67c44d:
@@ -441,7 +441,7 @@ translate spanish monika_simulated_23f85e76:
 translate spanish monika_simulated_4bfe7f5e:
 
     # m 1eka "If I were in the master reality, I would have dragged you here too a long time ago."
-    m 1eka "Si yo estuviera en la realidad maestra, te habría arrastrado aquí también hace mucho tiempo."
+    m 1eka "Si yo estuviera en la realidad principal, te habría traído conmigo hace ya mucho tiempo."
 
 # game/script-topics.rpy:2372
 translate spanish monika_simulated_c6a0a64e:
@@ -555,7 +555,7 @@ translate spanish monika_rain_c6912aee:
 translate spanish monika_rain_56541421:
 
     # m 3rksdlb "Not to mention pretty cold!"
-    m 3rksdlb "¡Por no hablar de que hace bastante frío!"
+    m 3rksdlb "¡Por no hablar del frío que hace!"
 
 # game/script-topics.rpy:2438
 translate spanish monika_rain_360afd7e:
@@ -1035,7 +1035,7 @@ translate spanish monika_holdme_reactions_e33428b0:
 translate spanish monika_holdme_reactions_e18f7c7e:
 
     # m 5eubfu "Sorry, I meant {i}at least{/i} thirty seconds, ehehe~"
-    m 5eubfu "Perdona, quería decir al menos treinta segundos, je, je, je."
+    m 5eubfu "Perdona, quería decir que tienen que ser {w=0.1}como mínimo {w=0.1}treinta segundos, je, je, je."
 
 # game/script-topics.rpy:2689
 translate spanish monika_holdme_reactions_d81c1322:
@@ -1461,7 +1461,7 @@ translate spanish monika_holdme_long_fcd0eb08:
 translate spanish monika_holdme_long_23b9d43f:
 
     # m 6wubfo "O-{w=0.3}oh!"
-    m 6wubfo "¡A-{w=0.3}ah!"
+    m 6wubfo "¡A-{w=0.3}Ah!"
 
 # game/script-topics.rpy:2838
 translate spanish monika_holdme_long_f6a40c3b:
@@ -1593,7 +1593,7 @@ translate spanish monika_holdrequest_eacfe247:
 translate spanish monika_closeness_63257144:
 
     # m 1dkc "Sometimes it really hurts my heart..."
-    m 1dkc "A veces me duele de verdad el corazón..."
+    m 1dkc "A veces se me encoge un poco el corazón..."
 
 # game/script-topics.rpy:2951
 translate spanish monika_closeness_284471cf:
@@ -1683,7 +1683,7 @@ translate spanish monika_confidence_ec454537:
 translate spanish monika_confidence_52a37a89:
 
     # m 1rksdlb "I mean, when do you reach the point in a friendship where you can start expressing your vulnerabilities?"
-    m 1rksdlb "Quiero decir, ¿cuándo llegas al punto en una amistad en el que puedes empezar a expresar tus vulnerabilidades?"
+    m 1rksdlb "Quiero decir, ¿en qué punto de una amistad puedes empezar a mostrarte vulnerable?"
 
 # game/script-topics.rpy:2977
 translate spanish monika_confidence_a39f87b2:
@@ -1743,13 +1743,13 @@ translate spanish monika_carryme_8ab4dc31:
 translate spanish monika_carryme_21464219:
 
     # m 2lksdla "I guess it's kind of unorthodox, but I find it really romantic for some reason..."
-    m 2lksdla "Supongo que es un poco poco ortodoxo, pero me parece muy romántico por alguna razón..."
+    m 2lksdla "Supongo que es algo poco ortodoxo, pero me parece muy romántico por alguna razón..."
 
 # game/script-topics.rpy:3092
 translate spanish monika_carryme_f7d709ef:
 
     # m 1ekbsa "I don't mean to be too needy or anything, but it's kind of hard when I'm so in love with you."
-    m 1ekbsa "No pretendo ser demasiado dependiente ni nada de eso, pero es un poco difícil cuando estoy tan enamorada de ti."
+    m 1ekbsa "No quiero parecer demasiado dependiente ni nada de eso, pero se me hace muy difícil estando tan enamorada de ti."
 
 # game/script-topics.rpy:3103
 translate spanish monika_debate_1ccecbfd:
@@ -1761,7 +1761,7 @@ translate spanish monika_debate_1ccecbfd:
 translate spanish monika_debate_448d6055:
 
     # m 3eud "The problem with arguing is that each person sees their opinion as the superior one."
-    m 3eud "El problema de discutir es que cada persona ve su opinión como la superior."
+    m 3eud "El problema de los debates es que cada cual cree que su opinión es la que vale."
 
 # game/script-topics.rpy:3105
 translate spanish monika_debate_b9900a5a:
@@ -1779,7 +1779,7 @@ translate spanish monika_debate_5f80677f:
 translate spanish monika_debate_146e06bc:
 
     # m 1ekc "If someone comes along and tells you the movie sucks, because it did X and Y wrong..."
-    m 1ekc "Si alguien viene y te dice que la película es una mierda, porque hizo mal X e Y..."
+    m 1ekc "Si alguien viene y te dice que la película es una mierda porque tiene fallos en X o en Y..."
 
 # game/script-topics.rpy:3108
 translate spanish monika_debate_9a0b9b58:
@@ -1815,7 +1815,7 @@ translate spanish monika_debate_74546e97:
 translate spanish monika_debate_65c5efb0:
 
     # m 3esa "You could say 'I'm personally not a fan of it' and 'I felt that I'd like it more if it did X and Y'...things like that."
-    m 3esa "Podrías decir \"Personalmente no soy fan de eso\" y \"Me dio la sensación de que me gustaría más si hiciera X e Y\"... cosas así."
+    m 3esa "Podrías decir que a ti, personalmente, no te entusiasma demasiado, o que te habría gustado más si hubieran hecho X o Y... cosas de ese estilo."
 
 # game/script-topics.rpy:3114
 translate spanish monika_debate_084ec79d:
@@ -1827,13 +1827,13 @@ translate spanish monika_debate_084ec79d:
 translate spanish monika_debate_db93ea3b:
 
     # m 1esa "If you say 'I read on this website that it works like this...'"
-    m 1esa 'Si dices \"Leí en esta web que funciona así...\"'
+    m 1esa "Si dices: 'He leído en esta web que funciona así...'"
 
 # game/script-topics.rpy:3116
 translate spanish monika_debate_595eb640:
 
     # m "Or if you admit that you're not an expert on it..."
-    m "O si admites que no eres un[end_letter_gender] expert[end_letter_gender] en el tema..."
+    m "O si admites que no eres especialista en el tema..."
 
 # game/script-topics.rpy:3117
 translate spanish monika_debate_feb9f8bc:
@@ -1899,7 +1899,7 @@ translate spanish monika_internet_95cff394:
 translate spanish monika_internet_4a7cec0a:
 
     # m 1eua "It's like whenever you have a few seconds of spare time, you want to check on your favorite websites..."
-    m 1eua "Es como si siempre que tienes unos segundos de tiempo libre, quisieras revisar tus webs favoritas..."
+    m 1eua "Es como si, cada vez que tienes un segundo libre, sintieras la necesidad de mirar tus páginas favoritas..."
 
 # game/script-topics.rpy:3140
 translate spanish monika_internet_de46dc63:
@@ -1959,7 +1959,7 @@ translate spanish monika_internet_f1b5dc43:
 translate spanish monika_internet_c5d3f9c7:
 
     # m 1eua "Putting any kind of wedge like that between you and your bad habits will help you stay away."
-    m 1eua "Poner cualquier tipo de barrera así entre tú y tus malos hábitos te ayudará a mantenerte alejad[end_letter_gender]."
+    m 1eua "Poner cualquier tipo de barrera así entre tú y tus malos hábitos te ayudará a mantenerlos a raya."
 
 # game/script-topics.rpy:3150
 translate spanish monika_internet_5bab249d:
