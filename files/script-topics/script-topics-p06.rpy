@@ -63,7 +63,7 @@ translate spanish monika_playerswriting_d93e741e:
 translate spanish monika_playerswriting_6ca97428:
 
     # m 1eka "It doesn't matter if it's a masterpiece, or even any good."
-    m 1eka "No importa si es una obra maestra, o si ni siquiera es buena."
+    m 1eka "No te preocupes si no es una obra maestra, o si crees que ni siquiera es buena."
 
 # game/script-topics.rpy:4930
 translate spanish monika_playerswriting_9242db56:
@@ -75,7 +75,7 @@ translate spanish monika_playerswriting_9242db56:
 translate spanish monika_playerswriting_743c953c:
 
     # m 3eua "I think the most important thing about writing is doing it...{w=0.3} Instead of worrying about {i}how{/i} you do it."
-    m 3eua "Creo que lo más importante de escribir es hacerlo... {w=0.3} En lugar de preocuparse por cómo lo haces."
+    m 3eua "Creo que lo más importante de escribir es simplemente hacerlo... {w=0.3} en lugar de preocuparse tanto por el cómo."
 
 # game/script-topics.rpy:4932
 translate spanish monika_playerswriting_55dc21e2:
@@ -99,7 +99,7 @@ translate spanish monika_playerswriting_4c224680:
 translate spanish monika_playerswriting_7927a356:
 
     # m "And sometimes, I even start to hate my work in the middle of making it."
-    m "Y a veces, incluso empiezo a odiar mi trabajo a mitad de hacerlo."
+    m "Y a veces, incluso empiezo a odiar mi trabajo a la mitad del proceso."
 
 # game/script-topics.rpy:4936
 translate spanish monika_playerswriting_60792703:
@@ -189,13 +189,13 @@ translate spanish monika_ghost_a15457c3:
 translate spanish monika_ghost_ed5eef4d:
 
     # m 1ekc "I mean, I was pretty scared being alone inside this game..."
-    m 1ekc "Quiero decir, estaba bastante asustada estando sola dentro de este juego..."
+    m 1ekc "O sea, estaba bastante asustada estando sola dentro de este juego..."
 
 # game/script-topics.rpy:4961
 translate spanish monika_ghost_11cf8c6f:
 
     # m 1lksdlc "...all by myself, uncertain if anything around me was real."
-    m 1lksdlc "... Totalmente sola, sin saber si algo a mi alrededor era real."
+    m 1lksdlc "... Completamente sola, sin saber si algo de lo que me rodeaba era real."
 
 # game/script-topics.rpy:4964
 translate spanish monika_ghost_bde368d2:
@@ -219,7 +219,7 @@ translate spanish monika_ghost_d8ef8236:
 translate spanish monika_ghost_75436910:
 
     # m 3esc "I know that some ghosts are real though, if you can really call them 'ghosts...'"
-    m 3esc "Aunque sé que algunos fantasmas son reales, si es que realmente se les puede llamar 'fantasmas'..."
+    m 3esc "Aunque sé que algunos fantasmas son reales, si es que realmente se les puede llamar fantasmas..."
 
 # game/script-topics.rpy:4969
 translate spanish monika_ghost_2b28521f:
@@ -237,7 +237,7 @@ translate spanish monika_ghost_3f5a23f0:
 translate spanish monika_ghost_71e895d2:
 
     # m 1esc "Would that mean that Sayori's ghost is haunting me, [player]?"
-    m 1esc "¿Significaría eso que el fantasma de Sayori me está rondando, [player]?"
+    m 1esc "¿Significaría eso que el fantasma de Sayori me está atormentando, [player]?"
 
 # game/script-topics.rpy:4972
 translate spanish monika_ghost_b436d928:
@@ -303,7 +303,7 @@ translate spanish monika_ribbon_f0a264de:
 translate spanish monika_ribbon_a96b13b9:
 
     # m 3hua "If you'd like me to wear one again, just ask, okay?~"
-    m 3hua "Si te gustaría que volviera a llevar uno, solo pídelo, ¿vale?"
+    m 3hua "Si quieres que vuelva a ponerme uno, solo tienes que pedirlo, ¿vale?"
 
 # game/script-topics.rpy:4997
 translate spanish monika_ribbon_e03d94b7:
@@ -321,7 +321,7 @@ translate spanish monika_ribbon_10bea50e:
 translate spanish monika_ribbon_cb99ae81:
 
     # m 3hua "I just wear it because I'm pretty sure nobody else will wear a big, poofy ribbon."
-    m 3hua "Solo lo llevo porque estoy bastante segura de que nadie más llevará un lazo grande y pomposo."
+    m 3hua "Solo lo llevo porque estoy bastante segura de que nadie más se pondría un lazo tan grande y llamativo."
 
 # game/script-topics.rpy:5000
 translate spanish monika_ribbon_a0666552:
@@ -339,7 +339,7 @@ translate spanish monika_ribbon_e7696465:
 translate spanish monika_ribbon_5e1b9e47:
 
     # m 1lksdla "Well, there's no way a girl from your world would wear one in public as casual dress."
-    m 1lksdla "Bueno, no hay forma de que una chica de tu mundo llevara uno en público como ropa casual."
+    m 1lksdla "Bueno, no hay forma de que una chica de tu mundo lleve uno en público con ropa de diario."
 
 # game/script-topics.rpy:5003
 translate spanish monika_ribbon_20ad69b1:
@@ -351,13 +351,13 @@ translate spanish monika_ribbon_20ad69b1:
 translate spanish monika_ribbon_2b91ee8a:
 
     # m "You get a certain feeling of satisfaction when you stand out from the normal population, you know?"
-    m "Tienes cierta sensación de satisfacción cuando destacas entre la población normal, ¿sabes?"
+    m "Da cierta sensación de satisfacción destacar entre el resto, ¿sabes?"
 
 # game/script-topics.rpy:5005
 translate spanish monika_ribbon_ced245aa:
 
     # m 2tfu "Be honest! You thought I was the best dressed girl too, didn't you?"
-    m 2tfu "¡Sé sincero! Tú también pensaste que yo era la chica mejor vestida, ¿verdad?"
+    m 2tfu "¡Sé sincer[end_letter_gender]! Tú también pensaste que yo era la chica mejor vestida, ¿verdad?"
 
 # game/script-topics.rpy:5006
 translate spanish monika_ribbon_eb073c10:
@@ -369,13 +369,13 @@ translate spanish monika_ribbon_eb073c10:
 translate spanish monika_ribbon_e902f05a:
 
     # m 4eua "If you're trying to improve your fashion sense, I'll help."
-    m 4eua "Si estás intentando mejorar tu sentido de la moda, te ayudaré."
+    m 4eua "Si estás intentando mejorar tu sentido de la moda, yo te ayudo."
 
 # game/script-topics.rpy:5008
 translate spanish monika_ribbon_ce9419b5:
 
     # m 1eka "Don't do that stuff because you want to impress other people, though."
-    m 1eka "Aunque no hagas esas cosas solo para impresionar a los demás."
+    m 1eka "Pero no hagas esas cosas solo para impresionar a los demás."
 
 # game/script-topics.rpy:5009
 translate spanish monika_ribbon_53f0facd:
@@ -537,7 +537,7 @@ translate spanish monika_outdoors_56526a8a:
 translate spanish monika_outdoors_f973d5c0:
 
     # m 1rkbsa "Once I cross over, if you remember to bring the sunscreen..."
-    m 1rkbsa "Una vez cruce a tu realidad, si te acuerdas de traer la crema solar..."
+    m 1rkbsa "Una vez cruce a tu realidad, si te acuerdas de llevar crema solar..."
 
 # game/script-topics.rpy:5065
 translate spanish monika_outdoors_ea432dc5:
@@ -573,7 +573,7 @@ translate spanish monika_outdoors_17e1af25:
 translate spanish monika_mountain_694ba47c:
 
     # m 1eua "Have you ever been in the mountains, [player]?"
-    m 1eua "¿Has estado alguna vez en las montañas, [player]?"
+    m 1eua "¿Has estado alguna vez en la montaña, [player]?"
 
 # game/script-topics.rpy:5095
 translate spanish monika_mountain_b3c189eb:
@@ -633,7 +633,7 @@ translate spanish monika_mountain_5cce8b60:
 translate spanish monika_mountain_2bfcb336:
 
     # m 5eub "Finding yourself standing at the top, knowing that you made it, seeing the testament to your success around you."
-    m 5eub "Encontrarte de pie en la cima, sabiendo que lo lograste, viendo el testimonio de tu éxito a tu alrededor."
+    m 5eub "Encontrarte de pie en la cima, sabiendo que lo has conseguido, viendo el testimonio de tu éxito a tu alrededor."
 
 # game/script-topics.rpy:5106
 translate spanish monika_mountain_9381d713:
@@ -693,7 +693,7 @@ translate spanish monika_mountain_0f8b6482:
 translate spanish monika_algernon_66a7279e:
 
     # m 1ekc "[player], do you mind if I confide in you?"
-    m 1ekc "[player], ¿te importa si te confío algo?"
+    m 1ekc "[player], ¿te importa si te confieso algo?"
 
 # game/script-topics.rpy:5138
 translate spanish monika_algernon_bef5c719:
@@ -759,7 +759,7 @@ translate spanish monika_algernon_33e26fe5:
 translate spanish monika_algernon_f62023cb:
 
     # m 3lksdlc "What if I forget about you, the real you?"
-    m 3lksdlc "¿Y si me olvido de ti? ¿Del tú real?"
+    m 3lksdlc "¿Y si me olvido de ti? ¿De tu verdadero yo?"
 
 # game/script-topics.rpy:5152
 translate spanish monika_algernon_600fc395:
@@ -819,13 +819,13 @@ translate spanish monika_playersface_f3657ac6:
 translate spanish monika_playersface_90a2d714:
 
     # m 5rsc "I know that some people like to keep their appearance to themselves..."
-    m 5rsc "Sé que a algunas personas les gusta guardarse su apariencia para sí mismas..."
+    m 5rsc "Sé que a algunas personas les gusta mantener su apariencia en privado..."
 
 # game/script-topics.rpy:5179
 translate spanish monika_playersface_8e7047c3:
 
     # m 5eka "But it makes me feel a lot closer to you, knowing how you look..."
-    m 5eka "Pero me hace sentir mucho más cerca de ti, sabiendo cómo eres..."
+    m 5eka "Pero me hace sentir mucho más cerca de ti al saber cómo eres..."
 
 # game/script-topics.rpy:5180
 translate spanish monika_playersface_e5abb846:
@@ -879,7 +879,7 @@ translate spanish monika_playersface_b308411a:
 translate spanish monika_playersface_d5221210:
 
     # m 5eub "Are you shy about showing your face to me?"
-    m 5eub "¿Te da vergüenza enseñarme tu cara?"
+    m 5eub "¿Te da apuro enseñarme la cara?"
 
 # game/script-topics.rpy:5193
 translate spanish monika_playersface_d3e251dc:
@@ -909,7 +909,7 @@ translate spanish monika_playersface_1d35e13f:
 translate spanish monika_playersface_28c9f48b:
 
     # m 5hua "Maybe someday, I'll be able to see you, and be one step closer to you."
-    m 5hua "Quizás algún día podré verte, y estar un paso más cerca de ti."
+    m 5hua "Quizás algún día pueda verte, y estar un paso más cerca de ti."
 
 # game/script-topics.rpy:5209
 translate spanish monika_spiders_424cb1c1:
@@ -933,7 +933,7 @@ translate spanish monika_spiders_ca92d320:
 translate spanish monika_spiders_b3ca4bd5:
 
     # m 3eua "It's funny actually, people being scared of very small insects."
-    m 3eua "En realidad es gracioso, que la gente tenga miedo de insectos muy pequeños."
+    m 3eua "En realidad es gracioso que la gente tenga miedo de insectos muy pequeños."
 
 # game/script-topics.rpy:5213
 translate spanish monika_spiders_ea9f0637:
@@ -999,7 +999,7 @@ translate spanish monika_nsfw_cc81c01c:
 translate spanish monika_nsfw_b829a001:
 
     # m 3lsbsa "You know...of me?"
-    m 3lsbsa "Ya sabes... ¿Sobre mí?"
+    m 3lsbsa "Ya sabes... ¿De mí?"
 
 # game/script-topics.rpy:5245
 translate spanish monika_nsfw_6380c09c:
@@ -1023,7 +1023,7 @@ translate spanish monika_nsfw_dbf30323:
 translate spanish monika_nsfw_973f45b8:
 
     # m 1lkbsa "But maybe I can let it go on rare occasions, [player]."
-    m 1lkbsa "Pero tal vez pueda dejarlo pasar en contadas ocasiones, [player]."
+    m 1lkbsa "Pero tal vez pueda hacer una excepción de vez en cuando, [player]."
 
 # game/script-topics.rpy:5250
 translate spanish monika_nsfw_c0cb1c3a:
@@ -1047,7 +1047,7 @@ translate spanish monika_nsfw_d85a74e1:
 translate spanish monika_nsfw_0cae6609:
 
     # m 1hubfa "That's how much I love you~"
-    m 1hubfa "Así es como te quiero."
+    m 1hubfa "¡Así de mucho te quiero!"
 
 # game/script-topics.rpy:5273
 translate spanish monika_impression_8c4dd6b0:
@@ -1167,7 +1167,7 @@ translate spanish monika_impression_e612037c_2:
 translate spanish monika_impression_8a7cd4cf:
 
     # m 1lksdla "O-oh um, hello there..."
-    m 1lksdla "A-ah, em, hola..."
+    m 1lksdla "A-Ah, hola..."
 
 # game/script-topics.rpy:5301
 translate spanish monika_impression_b5ab8d81:
@@ -1179,7 +1179,7 @@ translate spanish monika_impression_b5ab8d81:
 translate spanish monika_impression_65c855f5:
 
     # m 1rksdla "I'm just your stereotypical shy girl who also happens to be a 'yandere...'"
-    m 1rksdla "Solo soy tu estereotípica chica tímida que resulta ser una 'yandere'..."
+    m 1rksdla "Solo soy tu estereotípica chica tímida que resulta ser una yandere..."
 
 # game/script-topics.rpy:5303
 translate spanish monika_impression_d432786f:
@@ -1227,7 +1227,7 @@ translate spanish monika_impression_5cd3f109:
 translate spanish monika_impression_6386449e:
 
     # m 2tku "I guess she just couldn't 'cut' it out, huh?"
-    m 2tku "Supongo que simplemente no sabía 'cortarse', ¿eh?"
+    m 2tku "Supongo que simplemente no sabía cortarse, ¿eh?"
 
 # game/script-topics.rpy:5316
 translate spanish monika_impression_565057a7:
@@ -1251,7 +1251,7 @@ translate spanish monika_impression_28a15692:
 translate spanish monika_impression_83f8e8da:
 
     # m 2tfp "Hmph! I-it's not like I made these cupcakes for you to eat, b-baka!"
-    m 2tfp "¡Jum! N-no es que haya hecho estos pastelitos para que te los comas tú, ¡i-idiota!"
+    m 2tfp "¡Jum! N-No es que haya hecho estos pastelitos para que te los comas tú, ¡i-idiota!"
 
 # game/script-topics.rpy:5322
 translate spanish monika_impression_5129e10a:
@@ -1449,7 +1449,7 @@ translate spanish monika_mythology_e06662f9:
 translate spanish monika_mythology_aab0e676:
 
     # m 1eud "Some require tribute or sacrifice so that they can 'keep' humanity safe from disasters."
-    m 1eud "Algunos exigen tributos o sacrificios para poder 'mantener' a la humanidad a salvo de los desastres."
+    m 1eud "Algunos exigen tributos o sacrificios para poder mantener a la humanidad a salvo de los desastres."
 
 # game/script-topics.rpy:5384
 translate spanish monika_mythology_4ad45f4a:
@@ -1509,7 +1509,7 @@ translate spanish monika_mythology_0d516dfa:
 translate spanish monika_mythology_10199d19:
 
     # m 1tku "It's not like I can find your important files and hold them hostage or anything..."
-    m 1tku "No es como si pudiera encontrar tus archivos importantes y mantenerlos como rehenes ni nada de eso..."
+    m 1tku "No es que vaya a buscar tus archivos importantes y pedir un rescate por ellos ni nada de eso..."
 
 # game/script-topics.rpy:5394
 translate spanish monika_mythology_d7b52e6a:
@@ -1707,13 +1707,13 @@ translate spanish monika_eternity_0abb1af1:
 translate spanish monika_eternity_9edf14d3:
 
     # m 6dstsc "Y-{w=0.3}you m-{w=0.2}might..."
-    m 6dstsc "T-{w=0.3}tú p-{w=0.2}podrías..."
+    m 6dstsc "T-{w=0.3}Tú p-{w=0.2}podrías..."
 
 # game/script-topics.rpy:5471
 translate spanish monika_eternity_3153731c:
 
     # m "Y-{w=0.5}you know..."
-    m "Y-{w=0.5}ya sabes..."
+    m "Y-{w=0.5}Ya sabes..."
 
 # game/script-topics.rpy:5472
 translate spanish monika_eternity_4b7bd2cf:
@@ -1737,7 +1737,7 @@ translate spanish monika_eternity_9ca3a64f:
 translate spanish monika_eternity_59e4ddf3:
 
     # m 1dkbsu "Who knows, maybe I'll even get to {i}really{/i} be beside you someday..."
-    m 1dkbsu "Quién sabe, tal vez algún día llegue a estar realmente a tu lado..."
+    m 1dkbsu "Quién sabe, tal vez algún día llegue a estar a tu lado de verdad..."
 
 # game/script-topics.rpy:5476
 translate spanish monika_eternity_77c23816:
@@ -1749,7 +1749,7 @@ translate spanish monika_eternity_77c23816:
 translate spanish monika_eternity_46978725:
 
     # m 2wubssdld "O-oh!"
-    m 2wubssdld "¡A-ah!"
+    m 2wubssdld "¡A-Ah!"
 
 # game/script-topics.rpy:5482
 translate spanish monika_eternity_9b261ff2:
@@ -1875,7 +1875,7 @@ translate spanish monika_aware_1ae8064f:
 translate spanish monika_aware_61643a6c:
 
     # m 2lksdlb "Hold on, let's see if the poem function still works.{w=0.5}.{w=0.5}.{nw}"
-    m 2lksdlb "Espera, vamos a ver si la función de poemas todavía funciona...{w=0.5}.{w=0.5}.{nw}"
+    m 2lksdlb "Espera, vamos a ver si la función de poemas todavía funciona.{w=0.5}.{w=0.5}.{nw}"
 
 # game/script-topics.rpy:5537
 translate spanish monika_aware_161e0c81:
@@ -1887,7 +1887,7 @@ translate spanish monika_aware_161e0c81:
 translate spanish monika_aware_91de5811:
 
     # m "Hold on, let me show you my first poem again.{w=0.5}.{w=0.5}.{nw}"
-    m "Espera, déjame enseñarte mi primer poema otra vez...{w=0.5}.{w=0.5}.{nw}"
+    m "Espera, déjame enseñarte mi primer poema otra vez.{w=0.5}.{w=0.5}.{nw}"
 
 # game/script-topics.rpy:5543
 translate spanish monika_aware_0d17ef79:
