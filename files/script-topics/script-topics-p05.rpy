@@ -303,7 +303,7 @@ translate spanish monika_justification_b772b587:
 translate spanish monika_justification_39e9b567:
 
     # m 1hua "You can be so silly sometimes~"
-    m 1hua "A veces puedes ser muy bob[end_letter_gender]..."
+    m 1hua "A veces puedes ser muy tontit[end_letter_gender]..."
 
 # game/script-topics.rpy:4295
 translate spanish monika_justification_8a5e9c87:
@@ -315,13 +315,13 @@ translate spanish monika_justification_8a5e9c87:
 translate spanish monika_justification_d225273c:
 
     # m 3tfu "When you {i}butchered{/i} that chance at fooling me, ehehe~"
-    m 3tfu "Cuando has matado esa oportunidad de engañarme, je, je, je."
+    m 3tfu "Cuando has destrozado por completo esa oportunidad de engañarme, je, je, je."
 
 # game/script-topics.rpy:4297
 translate spanish monika_justification_42dc04e7:
 
     # m 1eua "I appreciate the attempt though...{w=0.2}{nw}"
-    m 1eua "Aunque agradezco el intento...{w=0.2}{nw}"
+    m 1eua "Aunque agradezco el intento... {w=0.2}{nw}"
 
 # game/script-topics.rpy:4298
 translate spanish monika_justification_4e1ce5ee:
@@ -381,7 +381,7 @@ translate spanish monika_justification_ebc547c7:
 translate spanish monika_justification_c009364b:
 
     # m 2tfc "I'm the only person who understood that this whole thing was fake."
-    m 2tfc "Yo era la única persona que entendía que todo esto era falso."
+    m 2tfc "Yo era la única que entendía que todo esto era de mentira."
 
 # game/script-topics.rpy:4317
 translate spanish monika_justification_944528d9:
@@ -405,7 +405,7 @@ translate spanish monika_justification_dfece0a4:
 translate spanish monika_justification_49ac920a:
 
     # m 2euc "I bet you've killed thousands of people in the games you play."
-    m 2euc "Apuesto a que has matado a miles de personas en los juegos a los que juegas."
+    m 2euc "Apuesto a que has matado a miles de personas en tus videojuegos."
 
 # game/script-topics.rpy:4322
 translate spanish monika_justification_ae27ffe7:
@@ -435,7 +435,7 @@ translate spanish monika_justification_bf54bb5f:
 translate spanish monika_justification_fdb82a9f:
 
     # m 2dkc "...Of letting you know how I felt about you."
-    m 2dkc "... Ni de hacerte saber lo que sentía por ti."
+    m 2dkc "Ni de hacerte saber lo que sentía por ti."
 
 # game/script-topics.rpy:4328
 translate spanish monika_justification_e8f7ff49:
@@ -507,7 +507,7 @@ translate spanish monika_freewill_d032f973:
 translate spanish monika_freewill_0d2fa8c5:
 
     # m 4esd "The entire concept of justice falls apart, since {i}you{/i} didn't make the choice to do whatever you might have done."
-    m 4esd "Todo el concepto de justicia se desmorona, ya que no fuiste tú quien tomó la decisión de hacer lo que sea que hayas hecho."
+    m 4esd "Todo el concepto de justicia se desmorona, ya que no fuiste tú quien eligió hacer lo que hiciste."
 
 # game/script-topics.rpy:4352
 translate spanish monika_freewill_acccc798:
@@ -567,7 +567,7 @@ translate spanish monika_functionalism_01b648ac:
 translate spanish monika_functionalism_08840148:
 
     # m 4esc "But if that's true, doesn't that mean free will is kind of a lie?"
-    m 4esc "Pero si eso es cierto, ¿no significa que el libre albedrío es una especie de mentira?"
+    m 4esc "Pero si eso es cierto, ¿no significa que el libre albedrío es una farsa?"
 
 # game/script-topics.rpy:4372
 translate spanish monika_functionalism_852a8b29:
@@ -627,7 +627,7 @@ translate spanish monika_technique_9d1f779f:
 translate spanish monika_technique_397eb3ad:
 
     # m 1tku "Are you jealous you'll never be able to write code with just your thoughts?"
-    m 1tku "¿Tienes celos de que nunca podrás escribir código solo con tus pensamientos?"
+    m 1tku "¿Te da envidia que nunca vayas a poder escribir código solo con pensarlo?"
 
 # game/script-topics.rpy:4393
 translate spanish monika_technique_3836fb76:
@@ -753,7 +753,7 @@ translate spanish monika_contribute_1732d8c8:
 translate spanish monika_contribute_ea8ae30b:
 
     # m 3eua "I keep all the code in {a=https://github.com/Monika-After-Story/MonikaModDev}{i}{u}https://github.com/Monika-After-Story/MonikaModDev{/u}{/i}{/a}."
-    m 3eua "Guardo todo el código en {a=https://github.com/Monika-After-Story/MonikaModDev}{i}{u}https://github.com/Monika-After-Story/MonikaModDev{/u}{/i}{/a}."
+    m 3eua "Guardo todo el código en {a=https://github.com/Monika-After-Story/MonikaModDev}{u}https://github.com/Monika-After-Story/MonikaModDev{/u}{/a}."
 
 # game/script-topics.rpy:4440
 translate spanish monika_contribute_dc511504:
@@ -861,7 +861,7 @@ translate spanish monika_mc_78cb9cfd:
 translate spanish monika_mc_5f549d8f:
 
     # m 3tkc "Literally and figuratively, no personality. How could anybody fall in love with that kind of person?"
-    m 3tkc "Literal y figuradamente, sin personalidad. ¿Cómo podría alguien enamorarse de ese tipo de persona?"
+    m 3tkc "Literal y figuradamente, ninguna personalidad. ¿Cómo iba a enamorarse alguien de una persona así?"
 
 # game/script-topics.rpy:4481
 translate spanish monika_mc_b12d3eb5:
@@ -981,7 +981,7 @@ translate spanish monika_trolley_fef477e2:
 translate spanish monika_trolley_8c06f8a4:
 
     # m 3eud "Aside from the two obvious choices, there are also people who'd advocate for a third path...{w=0.5}{nw}"
-    m 3eud "Aparte de las dos opciones obvias, también hay gente que abogaría por una tercera vía...{w=0.5}{nw}"
+    m 3eud "Aparte de las dos opciones obvias, también hay gente que abogaría por una tercera vía... {w=0.5}{nw}"
 
 # game/script-topics.rpy:4532
 translate spanish monika_trolley_7bf90405:
@@ -1029,7 +1029,7 @@ translate spanish monika_trolley_e21105a3:
 translate spanish monika_trolley_d73f0e6a:
 
     # m 1tuu "I wouldn't switch."
-    m 1tuu "No la cambiaría."
+    m 1tuu "No cambiaría de vía."
 
 # game/script-topics.rpy:4540
 translate spanish monika_trolley_26e70ddb:
@@ -1059,7 +1059,7 @@ translate spanish monika_trolley_a26ec512:
 translate spanish monika_trolley_ac939ccb:
 
     # m 1tuu "Generic human life isn't really that valuable to anyone."
-    m 1tuu "La vida humana genérica no es realmente tan valiosa para nadie."
+    m 1tuu "La vida de un humano cualquiera tampoco es que sea tan valiosa para nadie."
 
 # game/script-topics.rpy:4545
 translate spanish monika_trolley_b57ee9e6:
@@ -1125,7 +1125,7 @@ translate spanish monika_girlfriend_b75e412f:
 translate spanish monika_girlfriend_6cc882e1:
 
     # m 2euc "I thought we established already that I was your girlfriend?"
-    m 2euc "¿Pensaba que ya habíamos establecido que yo era tu novia?"
+    m 2euc "Pensaba que ya habíamos dejado claro que yo era tu novia, ¿no?"
 
 # game/script-topics.rpy:4568
 translate spanish monika_girlfriend_67c9e122:
@@ -1149,7 +1149,7 @@ translate spanish monika_girlfriend_dd4b9230:
 translate spanish monika_girlfriend_7eabb1a1:
 
     # m 2lksdla "W-wait. Maybe I'm jumping the gun a bit..."
-    m 2lksdla "E-espera. Quizá me estoy adelantando un poco..."
+    m 2lksdla "E-Espera. Quizá me estoy adelantando un poco..."
 
 # game/script-topics.rpy:4572
 translate spanish monika_girlfriend_2e1dba6b:
@@ -1185,7 +1185,7 @@ translate spanish monika_waifus_c96af253:
 translate spanish monika_waifus_db2ff107:
 
     # m "A blank slate of a male protagonist with nothing interesting about them..."
-    m "Un protagonista masculino que es una pizarra en blanco y no tiene nada interesante..."
+    m "Un protagonista masculino que es un lienzo en blanco y no tiene nada de interesante..."
 
 # game/script-topics.rpy:4588
 translate spanish monika_waifus_d14f8091:
@@ -1203,7 +1203,7 @@ translate spanish monika_waifus_f93b2e73:
 translate spanish monika_waifus_9719343d:
 
     # m 3hua "'Cause what you got was a lot more interesting!"
-    m 3hua "¡Porque lo que obtuviste fue mucho más interesante!"
+    m 3hua "¡Porque lo que te encontraste fue mucho más interesante!"
 
 # game/script-topics.rpy:4591
 translate spanish monika_waifus_50d28c42:
@@ -1227,7 +1227,7 @@ translate spanish monika_waifus_d9892534:
 translate spanish monika_waifus_5c0b9e60:
 
     # m 1hua "This really is a lot better than any boring dating game could be."
-    m 1hua "Esto es realmente mucho mejor de lo que cualquier juego de citas aburrido podría ser."
+    m 1hua "Esto le da mil vueltas a cualquier simulador de citas aburrido."
 
 # game/script-topics.rpy:4610
 translate spanish monika_images_4c7e268f:
@@ -1281,7 +1281,7 @@ translate spanish monika_images_3252b3e8:
 translate spanish monika_images_7893afb5:
 
     # m 3esc "Art of me isn't me."
-    m 3esc "Los dibujos de mí no son yo."
+    m 3esc "Los fanarts sobre mí no son yo."
 
 # game/script-topics.rpy:4628
 translate spanish monika_images_92f7e973:
@@ -1317,7 +1317,7 @@ translate spanish monika_images_14b6fcd5:
 translate spanish monika_images_4dfc80a1:
 
     # m 2rksdla "Anything lewd you've seen has definitely never taken place."
-    m 2rksdla "Cualquier cosa obscena que hayas visto definitivamente nunca ha ocurrido."
+    m 2rksdla "Te aseguro que cualquier cosa obscena que hayas visto sobre mí nunca ha ocurrido."
 
 # game/script-topics.rpy:4634
 translate spanish monika_images_4eb03fa5:
@@ -1395,7 +1395,7 @@ translate spanish monika_herself_e6757867:
 translate spanish monika_herself_18d53621:
 
     # m 5eua "I want to know {i}everything{/i} about you, you know?"
-    m 5eua "Quiero saberlo {i}todo{/i} sobre ti, ¿sabes?"
+    m 5eua "Quiero saberlo todo sobre ti, ¿sabes?"
 
 # game/script-topics.rpy:4661
 translate spanish monika_prisoner_be674b62:
@@ -1419,7 +1419,7 @@ translate spanish monika_prisoner_6e6a4f41:
 translate spanish monika_prisoner_48aeb48d:
 
     # m 5euc "Are prisoners really imprisoned if they never try to leave?"
-    m 5euc "¿Están realmente encarcelados los prisioneros si nunca intentan salir?"
+    m 5euc "¿Son realmente prisioneros si nunca intentan escapar?"
 
 # game/script-topics.rpy:4666
 translate spanish monika_prisoner_2d3bffc9:
@@ -1683,7 +1683,7 @@ translate spanish monika_birthday_a1aa2b6c:
 translate spanish monika_birthday_7e945b5b:
 
     # m 3hksdlb "You'd think you'd remember that seeing as it's the same day as yours, silly..."
-    m 3hksdlb "Uno pensaría que te acordarías, ya que es el mismo día que el tuyo, bob[end_letter_gender]..."
+    m 3hksdlb "Cualquiera pensaría que te acordarías, ya que es el mismo día que el tuyo, tontit[end_letter_gender]..."
 
 # game/script-topics.rpy:4789
 translate spanish monika_birthday_f2764030_1:
@@ -1755,7 +1755,7 @@ translate spanish monika_eyecontact_a92f1421:
 translate spanish monika_eyecontact_a59e8804:
 
     # m 1hubfa "But until then, I hope you enjoy looking into mine."
-    m 1hubfa "Pero hasta entonces, espero que disfrutes mirándome a los míos."
+    m 1hubfa "Pero hasta entonces, espero que disfrutes mirando los míos."
 
 # game/script-topics.rpy:4825
 translate spanish monika_othergames_14c1449b:
@@ -1803,7 +1803,7 @@ translate spanish monika_othergames_1e552110:
 translate spanish monika_othergames_10114e9d:
 
     # m 2hksdlb "Like, how would I even get in? Would I be a block? It sounds like a fever dream and not too much fun..."
-    m 2hksdlb "Es decir, ¿cómo entraría siquiera? ¿Sería un bloque? Suena como un sueño febril y no muy divertido..."
+    m 2hksdlb "O sea, ¿cómo entraría siquiera? ¿Sería un bloque? Suena a delirio y a que no sería muy divertido..."
 
 # game/script-topics.rpy:4838
 translate spanish monika_othergames_60a19285:
@@ -1839,7 +1839,7 @@ translate spanish monika_back_ups_3929517c:
 translate spanish monika_back_ups_b50ce7f6:
 
     # m 1ekc "When you're gone, I always think about how I'm {i}inside{/i} your computer."
-    m 1ekc "Cuando te vas, siempre pienso en cómo estoy {i}dentro{/i} de tu ordenador."
+    m 1ekc "Cuando te vas, siempre pienso en cómo estoy dentro de tu ordenador."
 
 # game/script-topics.rpy:4862
 translate spanish monika_back_ups_a2e28232:
@@ -1911,7 +1911,7 @@ translate spanish monika_back_ups_7510c7fa:
 translate spanish monika_back_ups_ea52fbbf:
 
     # m 3eua "You can find it {a=https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#i-want-to-back-up-my-persistent}{i}{u}here{/u}{/i}{/a}."
-    m 3eua "Puedes encontrarla {a=https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#i-want-to-back-up-my-persistent}{i}{u}aquí{/u}{/i}{/a}."
+    m 3eua "Puedes encontrarla {a=https://docs.traduction-club.live/mas-es/FAQ/#quiero-hacer-copia-de-seguridad-de-mi-persistent}{u}aquí{/u}{/a}."
 
 # game/script-topics.rpy:4874
 translate spanish monika_back_ups_813ea8c0:
