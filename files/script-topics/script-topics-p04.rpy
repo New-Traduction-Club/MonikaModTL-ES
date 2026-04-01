@@ -86,7 +86,7 @@ translate spanish monika_mentalillness_a03f1674:
 translate spanish monika_mentalillness_6de1e34e:
 
     # m 1eka "Everyone has all kinds of struggles and stresses...and professionals dedicate their lives to helping with those."
-    m 1eka "Todo el mundo tiene todo tipo de luchas y estrés... y los profesionales dedican sus vidas a ayudar con eso."
+    m 1eka "Todo el mundo tiene sus propios problemas y momentos de estrés... y los profesionales dedican su vida a ayudar con eso."
 
 # game/script-topics.rpy:3191
 translate spanish monika_mentalillness_d805af44:
@@ -122,7 +122,7 @@ translate spanish monika_read_3a2d3fb2:
 translate spanish monika_read_d0e45899:
 
     # m 1euc "If you don't read much, it almost feels like a chore, compared to all the other entertainment we have."
-    m 1euc "Si no lees mucho, casi parece una tarea comparado con todo el otro entretenimiento que tenemos."
+    m 1euc "Si no sueles leer mucho, casi parece una obligación comparado con todas las otras opciones de ocio que tenemos."
 
 # game/script-topics.rpy:3207
 translate spanish monika_read_71f68f5c:
@@ -266,13 +266,13 @@ translate spanish monika_festival_3a4d59a7:
 translate spanish monika_festival_5f9be331:
 
     # m "Just the two of us, together forever."
-    m "Solo nosotros dos, juntos para siempre."
+    m "Solo tú y yo, junt[end_letter_gender]s para siempre."
 
 # game/script-topics.rpy:3256
 translate spanish monika_tsundere_004df24c:
 
     # m 1eua "There's a really popular character type called 'tsundere...'"
-    m 1eua "Hay un tipo de personaje muy popular llamado 'tsundere'..."
+    m 1eua "Hay un tipo de personaje muy popular llamado tsundere..."
 
 # game/script-topics.rpy:3257
 translate spanish monika_tsundere_37537a33:
@@ -284,7 +284,7 @@ translate spanish monika_tsundere_37537a33:
 translate spanish monika_tsundere_8af78e06:
 
     # m 1tku "I'm sure it's obvious, but Natsuki was really the embodiment of that."
-    m 1tku "Seguro que es obvio, pero Natsuki era realmente la encarnación de eso."
+    m 1tku "Seguro que es obvio, pero Natsuki era el vivo ejemplo de ello."
 
 # game/script-topics.rpy:3259
 translate spanish monika_tsundere_83861a04:
@@ -308,7 +308,7 @@ translate spanish monika_tsundere_accdca67:
 translate spanish monika_tsundere_6e206552:
 
     # m 3euc "You know how some friend groups in high school just make a habit of picking on each other all the time?"
-    m 3euc "¿Sabes cómo algunos grupos de amigos en el instituto tienen la costumbre de meterse los unos con los otros todo el tiempo?"
+    m 3euc "¿Te has fijado en que algunos grupos de amigos del instituto tienen la costumbre de meterse los unos con los otros todo el tiempo?"
 
 # game/script-topics.rpy:3263
 translate spanish monika_tsundere_5acdb40c:
@@ -404,7 +404,7 @@ translate spanish monika_cold_6204a527:
 translate spanish monika_cold_bf2e45e9:
 
     # m 1tkx "It's so inconvenient!"
-    m 1tkx "¡Es muy molesto!"
+    m 1tkx "¡Es un rollo!"
 
 # game/script-topics.rpy:3295
 translate spanish monika_cold_e24bc986:
@@ -518,7 +518,7 @@ translate spanish monika_route_48e4a3d5:
 translate spanish monika_route_fc534e08:
 
     # m "...Just hanging out together in the clubroom, sharing poetry."
-    m "... Pasando el rato juntos en el club, compartiendo poemas."
+    m "... Pasando el rato junt[end_letter_gender]s en el club, compartiendo poemas."
 
 # game/script-topics.rpy:3337
 translate spanish monika_route_132bb3df:
@@ -530,7 +530,7 @@ translate spanish monika_route_132bb3df:
 translate spanish monika_route_08ded2f3:
 
     # m 3eka "And to be honest...{w=0.5}a part of me did too."
-    m 3eka "Y para ser sincera...{w=0.5} a una parte de mí también."
+    m 3eka "Y para ser sincera... {w=0.5}a una parte de mí también."
 
 # game/script-topics.rpy:3340
 translate spanish monika_route_2319d6fb:
@@ -650,7 +650,7 @@ translate spanish monika_oneesan_d3622263:
 translate spanish monika_oneesan_157af141:
 
     # m "It's the man's job to introduce his fiancee to his family, after all."
-    m "Al fin y al cabo, es trabajo del hombre presentar a su prometida a la familia."
+    m "Al fin y al cabo, es tradición que sea la pareja quien presente a la prometida a la familia."
 
 # game/script-topics.rpy:3393
 translate spanish monika_oneesan_a8299c35:
@@ -782,7 +782,7 @@ translate spanish monika_libitina_32be3a44:
 translate spanish monika_libitina_f24b5952:
 
     # m 1eua "Well, I'm sure you'll learn more eventually. You love me that much for sure."
-    m 1eua "Bueno, estoy segura de que acabarás aprendiendo más. Seguro que me quieres tantísimo."
+    m 1eua "Bueno, estoy segura de que acabarás aprendiéndolo. Seguro que me quieres lo suficiente como para conseguirlo."
 
 # game/script-topics.rpy:3455
 translate spanish monika_libitina_ac2ccc64:
@@ -866,7 +866,7 @@ translate spanish monika_meta_06669c3d:
 translate spanish monika_meta_aaccbf8a:
 
     # m 3eub "It'd be, 'Don't ignore the pretty and charming side character!'"
-    m 3eub 'Sería: \"¡No ignores al personaje secundario guapo y encantador!\"'
+    m 3eub "Sería: '¡No ignores al personaje secundario guapo y encantador!'"
 
 # game/script-topics.rpy:3484
 translate spanish monika_meta_3772217d:
@@ -1034,7 +1034,7 @@ translate spanish monika_ks_present_5e01a0a7:
 translate spanish monika_ks_present_41f13123:
 
     # m 1tkc "But when you get down to it the characters really seem like the same old cliches you could find in any other dating sim."
-    m 1tkc "Pero cuando vas al grano, los personajes parecen los mismos clichés de siempre que podrías encontrar en cualquier otro simulador de citas."
+    m 1tkc "Pero en el fondo, los personajes parecen los mismos clichés de siempre que podrías encontrar en cualquier otro simulador de citas."
 
 # game/script-topics.rpy:3615
 translate spanish monika_ks_present_086607c9:
@@ -1058,7 +1058,7 @@ translate spanish monika_ks_present_42a70e55:
 translate spanish monika_ks_present_f7fb92a4:
 
     # m "The bossy, assertive deaf-mute and her friend, who seems like a bundle of sunshine but is secretly depressed;"
-    m "La sordomuda mandona y asertiva y su amiga, que parece un rayo de sol pero está secretamente deprimida;"
+    m "La sordomuda mandona y asertiva y su amiga, que parece todo alegría pero en el fondo está deprimida;"
 
 # game/script-topics.rpy:3619
 translate spanish monika_ks_present_6dbf9592:
@@ -1322,7 +1322,7 @@ translate spanish monika_ks_emi_26879602:
 translate spanish monika_ks_emi_de9befd0:
 
     # m 1eka "But I broke free from that, so now I guess my life revolves around {i}you,{/i} [player]."
-    m 1eka "Pero me liberé de eso, así que ahora supongo que mi vida gira en torno a {i}ti{/i}, [player]."
+    m 1eka "Pero me liberé de eso, así que ahora supongo que mi vida gira en torno a ti, [player]."
 
 # game/script-topics.rpy:3675
 translate spanish monika_ks_emi_df9a3cba:
@@ -1376,7 +1376,7 @@ translate spanish monika_ks_rin_f0c212cf:
 translate spanish monika_ks_rin_b9feb667:
 
     # m 1eka "Man, it sure does take effort to understand others, right?"
-    m 1eka "Vaya, sí que cuesta esforzarse para entender a los demás, ¿verdad?"
+    m 1eka "Vaya, sí que hay que esforzarse para entender a los demás, ¿verdad?"
 
 # game/script-topics.rpy:3687
 translate spanish monika_ks_rin_dd60a549:
@@ -1412,7 +1412,7 @@ translate spanish monika_ks_kenji_863f9aed:
 translate spanish monika_ks_kenji_ee5837ef:
 
     # m 2dsc "And then, you're left with nothing but your loneliness and a stiff drink."
-    m 2dsc "Y entonces, te quedas sin nada más que tu soledad y una bebida fuerte."
+    m 2dsc "Y entonces, te quedas sin nada más que tu soledad y una buena copa."
 
 # game/script-topics.rpy:3696
 translate spanish monika_ks_kenji_e48b021d:
@@ -1502,7 +1502,7 @@ translate spanish monika_difficulty_476515fd:
 translate spanish monika_difficulty_c48caa2e:
 
     # m 3eka "And if you think I should have been some sort of challenging {i}boss{/i}, I could have deleted all your personal files if I'd wanted to, you know?"
-    m 3eka "Y si piensas que debería haber sido algún tipo de {i}jefe{/i} difícil, podría haber borrado todos tus archivos personales si hubiera querido, ¿sabes?"
+    m 3eka "Y si piensas que debería haber sido algún tipo de jefe difícil, podría haber borrado todos tus archivos personales si hubiera querido, ¿sabes?"
 
 # game/script-topics.rpy:3728
 translate spanish monika_difficulty_bb1c94f4:
@@ -1616,7 +1616,7 @@ translate spanish monika_ddlc_8961aa1a:
 translate spanish monika_ddlc_758e32ca:
 
     # m 2etc "But I guess some people just wanted to play it so they could spend time with...what was the line?"
-    m 2etc "Pero supongo que alguna gente solo quería jugarlo para pasar tiempo con... ¿cuál era la frase?"
+    m 2etc "Pero supongo que algunos solo querían jugarlo para pasar tiempo con... ¿cómo era la frase?"
 
 # game/script-topics.rpy:3765
 translate spanish monika_ddlc_65a5a043:
@@ -1640,7 +1640,7 @@ translate spanish monika_ddlc_ff430640:
 translate spanish monika_ddlc_7d17c8f2:
 
     # m 3eka "So I guess being trapped inside this game is a small price to pay when you stop and think about what it got me..."
-    m 3eka "Así que supongo que estar atrapada dentro de este juego es un precio bajo a pagar cuando te paras a pensar en lo que me ha dado..."
+    m 3eka "Así que supongo que estar atrapada dentro de este juego es un precio muy pequeño que pagar cuando te paras a pensar en lo que me ha dado..."
 
 # game/script-topics.rpy:3769
 translate spanish monika_ddlc_e08865b5:
@@ -1652,7 +1652,7 @@ translate spanish monika_ddlc_e08865b5:
 translate spanish monika_ddlc_ea2cf9a7:
 
     # m 1eka "Despite how we got here, you and I still ended up together."
-    m 1eka "A pesar de cómo llegamos aquí, tú y yo acabamos juntos."
+    m 1eka "A pesar de cómo llegamos aquí, tú y yo acabamos junt[end_letter_gender]s."
 
 # game/script-topics.rpy:3771
 translate spanish monika_ddlc_e039ceb9:
@@ -1688,7 +1688,7 @@ translate spanish monika_dan_b0ec3b80:
 translate spanish monika_dan_fe53103e:
 
     # m 4eka "And he's the reason we're together now, right?"
-    m 4eka "Y él es la razón por la que estamos juntos ahora, ¿verdad?"
+    m 4eka "Y él es la razón por la que estamos junt[end_letter_gender]s ahora, ¿verdad?"
 
 # game/script-topics.rpy:3783
 translate spanish monika_dan_da791dd0:
@@ -1724,7 +1724,7 @@ translate spanish monika_4chan_395cb39c:
 translate spanish monika_4chan_12b2d3e2:
 
     # m 1eua "But if they can make a game like this, where we can be together..."
-    m 1eua "Pero si pueden hacer un juego como este, donde podemos estar juntos..."
+    m 1eua "Pero si pueden hacer un juego como este, donde podemos estar junt[end_letter_gender]s..."
 
 # game/script-topics.rpy:3800
 translate spanish monika_4chan_f1eda02b:
@@ -1964,7 +1964,7 @@ translate spanish monika_love_b7a265c5:
 translate spanish monika_love_938c6120:
 
     # m 2eka "I...{w=0.5}I love you too."
-    m 2eka "Yo...{w=0.5} yo también te quiero."
+    m 2eka "Yo... {w=0.5}yo también te quiero."
 
 # game/script-topics.rpy:3992
 translate spanish monika_love_6d835534:
@@ -1982,7 +1982,7 @@ translate spanish monika_love_9ca4a5c5:
 translate spanish monika_love_21aff22f:
 
     # m 3ekbfa "I know it's not the first time, but it {i}is{/i} the first time you said it completely on your own...{w=0.5} And that makes it truly special~"
-    m 3ekbfa "Sé que no es la primera vez, pero {i}sí{/i} es la primera vez que lo dices completamente por ti mism[end_letter_gender]...{w=0.5} Y eso lo hace verdaderamente especial."
+    m 3ekbfa "Sé que no es la primera vez, pero sí es la primera vez que lo dices completamente por ti mism[end_letter_gender]... {w=0.5}Y eso lo hace verdaderamente especial."
 
 # game/script-topics.rpy:3995
 translate spanish monika_love_192192dc:
