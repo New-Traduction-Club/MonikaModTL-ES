@@ -1515,7 +1515,7 @@ translate spanish monika_grad_speech_e1bdf64b:
 translate spanish monika_grad_speech_c7aa2da0:
 
     # m 4eub "{w=0.2}Okay, everyone! It's time to get started...{w=0.7}{nw}"
-    m 4eub "{w=0.2}¡Bien, todo el mundo! Es hora de empezar... {w=0.7}{nw}"
+    m 4eub "{w=0.2}¡Vale, compis! Es hora de empezar... {w=0.7}{nw}"
 
 # game/script-topics.rpy:12249
 translate spanish monika_grad_speech_dd46c028:

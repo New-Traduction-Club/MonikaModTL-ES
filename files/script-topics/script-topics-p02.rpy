@@ -33,7 +33,7 @@ translate spanish monika_secrets_13b62354:
 translate spanish monika_secrets_3083ec5e:
 
     # m 2ekc "...Oh no, that sounds kind of desperate, doesn't it? b3Vscy4gUmVhbGl6YXRpb24gdGhhdCB3ZSBjYW4gbm90IHB1cnN1"
-    m 2ekc "... Ah no, eso suena un poco desesperado, ¿a que sí? b3Vscy4gUmVhbGl6YXRpb24gdGhhdCB3ZSBjYW4gbm90IHB1cnN1"
+    m 2ekc "... Uy, no, eso suena un poco desesperado, ¿a que sí? b3Vscy4gUmVhbGl6YXRpb24gdGhhdCB3ZSBjYW4gbm90IHB1cnN1"
 
 # game/script-topics.rpy:1419
 translate spanish monika_secrets_c87312bb:
@@ -111,7 +111,7 @@ translate spanish monika_color_a22d5db1:
 translate spanish monika_color_6d6e2128:
 
     # m "Does it happen to also be your favorite color, [player]?"
-    m "¿Da la casualidad de que también es tu color favorito, [player]?"
+    m "¿Por casualidad también es tu color favorito, [player]?"
 
 # game/script-topics.rpy:1438
 translate spanish monika_color_836c1c6d:
@@ -183,7 +183,7 @@ translate spanish monika_listener_588141f5:
 translate spanish monika_spicy_d6925ec6:
 
     # m 1eka "This is pretty random, but I always thought spicy food was kinda funny."
-    m 1eka "Esto es muy aleatorio, pero siempre me ha parecido que la comida picante es curiosa."
+    m 1eka "Igual no viene a cuento, pero siempre me ha parecido que la comida picante es muy curiosa."
 
 # game/script-topics.rpy:1501
 translate spanish monika_spicy_07e455e3:
@@ -207,7 +207,7 @@ translate spanish monika_spicy_47943115:
 translate spanish monika_spicy_bf369073:
 
     # m 1tfu "It's almost like we're making fun of the plants."
-    m 1tfu "Es casi como si nos estuviéramos burlando de las plantas."
+    m 1tfu "Es casi como si nos estuviéramos riendo de las plantas."
 
 # game/script-topics.rpy:1505
 translate spanish monika_spicy_ee1c86a7:
@@ -273,19 +273,19 @@ translate spanish monika_why_994c08bb:
 translate spanish monika_why_3e5c369c:
 
     # m 2eud "This is just some kind of tacky romance game, right?"
-    m 2eud "Esto es solo un juego de romance cursi, ¿verdad?"
+    m 2eud "Esto no deja de ser un juego de citas un poco cursi, ¿verdad?"
 
 # game/script-topics.rpy:1526
 translate spanish monika_why_34e86dc1:
 
     # m 2euc "I kinda have to ask..."
-    m 2euc "Tengo que preguntarlo..."
+    m 2euc "Así que, tengo que preguntarlo..."
 
 # game/script-topics.rpy:1527
 translate spanish monika_why_56dd6079:
 
     # m "...What made you consider even playing in the first place?"
-    m "... ¿Qué te hizo plantearte siquiera jugarlo?"
+    m "¿Qué te hizo plantearte siquiera jugarlo?"
 
 # game/script-topics.rpy:1528
 translate spanish monika_why_6b039283:
@@ -333,7 +333,7 @@ translate spanish monika_why_90c96f06:
 translate spanish monika_okayeveryone_452f9e81:
 
     # m 3eub "Okay, everyone!"
-    m 3eub "¡Vale, todo el mundo!"
+    m 3eub "¡Vale, compis!"
 
 # game/script-topics.rpy:1548
 translate spanish monika_okayeveryone_ab73f819:
@@ -639,13 +639,13 @@ translate spanish monika_tea_5a4c15eb:
 translate spanish monika_tea_2bc1ee74:
 
     # m "Is it truly passion for her hobbies, or is she just concerned about appearing sophisticated to everyone else?"
-    m "¿Es verdadera pasión por sus aficiones o solo le preocupa parecer sofisticada ante los demás?"
+    m "¿Es de verdad pasión por sus aficiones, o es que solo le preocupa quedar de sofisticada ante los demás?"
 
 # game/script-topics.rpy:1655
 translate spanish monika_tea_222aac8a:
 
     # m 1lsc "This is the problem with high schoolers..."
-    m 1lsc "Este es el problema con los estudiantes de instituto..."
+    m 1lsc "Este es el problema de la gente del instituto..."
 
 # game/script-topics.rpy:1658
 translate spanish monika_tea_21eba1b2:
@@ -753,7 +753,7 @@ translate spanish monika_smash_af27fb20:
 translate spanish monika_smash_de2647f4:
 
     # m "I was just spacing out and I started talking for some reason..."
-    m "Estaba en las nubes y he empezado a hablar por algún motivo..."
+    m "Me había quedado en las nubes y he empezado a hablar sin venir a cuento..."
 
 # game/script-topics.rpy:1702
 translate spanish monika_smash_51029d4f:
@@ -831,7 +831,7 @@ translate spanish monika_lastpoem_2d4ac5ea:
 translate spanish monika_lastpoem_c88bcf6e:
 
     # m "And I'd keep trying, but I doubt you'd want to deal with me doing that."
-    m "Y seguiría intentándolo, pero dudo que quieras lidiar conmigo haciendo eso."
+    m "Y seguiría intentándolo, pero dudo que quieras tener que aguantarme haciendo eso."
 
 # game/script-topics.rpy:1736
 translate spanish monika_lastpoem_0cf7c6d9:
@@ -873,7 +873,7 @@ translate spanish monika_anxious_0265e105:
 translate spanish monika_anxious_b278f210:
 
     # m 4rssdrb "And you're sitting there like, 'What am I even anxious about right now?'"
-    m 4rssdrb "Y te quedas ahí en plan: '¿Pero por qué tengo ansiedad ahora mismo?'"
+    m 4rssdrb "Y te quedas ahí sentad[end_letter_gender] en plan: '¿Por qué narices tengo ansiedad ahora mismo?'"
 
 # game/script-topics.rpy:1755
 translate spanish monika_anxious_04a658d7:
@@ -945,13 +945,13 @@ translate spanish monika_friends_b0f8ca78:
 translate spanish monika_friends_31b38ee2:
 
     # m "Like you had a class together, or you met them through another friend..."
-    m "Como que ibais juntos a clase, o l[end_letter_gender]s conociste a través de otro amigo..."
+    m "Como que ibais juntos a clase, o los conociste a través de otro amigo..."
 
 # game/script-topics.rpy:1778
 translate spanish monika_friends_ed6ba660:
 
     # m 1eua "Or maybe they were just wearing a shirt with your favorite band on it, and you decided to talk to them."
-    m 1eua "O quizá simplemente llevaban una camiseta de tu grupo favorito y decidiste hablar con ell[end_letter_gender]s."
+    m 1eua "O quizá simplemente llevaban una camiseta de tu grupo favorito y decidiste hablar con ellos."
 
 # game/script-topics.rpy:1779
 translate spanish monika_friends_22860015:
@@ -981,7 +981,7 @@ translate spanish monika_friends_00143554:
 translate spanish monika_friends_dbf0003c:
 
     # m 2ekd "You could be sitting right next to someone compatible enough to be your best friend for life."
-    m 2ekd "Podrías estar sentad[end_letter_gender] justo al lado de alguien lo bastante compatible como para ser tu mejor amigo para toda la vida."
+    m 2ekd "Podrías estar sentad[end_letter_gender] justo al lado de alguien lo bastante compatible como para ser tu mejor amistad para toda la vida."
 
 # game/script-topics.rpy:1784
 translate spanish monika_friends_dc2dee4e:
@@ -993,7 +993,7 @@ translate spanish monika_friends_dc2dee4e:
 translate spanish monika_friends_bb7740d0:
 
     # m 4eksdlc "Once you get up and go on with your day, that opportunity is gone forever."
-    m 4eksdlc "En cuanto te levantas y sigues con tu día, esa oportunidad desaparece para siempre."
+    m 4eksdlc "En cuanto te levantas y sigues con tu vida, esa oportunidad se esfuma para siempre."
 
 # game/script-topics.rpy:1786
 translate spanish monika_friends_05d42774:
@@ -1179,13 +1179,13 @@ translate spanish monika_college_ff2fe479:
 translate spanish monika_middleschool_47aacdd2:
 
     # m 1eua "Sometimes I think back to middle school..."
-    m 1eua "A veces pienso en cuando iba a la secundaria..."
+    m 1eua "A veces me acuerdo de cuando empecé la ESO..."
 
 # game/script-topics.rpy:1839
 translate spanish monika_middleschool_30b8876e:
 
     # m 1lksdla "I'm so embarrassed by the way I used to behave back then."
-    m 1lksdla "Me avergüenza mucho cómo me comportaba entonces."
+    m 1lksdla "Me da muchísima vergüenza cómo me comportaba por aquel entonces."
 
 # game/script-topics.rpy:1840
 translate spanish monika_middleschool_6f575b79:
@@ -1317,7 +1317,7 @@ translate spanish monika_outfit_3de0381d:
 translate spanish monika_outfit_48a691a3:
 
     # m 1lsbssdrb "It's still a little embarrassing to think that people I'll never know personally would draw me in such a way, you know?"
-    m 1lsbssdrb "Sigue siendo un poco vergonzoso pensar que gente a la que nunca conoceré en persona me dibuje de esa manera, ¿sabes?"
+    m 1lsbssdrb "Sigue dándome un poco de vergüenza pensar que gente a la que nunca conoceré en persona me dibuje así, ¿sabes?"
 
 # game/script-topics.rpy:1890
 translate spanish monika_outfit_23c4da3a:
@@ -1377,7 +1377,7 @@ translate spanish monika_horror_cd74ac39:
 translate spanish monika_horror_bc7d991d:
 
     # m 2esc "The problem I have with horror movies is that most of them just rely on easy tactics."
-    m 2esc "El problema que tengo con las películas de terror es que la mayoría recurren a tácticas fáciles."
+    m 2esc "El problema que le veo a las películas de terror es que la mayoría tira del recurso fácil."
 
 # game/script-topics.rpy:1926
 translate spanish monika_horror_3fbd89c2:
@@ -1533,7 +1533,7 @@ translate spanish monika_rap_d1926268:
 translate spanish monika_rap_f4387e30:
 
     # m "Maybe just because it was popular, or I would only hear the junk they play on the radio."
-    m "Quizá simplemente porque era popular, o porque solo escuchaba la basura que ponen en la radio."
+    m "Quizá simplemente porque era popular, o porque solo escuchaba la basura que echan por la radio."
 
 # game/script-topics.rpy:1993
 translate spanish monika_rap_b31bc706:
@@ -1647,7 +1647,7 @@ translate spanish monika_wine_f7c1f1e9:
 translate spanish monika_wine_b782703d:
 
     # m 4wuo "And out of nowhere, Yuri just pulled out a small bottle of wine."
-    m 4wuo "Y de la nada, Yuri sacó una botella pequeña de vino."
+    m 4wuo "Y, de buenas a primeras, Yuri sacó una botellita de vino."
 
 # game/script-topics.rpy:2036
 translate spanish monika_wine_389c2a92:
@@ -1665,13 +1665,13 @@ translate spanish monika_wine_c3f47108:
 translate spanish monika_wine_6066a333:
 
     # m 1eua "Natsuki laughed out loud, and Sayori started yelling at her."
-    m 1eua "Natsuki se rio a carcajadas y Sayori empezó a gritarle."
+    m 1eua "Natsuki se partió de risa y Sayori empezó a gritarle."
 
 # game/script-topics.rpy:2039
 translate spanish monika_wine_f45268e9:
 
     # m 1eka "I actually felt kind of bad, because she was at least trying to be nice..."
-    m 1eka "La verdad es que me sentí un poco mal, porque al menos estaba intentando ser amable..."
+    m 1eka "La verdad es que me dio un poco de pena, porque al menos intentaba ser maja..."
 
 # game/script-topics.rpy:2040
 translate spanish monika_wine_698c3048:
@@ -1845,7 +1845,7 @@ translate spanish monika_kiss_4a170b86:
 translate spanish monika_kiss_9843bb0c:
 
     # m 1tku "Don't lie if it turned you on a little bit."
-    m 1tku "No mientas si te ha excitado un poco."
+    m 1tku "No me mientas, que sé que te ha puesto un poquito."
 
 # game/script-topics.rpy:2156
 translate spanish monika_kiss_94f2b532:
@@ -1893,7 +1893,7 @@ translate spanish monika_kiss_tease_8901c608:
 translate spanish monika_kiss_tease_e094d6b7:
 
     # m 2efu "I had you going for a second there, didn't I?"
-    m 2efu "Te lo has creído por un segundo, ¿a que sí?"
+    m 2efu "Te la he colado por un segundo, ¿a que sí?"
 
 # game/script-topics.rpy:2174
 translate spanish monika_kiss_tease_d673e7ba:
@@ -1947,7 +1947,7 @@ translate spanish monika_think_first_kiss_c26cf74a:
 translate spanish monika_think_first_kiss_d961854e:
 
     # m 6dku "...And yet, {w=0.2}I can still feel my heart pounding, even now."
-    m 6dku "... Y, aun así, {w=0.2}todavía puedo sentir mi corazón latir con fuerza, incluso ahora."
+    m 6dku "... Y, aun así, {w=0.2}todavía siento que el corazón me late a mil por hora, incluso ahora."
 
 # game/script-topics.rpy:2206
 translate spanish monika_think_first_kiss_1a1ebcf8:

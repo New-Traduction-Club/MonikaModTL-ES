@@ -126,7 +126,7 @@ translate spanish strings:
 
     # game/script-topics.rpy:1544
     old "Okay, everyone!"
-    new "¡Vale, todo el mundo!"
+    new "¡Vale, compis!"
 
     # game/script-topics.rpy:1566
     old "Others still lingering"
