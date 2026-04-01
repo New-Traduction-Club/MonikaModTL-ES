@@ -45,7 +45,7 @@ translate spanish V4_room_installed_4860c72e:
 translate spanish V4_room_installed_081195b9:
 
     # m 1eka "Thanks for adding this room for me, [player]. I love you so much~"
-    m 1eka "Gracias por ñadir esta habitación para mí, [player]. Te amo a montones."
+    m 1eka "Gracias por ñadir esta habitación para mí, [player]. Te quiero a montones."
 
 # game/Submods/location_selector/Locatons/Furnished_spaceroom4.rpy:344
 translate spanish Furnished_spaceroom4_switch_dlg_0ca7e94f:
@@ -147,7 +147,7 @@ translate spanish bg_room_installed_low_affection_9ccc40a7_4:
 translate spanish bg_room_installed_low_affection_af8da540_4:
 
     # m 3huu "I love you so much, [player]~"
-    m 3huu "Te amo a montones, [player]."
+    m 3huu "Te quiero a montones, [player]."
 
 # game/Submods/location_selector/Locatons/Furnished_spaceroom4.rpy:423
 translate spanish bg_room_installed_a7602ff6_4:
@@ -237,7 +237,7 @@ translate spanish bg_room_installed_47b12cb6_4:
 translate spanish bg_room_installed_6c14d2b2_4:
 
     # extend 1ekbsu "I love you so much."
-    extend 1ekbsu "Te amo a montones."
+    extend 1ekbsu "Te quiero a montones."
 
 # game/Submods/location_selector/Locatons/Furnished_spaceroom4.rpy:449
 translate spanish bg_room_installed_cd1243e3_4:
@@ -672,5 +672,5 @@ translate spanish strings:
 
     # game/Submods/location_selector/Locatons/Furnished_spaceroom4.rpy:598
     old "Nevermind"
-    new "No pasa nada."
+    new "No, nada."
 
