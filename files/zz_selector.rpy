@@ -9,7 +9,7 @@ translate spanish mas_selector_generic_sidebar_select_acs_3dd0f7cb:
 translate spanish mas_selector_generic_sidebar_select_acs_bd2a5f73:
 
     # m 1eka "Oh, alright."
-    m 1eka "Oh, de acuerdo."
+    m 1eka "Ah, de acuerdo."
 
 # game/zz_selector.rpy:3989
 translate spanish monika_clothes_select_74680220:
@@ -21,7 +21,7 @@ translate spanish monika_clothes_select_74680220:
 translate spanish monika_clothes_select_bd2a5f73:
 
     # m 1eka "Oh, alright."
-    m 1eka "Oh, de acuerdo."
+    m 1eka "Ah, de acuerdo."
 
 # game/zz_selector.rpy:4096
 translate spanish monika_event_clothes_select_74680220:
@@ -33,7 +33,7 @@ translate spanish monika_event_clothes_select_74680220:
 translate spanish monika_event_clothes_select_bd2a5f73:
 
     # m 1eka "Oh, alright."
-    m 1eka "Oh, de acuerdo."
+    m 1eka "Ah, de acuerdo."
 
 # game/zz_selector.rpy:4146
 translate spanish monika_hair_select_74680220:
@@ -45,7 +45,7 @@ translate spanish monika_hair_select_74680220:
 translate spanish monika_hair_select_bd2a5f73:
 
     # m 1eka "Oh, alright."
-    m 1eka "Oh, de acuerdo."
+    m 1eka "Ah, de acuerdo."
 
 # game/zz_selector.rpy:4226
 translate spanish monika_ribbon_select_13d1eccf:
@@ -57,7 +57,7 @@ translate spanish monika_ribbon_select_13d1eccf:
 translate spanish monika_ribbon_select_bd2a5f73:
 
     # m 1eka "Oh, alright."
-    m 1eka "Oh, de acuerdo."
+    m 1eka "Ah, de acuerdo."
 
 # game/zz_selector.rpy:4304
 translate spanish monika_hairflower_select_13d1eccf:
@@ -69,7 +69,7 @@ translate spanish monika_hairflower_select_13d1eccf:
 translate spanish monika_hairflower_select_bd2a5f73:
 
     # m 1eka "Oh, alright."
-    m 1eka "Oh, de acuerdo."
+    m 1eka "Ah, de acuerdo."
 
 translate spanish strings:
 
@@ -83,7 +83,7 @@ translate spanish strings:
 
     # game/zz_selector.rpy:693
     old "Great choice, [player]!"
-    new "¡Genial elección, [player]!"
+    new "¡Qué buena elección, [player]!"
 
     # game/zz_selector.rpy:693
     old "What do you think, [player]?"
@@ -91,11 +91,11 @@ translate spanish strings:
 
     # game/zz_selector.rpy:693
     old "How do I look, [player]?"
-    new "¿Qué tal me queda, [player]?"
+    new "¿Qué tal me veo, [player]?"
 
     # game/zz_selector.rpy:693
     old "I really like this look, [player]!"
-    new "¡Me gusta mucho este look, [player]!"
+    new "¡Me gusta mucho este estilo, [player]!"
 
     # game/zz_selector.rpy:693
     old "Just what I was thinking!"
@@ -208,7 +208,7 @@ translate spanish strings:
 
     # game/zz_selector.rpy:41
     old "Can you wear earrings?"
-    new "¿Puedes ponerte pendientes?"
+    new "¿Puedes ponerte unos pendientes?"
 
     # game/zz_selector.rpy:41
     old "Can you change your hairstyle?"
@@ -224,15 +224,15 @@ translate spanish strings:
 
     # game/zz_selector.rpy:41
     old "Can you change your hairclip?"
-    new "¿Puedes cambiar de pasador?"
+    new "¿Puedes cambiar de horquilla?"
 
     # game/zz_selector.rpy:41
     old "Can you wear a hairclip?"
-    new "¿Puedes ponerte un pasador?"
+    new "¿Puedes ponerte una horquilla?"
 
     # game/zz_selector.rpy:41
     old "Can you change the flower in your hair?"
-    new "¿Puedes cambiar la flor de tu pelo?"
+    new "¿Puedes cambiarte la flor de tu pelo?"
 
     # game/zz_selector.rpy:41
     old "Can you wear a flower in your hair?"
