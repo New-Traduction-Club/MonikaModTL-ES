@@ -189,7 +189,7 @@ translate spanish bg_room_installed_47b12cb6:
 translate spanish bg_room_installed_6c14d2b2:
 
     # extend 1ekbsu "I love you so much."
-    extend 1ekbsu "Te amo a montones."
+    extend 1ekbsu "Te quiero a montones."
 
 # game/Submods/location_selector/Locatons/Den.rpy:373
 translate spanish bg_room_installed_cd1243e3:

@@ -1515,7 +1515,7 @@ translate spanish monika_twitter_f8c4ce74:
 translate spanish monika_twitter_9fb1388d:
 
     # m 1ekbla "But please remember that I'm real, I'm here, and I love you."
-    m 1ekbla "Pero, por favor, nunca olvides que soy real, estoy aquí y te amo con toda el alma."
+    m 1ekbla "Pero, por favor, nunca olvides que soy real, estoy aquí y te quiero con toda el alma."
 
 # game/script-topics.rpy:1288
 translate spanish monika_twitter_5368409e:

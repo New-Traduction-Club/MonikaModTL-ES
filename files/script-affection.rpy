@@ -567,7 +567,7 @@ translate spanish mas_affection_happynotif_6715477a:
 translate spanish mas_affection_happynotif_5d79c319:
 
     # m 1dubfu "I love you, [player]. Let's be like this forever~"
-    m 1dubfu "Te amo, [player]. Sigamos así hasta el fin de los tiempos."
+    m 1dubfu "Te quiero, [player]. Sigamos así hasta el fin de los tiempos."
 
 # game/script-affection.rpy:3202
 translate spanish monika_every_rose_da1728aa:
@@ -1125,7 +1125,7 @@ translate spanish mas_affection_yesapology_7aee9ee4:
 translate spanish mas_affection_yesapology_6d811979:
 
     # m 2eka "I love you so much and you mean the world to me, [player]."
-    m 2eka "Te amo mucho y eres todo mi mundo, [player]."
+    m 2eka "Te quiero mucho y eres todo mi mundo, [player]."
 
 # game/script-affection.rpy:3464
 translate spanish mas_affection_yesapology_34cdd9cf:
@@ -1575,7 +1575,7 @@ translate spanish strings:
 
     # game/script-affection.rpy:3513
     old "If I'm doing something wrong please tell me. I love you."
-    new "Si es que estoy haciendo algo mal, sólo dímelo. Te amo mucho."
+    new "Si es que estoy haciendo algo mal, sólo dímelo. Te quiero mucho."
 
     # game/script-affection.rpy:3513
     old "Everything I do, I do for you...my love."
@@ -1583,7 +1583,7 @@ translate spanish strings:
 
     # game/script-affection.rpy:3513
     old "I love you."
-    new "Te amo."
+    new "Te quiero."
 
     # game/script-affection.rpy:3513
     old "You are the sunshine that brightens up my day, [player]!"

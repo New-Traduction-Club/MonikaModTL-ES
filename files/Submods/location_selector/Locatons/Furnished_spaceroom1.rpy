@@ -98,7 +98,7 @@ translate spanish bg_room_installed_low_affection_9ccc40a7_1:
 translate spanish bg_room_installed_low_affection_af8da540_1:
 
     # m 3huu "I love you so much, [player]~"
-    m 3huu "Te amo a montones, [player]."
+    m 3huu "Te quiero a montones, [player]."
 
 # game/Submods/location_selector/Locatons/Furnished_spaceroom1.rpy:380
 translate spanish bg_room_installed_a7602ff6_1:
@@ -188,7 +188,7 @@ translate spanish bg_room_installed_47b12cb6_1:
 translate spanish bg_room_installed_6c14d2b2_1:
 
     # extend 1ekbsu "I love you so much."
-    extend 1ekbsu "Te amo a montones."
+    extend 1ekbsu "Te quiero a montones."
 
 # game/Submods/location_selector/Locatons/Furnished_spaceroom1.rpy:406
 translate spanish bg_room_installed_cd1243e3_1:

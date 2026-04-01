@@ -35,11 +35,11 @@ translate spanish strings:
 
     # game/event-handler.rpy:3330
     old "I love you too!"
-    new "Yo también te amo"
+    new "Yo también te quiero"
 
     # game/event-handler.rpy:3332
     old "I love you!"
-    new "Te amo"
+    new "Te quiero"
 
     # game/event-handler.rpy:3333
     old "I feel..."
