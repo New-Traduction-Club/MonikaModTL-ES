@@ -11,15 +11,15 @@ translate spanish strings:
 
     # game/zz_spriteobjects.rpy:761
     old "Looks cute, don't you think?"
-    new "Se ve mona, ¿no crees?"
+    new "Me queda muy mono, ¿no crees?"
 
     # game/zz_spriteobjects.rpy:1140
     old "TALE AS OLD AS TIME"
-    new "UNA HISTORIA ANCESTRAL"
+    new "FÁBULA ANCESTRAL"
 
     # game/zz_spriteobjects.rpy:1140
     old "TRUE AS IT CAN BE"
-    new "CIERTA Y REAL"
+    new "CIERTO COMO EL SOL"
 
     # game/zz_spriteobjects.rpy:1279
     old "Pink Diamond"
@@ -55,7 +55,7 @@ translate spanish strings:
 
     # game/zz_spriteobjects.rpy:1468
     old "Ready to deck the halls, [player]?"
-    new "¿Listo para decorar la casa, [player]?"
+    new "¿List[end_letter_gender] para decorar la casa, [player]?"
 
     # game/zz_spriteobjects.rpy:1638
     old "That's pretty formal, [player]."
@@ -139,7 +139,7 @@ translate spanish strings:
 
     # game/zz_spriteobjects.rpy:2017
     old "Looks cute, right?"
-    new "Se ve mono, ¿verdad?"
+    new "Me queda mono, ¿verdad?"
 
     # game/zz_spriteobjects.rpy:2017
     old "Good choice!"
@@ -167,7 +167,7 @@ translate spanish strings:
 
     # game/zz_spriteobjects.rpy:2107
     old "Doesn't it look pretty?"
-    new "¿A que se ve bonito?"
+    new "¿A que queda precioso?"
 
     # game/zz_spriteobjects.rpy:2137
     old "Like a clear summer sky..."
@@ -203,7 +203,7 @@ translate spanish strings:
 
     # game/zz_spriteobjects.rpy:2228
     old "Formal! Are you taking me somewhere special, [player]?"
-    new "¡Formal! ¿Me llevas a algún sitio especial, [player]?"
+    new "¡Qué formal! ¿Me vas a llevar a algún sitio especial, [player]?"
 
     # game/zz_spriteobjects.rpy:2258
     old "This color reminds me of a nice summer day!"
@@ -215,7 +215,7 @@ translate spanish strings:
 
     # game/zz_spriteobjects.rpy:2354
     old "I'm shining like a diamond~"
-    new "Estoy brillando como un diamante."
+    new "Brillo como un diamante."
 
     # game/zz_spriteobjects.rpy:2430
     old "Ready for school!"
@@ -235,7 +235,7 @@ translate spanish strings:
 
     # game/zz_spriteobjects.rpy:2627
     old "n-nya..."
-    new "M-miau..."
+    new "M-Miau..."
 
     # game/zz_spriteobjects.rpy:2627
     old "Nya!"
@@ -259,7 +259,7 @@ translate spanish strings:
 
     # game/zz_spriteobjects.rpy:2716
     old "What kind of {i}presents{/i} do you want?"
-    new "¿Qué tipo de {i}regalos{/i} quieres?"
+    new "¿Qué clase de regalos te apetecen?"
 
     # game/zz_spriteobjects.rpy:2716
     old "Happy holidays!"
@@ -283,11 +283,11 @@ translate spanish strings:
 
     # game/zz_spriteobjects.rpy:2752
     old "What {i}else{/i} do you want to unwrap?~"
-    new "¿Qué {i}más{/i} quieres desenvolver?"
+    new "¿Qué más quieres desenvolver?"
 
     # game/zz_spriteobjects.rpy:2794
     old "Very formal!"
-    new "¡Muy formal!"
+    new "¡Qué formal!"
 
     # game/zz_spriteobjects.rpy:2794
     old "Any special occasion, [player]?"
@@ -306,12 +306,13 @@ translate spanish strings:
     new "¿Te gusta lo que ves, [player]?"
 
     # game/zz_spriteobjects.rpy:2926
+    # Note: se refiere al minijuego 'NOU', conservar el chiste de algún modo
     old "No U! Ehehe~"
-    new "¡Tú más! Je, je, je."
+    new "¡No, tú! Je, je, je."
 
     # game/zz_spriteobjects.rpy:2926
     old "Ready to draw some more cards?~"
-    new "¿Listo para robar más cartas?"
+    new "¿List[end_letter_gender] para robar más cartas?"
 
     # game/zz_spriteobjects.rpy:2926
     old "Colorful!"
@@ -483,11 +484,11 @@ translate spanish strings:
 
     # game/zz_spriteobjects.rpy:2716
     old "Santa Costume"
-    new "Disfraz de Santa"
+    new "Disfraz de Papá Noel"
 
     # game/zz_spriteobjects.rpy:2752
     old "Lingerie (Santa)"
-    new "Lencería (Santa)"
+    new "Lencería (Papá Noel)"
 
     # game/zz_spriteobjects.rpy:2794
     old "Dress (New Years)"
