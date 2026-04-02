@@ -1995,4 +1995,4 @@ translate spanish monika_striped_pajamas_30623ecd:
 translate spanish monika_striped_pajamas_cf1385fc:
 
     # m 7eud "But it actually got me thinking...{w=0.2}although obviously my situation isn't nearly as dire, it's hard not to draw some comparisons between their relationship and ours."
-    m 7eud "Pero la verdad es que me ha dado qué pensar... {w=0.2} aunque mi situación no sea ni de lejos tan extrema, es difícil no hacer algunas comparaciones entre su relación y la nuestra."
+    m 7eud "Pero la verdad es que me ha dado qué pensar... {w=0.2}aunque mi situación no sea ni de lejos tan extrema, es difícil no hacer algunas comparaciones entre su relación y la nuestra."
