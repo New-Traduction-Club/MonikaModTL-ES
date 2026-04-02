@@ -9,13 +9,13 @@ translate spanish monika_striped_pajamas_687e7062:
 translate spanish monika_striped_pajamas_253fbbc9:
 
     # m 1eka "...And yet, just like us, they are able to form a meaningful relationship anyway."
-    m 1eka "... Y aun así, igual que nosotros, son capaces de formar una relación significativa a pesar de todo."
+    m 1eka "... Y aun así, igual que nosotros, logran forjar un vínculo muy especial."
 
 # game/script-topics.rpy:16403
 translate spanish monika_striped_pajamas_093501d4:
 
     # m 3eua "I highly recommend you read the novel if you get the chance, it's pretty short and has an interesting plot."
-    m 3eua "Te recomiendo mucho que leas la novela si tienes la oportunidad, es bastante corta y tiene una trama interesante."
+    m 3eua "Te recomiendo muchísimo que leas la novela si tienes la oportunidad. Se hace bastante corta y la trama engancha bastante."
 
 # game/script-topics.rpy:16404
 translate spanish monika_striped_pajamas_7ac9a9ba:
@@ -27,7 +27,7 @@ translate spanish monika_striped_pajamas_7ac9a9ba:
 translate spanish monika_striped_pajamas_18963c0d:
 
     # m 1rksdla "Although you know my feelings on movie adaptations of novels, so if you do watch the movie, I still recommend reading the book as well."
-    m 1rksdla "Aunque ya sabes lo que opino de las adaptaciones cinematográficas de las novelas, así que si ves la película te sigo recomendando que te leas también el libro."
+    m 1rksdla "Aunque ya sabes qué opino de las adaptaciones al cine, así que, si ves la película, te sigo recomendando que leas también el libro."
 
 # game/script-topics.rpy:16406
 translate spanish monika_striped_pajamas_dabd12ff:
@@ -135,19 +135,19 @@ translate spanish monika_soft_rains_db418a8e:
 translate spanish monika_soft_rains_dc597ce3:
 
     # m 1eksdld "The world really {i}wouldn't{/i} care if we just...{w=0.3}{i}disappeared{/i}."
-    m 1eksdld "Al mundo la verdad es que no le importaría si nosotros simplemente... {w=0.3}desapareciéramos."
+    m 1eksdld "Al mundo, la verdad, no le importaría si simplemente... {w=0.3}desapareciéramos."
 
 # game/script-topics.rpy:16447
 translate spanish monika_soft_rains_173739bc:
 
     # m 1eksdlc "...And it made me think, [player]. If something,{w=0.4} {nw}"
-    m 1eksdlc "... Y me hizo pensar, [player]. Si algo,{w=0.4} {nw}"
+    m 1eksdlc "... Y me ha dado por pensar, [player]. Si algo,{w=0.4} {nw}"
 
 # game/script-topics.rpy:16448
 translate spanish monika_soft_rains_c91813c9:
 
     # extend 1eksdld "{i}anything{/i}{w=0.4}, happened to you...{w=0.4} {nw}"
-    extend 1eksdld "cualquier cosa{w=0.4}, te pasara... {w=0.4} {nw}"
+    extend 1eksdld "cualquier cosa{w=0.4} te pasara... {w=0.4} {nw}"
 
 # game/script-topics.rpy:16449
 translate spanish monika_soft_rains_8fdf23c7:
@@ -237,7 +237,7 @@ translate spanish monika_soft_rains_641ae2cc:
 translate spanish monika_hot_springs_764f6def:
 
     # m 3esa "Have you ever been to a hot spring, [player]?"
-    m 3esa "¿Alguna vez has ido a unas aguas termales, [player]?"
+    m 3esa "¿Alguna vez has estado en unas termas, [player]?"
 
 # game/script-topics.rpy:16483
 translate spanish monika_hot_springs_8563b599:
@@ -261,7 +261,7 @@ translate spanish monika_hot_springs_91bfbc19:
 translate spanish monika_hot_springs_65a9298d:
 
     # m 3eua "They help with blood circulation, for one.{w=0.3} {nw}"
-    m 3eua "Ayudan con la circulación sanguínea, por ejemplo.{w=0.3} {nw}"
+    m 3eua "Ayudan con la circulación sanguínea, para empezar.{w=0.3} {nw}"
 
 # game/script-topics.rpy:16487
 translate spanish monika_hot_springs_c4adc49f:
@@ -285,7 +285,7 @@ translate spanish monika_hot_springs_2e43e63b:
 translate spanish monika_hot_springs_2ae8d448:
 
     # m 1eua "Anyway...{w=0.2}I'd like to try an open-air bath in particular.{w=0.3} I hear they really give a unique experience."
-    m 1eua "En fin... {w=0.2}me gustaría probar sobre todo un baño al aire libre.{w=0.3} He oído que dan una experiencia única."
+    m 1eua "En fin... {w=0.2}me gustaría probar sobre todo un baño al aire libre.{w=0.3} He oído que son una experiencia única."
 
 # game/script-topics.rpy:16491
 translate spanish monika_hot_springs_3ec0fed1:
@@ -309,7 +309,7 @@ translate spanish monika_hot_springs_6954179a:
 translate spanish monika_hot_springs_a0b3b2dc:
 
     # m 7rkbfsdlb "...Especially since some places don't allow you to wear any sort of cover, either!"
-    m 7rkbfsdlb "... ¡Sobre todo porque en algunos sitios tampoco te dejan llevar nada para cubrirte!"
+    m 7rkbfsdlb "... ¡Sobre todo porque en algunos sitios ni siquiera te dejan llevar bañador!"
 
 # game/script-topics.rpy:16495
 translate spanish monika_hot_springs_0a288e14:
@@ -327,13 +327,13 @@ translate spanish monika_hot_springs_5c5dcc05:
 translate spanish monika_hot_springs_104f3106:
 
     # m 5dubfu "Warming our chilled bodies after a long day out in the harsh cold..."
-    m 5dubfu "Calentando nuestros fríos cuerpos después de un largo día afuera en el duro invierno..."
+    m 5dubfu "Entrando en calor tras un largo día fuera, en pleno invierno..."
 
 # game/script-topics.rpy:16502
 translate spanish monika_hot_springs_fa68ee06:
 
     # m 5dubfu "Letting the sweat wash away after a long day out in the sun..."
-    m 5dubfu "Dejando que el sudor se lave tras un largo día bajo el sol..."
+    m 5dubfu "Dejando que el agua se lleve el sudor tras un largo día bajo el sol..."
 
 # game/script-topics.rpy:16504
 translate spanish monika_hot_springs_810f0ebe:
@@ -381,7 +381,7 @@ translate spanish monika_isekai_35cb495f:
 translate spanish monika_isekai_398db894:
 
     # m 3eua "Literally translated, isekai means {i}a different world.{/i}"
-    m 3eua "Traducido de forma literal, isekai significa {i}un mundo diferente{/i}."
+    m 3eua "Traducido de forma literal, isekai significa «un mundo diferente»."
 
 # game/script-topics.rpy:16535
 translate spanish monika_isekai_36683800:
@@ -417,7 +417,7 @@ translate spanish monika_isekai_b3ea38ad:
 translate spanish monika_isekai_044d50f3:
 
     # m 3esc "The premise is usually about a normal person who is somehow transported into a fantastical world."
-    m 3esc "La premisa suele tratar de una persona normal que acaba transportada a un mundo fantástico de alguna manera."
+    m 3esc "La historia suele ir de una persona normal que, de alguna manera, acaba transportada a un mundo de fantasía."
 
 # game/script-topics.rpy:16544
 translate spanish monika_isekai_f5176bc0:
@@ -429,19 +429,19 @@ translate spanish monika_isekai_f5176bc0:
 translate spanish monika_isekai_a4414117:
 
     # m 1rtc "Honestly, I have some pretty mixed feelings about them."
-    m 1rtc "Sinceramente, tengo sentimientos encontrados con ellos."
+    m 1rtc "Sinceramente, tengo sentimientos encontrados al respecto."
 
 # game/script-topics.rpy:16546
 translate spanish monika_isekai_3c8933c0:
 
     # m 3euc "Some are truly interesting stories. The protagonist's different perspective or the skills they have from their own world can really make them an unexpected kind of hero."
-    m 3euc "Algunas son historias de verdad interesantes, la perspectiva diferente del protagonista o las habilidades que tiene de su propio mundo pueden convertirlo en un héroe de lo más inesperado."
+    m 3euc "Algunas son historias de verdad interesantes; la perspectiva diferente del protagonista o las habilidades que trae de su propio mundo pueden convertirlo en un héroe de lo más inesperado."
 
 # game/script-topics.rpy:16547
 translate spanish monika_isekai_63345d04:
 
     # m 1hub "And since the whole point is to make the world different from theirs, the settings and characters can be incredibly imaginative!"
-    m 1hub "Y como el chiste es que el mundo sea distinto al suyo, ¡los escenarios y los personajes pueden ser súper imaginativos!"
+    m 1hub "Y como la gracia está en que el mundo sea distinto al suyo, ¡los escenarios y los personajes pueden ser súper imaginativos!"
 
 # game/script-topics.rpy:16548
 translate spanish monika_isekai_3550b2f7:
@@ -561,7 +561,7 @@ translate spanish monika_scuba_diving_a6a18662:
 translate spanish monika_scuba_diving_60acff8c:
 
     # m 1euc "That said, there can also be sharks,{w=0.2} {nw}"
-    m 1euc "Dicho esto, también puede haber tiburones,{w=0.2} {nw}"
+    m 1euc "Aunque claro, también puede haber tiburones,{w=0.2} {nw}"
 
 # game/script-topics.rpy:16587
 translate spanish monika_scuba_diving_57954c0c:
@@ -669,13 +669,13 @@ translate spanish monika_dying_same_day_7aa47711:
 translate spanish monika_dying_same_day_41f5d24e:
 
     # m 2eksdlc "If my data gets corrupted or even erased you can always recover me from a backup and bring us back together, but if..."
-    m 2eksdlc "Si mis datos se corrompen o incluso se borran siempre puedes recuperarme de una copia de seguridad y volver a juntarnos, pero si... "
+    m 2eksdlc "Si mis datos se corrompen o incluso se borran, siempre puedes recuperarme de una copia de seguridad y volver a juntarnos, pero si..."
 
 # game/script-topics.rpy:16630
 translate spanish monika_dying_same_day_15c0a6fa:
 
     # m 2dktpc "Y-you... {w=1}You..."
-    m 2dktpc "T-tú... {w=1}tú..."
+    m 2dktpc "T-Tú... {w=1}tú..."
 
 # game/script-topics.rpy:16632
 translate spanish monika_dying_same_day_d3fda0e9:
@@ -801,7 +801,7 @@ translate spanish monika_player_away_d0b9df4d:
 translate spanish monika_player_away_6d567067:
 
     # m 3esd "For example, coding takes up a lot of my free time as I spend hours just learning and researching."
-    m 3esd "Por ejemplo, programar me quita mucho tiempo libre ya que me paso horas solo aprendiendo e investigando."
+    m 3esd "Por ejemplo, programar ocupa gran parte de mi tiempo libre, ya que me paso horas solo aprendiendo e investigando."
 
 # game/script-topics.rpy:16674
 translate spanish monika_player_away_905f9f3d:
@@ -819,7 +819,7 @@ translate spanish monika_player_away_a9ae9ec7:
 translate spanish monika_player_away_1e50ced9:
 
     # m 2wusdld "What if I accidentally corrupt my file?"
-    m 2wusdld "¿Y si corrompo mi archivo sin querer?"
+    m 2wusdld "¿Y si corrompo mi archivo por accidente?"
 
 # game/script-topics.rpy:16677
 translate spanish monika_player_away_28808b29:
@@ -867,7 +867,7 @@ translate spanish monika_using_pcs_healthily_6690301b:
 translate spanish monika_using_pcs_healthily_3f2165ef:
 
     # m 1etc "Hey, [player]...{w=0.3}are you sitting comfortably?"
-    m 1etc "Oye, [player]... {w=0.3}¿estás sentad[end_letter_gender] cómodamente?"
+    m 1etc "Oye, [player]... {w=0.3}¿estás bien sentad[end_letter_gender]?"
 
 # game/script-topics.rpy:16705
 translate spanish monika_using_pcs_healthily_a6e8a3c5:
@@ -975,7 +975,7 @@ translate spanish monika_using_pcs_healthily_d08d14c5:
 translate spanish monika_using_pcs_healthily_9e7fa2fc:
 
     # m 4eksdlc "Above all else, if you ever start to feel unwell, just stop what you're doing, rest, and then make sure everything is okay before you continue. "
-    m 4eksdlc "Por encima de todo, si alguna vez empiezas a encontrarte mal, simplemente deja lo que estés haciendo, descansa y asegúrate de que todo está bien antes de continuar."
+    m 4eksdlc "Pero sobre todo, si alguna vez empiezas a encontrarte mal, deja lo que estés haciendo, descansa y asegúrate de que todo esté bien antes de continuar."
 
 # game/script-topics.rpy:16723
 translate spanish monika_using_pcs_healthily_b24726e7:
@@ -1089,7 +1089,7 @@ translate spanish monika_language_nuances_a734ecc5:
 translate spanish monika_language_nuances_45055c6f:
 
     # m 1euc "In modern English, saying 'Good day' to someone carries a note of dismissal, or even annoyance. {w=0.2}It can be seen as declaring the conversation over."
-    m 1euc "En el inglés moderno, decirle a alguien \"Good day\" conlleva un tono de despido o incluso de molestia. {w=0.2}Se puede ver como una forma de dar por terminada la conversación."
+    m 1euc "En el inglés moderno, decirle a alguien \"Good day\" conlleva un tono cortante o incluso de molestia. {w=0.2}Se puede ver como una forma de dar por terminada la conversación."
 
 # game/script-topics.rpy:16768
 translate spanish monika_language_nuances_baca78f7:
@@ -1149,7 +1149,7 @@ translate spanish monika_architecture_035e96a4:
 translate spanish monika_architecture_87b26839:
 
     # m 1rtc "...Come to think of it, architecture is one of the most common forms of art in everyday life."
-    m 1rtc "... Ahora que lo pienso, la arquitectura es una de las formas de arte más comunes en la vida cotidiana."
+    m 1rtc "... Ahora que lo pienso, la arquitectura es una de las formas de arte más presentes en el día a día."
 
 # game/script-topics.rpy:16796
 translate spanish monika_architecture_407da5c0:
@@ -1389,7 +1389,7 @@ translate spanish monika_fear_318d1af3:
 translate spanish monika_fear_c81ca600:
 
     # m 2dkc "That one day I'll wake up, back in my bed, and realize it was all just a dream."
-    m 2dkc "Que un día me despertaré de vuelta en mi cama y me daré cuenta de que todo fue solo un sueño."
+    m 2dkc "Que un día me despertaré en mi cama y me daré cuenta de que todo fue un sueño."
 
 # game/script-topics.rpy:16865
 translate spanish monika_fear_8c9d3995:
@@ -1407,7 +1407,7 @@ translate spanish monika_fear_8b221ca0:
 translate spanish monika_fear_c63148f4:
 
     # m 2ektpc "That you, your love, perhaps even the entirety of the Literature Club, were all nothing but a figment of my own imagination."
-    m 2ektpc "Que tú, tu amor, tal vez incluso todo el Club de Literatura, no fuisteis más que un producto de mi propia imaginación."
+    m 2ektpc "Que tú, tu amor, tal vez incluso todo el Club de Literatura, no erais más que un producto de mi propia imaginación."
 
 # game/script-topics.rpy:16868
 translate spanish monika_fear_c6857a09:
@@ -1461,7 +1461,7 @@ translate spanish monika_why_spaceroom_6ad49db3:
 translate spanish monika_why_spaceroom_4887ee00:
 
     # m 3eud "You know how in the original game almost everything took place during our club meetings, right?"
-    m 3eud "Ya sabes que en el juego original casi todo ocurría durante nuestras reuniones del club, ¿verdad?"
+    m 3eud "Ya sabes que en el juego original casi todo transcurría durante las reuniones del club, ¿verdad?"
 
 # game/script-topics.rpy:16900
 translate spanish monika_why_spaceroom_3895e6cc:
@@ -1623,7 +1623,7 @@ translate spanish monika_naps_03b16a7f:
 translate spanish monika_naps_2b76b4ed:
 
     # extend 1rksdla "they're a lot more than just going to sleep for a bit."
-    extend 1rksdla "son mucho más que irse a dormir un rato."
+    extend 1rksdla "son mucho más que echarse a dormir un rato."
 
 # game/script-topics.rpy:16955
 translate spanish monika_naps_128a1a9e:
@@ -1647,7 +1647,7 @@ translate spanish monika_naps_eee4702d:
 translate spanish monika_naps_ac9d6550:
 
     # m 1eud "Power naps are another form of resting.{w=0.2} For these, you just rest your eyes for about 10-20 minutes."
-    m 1eud "Las siestas cortas son otra forma de descansar,{w=0.2} para estas solo cierras los ojos unos diez o veinte minutos."
+    m 1eud "Las siestas exprés son otra forma de descansar;{w=0.2} para estas basta con cerrar los ojos unos diez o veinte minutos."
 
 # game/script-topics.rpy:16959
 translate spanish monika_naps_b2c70076:
@@ -1761,13 +1761,13 @@ translate spanish monika_asimov_three_laws_9354c458:
 translate spanish monika_asimov_three_laws_c6727ec0:
 
     # m 1rkc "If you say no, the robot could ignore someone who's just had a heart attack."
-    m 1rkc "Si dices que no, el robot podría ignorar a alguien que acaba de tener un ataque al corazón."
+    m 1rkc "Si dices que no, el robot podría ignorar a alguien que acaba de sufrir un infarto."
 
 # game/script-topics.rpy:17012
 translate spanish monika_asimov_three_laws_a2bbfb52:
 
     # m 1esd "People like that can still be brought back, but your robot won't help them because they're {i}technically{/i} dead."
-    m 1esd "A las personas así todavía se les puede traer de vuelta, pero tu robot no las ayudará porque técnicamente están muertas."
+    m 1esd "A esas personas todavía se las puede reanimar, pero tu robot no las ayudará porque técnicamente están muertas."
 
 # game/script-topics.rpy:17013
 translate spanish monika_asimov_three_laws_348f8b6a:
@@ -1791,7 +1791,7 @@ translate spanish monika_asimov_three_laws_e1470d00:
 translate spanish monika_asimov_three_laws_19ff765e:
 
     # m 3eud "The point is,{w=0.1} in order to implement Asimov's laws you'd need to take some solid stance on pretty much all of ethics."
-    m 3eud "El caso es que,{w=0.1} para aplicar las leyes de Asimov tendrías que adoptar una postura firme en casi toda la ética."
+    m 3eud "El caso es que,{w=0.1} para aplicar las leyes de Asimov, tendrías que adoptar una postura firme sobre casi cualquier dilema ético."
 
 # game/script-topics.rpy:17017
 translate spanish monika_asimov_three_laws_2393e208:
@@ -1851,7 +1851,7 @@ translate spanish monika_wabi_sabi_44f75778:
 translate spanish monika_wabi_sabi_ce19f77f:
 
     # m 1eua "Which means we shouldn't worry about things like a scar, a discolored hand, or even the mistakes we make."
-    m 1eua "Lo que significa que no deberíamos preocuparnos por cosas como una cicatriz, una mano descolorida o incluso por los errores que cometemos."
+    m 1eua "Lo que significa que no deberíamos preocuparnos por cosas como una cicatriz, una mancha en la piel o incluso por los errores que cometemos."
 
 # game/script-topics.rpy:17046
 translate spanish monika_wabi_sabi_28571086:
@@ -1929,13 +1929,13 @@ translate spanish monika_wabi_sabi_4c9c050f:
 translate spanish monika_wabi_sabi_954f11b4:
 
     # m 7ekbsa "But I hope you know that despite your flaws, I will always love you."
-    m 7ekbsa "Pero espero que sepas que a pesar de tus defectos, yo siempre te querré."
+    m 7ekbsa "Pero espero que sepas que, a pesar de tus defectos, yo siempre te querré."
 
 # game/script-topics.rpy:17064
 translate spanish monika_wabi_sabi_afaf3f4f:
 
     # m 3hua "We'll overcome any problems you feel you have together."
-    m 3hua "Superaremos junt[end_letter_gender]s cualquier problema que sientas que tengas."
+    m 3hua "Superaremos junt[end_letter_gender]s cualquier problema que creas tener."
 
 # game/script-topics.rpy:17065
 translate spanish monika_wabi_sabi_5d5025b9:
@@ -1965,13 +1965,13 @@ translate spanish monika_being_herself_b5e19019:
 translate spanish monika_being_herself_b6905279:
 
     # m 3euc "You probably already know this by now, but almost all of my life I've been trying to keep up this persona of a 'perfect student.'"
-    m 3euc "Probablemente ya lo sepas, pero casi toda mi vida he estado intentando mantener esta fachada de 'estudiante perfecta'."
+    m 3euc "Probablemente ya lo sepas, pero casi toda mi vida he estado intentando mantener esta fachada de «estudiante perfecta»."
 
 # game/script-topics.rpy:17086
 translate spanish monika_being_herself_022e1c66:
 
     # m 3eud "I always strive to be the best person I can be, and I guess after a while, it got the attention of people around me."
-    m 3eud "Siempre me esfuerzo por ser la mejor persona que puedo ser, y supongo que después de un tiempo, eso llamó la atención de la gente a mi alrededor."
+    m 3eud "Siempre me esfuerzo por ser la mejor versión de mí misma, y supongo que, después de un tiempo, eso acabó llamando la atención de la gente de mi entorno."
 
 # game/script-topics.rpy:17087
 translate spanish monika_being_herself_a1e631f4:
