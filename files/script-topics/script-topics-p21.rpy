@@ -1947,7 +1947,7 @@ translate spanish monika_striped_pajamas_8be156c7:
 translate spanish monika_striped_pajamas_89ac991c:
 
     # extend 3wud "the reader realizes that the father of the boy is a commander of a concentration camp, which is located right near their new house!"
-    extend 3wud " el lector se da cuenta de que el padre del niño es un comandante de un campo de concentración, ¡que resulta estar justo al lado de su nueva casa!"
+    extend 3wud "el lector se da cuenta de que el padre del niño es un comandante de un campo de concentración, ¡que resulta estar justo al lado de su nueva casa!"
 
 # game/script-topics.rpy:16393
 translate spanish monika_striped_pajamas_692d324b:
@@ -1965,7 +1965,7 @@ translate spanish monika_striped_pajamas_d1b2d73c:
 translate spanish monika_striped_pajamas_d709c108:
 
     # m 3esc "Turns out, that kid is actually a prisoner of the camp...{w=0.2}{nw}"
-    m 3esc "Resulta que ese niño es en realidad un prisionero del campo... {w=0.2}{nw}"
+    m 3esc "Resulta que ese niño es en realidad un prisionero del campo...{w=0.2}{nw}"
 
 # game/script-topics.rpy:16396
 translate spanish monika_striped_pajamas_57208566:
