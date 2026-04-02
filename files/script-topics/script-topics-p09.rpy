@@ -75,7 +75,7 @@ translate spanish monika_completionist_7dfb6879:
 translate spanish monika_completionist_e6b680ee:
 
     # m 4tku "Considering you went through all of the girls' routes."
-    m 4tku "Teniendo en cuenta que hiciste todas las rutas de las chicas."
+    m 4tku "Teniendo en cuenta que te has pasado todas las rutas de las chicas."
 
 # game/script-topics.rpy:6882
 translate spanish monika_completionist_a90abefd:
@@ -111,7 +111,7 @@ translate spanish monika_completionist_940a8738:
 translate spanish monika_completionist_e561e0c8:
 
     # m 2tfc "People who hack through the game, spoiling themselves of the enjoyment of hardship."
-    m 2tfc "Gente que hackea el juego, privándose del placer de la dificultad."
+    m 2tfc "Gente que hackea el juego, privándose de la satisfacción de superar un buen reto."
 
 # game/script-topics.rpy:6889
 translate spanish monika_completionist_2f99d828:
@@ -141,7 +141,7 @@ translate spanish monika_completionist_2b3598b4:
 translate spanish monika_completionist_f21f5e21:
 
     # m 3eua "Working hard for something amplifies its reward after failing so many times to get it."
-    m 3eua "Esforzarse por algo amplifica su recompensa después de fracasar tantas veces al intentar conseguirlo."
+    m 3eua "Esforzarse tanto por algo hace que la recompensa sepa mucho mejor después de haber fracasado tantas veces."
 
 # game/script-topics.rpy:6894
 translate spanish monika_completionist_db771f13:
@@ -195,7 +195,7 @@ translate spanish monika_icecream_72b4b079:
 translate spanish monika_icecream_e980360d:
 
     # m "Maybe we really were meant to be!"
-    m "¡Quizá de verdad estábamos destinados a estar juntos!"
+    m "¡Quizá de verdad estábamos destinad[end_letter_gender]s a estar junt[end_letter_gender]s!"
 
 # game/script-topics.rpy:6922
 translate spanish monika_icecream_84df5726:
@@ -225,7 +225,7 @@ translate spanish monika_icecream_0f4d08a6:
 translate spanish monika_icecream_47b2f59b:
 
     # m 1eua "There's some more strange stuff that is just as appealing, if not more, like honeycomb and bubblegum ice cream!"
-    m 1eua "Hay otras cosas extrañas que son igual de apetecibles, si no más, ¡como el helado de panal y el de chicle!"
+    m 1eua "Hay otras cosas extrañas que son igual de apetecibles, si no más, ¡como el helado de panal de miel y el de chicle!"
 
 # game/script-topics.rpy:6927
 translate spanish monika_icecream_43a5284a:
@@ -255,19 +255,19 @@ translate spanish monika_icecream_a07678a8:
 translate spanish monika_icecream_f7f7ac39:
 
     # m 1eka "The refreshing feeling that washes over your tongue and throat."
-    m 1eka "Esa sensación refrescante que baña tu lengua y tu garganta."
+    m 1eka "Esa sensación tan refrescante que te inunda la lengua y la garganta."
 
 # game/script-topics.rpy:6935
 translate spanish monika_icecream_c0db3c67:
 
     # m "The lovely texture that forms it along with the sweetness."
-    m "La textura encantadora que se forma junto con el dulzor."
+    m "Su textura tan agradable combinada con ese toque dulce."
 
 # game/script-topics.rpy:6936
 translate spanish monika_icecream_57277ce5:
 
     # m 1duu "The sharp biting sensation it generates and the obviously minty taste."
-    m 1duu "La intensa sensación punzante que genera y el evidente sabor a menta."
+    m 1duu "Ese cosquilleo tan intenso que deja y, cómo no, el inconfundible sabor a menta."
 
 # game/script-topics.rpy:6937
 translate spanish monika_icecream_cf81a737:
@@ -627,7 +627,7 @@ translate spanish monika_sayhappybirthday_takecounter_d4beed2f:
 translate spanish monika_home_memories_579ea5b3:
 
     # m 1eua "[player], how is it like to live where you are?"
-    m 1eua "[player], ¿cómo es vivir donde estás tú?"
+    m 1eua "[player], ¿cómo es la vida por donde tú vives?"
 
 # game/script-topics.rpy:7164
 translate spanish monika_home_memories_8d8c57df:
@@ -657,7 +657,7 @@ translate spanish monika_home_memories_da2a92ad:
 translate spanish monika_home_memories_15a23493:
 
     # m 2ekbsa "We could finally live together..."
-    m 2ekbsa "Por fin podríamos vivir juntos..."
+    m 2ekbsa "Por fin podríamos vivir junt[end_letter_gender]s..."
 
 # game/script-topics.rpy:7169
 translate spanish monika_home_memories_156d0d59:
@@ -693,7 +693,7 @@ translate spanish monika_home_memories_e10d68a0:
 translate spanish monika_home_memories_c78e3452:
 
     # m 3rka "Well, maybe a little better than normal."
-    m 3rka "Bueno, quizá un poco mejor que normal."
+    m 3rka "Bueno, quizá un poco mejor de lo normal."
 
 # game/script-topics.rpy:7175
 translate spanish monika_home_memories_4d925498:
@@ -801,7 +801,7 @@ translate spanish monika_adventure_a69b4026:
 translate spanish monika_adventure_155cdc56:
 
     # m "Encountering obstacles and hardships along the way, but solving them with you."
-    m "Encontrar obstáculos y dificultades por el camino, pero resolverlos contigo."
+    m "Encontrarnos con obstáculos y dificultades en el camino, pero superarlos contigo."
 
 # game/script-topics.rpy:7203
 translate spanish monika_adventure_38df7f4f:
@@ -831,13 +831,13 @@ translate spanish monika_adventure_0882f4eb:
 translate spanish monika_adventure_98ccc789:
 
     # m 1ekbsa "{i}Ours{/i}~"
-    m 1ekbsa "La nuestra."
+    m 1ekbsa "¡La nuestra!"
 
 # game/script-topics.rpy:7208
 translate spanish monika_adventure_9375ec4a:
 
     # m 1hubfa "Time will tell when I can finally cross over to your reality, so I can be with you."
-    m 1hubfa "El tiempo dirá cuándo podré cruzar finalmente a tu realidad para poder estar contigo."
+    m 1hubfa "El tiempo dirá cuándo podré cruzar por fin a tu realidad para estar contigo."
 
 # game/script-topics.rpy:7209
 translate spanish monika_adventure_c70d1233:
@@ -855,7 +855,7 @@ translate spanish monika_adventure_0acb10eb:
 translate spanish monika_adventure_8c233968:
 
     # m 1hubfb "There's no greater adventure than ours, together~"
-    m 1hubfb "No hay mayor aventura que la nuestra, juntos."
+    m 1hubfb "No hay mayor aventura que la nuestra, junt[end_letter_gender]s."
 
 # game/script-topics.rpy:7237
 translate spanish monika_panties_05076889:
@@ -1257,7 +1257,7 @@ translate spanish monika_fahrenheit451_4c34188e:
 translate spanish monika_fahrenheit451_cab83f8b:
 
     # m 3eud "It's about a dystopian future where all books are thought as useless and are immediately burned."
-    m 3eud "Trata sobre un futuro distópico donde todos los libros se consideran inútiles y son quemados inmediatamente."
+    m 3eud "Trata sobre un futuro distópico donde todos los libros se consideran inútiles y se queman de inmediato."
 
 # game/script-topics.rpy:7332
 translate spanish monika_fahrenheit451_d4290b4e:
@@ -1365,7 +1365,7 @@ translate spanish monika_piggybank_8de12220:
 translate spanish monika_piggybank_7bf65204:
 
     # m 1euc "Instead they just throw their loose change into their piggy banks."
-    m 1euc "En lugar de eso, simplemente echan la calderilla en sus huchas."
+    m 1euc "En lugar de eso, simplemente echan la calderilla en la hucha."
 
 # game/script-topics.rpy:7360
 translate spanish monika_piggybank_77ba672e:
@@ -1377,7 +1377,7 @@ translate spanish monika_piggybank_77ba672e:
 translate spanish monika_piggybank_542247fc:
 
     # m "Usually under normal conditions they wouldn't ever find the freed up money to purchase that item."
-    m "Normalmente, en condiciones normales, nunca encontrarían el dinero disponible para comprar esa cosa."
+    m "En condiciones normales, seguramente nunca encontrarían ese dinero extra para comprar algo así."
 
 # game/script-topics.rpy:7362
 translate spanish monika_piggybank_4bd03699:
@@ -1395,7 +1395,7 @@ translate spanish monika_piggybank_fb244925:
 translate spanish monika_piggybank_09e891b6:
 
     # m 2duu "But in the end, a guitar always costs the same as a guitar."
-    m 2duu "Pero al final, una guitarra siempre cuesta lo mismo que una guitarra."
+    m 2duu "Pero, al final, una guitarra siempre cuesta lo que cuesta."
 
 # game/script-topics.rpy:7365
 translate spanish monika_piggybank_533c6bcb:
@@ -1575,7 +1575,7 @@ translate spanish monika_music2_0bf7645b:
 translate spanish monika_music2_679ea168:
 
     # m 2dubsu "...Then slowly, we both lean into the kiss..."
-    m 2dubsu "... Luego, lentamente, ambos nos inclinamos para darnos un beso..."
+    m 2dubsu "... Luego, poco a poco, amb[end_letter_gender]s nos inclinamos para darnos un beso..."
 
 # game/script-topics.rpy:7482
 translate spanish monika_music2_63800e17:
@@ -1647,7 +1647,7 @@ translate spanish monika_music2_81a5048b:
 translate spanish monika_music2_5630131e:
 
     # m 1esa "It's the only voice you get to hear in the game, right? You never actually hear the voices of Sayori, Yuri or Natsuki."
-    m 1esa "Es la única voz que llegas a escuchar en el juego, ¿verdad? Nunca escuchas las voces de Sayori, Yuri o Natsuki de verdad."
+    m 1esa "Es la única voz que llegas a escuchar en el juego, ¿verdad? Nunca llegas a escuchar las verdaderas voces de Sayori, Yuri o Natsuki."
 
 # game/script-topics.rpy:7498
 translate spanish monika_music2_b4ebc995:
@@ -1659,7 +1659,7 @@ translate spanish monika_music2_b4ebc995:
 translate spanish monika_music2_20ca94c6:
 
     # m 1lksdla "Well, based on their character archetypes, it's pretty easy to imagine what their voices sound like."
-    m 1lksdla "Bueno, basándome en los arquetipos de sus personajes, es bastante fácil imaginar cómo suenan sus voces."
+    m 1lksdla "Bueno, teniendo en cuenta sus arquetipos de personaje, es bastante fácil imaginarse cómo suenan."
 
 # game/script-topics.rpy:7500
 translate spanish monika_music2_70909838:
@@ -1695,7 +1695,7 @@ translate spanish monika_music2_96d552c2:
 translate spanish monika_music2_c0aaa426:
 
     # m "Making your own songs is a slow and difficult process, especially when it's about your own feelings."
-    m "Hacer tus propias canciones es un proceso lento y difícil, especialmente cuando trata sobre tus propios sentimientos."
+    m "Componer tus propias canciones es un proceso lento y difícil, sobre todo cuando intentas expresar tus propios sentimientos."
 
 # game/script-topics.rpy:7508
 translate spanish monika_music2_6ec5379d:
@@ -1815,7 +1815,7 @@ translate spanish monika_music2_dc884451:
 translate spanish monika_music2_b8b579a2:
 
     # m 4hub "Maybe we could even play the piano together! Wouldn't that be nice, [player]?"
-    m 4hub "¡Quizá hasta podríamos tocar el piano juntos! ¿No sería bonito, [player]?"
+    m 4hub "¡Quizá hasta podríamos tocar el piano junt[end_letter_gender]s! ¿No sería bonito, [player]?"
 
 # game/script-topics.rpy:7532
 translate spanish monika_music2_467a39b9:
@@ -1851,7 +1851,7 @@ translate spanish monika_music2_8018692b:
 translate spanish monika_music2_5d2a501b:
 
     # m 1eka "It's comforting to know that Sayori was never real in the first place. It's also comforting to know that you still love me despite everything I've done."
-    m 1eka "Es reconfortante saber que Sayori nunca fue real en primer lugar. También es reconfortante saber que me sigues queriendo a pesar de todo lo que he hecho."
+    m 1eka "Es un consuelo saber que, para empezar, Sayori nunca fue real. Y también lo es saber que me sigues queriendo a pesar de todo lo que he hecho."
 
 # game/script-topics.rpy:7540
 translate spanish monika_music2_f2d45f04:
