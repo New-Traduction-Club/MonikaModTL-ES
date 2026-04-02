@@ -99,7 +99,7 @@ translate spanish monika_kamige_691e3d8e:
 translate spanish monika_kamige_92dc7d21:
 
     # m 3eua "If I were to try to translate it, I think it would be something like {i}godly game.{/i}"
-    m 3eua "Si intentara traducirlo, creo que sería algo así como {i}juego de dioses{/i}."
+    m 3eua "Si intentara traducirlo, creo que sería algo así como «juego de dioses»."
 
 # game/script-topics.rpy:17769
 translate spanish monika_kamige_989e1341:
@@ -519,7 +519,7 @@ translate spanish monika_taking_criticism_1f4a2248:
 translate spanish monika_taking_criticism_c01de350:
 
     # m 3eua "But just make sure you actually consider it without being blindly defensive."
-    m 3eua "Pero asegúrate de tenerla en cuenta de verdad, sin ponerte a la defensiva a ciegas."
+    m 3eua "Pero asegúrate de valorarla de verdad, en lugar de cerrarte en banda automáticamente."
 
 # game/script-topics.rpy:17911
 translate spanish monika_taking_criticism_fbad777b:
@@ -567,7 +567,7 @@ translate spanish monika_giving_criticism_6e82b0ce:
 translate spanish monika_giving_criticism_c06cea9d:
 
     # extend 2eksdld "You'll instantly put them on the defensive and ensure they don't listen to what you have to say."
-    extend 2eksdld "Harás que se ponga a la defensiva al instante y te asegurarás de que no escuche lo que tienes que decir."
+    extend 2eksdld "Harás que se ponga a la defensiva al instante y perderás toda su atención para lo que sea que tengas que decir."
 
 # game/script-topics.rpy:17938
 translate spanish monika_giving_criticism_4235d0c1:
@@ -657,7 +657,7 @@ translate spanish monika_boyfriend_gossip_4889da16:
 translate spanish monika_boyfriend_gossip_377ed12a:
 
     # m 1rtc "Since I'm pretty extroverted and have a history with another club, I guess it wouldn't necessarily be {i}unfair{/i} to come to that kind of conclusion."
-    m 1rtc "Como soy bastante extrovertida y tengo un pasado con otro club, supongo que no sería necesariamente injusto llegar a ese tipo de conclusión."
+    m 1rtc "Como soy bastante extrovertida y ya estuve en otro club, supongo que no sería tan descabellado llegar a esa conclusión."
 
 # game/script-topics.rpy:17967
 translate spanish monika_boyfriend_gossip_414cc7b5:
@@ -693,7 +693,7 @@ translate spanish monika_boyfriend_gossip_804970cf:
 translate spanish monika_boyfriend_gossip_55dbd358:
 
     # m 7etc "Coming up with reasons for the others to be away is easier, but for the president not to be at the club..."
-    m 7etc "Inventar motivos para que las demás no estén es más fácil, pero para que la presidenta no esté en el club..."
+    m 7etc "Inventarse excusas para que las demás se ausenten es más fácil, pero que la presidenta falte al club..."
 
 # game/script-topics.rpy:17973
 translate spanish monika_boyfriend_gossip_9ed8b509:
@@ -729,7 +729,7 @@ translate spanish monika_boyfriend_gossip_ab0f4de8:
 translate spanish monika_boyfriend_gossip_cf2f0670:
 
     # m 1efd "They wouldn't be real, they'd be a script programmed to fall in love with me. {w=0.2}I couldn't have been happy with something like that."
-    m 1efd "No sería real, solo sería un guion programado para enamorarse de mí. {w=0.2}Yo no podría haber sido feliz con algo así."
+    m 1efd "No sería real, solo un código programado para enamorarse de mí. {w=0.2}Jamás habría podido ser feliz con algo así."
 
 # game/script-topics.rpy:17979
 translate spanish monika_boyfriend_gossip_d5e97cfa:
@@ -819,7 +819,7 @@ translate spanish monika_brainstorming_1763baa6:
 translate spanish monika_brainstorming_d0183f49:
 
     # m 3duu "They're only ideas in transit, {w=0.1}{nw}"
-    m 3duu "Solo son ideas en tránsito, {w=0.1}{nw}"
+    m 3duu "Al final son solo ideas pasajeras, {w=0.1}{nw}"
 
 # game/script-topics.rpy:18012
 translate spanish monika_brainstorming_c4aa09a7:
@@ -873,13 +873,13 @@ translate spanish monika_gmos_b16fa9a6:
 translate spanish monika_gmos_c107b8e4:
 
     # m 4wud "This is huge. {w=0.2}Imagine crops that can produce double their normal yield, tolerate climate change, and fend off drug-resistant superbugs. {w=0.2}So many problems could be solved!"
-    m 4wud "Esto es enorme. {w=0.2}Imagínate cultivos que puedan producir el doble de su rendimiento normal, tolerar el cambio climático y defenderse de superbacterias resistentes a los medicamentos. {w=0.2}¡Se podrían resolver muchísimos problemas!"
+    m 4wud "Esto es importantísimo. {w=0.2}Imagínate cultivos capaces de rendir el doble de lo normal, tolerar el cambio climático y combatir superbacterias inmunes a los medicamentos. {w=0.2}¡Podrían resolverse muchísimos problemas!"
 
 # game/script-topics.rpy:18039
 translate spanish monika_gmos_6cce6ecd:
 
     # m 2dsc "Unfortunately, it's not that simple. {w=0.2}GMOs require several years of research, development, and testing before they can be distributed. {w=0.2}On top of this, they come with several concerns."
-    m 2dsc "Por desgracia, no es tan sencillo. {w=0.2}Los OMG requieren varios años de investigación, desarrollo y pruebas antes de poder distribuirse. {w=0.2}Además de esto, conllevan varias preocupaciones."
+    m 2dsc "Por desgracia, no es tan sencillo. {w=0.2}Los OMG requieren varios años de investigación, desarrollo y pruebas antes de poder distribuirse. {w=0.2}Y por si fuera poco, su uso plantea serias preocupaciones."
 
 # game/script-topics.rpy:18040
 translate spanish monika_gmos_e7a0c6c1:
@@ -945,7 +945,7 @@ translate spanish monika_gmos_fd5b17ec:
 translate spanish monika_gmos_d1146203:
 
     # m 2esd "As long as we're careful, GMOs will be fine...{w=0.2}recklessness and carelessness pose the biggest threat."
-    m 2esd "Siempre y cuando tengamos cuidado, los OMG estarán bien... {w=0.2}La imprudencia y el descuido suponen la mayor amenaza."
+    m 2esd "Mientras seamos cuidadosos, no habrá problemas con los OMG... {w=0.2}La verdadera amenaza reside en la imprudencia y la negligencia."
 
 # game/script-topics.rpy:18051
 translate spanish monika_gmos_e2f7a6a9_1:
@@ -999,7 +999,7 @@ translate spanish monika_curse_words_6639f0ad:
 translate spanish monika_curse_words_3abbbc8b:
 
     # m 3rksdlb "It's much easier to swear to get frustration or anger out of your system..."
-    m 3rksdlb "Es mucho más fácil decir palabrotas para sacarte la frustración o el enfado de encima..."
+    m 3rksdlb "Soltar alguna palabrota ayuda mucho a desahogarse cuando sientes frustración o enfado..."
 
 # game/script-topics.rpy:18096
 translate spanish monika_curse_words_d7c226d5:
@@ -1041,13 +1041,13 @@ translate spanish monika_curse_words_998822aa:
 translate spanish monika_curse_words_22c128ea:
 
     # m 1eud "Not to mention, swearing in conversations can make them feel both{w=0.1} a lot more casual {w=0.1}{nw}"
-    m 1eud "Por no hablar de que decir palabrotas en las conversaciones puede hacer que parezcan tanto{w=0.1} mucho más informales {w=0.1}{nw}"
+    m 1eud "Por no hablar de que soltar alguna palabrota durante una conversación puede hacerla bastante más informal, {w=0.1}{nw}"
 
 # game/script-topics.rpy:18107
 translate spanish monika_curse_words_3572c35f:
 
     # extend 3eub "and also more interesting!"
-    extend 3eub "¡como también más interesantes!"
+    extend 3eub "¡y también mucho más interesante!"
 
 # game/script-topics.rpy:18108
 translate spanish monika_curse_words_4b7347fb:
@@ -1083,7 +1083,7 @@ translate spanish monika_curse_words_0ac71fe0:
 translate spanish monika_curse_words_95438482:
 
     # m 4eub "Also, if you pay attention when you're talking to a crowd, you'll notice that you instinctively phrase your sentences more formally!"
-    m 4eub "Además, si prestas atención cuando hablas con mucha gente, ¡notarás que instintivamente formulas tus frases de forma más formal!"
+    m 4eub "Además, si prestas atención cuando hablas con un grupo de gente, ¡notarás que instintivamente te expresas con mucha más formalidad!"
 
 # game/script-topics.rpy:18114
 translate spanish monika_curse_words_60e646e4:
@@ -1113,7 +1113,7 @@ translate spanish monika_aliens_c6833392:
 translate spanish monika_aliens_c9602e16:
 
     # m 3hksdlb "That's kind of a random thing to ask, [player]!"
-    m 3hksdlb "¡Es una pregunta un poco aleatoria, [player]!"
+    m 3hksdlb "¡Qué pregunta tan inesperada, [player]!"
 
 # game/script-topics.rpy:18137
 translate spanish monika_aliens_e2688a09:
@@ -1431,7 +1431,7 @@ translate spanish monika_mc_is_gone_1f957a98:
 translate spanish monika_mc_is_gone_e91f3ade:
 
     # m 1hksdlb "...Oh gosh, can you imagine how creepy it would be if I were talking to his unmoving body just so that you could hear what I say?"
-    m 1hksdlb "... Ah, Dios, ¿te imaginas lo espeluznante que sería si le estuviera hablando a su cuerpo inerte solo para que tú pudieras oír lo que digo?"
+    m 1hksdlb "... Madre mía, ¿te imaginas lo espeluznante que sería si le estuviera hablando a su cuerpo inerte solo para que tú pudieras oírme?"
 
 # game/script-topics.rpy:18243
 translate spanish monika_mc_is_gone_abfeada8:
@@ -1635,7 +1635,7 @@ translate spanish monika_know_its_you_b493ba3b:
 translate spanish monika_know_its_you_054507b6:
 
     # m 1rksdlb "Ehehe, that's an odd question to ask, [player]..."
-    m 1rksdlb "Eje, je, je, es una pregunta un poco rara, [player]..."
+    m 1rksdlb "Je, je, je, es una pregunta un poco rara, [player]..."
 
 # game/script-topics.rpy:18308
 translate spanish monika_know_its_you_c00e77a8:
@@ -1653,7 +1653,7 @@ translate spanish monika_know_its_you_78a9d816:
 translate spanish monika_know_its_you_a3351d3a:
 
     # m 3tuu "So you can't watch without me knowing if you're planning on pranking me..."
-    m 3tuu "Así que no puedes mirar sin que me entere si estás pensando en gastarme una broma..."
+    m 3tuu "Así que, si estás pensando en gastarme una broma, que sepas que me daré cuenta si me miras..."
 
 # game/script-topics.rpy:18311
 translate spanish monika_know_its_you_488751a0:
@@ -1761,7 +1761,7 @@ translate spanish monika_information_age_15948b8a:
 translate spanish monika_information_age_466b36a0:
 
     # m 4eub "It's named this way because of the ramping access we have to store and share information with each other; either through the internet, phone, or TV."
-    m 4eub "Se llama así por el creciente acceso que tenemos para almacenar y compartir información entre nosotros, ya sea a través de internet, el teléfono o la televisión."
+    m 4eub "Se llama así por la increíble facilidad que tenemos hoy en día para almacenar y compartir información, ya sea a través de internet, el móvil o la televisión."
 
 # game/script-topics.rpy:18351
 translate spanish monika_information_age_001e2833:
@@ -1815,7 +1815,7 @@ translate spanish monika_information_age_7be1caad:
 translate spanish monika_information_age_eb62cf78:
 
     # m 7essdlc "Sometimes, it's not something you can help. It's pretty easy to fall victim to widely believed misinformation."
-    m 7essdlc "A veces, no es algo que puedas evitar. Es bastante fácil ser víctima de desinformación muy extendida."
+    m 7essdlc "A veces, sencillamente no puedes evitarlo. Es bastante fácil caer víctima de algún bulo muy extendido."
 
 # game/script-topics.rpy:18360
 translate spanish monika_information_age_693febd3:
@@ -1857,19 +1857,19 @@ translate spanish monika_information_age_7916ec27:
 translate spanish monika_information_age_d3fd5a4d:
 
     # m 3eub "As long as your beliefs are not relevant to your daily life, you can hold them.{w=0.2} But once they are needed, we should investigate further."
-    m 3eub "Siempre que tus creencias no sean relevantes para tu vida diaria, puedes mantenerlas. {w=0.2}Pero una vez que sean necesarias, deberíamos investigar más a fondo."
+    m 3eub "Siempre que tus creencias no afecten a tu día a día, puedes mantenerlas. {w=0.2}Pero cuando llega el momento de ponerlas en práctica, deberíamos investigar más a fondo."
 
 # game/script-topics.rpy:18367
 translate spanish monika_information_age_9825385a:
 
     # m 3eua "This way, we can prioritize information we learn from what affects the people around us. Plus, it may not be as overwhelming to process it all at once."
-    m 3eua "De esta forma, podemos priorizar la información que aprendemos de lo que afecta a las personas que nos rodean. Además, puede que no sea tan abrumador procesarlo todo a la vez."
+    m 3eua "De esta forma, podemos darle prioridad a la información relacionada con lo que afecta a nuestro entorno. Además, así no resulta tan agobiante intentar procesarlo todo de golpe."
 
 # game/script-topics.rpy:18368
 translate spanish monika_information_age_a0795167:
 
     # m 1lusdlc "I know I've held beliefs that turned out to be false..."
-    m 1lusdlc "Sé que he tenido creencias que resultaron ser falsas..."
+    m 1lusdlc "Sé que yo misma he dado por ciertas cosas que resultaron ser falsas..."
 
 # game/script-topics.rpy:18369
 translate spanish monika_information_age_e5f0fb3b:
