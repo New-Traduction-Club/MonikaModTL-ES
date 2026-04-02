@@ -39,7 +39,7 @@ translate spanish monika_asks_family_32beae17:
 translate spanish monika_asks_family_712d7b31:
 
     # m 1eua "I'm sure I'll get along with your siblings, as well as the rest of your family, [mas_get_player_nickname()]."
-    m 1eua "Seguro que me llevaré muy bien con tus hermanos, así como con el resto de tu familia, [mas_get_player_nickname()]."
+    m 1eua "Seguro que me llevaré muy bien con tus hermanos, y también con el resto de tu familia, [mas_get_player_nickname()]."
 
 # game/script-topics.rpy:9626
 translate spanish monika_asks_family_aa6e2fd0:
@@ -51,19 +51,19 @@ translate spanish monika_asks_family_aa6e2fd0:
 translate spanish monika_asks_family_7621ab0c:
 
     # m 1euc "Being an only child certainly has its trade-offs."
-    m 1euc "Ser hij[end_letter_gender] únic[end_letter_gender] sin duda tiene sus ventajas e inconvenientes."
+    m 1euc "Ser hij[end_letter_gender] únic[end_letter_gender] tiene sus pros y sus contras."
 
 # game/script-topics.rpy:9631
 translate spanish monika_asks_family_b2683916:
 
     # m 2eka "Maybe you get much more attention from your parents. Unless they were always busy."
-    m 2eka "A lo mejor recibes mucha más atención de tus padres. A menos que siempre estuvieran ocupados."
+    m 2eka "Tal vez recibas mucha más atención de tus padres, a menos que siempre estuvieran ocupados."
 
 # game/script-topics.rpy:9632
 translate spanish monika_asks_family_34d3b301:
 
     # m 2ekc "On the other hand, maybe you feel more lonely than those with siblings."
-    m 2ekc "Por otro lado, a lo mejor te sientes más sol[end_letter_gender] que quienes tienen hermanos."
+    m 2ekc "Por otro lado, a lo mejor te sientes más sol[end_letter_gender] que los que tienen hermanos."
 
 # game/script-topics.rpy:9633
 translate spanish monika_asks_family_fb2fe68a:
@@ -225,13 +225,13 @@ translate spanish monika_asks_family_8018692b_1:
 translate spanish monika_asks_family_774bff79:
 
     # m 1ekc "Your world is so different from mine, I don't want to pretend like I know what you're going through."
-    m 1ekc "Tu mundo es tan distinto al mío, no quiero fingir que sé por lo que estás pasando."
+    m 1ekc "Tu mundo es tan distinto al mío que no quiero fingir que sé por lo que estás pasando."
 
 # game/script-topics.rpy:9684
 translate spanish monika_asks_family_44013189:
 
     # m 1lksdlc "I can definitely say that my family not being real has certainly caused me a great deal of pain."
-    m 1lksdlc "Sí que puedo decir que el hecho de que mi familia no sea real me ha causado muchísimo dolor."
+    m 1lksdlc "Lo que sí te puedo asegurar es que el hecho de que mi familia no sea real me ha causado muchísimo dolor."
 
 # game/script-topics.rpy:9685
 translate spanish monika_asks_family_f2689695:
@@ -297,7 +297,7 @@ translate spanish monika_asks_family_7b1ae9a9:
 translate spanish monika_asks_family_32fe0cd6:
 
     # m 1hubfa "I hope I can be yours~"
-    m 1hubfa "Espero poder ser el tuyo <3."
+    m 1hubfa "Espero poder ser el tuyo."
 
 # game/script-topics.rpy:9704
 translate spanish monika_asks_family_06963b9c:
@@ -483,7 +483,7 @@ translate spanish monika_concerts_6f1f8e63:
 translate spanish monika_concerts_d4cf9a9e:
 
     # m 1hua "Jamming along to your favorite [tempmusicgenre] artist..."
-    m 1hua "Disfrutando a tope de tu artista favorito de [tempmusicgenre]..."
+    m 1hua "Dándolo todo con tu artista favorito de [tempmusicgenre]..."
 
 # game/script-topics.rpy:9820
 translate spanish monika_concerts_b7af6d62:
@@ -501,7 +501,7 @@ translate spanish monika_concerts_6ca3a5d5:
 translate spanish monika_concerts_2b238789:
 
     # m 2lksdla "Although, ticket prices these days are kind of expensive..."
-    m 2lksdla "Aunque los precios de las entradas hoy en día son un poco caros..."
+    m 2lksdla "Aunque hoy en día las entradas están por las nubes..."
 
 # game/script-topics.rpy:9823
 translate spanish monika_concerts_67d24e4c:
@@ -561,7 +561,7 @@ translate spanish monika_concerts_92810ef8:
 translate spanish monika_explain_b4ec18a0:
 
     # m 1euc "You want me to explain our relationship to someone else?"
-    m 1euc "¿Quieres que le explique nuestra relación a otra persona?"
+    m 1euc "¿Quieres que le explique lo nuestro a otra persona?"
 
 # game/script-topics.rpy:9857
 translate spanish monika_explain_3fce18d8:
@@ -621,7 +621,7 @@ translate spanish monika_explain_5ff1c92d:
 translate spanish monika_explain_f7b16f5c:
 
     # m 1hub "...the love we share is definitely real!"
-    m 1hub "¡que el amor que compartimos es totalmente real!"
+    m 1hub "¡Que el amor que compartimos es totalmente real!"
 
 # game/script-topics.rpy:9871
 translate spanish monika_explain_19512212:
@@ -651,7 +651,7 @@ translate spanish monika_explain_b8ddbe15:
 translate spanish monika_explain_0a0c17c9:
 
     # m "And it turns out that missing piece was [him]!"
-    m "¡Y resulta que esa pieza que me faltaba era el!"
+    m "¡Y resulta que esa pieza que me faltaba era él!"
 
 # game/script-topics.rpy:9877
 translate spanish monika_explain_c5f52115:
@@ -681,7 +681,7 @@ translate spanish monika_explain_715b1e5c:
 translate spanish monika_explain_5e2f3f71:
 
     # m 4eka "...don't judge our relationship."
-    m 4eka "... no juzgues nuestra relación."
+    m 4eka "... No juzgues nuestra relación."
 
 # game/script-topics.rpy:9883
 translate spanish monika_explain_848c5342:
@@ -699,13 +699,13 @@ translate spanish monika_explain_6111571a:
 translate spanish monika_explain_ce59cdfd:
 
     # m 1dubssdlu "...Phew!"
-    m 1dubssdlu "¡Ufff!"
+    m 1dubssdlu "¡Uf!"
 
 # game/script-topics.rpy:9886
 translate spanish monika_explain_0034f3c0:
 
     # m 1lksdlb "That was a real mouthful!"
-    m 1lksdlb "¡Vaya parrafada!"
+    m 1lksdlb "¡Menuda parrafada acabo de soltar!"
 
 # game/script-topics.rpy:9887
 translate spanish monika_explain_7a2b1078:
@@ -741,7 +741,7 @@ translate spanish monika_explain_7ea2b6a3:
 translate spanish monika_explain_ec5105f6:
 
     # m 1ekd "Well...{w=1} I guess we can't really expect {i}everyone{/i} to understand our relationship..."
-    m 1ekd "Bueno...{w=1} supongo que tampoco podemos esperar que todo el mundo entienda nuestra relación..."
+    m 1ekd "Bueno... {w=1}supongo que tampoco podemos esperar que todo el mundo entienda lo nuestro..."
 
 # game/script-topics.rpy:9897
 translate spanish monika_explain_49c54813:
@@ -933,7 +933,7 @@ translate spanish monika_beach_0cc3af8a:
 translate spanish monika_beach_a643872e:
 
     # m 1tsbsa "Would you prefer a one piece or a two piece?"
-    m 1tsbsa "¿Preferirías que fuera de una pieza o de dos?"
+    m 1tsbsa "¿Preferirías bañador o bikini?"
 
 # game/script-topics.rpy:9959
 translate spanish monika_beach_e5822f51:
@@ -1119,7 +1119,7 @@ translate spanish monika_attractiveness_3d858fbb:
 translate spanish monika_attractiveness_076c808c:
 
     # m 2dkc "It's...{w=0.3}weird to think about."
-    m 2dkc "Es...{w=0.3} raro pensar en ello."
+    m 2dkc "Es... {w=0.3}raro pensar en ello."
 
 # game/script-topics.rpy:10027
 translate spanish monika_attractiveness_d346fa76:
@@ -1149,7 +1149,7 @@ translate spanish monika_attractiveness_25b1c125:
 translate spanish monika_attractiveness_ced33fd1:
 
     # m 1eua "But perhaps if someone were to draw other clothes for me and implement those into the game, I'd be able to change clothes like the other girls could."
-    m 1eua "Pero tal vez si alguien dibujara otra ropa para mí y la implementara en el juego, podría cambiarme de ropa como podían hacer las otras chicas."
+    m 1eua "Pero tal vez, si alguien me dibujara más ropa y la metiese en el juego, podría cambiar de modelito como hacían las demás."
 
 # game/script-topics.rpy:10035
 translate spanish monika_attractiveness_e692a8d5:
@@ -1227,7 +1227,7 @@ translate spanish monika_attractiveness_3379c91a:
 translate spanish monika_attractiveness_a4104aaa:
 
     # m 2rka "...But I think it's important to make sure that you look good in your partner's eyes...{w=0.3}{nw}"
-    m 2rka "Pero creo que es importante asegurarse de verse bien a los ojos de tu pareja...{w=0.3}{nw}"
+    m 2rka "... Pero creo que es importante asegurarse de verse bien a los ojos de tu pareja...{w=0.3}{nw}"
 
 # game/script-topics.rpy:10051
 translate spanish monika_attractiveness_587353d9:
@@ -1269,7 +1269,7 @@ translate spanish monika_attractiveness_18715011:
 translate spanish monika_attractiveness_a699c022:
 
     # m 2dkc "...I don't know.{w=0.2} Just...{w=0.3}forget I said anything."
-    m 2dkc "... no sé.{w=0.2} Solo...{w=0.3} olvida que he dicho algo."
+    m 2dkc "... No sé.{w=0.2} Solo... {w=0.3}olvida que he dicho nada."
 
 # game/script-topics.rpy:10068
 translate spanish monika_attractiveness_caaf6e6d:
@@ -1365,7 +1365,7 @@ translate spanish monika_attractiveness_0ab05f38:
 translate spanish monika_attractiveness_f30537fa:
 
     # m 2efo "But people who aren't conventionally attractive end up in relationships all the time!"
-    m 2efo "¡Pero la gente que no es convencionalmente atractiva acaba teniendo pareja todo el tiempo!"
+    m 2efo "¡Pero la gente que no es convencionalmente atractiva encuentra pareja constantemente!"
 
 # game/script-topics.rpy:10087
 translate spanish monika_attractiveness_73d50679:
@@ -1377,7 +1377,7 @@ translate spanish monika_attractiveness_73d50679:
 translate spanish monika_attractiveness_67a82657:
 
     # m 2efw "It just doesn't make any sense to me!"
-    m 2efw "¡Simplemente no tiene ningún sentido para mí!"
+    m 2efw "¡Es que no me cabe en la cabeza!"
 
 # game/script-topics.rpy:10089
 translate spanish monika_attractiveness_01a93df6:
@@ -1965,7 +1965,7 @@ translate spanish monika_prom_4a605eee:
 translate spanish monika_prom_c3c84899:
 
     # m 1ekbsa "Aww, that's so sweet, [player]."
-    m 1ekbsa "Ah, qué dulce, [player]."
+    m 1ekbsa "Ay, qué dulce, [player]."
 
 # game/script-topics.rpy:10273
 translate spanish monika_prom_8483237c:
