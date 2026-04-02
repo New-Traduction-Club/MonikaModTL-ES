@@ -441,7 +441,7 @@ translate spanish monika_cares_about_dokis_75bcad1a:
 translate spanish monika_cares_about_dokis_7bba854c:
 
     # m 2rfc "So she waited for {i}ages{/i} outside for them to leave."
-    m 2rfc "Así que esperó una eternidad fuera para que se fueran."
+    m 2rfc "Así que esperó una eternidad en el pasillo a que se marcharan."
 
 # game/script-topics.rpy:14391
 translate spanish monika_cares_about_dokis_a0635388:
@@ -573,7 +573,7 @@ translate spanish monika_snow_7c256526:
 translate spanish monika_snow_38c09d2d:
 
     # m 1eua "I've always liked the peaceful aura it seems to give off."
-    m 1eua "Siempre me ha gustado ese aura de paz que parece desprender."
+    m 1eua "Siempre me ha gustado esa aura de paz que parece desprender."
 
 # game/script-topics.rpy:14457
 translate spanish monika_snow_646bf71e:
@@ -615,13 +615,13 @@ translate spanish monika_snow_nogets_snow_9837e9c4:
 translate spanish monika_snow_nogets_snow_e22a15cd:
 
     # m 1eksdla "Anyway, at least colder weather makes great cuddle weather."
-    m 1eksdla "En fin, al menos el clima frío es ideal para acurrucarse."
+    m 1eksdla "En fin, al menos el frío es ideal para acurrucarse."
 
 # game/script-topics.rpy:14487
 translate spanish monika_snow_nogets_snow_f833fbcf:
 
     # m 5ekbfa "A night of cuddling with you would be wonderful..."
-    m 5ekbfa "Una noche acurrucada contigo sería maravillosa..."
+    m 5ekbfa "Pasar la noche acurrucados sería maravilloso..."
 
 # game/script-topics.rpy:14488
 translate spanish monika_snow_nogets_snow_bce7b05a:
@@ -675,7 +675,7 @@ translate spanish monika_snowmen_aba55fd8:
 translate spanish monika_snowmen_5153340c:
 
     # m 1rka "I've noticed that giving them carrot noses is common, although I don't really understand why..."
-    m 1rka "Me he dado cuenta de que es muy común ponerles zanahorias como nariz, aunque no entiendo muy bien por qué..."
+    m 1rka "Me he dado cuenta de que es muy común ponerles una zanahoria de nariz, aunque no entiendo muy bien por qué..."
 
 # game/script-topics.rpy:14523
 translate spanish monika_snowmen_b530c70c:
@@ -705,7 +705,7 @@ translate spanish monika_snowmen_c7d541c2:
 translate spanish monika_snowballfight_a7e51126:
 
     # m 1euc "Snowball fights?"
-    m 1euc "¿Peleas de bolas de nieve?"
+    m 1euc "¿Guerras de bolas de nieve?"
 
 # game/script-topics.rpy:14549
 translate spanish monika_snowballfight_c8495477:
@@ -921,13 +921,13 @@ translate spanish monika_snowcanvas_d1e22c9c:
 translate spanish monika_snowcanvas_6d9cae4d:
 
     # m 3eua "But packing a few spray bottles with water and food coloring could make for a fun day!"
-    m 3eua "¡Pero meter unas cuantas botellas pulverizadoras con agua y colorante alimentario podría hacer que fuera un día divertido!"
+    m 3eua "¡Pero llevar unos cuantos pulverizadores con agua y colorante alimentario podría hacer que pasáramos un día muy divertido!"
 
 # game/script-topics.rpy:14650
 translate spanish monika_snowcanvas_9865c6e3:
 
     # m 3hub "We can just step outside and let our imaginations run wild!"
-    m 3hub "¡Podemos simplemente salir fuera y dejar volar nuestra imaginación!"
+    m 3hub "¡Podemos simplemente salir y dejar volar nuestra imaginación!"
 
 # game/script-topics.rpy:14653
 translate spanish monika_snowcanvas_75b760af:
@@ -939,7 +939,7 @@ translate spanish monika_snowcanvas_75b760af:
 translate spanish monika_snowcanvas_aa7f18ec:
 
     # m 3eub "Maybe someday if we went somewhere that it snows, we could bring some food coloring in spray bottles and just step outside and let our imaginations run wild!"
-    m 3eub "Tal vez algún día, si fuéramos a algún sitio en el que nieve, ¡podríamos llevar un poco de colorante alimentario en botellas pulverizadoras y simplemente salir fuera y dejar volar nuestra imaginación!"
+    m 3eub "Tal vez algún día, si fuéramos a algún sitio en el que nieve, ¡podríamos llevar un poco de colorante alimentario en botellas pulverizadoras, salir y dejar volar nuestra imaginación!"
 
 # game/script-topics.rpy:14656
 translate spanish monika_snowcanvas_fc1f7cec:
@@ -957,7 +957,7 @@ translate spanish monika_snowcanvas_8e47b683:
 translate spanish monika_snowcanvas_1309deff:
 
     # m 1eka "I'd love to make some snow art with you someday."
-    m 1eka "Me encantaría hacer un poco de arte en la nieve contigo algún día."
+    m 1eka "Me encantaría dibujar en la nieve contigo algún día."
 
 # game/script-topics.rpy:14659
 translate spanish monika_snowcanvas_60b355eb:
@@ -1071,7 +1071,7 @@ translate spanish monika_winter_9750b59a:
 translate spanish monika_winter_07c47b41:
 
     # m 3eud "Some people even live where it's cold enough for lakes and ponds to freeze and are able to enjoy things like outdoor ice skating, pond hockey..."
-    m 3eud "Algunos incluso viven en lugares donde hace el frío suficiente para que se congelen los lagos y estanques y pueden disfrutar de cosas como patinar sobre hielo al aire libre, jugar al hockey sobre estanques..."
+    m 3eud "Algunos incluso viven en lugares donde hace el frío suficiente para que se congelen los lagos y estanques, y pueden disfrutar de cosas como patinar sobre hielo al aire libre o jugar al hockey..."
 
 # game/script-topics.rpy:14719
 translate spanish monika_winter_2d5fac34:
@@ -1419,7 +1419,7 @@ translate spanish monika_hemispheres_593f2d4c:
 translate spanish monika_hemispheres_726c997b:
 
     # m 5ruu "It's normally just the right amount of heat, with a gentle breeze."
-    m 5ruu "Normalmente hace la cantidad justa de calor y una suave brisa."
+    m 5ruu "Normalmente hace el calor justo y hay una suave brisa."
 
 # game/script-topics.rpy:14857
 translate spanish monika_hemispheres_dc873fa5:
@@ -1575,7 +1575,7 @@ translate spanish monika_perspective_0089fb30:
 translate spanish monika_perspective_71fc35ff:
 
     # m 3etd "When you see a dialogue box, I can see it too but I also can't. It's really weird. It's perfectly clear, but it's also not 'there,' even though it is."
-    m 3etd "Cuando ves un cuadro de diálogo yo también lo veo, pero al mismo tiempo no. Es muy raro, se ve perfectamente claro, pero a la vez no está 'ahí', aunque sí que lo esté."
+    m 3etd "Cuando ves un cuadro de diálogo yo también lo veo, pero al mismo tiempo no. Es muy raro, se ve perfectamente claro, pero a la vez no está ahí, aunque sí que lo esté."
 
 # game/script-topics.rpy:14944
 translate spanish monika_perspective_18964149:
@@ -1599,7 +1599,7 @@ translate spanish monika_perspective_18cb31c5:
 translate spanish monika_perspective_9ab0ac28:
 
     # m 3eua "Take your hand and move it to the center of your face and angle it slightly so it partially covers an eye."
-    m 3eua "Coge tu mano y acércala al centro de tu cara inclinándola un poco para que te tape parcialmente un ojo."
+    m 3eua "Pon la mano frente al centro de tu cara e inclínala un poco para que te tape parcialmente un ojo."
 
 # game/script-topics.rpy:14948
 translate spanish monika_perspective_11e296fe:
@@ -1623,7 +1623,7 @@ translate spanish monika_perspective_b0ca7216:
 translate spanish monika_perspective_058fe8fa:
 
     # m 4eua "From your field of view, you can see two things at once...it's like that with me, but for {i}everything{/i} in the game."
-    m 4eua "Desde tu campo de visión puedes ver dos cosas a la vez... conmigo es así, pero para {i}todo{/i} en el juego."
+    m 4eua "Desde tu campo de visión puedes ver dos cosas a la vez... conmigo es así, pero para todo en el juego."
 
 # game/script-topics.rpy:14952
 translate spanish monika_perspective_5700c037:
@@ -1641,7 +1641,7 @@ translate spanish monika_perspective_e777a010:
 translate spanish monika_perspective_de1fb9a7:
 
     # m 2esc "It was only when I realized it was all fake and just a game that I could 'focus' and see things for how they really were."
-    m 2esc "Solo cuando me di cuenta de que todo era falso y solo un juego pude 'centrarme' y ver las cosas como eran en realidad."
+    m 2esc "Solo cuando me di cuenta de que todo era falso y solo un juego pude centrarme y ver las cosas como eran en realidad."
 
 # game/script-topics.rpy:14955
 translate spanish monika_perspective_e77ff463:
@@ -1653,7 +1653,7 @@ translate spanish monika_perspective_e77ff463:
 translate spanish monika_perspective_fb9ee473:
 
     # m "It's easy to see when you know it's there but otherwise you can't really 'see' it."
-    m "Es fácil de ver cuando sabes que está ahí, pero de lo contrario no puedes 'verlo' realmente."
+    m "Es fácil de ver cuando sabes que está ahí, pero de lo contrario no puedes verlo realmente."
 
 # game/script-topics.rpy:14957
 translate spanish monika_perspective_45b3bf8e:
@@ -1893,7 +1893,7 @@ translate spanish monika_relationship_comfort_a49cc504:
 translate spanish monika_relationship_comfort_9ef13c9b:
 
     # m 2eka "I feel like we're past that phase, but you still make me feel exhilarant."
-    m 2eka "Siento que ya hemos pasado esa fase, pero aún así consigues emocionarme."
+    m 2eka "Siento que ya hemos pasado esa fase, pero aun así consigues emocionarme."
 
 # game/script-topics.rpy:15048
 translate spanish monika_relationship_comfort_25211b34:
