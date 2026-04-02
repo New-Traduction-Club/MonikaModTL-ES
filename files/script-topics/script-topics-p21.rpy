@@ -9,7 +9,7 @@ translate spanish monika_boardgames_history_fcc5dec4:
 translate spanish monika_boardgames_history_edef62e2:
 
     # m 3eud "More often than not, they were actually meant to teach or train people to help them deal with different aspects of their lives."
-    m 3eud "Casi siempre estaban pensados para enseñar o formar a la gente y ayudarles a lidiar con distintos aspectos de su vida."
+    m 3eud "Casi siempre estaban pensados para enseñar o formar a la gente, y ayudarlos a afrontar distintos aspectos de su vida."
 
 # game/script-topics.rpy:15737
 translate spanish monika_boardgames_history_9383a80b:
@@ -27,7 +27,7 @@ translate spanish monika_boardgames_history_f943830a:
 translate spanish monika_boardgames_history_a713dae3:
 
     # m 3esd "A lot of ancient Egyptian board games seemed to be about preparing for their journey through the world of the dead, or to prove their worth to the gods."
-    m 3esd "Muchos juegos de mesa del antiguo Egipto parecían tratar sobre la preparación para su viaje por el mundo de los muertos, o para demostrar su valía ante los dioses."
+    m 3esd "Muchos juegos de mesa del antiguo Egipto parecían centrarse en preparar a las personas para su viaje por el mundo de los muertos, o en demostrar su valía ante los dioses."
 
 # game/script-topics.rpy:15740
 translate spanish monika_boardgames_history_6cf5733e:
@@ -69,7 +69,7 @@ translate spanish monika_boardgames_history_e1286c52:
 translate spanish monika_boardgames_history_e7940a67:
 
     # m 3rksdlc "In other words...{w=0.3}the original creator of {i}Monopoly{/i} became the victim of precisely what they originally tried to teach the dangers of."
-    m 3rksdlc "En otras palabras...{w=0.3} el creador original del {i}Monopoly{/i} se convirtió en víctima precisamente de aquello sobre lo que en un principio intentó advertir."
+    m 3rksdlc "En otras palabras... {w=0.3}el creador original del {i}Monopoly{/i} acabó siendo víctima precisamente de aquello sobre lo que intentaba advertir."
 
 # game/script-topics.rpy:15747
 translate spanish monika_boardgames_history_b7ffe821:
@@ -93,7 +93,7 @@ translate spanish monika_boardgames_history_93a39750:
 translate spanish monika_boardgames_history_27f05e2d:
 
     # extend 3hksdlu "It beats the boring, traditional school classes, I'll give them that."
-    extend 3hksdlu "Superan a las aburridas y tradicionales clases del instituto, eso te lo reconozco."
+    extend 3hksdlu "Le dan mil vueltas a las aburridas clases tradicionales del instituto, las cosas como son."
 
 # game/script-topics.rpy:15751
 translate spanish monika_boardgames_history_a6105373:
@@ -153,7 +153,7 @@ translate spanish monika_boardgames_history_461f9752:
 translate spanish monika_boardgames_history_62d9ce6b:
 
     # m 1esc "They can get really expensive to buy, plus you actually need to find people to play with you...{w=0.3}which isn't always easy nowadays."
-    m 1esc "Pueden ser muy caros, y además tienes que encontrar a gente con la que jugar...{w=0.3} lo cual no siempre es fácil hoy en día."
+    m 1esc "Pueden salir muy caros, y encima tienes que encontrar a gente dispuesta a jugar contigo... {w=0.3}lo cual no siempre es fácil hoy en día."
 
 # game/script-topics.rpy:15763
 translate spanish monika_boardgames_history_f68876d9:
@@ -243,7 +243,7 @@ translate spanish monika_social_norms_07436ef3:
 translate spanish monika_social_norms_268a232f:
 
     # m 1duu "But as these people grew to become full-fledged members of society, they passed their interests onto those around them."
-    m 1duu "Pero a medida que estas personas crecieron hasta convertirse en miembros de pleno derecho de la sociedad, transmitieron sus intereses a los que les rodeaban."
+    m 1duu "Pero a medida que esos jóvenes crecieron y se integraron en la sociedad, fueron transmitiendo sus gustos a quienes los rodeaban."
 
 # game/script-topics.rpy:15801
 translate spanish monika_social_norms_c87f877a:
@@ -291,7 +291,7 @@ translate spanish monika_social_norms_e0b76a1a:
 translate spanish monika_social_norms_a502da20:
 
     # m 1rkc "I wonder how many people criticized her for her hobby...{w=0.5}I can't imagine it was always easy."
-    m 1rkc "Me pregunto cuánta gente la habrá criticado por su afición...{w=0.5} no me imagino que fuera siempre fácil."
+    m 1rkc "Me pregunto cuánta gente la habrá criticado por su afición...{w=0.5} No me imagino que fuera siempre fácil."
 
 # game/script-topics.rpy:15809
 translate spanish monika_social_norms_145a8308:
@@ -369,7 +369,7 @@ translate spanish monika_social_norms_36408d59:
 translate spanish monika_social_norms_de72e965:
 
     # m 1dkbsu "You don't have to go along with the crowd to be {i}my{/i} perfect [bf]."
-    m 1dkbsu "No tienes que seguir a la multitud para ser mi perfect[end_letter_gender] [bf]."
+    m 1dkbsu "No hace falta que sigas a las masas para ser mi perfect[end_letter_gender] [bf]."
 
 # game/script-topics.rpy:15841
 translate spanish monika_intrusive_thoughts_52867f2b:
@@ -417,7 +417,7 @@ translate spanish monika_intrusive_thoughts_adf7c6b9:
 translate spanish monika_intrusive_thoughts_8bfa4107:
 
     # m 3ekd "But the truth is, it doesn't make you a bad person at all!"
-    m 3ekd "¡Pero la verdad es que eso no te convierte en mala persona en absoluto!"
+    m 3ekd "¡Pero la verdad es que eso no te convierte para nada en una mala persona!"
 
 # game/script-topics.rpy:15849
 translate spanish monika_intrusive_thoughts_a9d2c55c:
@@ -435,19 +435,19 @@ translate spanish monika_intrusive_thoughts_dfdfa3e3:
 translate spanish monika_intrusive_thoughts_0f7f3b13:
 
     # m 4esa "Normally, a person wouldn't act on their intrusive thoughts.{w=0.2} {nw}"
-    m 4esa "Normalmente, una persona no actuaría según sus pensamientos intrusivos.{w=0.2} {nw}"
+    m 4esa "Por lo general, la gente no se dejaría llevar por sus pensamientos intrusivos.{w=0.2} {nw}"
 
 # game/script-topics.rpy:15852
 translate spanish monika_intrusive_thoughts_9d766c32:
 
     # extend 4eub "In fact, they might even do something good to prove that they aren't a bad person."
-    extend 4eub "De hecho, puede que incluso haga algo bueno para demostrar que no es mala persona."
+    extend 4eub "De hecho, puede que incluso intenten hacer algo bueno para demostrarse que no son malas personas."
 
 # game/script-topics.rpy:15853
 translate spanish monika_intrusive_thoughts_b86bdb1a:
 
     # m 2ekc "But for some people, these thoughts tend to happen really often...{w=0.2}{nw}"
-    m 2ekc "Pero para algunas personas, estos pensamientos suelen ocurrir muy a menudo...{w=0.2}{nw}"
+    m 2ekc "Pero en algunas personas, estos pensamientos aparecen tan a menudo... {w=0.2}{nw}"
 
 # game/script-topics.rpy:15854
 translate spanish monika_intrusive_thoughts_6c944d76:
@@ -555,7 +555,7 @@ translate spanish monika_coding_experience_a3373ccf:
 translate spanish monika_coding_experience_9fbbe825:
 
     # extend 3eka "I just never thought to ask before."
-    extend 3eka " Solo que nunca se me ocurrió preguntarlo antes."
+    extend 3eka " Solo que nunca se me había ocurrido preguntártelo."
 
 # game/script-topics.rpy:15912
 translate spanish monika_coding_experience_d73d36a2:
@@ -861,7 +861,7 @@ translate spanish monika_sweatercurse_d08e527f:
 translate spanish monika_sweatercurse_045bc6ee:
 
     # m 2dkd "After putting so much time and effort into knitting it, imagining their partner happily wearing it, I'm sure you can understand how much it would hurt to see it cast aside."
-    m 2dkd "Después de dedicarle tanto tiempo y esfuerzo, imaginando a su pareja llevándolo feliz, seguro que entiendes lo mucho que dolería verlo dejado de lado."
+    m 2dkd "Después de dedicarle tanto tiempo y esfuerzo, e imaginar a su pareja llevándolo con ilusión, seguro que entiendes lo mucho que dolería ver que lo deja abandonado en un cajón."
 
 # game/script-topics.rpy:16031
 translate spanish monika_sweatercurse_3958c8db:
@@ -879,7 +879,7 @@ translate spanish monika_sweatercurse_9cce70eb:
 translate spanish monika_sweatercurse_5c33e4ac:
 
     # m 1etc "But it's equally common for the knitter to be told 'surprise me,' or 'make whatever you want,' which can sometimes make the recipient sound uncaring about their partner's hobby."
-    m 1etc "Pero es igual de común que le digan al tejedor \"sorpréndeme\" o \"haz lo que quieras\", lo que a veces puede hacer que parezca que a la otra persona no le importa la afición de su pareja."
+    m 1etc "Pero es igual de habitual que te digan «sorpréndeme» o «haz lo que quieras», lo que a veces da la impresión de que a esa persona le da igual la afición de su pareja."
 
 # game/script-topics.rpy:16034
 translate spanish monika_sweatercurse_0c4db671:
@@ -981,7 +981,7 @@ translate spanish monika_ship_of_theseus_1dbd4ce5:
 translate spanish monika_ship_of_theseus_450b2ae1:
 
     # m 3euc "In other words, the vast majority of cells that made you, 'you' 7 years ago are no longer part of you."
-    m 3euc "En otras palabras, la inmensa mayoría de las células que te hacían ser «tú» hace 7 años ya no forman parte de ti."
+    m 3euc "En otras palabras, la inmensa mayoría de las células que te hacían ser tú hace siete años ya no forman parte de ti."
 
 # game/script-topics.rpy:16069
 translate spanish monika_ship_of_theseus_3baea245:
@@ -1011,7 +1011,7 @@ translate spanish monika_ship_of_theseus_3eee0879:
 translate spanish monika_ship_of_theseus_a0df4015:
 
     # m 3etd "And what if we got all of the cells that made up your body 7 years ago and reassembled them into another 'you' right now? {w=0.2}Who would be the real [player]?"
-    m 3etd "¿Y si cogiéramos todas las células que formaban tu cuerpo hace 7 años y las volviéramos a ensamblar en otr[end_letter_gender] «tú» ahora mismo? {w=0.2} ¿Quién sería [player] de verdad?"
+    m 3etd "¿Y si cogiéramos todas las células que formaban tu cuerpo hace siete años y las volviéramos a ensamblar para formar a otr[end_letter_gender] tú ahora mismo? {w=0.2} ¿Quién sería [player] de verdad?"
 
 # game/script-topics.rpy:16074
 translate spanish monika_ship_of_theseus_4ab88c3f:
@@ -1047,7 +1047,7 @@ translate spanish monika_multi_perspective_approach_25096fbd:
 translate spanish monika_multi_perspective_approach_9db3a8b7:
 
     # m 3etc "'How do you know if the 'truth' you're seeing is {i}the{/i} truth?'"
-    m 3etc "«¿Cómo sabes si la 'verdad' que estás viendo es la pura verdad?»"
+    m 3etc "«¿Cómo sabes si la verdad que estás viendo es la pura verdad?»"
 
 # game/script-topics.rpy:16099
 translate spanish monika_multi_perspective_approach_45857abf:
@@ -1083,7 +1083,7 @@ translate spanish monika_multi_perspective_approach_ebcf6262:
 translate spanish monika_multi_perspective_approach_971e8751:
 
     # m 2eud "And I began wondering, 'What was Plato's mindset while writing?'"
-    m 2eud "Y me puse a pensar: «¿Qué mentalidad tenía Platón mientras escribía?»."
+    m 2eud "Y me puse a pensar: «¿Qué le pasaba por la cabeza a Platón mientras escribía?»."
 
 # game/script-topics.rpy:16105
 translate spanish monika_multi_perspective_approach_d673cd3d:
@@ -1233,7 +1233,7 @@ translate spanish monika_allegory_of_the_cave_c787e621:
 translate spanish monika_allegory_of_the_cave_443571cf:
 
     # m 1ekc "...But since he was used to seeing sunlight, he'd be blind in the cave,{w=0.2}{nw}"
-    m 1ekc "... Pero como se había acostumbrado a ver la luz del sol, estaría ciego en la cueva,{w=0.2}{nw}"
+    m 1ekc "... Pero como se habría acostumbrado a la luz del sol, se quedaría ciego en la cueva,{w=0.2}{nw}"
 
 # game/script-topics.rpy:16148
 translate spanish monika_allegory_of_the_cave_92feef1a:
@@ -1257,7 +1257,7 @@ translate spanish monika_allegory_of_the_cave_2b195b26:
 translate spanish monika_allegory_of_the_cave_bb272152:
 
     # extend 3eud "speaking about color would make you sound insane!"
-    extend 3eud " ¡hablar de colores te haría parecer un loco!"
+    extend 3eud "¡hablar de colores te haría parecer demente!"
 
 # game/script-topics.rpy:16152
 translate spanish monika_allegory_of_the_cave_f5e0699d:
@@ -1311,7 +1311,7 @@ translate spanish monika_allegory_of_the_cave_3039445d:
 translate spanish monika_allegory_of_the_cave_b5a5cfe4:
 
     # m 3etu "How do you know if the 'truth' that you're seeing is {i}the{/i} truth?"
-    m 3etu "¿Cómo sabes si la «verdad» que estás viendo es la pura verdad?"
+    m 3etu "¿Cómo sabes si la verdad que estás viendo es la pura verdad?"
 
 # game/script-topics.rpy:16161
 translate spanish monika_allegory_of_the_cave_05f8c059:
@@ -1365,7 +1365,7 @@ translate spanish monika_working_out_936e6d86:
 translate spanish monika_working_out_9e0940c9:
 
     # m 3rksdla "It's not about working out for looks...{w=0.3}{nw}"
-    m 3rksdla "No se trata de hacer ejercicio para lucir bien...{w=0.3}{nw}"
+    m 3rksdla "No se trata de hacer ejercicio por pura estética...{w=0.3}{nw}"
 
 # game/script-topics.rpy:16200
 translate spanish monika_working_out_833300a9:
@@ -1533,7 +1533,7 @@ translate spanish monika_toxin_puzzle_e676144b:
 translate spanish monika_toxin_puzzle_54a67edb:
 
     # m 3eud "At that point there's pretty much no reason to drink the painful toxin... {w=0.3}So why would you do it?"
-    m 3eud "Llegados a ese punto, ya no hay motivos para beber la dolorosa toxina... {w=0.3} Así que, ¿por qué lo harías?"
+    m 3eud "Llegados a ese punto, ya no hay motivos para beber una toxina que te va a hacer daño... {w=0.3}Así que, ¿por qué lo harías?"
 
 # game/script-topics.rpy:16259
 translate spanish monika_toxin_puzzle_8957f225:
@@ -1551,13 +1551,13 @@ translate spanish monika_toxin_puzzle_60d7c968:
 translate spanish monika_toxin_puzzle_46113027:
 
     # m 1eud "While dissecting the scenario, it's been pointed out by scholars that it's both rational for someone to drink, and to not drink, the toxin. {w=0.3}In other words, it's a paradox."
-    m 1eud "Al analizar el caso, los expertos han señalado que es igual de racional beber la toxina como no beberla. {w=0.3} En otras palabras, es una paradoja."
+    m 1eud "Al analizar el caso, los expertos han señalado que es igual de racional beber la toxina que no beberla. {w=0.3}En otras palabras, es una paradoja."
 
 # game/script-topics.rpy:16262
 translate spanish monika_toxin_puzzle_7c45653a:
 
     # m 3euc "To elaborate, come midnight, you have to really believe that you're going to drink the toxin. {w=0.3}You can't entertain any thoughts of not drinking it...{w=0.5}therefore, it'd be logical to drink it."
-    m 3euc "Para que quede más claro, a medianoche, tienes que creerte de verdad que vas a beberte la toxina. {w=0.3} No puedes dar pie a ningún pensamiento de no beberla... {w=0.5} por lo tanto, lo lógico sería beberla."
+    m 3euc "Para que quede más claro, a medianoche, tienes que creerte de verdad que vas a beberte la toxina. {w=0.3}No puedes dar pie a ningún pensamiento de no beberla... {w=0.5} por lo tanto, lo lógico sería beberla."
 
 # game/script-topics.rpy:16263
 translate spanish monika_toxin_puzzle_ab412a1c:
@@ -1605,7 +1605,7 @@ translate spanish monika_toxin_puzzle_ac79b48d:
 translate spanish monika_toxin_puzzle_ab5f508b:
 
     # m 3eksdla "If you just left them there, I'm sure you drew their ire for some time."
-    m 3eksdla "Si simplemente le dejaste tirado, estoy segura de que se enfadó contigo durante un tiempo."
+    m 3eksdla "Si simplemente pasaste del tema, estoy segura de que se enfadó contigo durante una buena temporada."
 
 # game/script-topics.rpy:16275
 translate spanish monika_toxin_puzzle_7c99740b:
@@ -1659,7 +1659,7 @@ translate spanish monika_toxin_puzzle_7c1a2fb6:
 translate spanish monika_movie_adaptations_80ff53b9:
 
     # m 1esc "I've always had mixed feelings about movie adaptations of books I read..."
-    m 1esc "Siempre he tenido sentimientos encontrados sobre las adaptaciones cinematográficas de los libros que leo..."
+    m 1esc "Siempre he tenido sentimientos encontrados con las adaptaciones cinematográficas de los libros que leo..."
 
 # game/script-topics.rpy:16302
 translate spanish monika_movie_adaptations_533cd69a:
@@ -1677,7 +1677,7 @@ translate spanish monika_movie_adaptations_1ac64409:
 translate spanish monika_movie_adaptations_ce8bc93b:
 
     # m 2rfc "Like, there's this scene I liked in the book that didn't make it in, or there's that character who was portrayed differently from how I imagined it."
-    m 2rfc "Por ejemplo, hay una escena que me gustaba en el libro y que no ha aparecido, o está ese personaje al que han interpretado de forma distinta a como me lo imaginaba."
+    m 2rfc "Por ejemplo, que omitan una escena del libro que me encantaba, o que interpreten a un personaje de forma distinta a como me lo imaginaba."
 
 # game/script-topics.rpy:16305
 translate spanish monika_movie_adaptations_241c12a7:
