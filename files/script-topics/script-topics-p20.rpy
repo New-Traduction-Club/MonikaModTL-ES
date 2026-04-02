@@ -69,7 +69,7 @@ translate spanish monika_sleigh_1e28e577:
 translate spanish monika_failure_7b6cbc0f:
 
     # m 1ekc "You know [player], I've been thinking recently..."
-    m 1ekc "Sabes, [player], he estado pensando últimamente..."
+    m 1ekc "Sabes, [player], últimamente he estado pensando que..."
 
 # game/script-topics.rpy:15126
 translate spanish monika_failure_24ec6070:
