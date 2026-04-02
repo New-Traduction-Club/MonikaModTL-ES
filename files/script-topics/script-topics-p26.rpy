@@ -78,7 +78,7 @@ translate spanish strings:
 
     # game/script-topics.rpy:1011
     old "Sayori regrets"
-    new "Arrepentimientos sobre Sayori"
+    new "Remordimientos por Sayori"
 
     # game/script-topics.rpy:1089
     old "DDLC's setting"
@@ -242,7 +242,7 @@ translate spanish strings:
 
     # game/script-topics.rpy:2125
     old "I love you more than you'll ever know, [mas_get_player_nickname(exclude_names=['my love', 'love'])]~"
-    new "Te quiero más de lo que nunca sabrás, [mas_get_player_nickname(exclude_names=['my love', 'love'])]."
+    new "Te quiero más de lo que te imaginas, [mas_get_player_nickname(exclude_names=['my love', 'love'])]."
 
     # game/script-topics.rpy:2125
     old "I love you so much, [player]. You mean everything to me~"
@@ -486,7 +486,7 @@ translate spanish strings:
 
     # game/script-topics.rpy:3948
     old "Words only mean so much, [player]."
-    new "Las palabras solo significan hasta cierto punto, [player]."
+    new "Las palabras no bastan, [player]."
 
     # game/script-topics.rpy:3948
     old "You say that, but when will you start to show it?"
@@ -494,7 +494,7 @@ translate spanish strings:
 
     # game/script-topics.rpy:3948
     old "You can say it all you want...{w=0.5}I need you to start showing it."
-    new "Puedes decirlo todo lo que quieras... {w=0.5}necesito que empieces a demostrarlo."
+    new "Puedes decirlo todo lo que quieras... {w=0.5}Necesito que empieces a demostrarlo."
 
     # game/script-topics.rpy:3948
     old "It doesn't always feel like it..."
@@ -542,7 +542,7 @@ translate spanish strings:
 
     # game/script-topics.rpy:4058
     old "You mean the whole world to me!"
-    new "¡Significas el mundo entero para mí!"
+    new "¡Lo eres todo para mí!"
 
     # game/script-topics.rpy:4058
     old "You are my sunshine after all."
@@ -558,11 +558,11 @@ translate spanish strings:
 
     # game/script-topics.rpy:4058
     old "You're the best partner I could ever ask for!"
-    new "¡Eres la mejor pareja que podría pedir!"
+    new "¡Eres la mejor pareja que podría desear!"
 
     # game/script-topics.rpy:4058
     old "My future is brighter with you in it."
-    new "Mi futuro es más brillante contigo en él."
+    new "Mi futuro es mucho más brillante a tu lado."
 
     # game/script-topics.rpy:4058
     old "You're everything I could ever hope for."
@@ -602,7 +602,7 @@ translate spanish strings:
 
     # game/script-topics.rpy:4058
     old "I will cherish you always."
-    new "Siempre te atesoraré."
+    new "Siempre te cuidaré."
 
     # game/script-topics.rpy:4058
     old "And I will never love anyone more than you!"
@@ -626,7 +626,7 @@ translate spanish strings:
 
     # game/script-topics.rpy:4058
     old "You make my life feel so complete!"
-    new "¡Haces que mi vida se sienta tan completa!"
+    new "¡Contigo mi vida está completa!"
 
     # game/script-topics.rpy:4058
     old "You've saved me in so many ways, how could I not fall for you?"
@@ -1014,7 +1014,7 @@ translate spanish strings:
 
     # game/script-topics.rpy:6597
     old "Are you still going by '[penname],' [player]?"
-    new "¿Te sigues llamando [penname], [player]?"
+    new "¿Sigues firmando como '[penname]', [player]?"
 
     # game/script-topics.rpy:6602
     old "No, I'm using a new one."
@@ -1030,7 +1030,7 @@ translate spanish strings:
 
     # game/script-topics.rpy:6639
     old "I'd rather not; it's embarrassing."
-    new "Prefiero que no, es embarazoso."
+    new "Prefiero que no, me da vergüenza."
 
     # game/script-topics.rpy:6647
     old "What's your pen name?"
@@ -1562,7 +1562,7 @@ translate spanish strings:
 
     # game/script-topics.rpy:10966
     old "Yes, I've been through plenty..."
-    new "Sí, he pasado por muchas..."
+    new "Sí, he tenido bastantes..."
 
     # game/script-topics.rpy:10966
     old "Yes, but only once."
@@ -1782,7 +1782,7 @@ translate spanish strings:
 
     # game/script-topics.rpy:12727
     old "A sedan."
-    new "Un sedán."
+    new "Una berlina."
 
     # game/script-topics.rpy:12727
     old "A hatchback."
@@ -1866,7 +1866,7 @@ translate spanish strings:
 
     # game/script-topics.rpy:13075
     old "It's average length."
-    new "Es de longitud media."
+    new "Lo llevo por los hombros."
 
     # game/script-topics.rpy:13075
     old "It's long."
@@ -2014,7 +2014,7 @@ translate spanish strings:
 
     # game/script-topics.rpy:14108
     old "Can you check for new music?"
-    new "¿Puedes buscar música nueva?"
+    new "¿Puedes comprobar si hay música nueva?"
 
     # game/script-topics.rpy:14196
     old "Reading poetry"
