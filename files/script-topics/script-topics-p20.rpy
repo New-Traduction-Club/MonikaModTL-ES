@@ -9,7 +9,7 @@ translate spanish monika_sleigh_b4e1cead:
 translate spanish monika_sleigh_1b28edd2:
 
     # m 1eka "Maybe we could even take a soft, fleece blanket along to cuddle under."
-    m 1eka "Incluso podríamos llevarnos una mantita suave de lana para acurrucarnos debajo."
+    m 1eka "Incluso podríamos llevarnos una mantita de lana suave para taparnos y acurrucarnos."
 
 # game/script-topics.rpy:15089
 translate spanish monika_sleigh_fde296c3:
@@ -183,7 +183,7 @@ translate spanish monika_failure_aa1196fa:
 translate spanish monika_failure_00cfc1df:
 
     # m 5hua "We can talk about whatever you're going through for as long as you need."
-    m 5hua "Podemos hablar de lo que sea que estés pasando durante todo el tiempo que necesites."
+    m 5hua "Podemos hablar de lo que sea por lo que estés pasando durante todo el tiempo que necesites."
 
 # game/script-topics.rpy:15156
 translate spanish monika_enjoyingspring_6a6e010a:
@@ -213,7 +213,7 @@ translate spanish monika_enjoyingspring_31326fcd:
 translate spanish monika_enjoyingspring_62ea43ce:
 
     # m 3eua "But I think the best thing about spring would have to be the cherry blossoms."
-    m 3eua "Pero creo que lo mejor de la primavera tienen que ser los cerezos en flor."
+    m 3eua "Pero creo que lo mejor de la primavera son, sin duda, los cerezos en flor."
 
 # game/script-topics.rpy:15161
 translate spanish monika_enjoyingspring_524e8065:
@@ -357,13 +357,13 @@ translate spanish monika_vr_6afd145b:
 translate spanish monika_vr_38eccc19:
 
     # m 1etc "Well,{w=0.3} maybe if I could make a VR system in here, we could both meet up in another reality."
-    m 1etc "Bueno,{w=0.3} a lo mejor si pudiera crear un sistema de realidad virtual aquí podríamos encontrarnos en otra realidad."
+    m 1etc "Bueno,{w=0.3} a lo mejor si pudiera crear un sistema de realidad virtual aquí, podríamos encontrarnos en otra realidad."
 
 # game/script-topics.rpy:15208
 translate spanish monika_vr_b0bac065:
 
     # m 1rksdlb "...But that's probably a little too complicated for me, ahaha."
-    m 1rksdlb "... Pero eso seguramente sea un poco demasiado complicado para mí, ja, ja, ja."
+    m 1rksdlb "... Pero seguramente eso sea demasiado complicado para mí, ja, ja, ja."
 
 # game/script-topics.rpy:15209
 translate spanish monika_vr_29a54383:
@@ -483,7 +483,7 @@ translate spanish monika_life_skills_2436606d:
 translate spanish monika_life_skills_7452937b:
 
     # m 3euc "I've been reflecting on what I got out of high school."
-    m 3euc "He estado reflexionando sobre lo que saqué del instituto."
+    m 3euc "He estado reflexionando sobre lo que aprendí en el instituto."
 
 # game/script-topics.rpy:15256
 translate spanish monika_life_skills_2474b3a2:
@@ -519,7 +519,7 @@ translate spanish monika_life_skills_006492fa:
 translate spanish monika_life_skills_2c7484b6:
 
     # m 3ekc "I've heard of some people graduating and then falling apart because they don't know how to do taxes or book appointments."
-    m 3ekc "He oído hablar de gente que se gradúa y luego se derrumba porque no sabe cómo hacer la declaración de la renta o pedir citas."
+    m 3ekc "He oído hablar de gente que se gradúa y luego se agobia muchísimo porque no sabe cómo hacer la declaración de la renta o pedir cita para el médico."
 
 # game/script-topics.rpy:15262
 translate spanish monika_life_skills_75beaba8:
@@ -615,7 +615,7 @@ translate spanish monika_life_skills_92f7d60d:
 translate spanish monika_life_skills_42a04abc:
 
     # m 1eka "If you're ever genuinely worried that you won't be able to do something, you must really care."
-    m 1eka "Si alguna vez te preocupa de verdad no ser capaz de hacer algo es que realmente te importa."
+    m 1eka "Si alguna vez te preocupa de verdad no ser capaz de hacer algo, es que realmente te importa."
 
 # game/script-topics.rpy:15285
 translate spanish monika_life_skills_48cac02c:
@@ -657,7 +657,7 @@ translate spanish monika_unknown_9dfb6c12:
 translate spanish monika_unknown_6534b875:
 
     # m 4eub "Fear of the dark, called 'nyctophobia,' is usually caused by the mind's exaggerated guess of what may be hiding in the shadows, rather than darkness itself."
-    m 4eub "El miedo a la oscuridad, llamado nictofobia, suele ser provocado por la idea exagerada que se hace la mente sobre lo que podría esconderse en las sombras en lugar de por la oscuridad en sí."
+    m 4eub "El miedo a la oscuridad, llamado nictofobia, suele ser provocado por la idea exagerada que se hace la mente sobre lo que podría esconderse en las sombras, en lugar de por la oscuridad en sí."
 
 # game/script-topics.rpy:15302
 translate spanish monika_unknown_212d8881:
@@ -687,7 +687,7 @@ translate spanish monika_unknown_29cc03e3:
 translate spanish monika_unknown_a4e6fb66:
 
     # m 3esc "You know, like being cautious around strangers, or thinking twice before jumping into unfamiliar situations."
-    m 3esc "Ya sabes, como ser cauteloso con los extraños o pensar dos veces antes de lanzarte a situaciones desconocidas."
+    m 3esc "Ya sabes, como tener cuidado con los extraños o pensártelo dos veces antes de lanzarte a situaciones desconocidas."
 
 # game/script-topics.rpy:15307
 translate spanish monika_unknown_d6e2f80e:
@@ -723,7 +723,7 @@ translate spanish monika_unknown_2d81a4bd:
 translate spanish monika_unknown_fc6faacc:
 
     # m 3rksdld "It just seems like it's easier being miserable because it's more comfortable,{w=0.5} even if they'd be much happier in the long run."
-    m 3rksdld "Simplemente parece que es más fácil ser miserable porque es más cómodo,{w=0.5} incluso si a la larga serían mucho más felices."
+    m 3rksdld "Parece que resulta más fácil conformarse con ser infeliz porque es más cómodo,{w=0.5} aunque a la larga fuesen mucho más felices de la otra forma."
 
 # game/script-topics.rpy:15314
 translate spanish monika_unknown_bc743421:
@@ -747,7 +747,7 @@ translate spanish monika_unknown_b0481c70:
 translate spanish monika_unknown_f0b27208:
 
     # m 1eksdlc "A-anyway..."
-    m 1eksdlc "E-en fin..."
+    m 1eksdlc "E-En fin..."
 
 # game/script-topics.rpy:15318
 translate spanish monika_unknown_b9fa2d59:
@@ -795,7 +795,7 @@ translate spanish monika_brave_new_world_a2a19d40:
 translate spanish monika_brave_new_world_7a3b0815:
 
     # m 3eua "The idea is, you've got this futuristic world where humans are no longer born through natural means."
-    m 3eua "La idea es que tienes este mundo futurista donde los humanos ya no nacen de forma natural."
+    m 3eua "La premisa plantea un mundo futurista donde los seres humanos ya no nacen de forma natural."
 
 # game/script-topics.rpy:15346
 translate spanish monika_brave_new_world_9585330f:
@@ -843,7 +843,7 @@ translate spanish monika_brave_new_world_999563c5:
 translate spanish monika_brave_new_world_06754508:
 
     # m 3eua "It's a pretty interesting case as a dystopian story, as most will show people as crushed and oppressed..."
-    m 3eua "Es un caso bastante interesante como historia distópica, ya que la mayoría muestran a la gente aplastada y oprimida..."
+    m 3eua "Es un caso bastante interesante como historia distópica, ya que la mayoría muestran a la sociedad sometida y oprimida..."
 
 # game/script-topics.rpy:15354
 translate spanish monika_brave_new_world_ae400bfa:
@@ -927,7 +927,7 @@ translate spanish monika_brave_new_world_c61f257d:
 translate spanish monika_brave_new_world_8847ab0d:
 
     # m 2rkc "Sometimes, I wish I could live happily in a world like that."
-    m 2rkc "A veces ojalá pudiera vivir felizmente en un mundo así."
+    m 2rkc "A veces, desearía poder vivir feliz en un mundo así."
 
 # game/script-topics.rpy:15373
 translate spanish monika_brave_new_world_d41f4d40:
@@ -1479,7 +1479,7 @@ translate spanish monika_dystopias_b4199675:
 translate spanish monika_dystopias_7bc4c856:
 
     # m 1tfc "Even Sayori might have ended up taking the same path I did, after she became president...{w=1} She was already well on the way when I..."
-    m 1tfc "Incluso puede que Sayori hubiera acabado tomando el mismo camino que yo después de convertirse en presidenta... {w=1} Ya iba por muy buen camino cuando yo..."
+    m 1tfc "Incluso puede que Sayori hubiera acabado tomando el mismo camino que yo después de convertirse en presidenta... {w=1} Ya iba en esa dirección cuando yo..."
 
 # game/script-topics.rpy:15539
 translate spanish monika_dystopias_f27eea59:
@@ -1557,7 +1557,7 @@ translate spanish monika_social_contagion_d5360741:
 translate spanish monika_social_contagion_574284e8:
 
     # m 2eksdlc "I noticed that when I felt unmotivated, or I was having a bad day, it would put a damper on club activities."
-    m 2eksdlc "Me di cuenta de que cuando me sentía desmotivada o tenía un mal día afectaba a las actividades del club."
+    m 2eksdlc "Me di cuenta de que cuando me sentía desmotivada o tenía un mal día, esto afectaba a las actividades del club."
 
 # game/script-topics.rpy:15572
 translate spanish monika_social_contagion_e474ad5a:
@@ -1605,7 +1605,7 @@ translate spanish monika_social_contagion_2d87b78e:
 translate spanish monika_social_contagion_5839a2bc:
 
     # m 2euc "Just because there is someone around you who gets into nasty habits like these, you're more likely to pick up the habit yourself."
-    m 2euc "Solo porque haya alguien a tu alrededor que adquiera malos hábitos como estos, es más probable que adquieras el hábito tú también."
+    m 2euc "El mero hecho de tener a alguien cerca con malos hábitos como esos hace que sea más probable que tú también los adquieras."
 
 # game/script-topics.rpy:15580
 translate spanish monika_social_contagion_4452d143:
@@ -1947,7 +1947,7 @@ translate spanish monika_boardgames_history_bde58780:
 translate spanish monika_boardgames_history_f339fb61:
 
     # m 3eua "Since you told me you liked board games, I got a bit curious and tried to learn more about them, {w=0.1}{nw}"
-    m 3eua "Como me dijiste que te gustaban los juegos de mesa me picó la curiosidad e intenté aprender un poco más sobre ellos, {w=0.1}{nw}"
+    m 3eua "Como me dijiste que te gustaban los juegos de mesa, me picó la curiosidad e intenté aprender un poco más sobre ellos, {w=0.1}{nw}"
 
 # game/script-topics.rpy:15723
 translate spanish monika_boardgames_history_2a556567:
