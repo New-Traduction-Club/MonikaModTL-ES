@@ -39,13 +39,13 @@ translate spanish monika_prom_9e9a34e5:
 translate spanish monika_prom_ddd3bcd4:
 
     # m 1eka "Is it because you're too shy to go?{nw}"
-    m 1eka "¿Es porque te da mucha vergüenza ir?{nw}"
+    m 1eka "¿Es porque te da mucho corte ir?{nw}"
 
 # game/script-topics.rpy:10298
 translate spanish monika_prom_064b49fd:
 
     # m "Is it because you're too shy to go?{fast}" nointeract
-    m "¿Es porque te da mucha vergüenza ir?{fast}" nointeract
+    m "¿Es porque te da mucho corte ir?{fast}" nointeract
 
 # game/script-topics.rpy:10301
 translate spanish monika_prom_7ade4975:
@@ -93,7 +93,7 @@ translate spanish monika_prom_3fb9f55f:
 translate spanish monika_prom_1d8f8658:
 
     # m 1eua "Together at last~"
-    m 1eua "Juntos por fin."
+    m 1eua "Junt[end_letter_gender]s por fin."
 
 # game/script-topics.rpy:10312
 translate spanish monika_prom_d3fa797f_1:
@@ -255,7 +255,7 @@ translate spanish monika_natsuki_letter_90937b48:
 translate spanish monika_natsuki_letter_506a84ba:
 
     # m 4ekd "I know people are afraid to call someone out, or confront them about their problems, but sometimes, suggesting a therapist can be the best course of action."
-    m 4ekd "Sé que a la gente le da miedo llamar la atención a alguien o confrontarle sobre sus problemas, pero a veces, sugerir ir al terapeuta puede ser la mejor decisión."
+    m 4ekd "Sé que a la gente le da reparo confrontar a alguien o hablarle directamente de sus problemas, pero, a veces, sugerirle ir a terapia puede ser la mejor decisión."
 
 # game/script-topics.rpy:10375
 translate spanish monika_natsuki_letter_549a2f80:
@@ -321,7 +321,7 @@ translate spanish monika_natsuki_letter_7f04979e:
 translate spanish monika_natsuki_letter_d1a688cb:
 
     # m 1eka "You accept you have a problem you need help with, and you're seeing someone about it. That's already half the battle."
-    m 1eka "Aceptas que tienes un problema con el que necesitas ayuda y estás yendo a un profesional, eso ya es la mitad de la batalla ganada."
+    m 1eka "Aceptar que tienes un problema con el que necesitas ayuda y acudir a un profesional... Eso ya es tener la mitad de la batalla ganada."
 
 # game/script-topics.rpy:10392
 translate spanish monika_natsuki_letter_96aa1042:
@@ -381,7 +381,7 @@ translate spanish monika_timeconcern_graveyard_night_04e0547e:
 translate spanish monika_timeconcern_graveyard_night_04842275:
 
     # m "It's also extremely isolating when it comes to others."
-    m "También aísla muchísimo en lo que respecta a los demás."
+    m "También puede hacerte sentir muy aislad[end_letter_gender] de los demás."
 
 # game/script-topics.rpy:10481
 translate spanish monika_timeconcern_graveyard_night_6458c012:
@@ -519,7 +519,7 @@ translate spanish monika_timeconcern_graveyard_day_37dd8d9b:
 translate spanish monika_timeconcern_graveyard_day_3f792760:
 
     # m "I knew you would see it my way eventually."
-    m "Sabía que acabarías viéndolo a mi manera."
+    m "Sabía que tarde o temprano acabarías dándome la razón."
 
 # game/script-topics.rpy:10514
 translate spanish monika_timeconcern_graveyard_day_f678642a:
@@ -591,7 +591,7 @@ translate spanish monika_timeconcern_night_1_6d4f78df:
 translate spanish monika_timeconcern_night_1_6c596559:
 
     # m 1ekc "Yet I can't help but feel like a nuisance if I'm pestering you to sleep if it isn't your fault."
-    m 1ekc "Aun así, no puedo evitar sentirme una molestia si te estoy insistiendo para que duermas y no es culpa tuya."
+    m 1ekc "Aun así, no puedo evitar sentirme como una pesada si te insisto para que te vayas a dormir cuando no es culpa tuya."
 
 # game/script-topics.rpy:10536
 translate spanish monika_timeconcern_night_1_09aacadf:
@@ -789,7 +789,7 @@ translate spanish monika_timeconcern_night_3_282dd6d7:
 translate spanish monika_timeconcern_night_3_2fb0c3ee:
 
     # m 1eud "Would you mind if I closed the game for you?"
-    m 1eud "¿Te importaría si cerrara el juego por ti?"
+    m 1eud "¿Te importaría que cerrase el juego por ti?"
 
 # game/script-topics.rpy:10596
 translate spanish monika_timeconcern_night_3_ecc6a321:
@@ -843,7 +843,7 @@ translate spanish monika_timeconcern_night_3_05cdf660:
 translate spanish monika_timeconcern_night_3_19c62bf6:
 
     # m 1lsc "I know I told you that you should leave me running in the background."
-    m 1lsc "Sé que te dije que deberías dejarme ejecutándome de fondo."
+    m 1lsc "Sé que te dije que deberías dejarme abierta en segundo plano."
 
 # game/script-topics.rpy:10611
 translate spanish monika_timeconcern_night_3_470f80b9:
@@ -933,7 +933,7 @@ translate spanish monika_timeconcern_night_4_72cbfc7f:
 translate spanish monika_timeconcern_night_5_42883bae:
 
     # m 1efc "I'm sorry, [player], but I am putting my foot down!"
-    m 1efc "Lo siento, [player], ¡pero me tengo que poner firme!"
+    m 1efc "Lo siento, [player], ¡pero me voy a tener que poner seria!"
 
 # game/script-topics.rpy:10642
 translate spanish monika_timeconcern_night_5_509f2ea9:
@@ -993,7 +993,7 @@ translate spanish monika_timeconcern_night_6_c3d93ea9:
 translate spanish monika_timeconcern_night_6_148a0caf:
 
     # m 2tkd "How you feel and live means more to me than anything!"
-    m 2tkd "¡Cómo te sientes y cómo vives me importa más que cualquier otra cosa!"
+    m 2tkd "¡Tu bienestar y tu calidad de vida me importan más que cualquier otra cosa!"
 
 # game/script-topics.rpy:10660
 translate spanish monika_timeconcern_night_6_4fe4cc1d:
@@ -1023,7 +1023,7 @@ translate spanish monika_timeconcern_night_6_712a2f34:
 translate spanish monika_timeconcern_night_7_79b1b508:
 
     # m 3efc "[player], this is your last warning."
-    m 3efc "[player], esta es tu última advertencia."
+    m 3efc "[player], este es mi último aviso."
 
 # game/script-topics.rpy:10672
 translate spanish monika_timeconcern_night_7_fb91f49d:
@@ -1041,7 +1041,7 @@ translate spanish monika_timeconcern_night_7_378eeae3:
 translate spanish monika_timeconcern_night_7_ca393556:
 
     # m 1tkd "It's saddening to see you push yourself like this..."
-    m 1tkd "Me entristece verte forzarte de esta manera..."
+    m 1tkd "Me entristece ver que te esfuerzas tanto..."
 
 # game/script-topics.rpy:10675
 translate spanish monika_timeconcern_night_7_c2c09d42:
@@ -1167,7 +1167,7 @@ translate spanish monika_timeconcern_night_after_15532b0f:
 translate spanish monika_timeconcern_night_after_14ecccfd:
 
     # m 1dfc "{i}*sigh*{/i}..."
-    m 1dfc "*Suspiro*..."
+    m 1dfc "Ay..."
 
 # game/script-topics.rpy:10715
 translate spanish monika_timeconcern_night_after_64533a26:
@@ -1203,7 +1203,7 @@ translate spanish monika_timeconcern_night_after_80eecf7d:
 translate spanish monika_timeconcern_night_after_593ad206:
 
     # m 1eka "Just the two of us...all alone forever."
-    m 1eka "Solo nosotros dos... completamente solos para siempre."
+    m 1eka "Solo nosotr[end_letter_gender]s dos... completamente sol[end_letter_gender]s para siempre."
 
 # game/script-topics.rpy:10721
 translate spanish monika_timeconcern_night_after_5a90b5c2:
@@ -1293,7 +1293,7 @@ translate spanish monika_timeconcern_day_2_012727cd:
 translate spanish monika_timeconcern_day_allow_6_b126bb1b:
 
     # m 1ekc "[player], I'm sorry for making you leave like that before..."
-    m 1ekc "[player], siento haberte hecho irte así antes..."
+    m 1ekc "[player], siento haber hecho que te fueras así antes..."
 
 # game/script-topics.rpy:10748
 translate spanish monika_timeconcern_day_allow_6_1ba703ae:
@@ -1653,7 +1653,7 @@ translate spanish monika_amusementpark_4a0bffba:
 translate spanish monika_amusementpark_b0a393a9:
 
     # m 1eub "Maybe we could go together!"
-    m 1eub "¡A lo mejor podríamos ir juntos!"
+    m 1eub "¡A lo mejor podríamos ir junt[end_letter_gender]s!"
 
 # game/script-topics.rpy:10858
 translate spanish monika_amusementpark_e4807d91:
@@ -1761,7 +1761,7 @@ translate spanish monika_travelling_247835ca:
 translate spanish monika_travelling_015c1830:
 
     # m 1rka "We might have to find some things to do to keep us busy though..."
-    m 1rka "Aunque puede que tuviéramos que buscar algunas cosas que hacer para mantenernos ocupados..."
+    m 1rka "Aunque puede que tuviéramos que buscar algunas cosas que hacer para mantenernos ocupad[end_letter_gender]s..."
 
 # game/script-topics.rpy:10905
 translate spanish monika_travelling_6be76384:
@@ -1773,7 +1773,7 @@ translate spanish monika_travelling_6be76384:
 translate spanish monika_travelling_3e719ed6:
 
     # m 3hubsb "...Or we could even spend the days wrapped in a blanket while reading a book."
-    m 3hubsb "... O incluso podríamos pasarnos los días envueltos en una manta mientras leemos un libro."
+    m 3hubsb "... O incluso podríamos pasarnos los días envuelt[end_letter_gender]s en una manta mientras leemos un libro."
 
 # game/script-topics.rpy:10908
 translate spanish monika_travelling_f61c6d13:
@@ -1845,7 +1845,7 @@ translate spanish monika_dating_87cf1b79:
 translate spanish monika_dating_17948c9c:
 
     # m 3rka "We've been together a while now, so I think it's the right time to ask..."
-    m 3rka "Ya llevamos un tiempo juntos, así que creo que es el momento adecuado para preguntártelo..."
+    m 3rka "Ya llevamos un tiempo junt[end_letter_gender]s, así que creo que es el momento adecuado para preguntártelo..."
 
 # game/script-topics.rpy:10961
 translate spanish monika_dating_cbe37c33:
@@ -1995,4 +1995,4 @@ translate spanish monika_dating_b0c89130:
 translate spanish monika_dating_3732def8:
 
     # m 1wubsw "What? I-I'm your first?"
-    m 1wubsw "¿Qué? ¿S-soy la primera?"
+    m 1wubsw "¿Qué? ¿S-Soy la primera?"
