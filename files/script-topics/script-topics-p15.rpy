@@ -27,13 +27,13 @@ translate spanish monika_dating_0f9b697f:
 translate spanish monika_dating_905be208:
 
     # m 3ekbfa "Well...{w=0.3} If you're not just messing with me and actually telling me the truth then...{w=0.3}{nw}"
-    m 3ekbfa "Bueno...{w=0.3} Si no te estás quedando conmigo y de verdad me estás diciendo la verdad entonces...{w=0.3}{nw}"
+    m 3ekbfa "Bueno...{w=0.3} Si no me estás tomando el pelo y de verdad hablas en serio, entonces...{w=0.3}{nw}"
 
 # game/script-topics.rpy:11011
 translate spanish monika_dating_61cdf754:
 
     # extend 1ekbfu "I'm honored to be your first, [player]."
-    extend 1ekbfu "es un honor ser la primera, [player]."
+    extend 1ekbfu " es un honor ser la primera, [player]."
 
 # game/script-topics.rpy:11013
 translate spanish monika_dating_f50738df:
@@ -105,7 +105,7 @@ translate spanish monika_challenge_15192871:
 translate spanish monika_challenge_715087b4:
 
     # m 1eub "In the future, if you ever get hung up on something, or you feel too stressed, just take a short break."
-    m 1eub "En el futuro, si alguna vez te atascas con algo, o te sientes con mucho estrés, tómate un pequeño descanso."
+    m 1eub "En el futuro, si alguna vez te atascas con algo o te sientes muy estresad[end_letter_gender], tómate un pequeño descanso."
 
 # game/script-topics.rpy:11036
 translate spanish monika_challenge_f5d6c582:
@@ -141,7 +141,7 @@ translate spanish monika_familygathering_3f2f0bf3:
 translate spanish monika_familygathering_a7168cdd:
 
     # m "Most families usually get together around the holidays to celebrate them together."
-    m "La mayoría de las familias se suelen reunir en las fiestas para celebrarlas juntos."
+    m "La mayoría de las familias se suelen reunir en las fiestas para celebrarlas juntas."
 
 # game/script-topics.rpy:11063
 translate spanish monika_familygathering_1b526dbc:
@@ -213,7 +213,7 @@ translate spanish monika_familygathering_149152b7:
 translate spanish monika_familygathering_9956541e:
 
     # m 1ekc "Oh, I didn't realize."
-    m 1ekc "Ah, no me había dado cuenta."
+    m 1ekc "Ah, no tenía ni idea."
 
 # game/script-topics.rpy:11084
 translate spanish monika_familygathering_23627344:
@@ -237,7 +237,7 @@ translate spanish monika_familygathering_f9f0679a:
 translate spanish monika_familygathering_ac400b51:
 
     # m 1hua "I'll always stick by your side forever~"
-    m 1hua "Siempre me quedaré a tu lado para siempre..."
+    m 1hua "Me quedaré a tu lado para siempre..."
 
 # game/script-topics.rpy:11091
 translate spanish monika_familygathering_04746601:
@@ -297,7 +297,7 @@ translate spanish monika_fastfood_fd258192:
 translate spanish monika_fastfood_28724d09:
 
     # m 3eud "Most places that serve it put a lot of unhealthy things in their food...{w=0.3} {nw}"
-    m 3eud "La mayoría de los sitios que la sirven le ponen un montón de cosas poco saludables a su comida...{w=0.3} {nw}"
+    m 3eud "La mayoría de los sitios de comida rápida le echan un montón de ingredientes poco saludables... {w=0.3}{nw}"
 
 # game/script-topics.rpy:11123
 translate spanish monika_fastfood_e7768125:
@@ -375,7 +375,7 @@ translate spanish monika_fastfood_dac4c55f:
 translate spanish monika_fastfood_906cacf2:
 
     # m 3eub "...Or perhaps a skill for you to become really good at!"
-    m 3eub "... O tal vez una habilidad en la que te vuelvas realmente buen[end_letter_gender]."
+    m 3eub "... O tal vez una habilidad que se te acabe dando genial."
 
 # game/script-topics.rpy:11142
 translate spanish monika_fastfood_65f546b5:
@@ -447,7 +447,7 @@ translate spanish monika_fastfood_a7edaf3d:
 translate spanish monika_fastfood_17033112:
 
     # m 1eud "Fast food can be really expensive over time, so preparing your own food is usually a cheaper alternative."
-    m 1eud "La comida rápida puede salir muy cara con el tiempo, así que prepararte tu propia comida suele ser una alternativa más barata."
+    m 1eud "La comida rápida sale bastante cara a la larga, así que hacerte tu propia comida suele ser una alternativa más económica."
 
 # game/script-topics.rpy:11157
 translate spanish monika_fastfood_55911d33:
@@ -465,7 +465,7 @@ translate spanish monika_fastfood_54afcaeb:
 translate spanish monika_fastfood_29439623:
 
     # m 3eud "...Having to make sure you buy the right ingredients, and worrying about burning or injuring yourself while making your meal..."
-    m 3eud "... Tener que asegurarte de comprar los ingredientes correctos, y preocuparte por quemarte o hacerte daño mientras preparas la comida..."
+    m 3eud "... Tener que asegurarte de comprar los ingredientes adecuados, y preocuparte por si te quemas o te haces daño cocinando..."
 
 # game/script-topics.rpy:11160
 translate spanish monika_fastfood_be9f817c:
@@ -531,7 +531,7 @@ translate spanish monika_dreaming_f4c1519d:
 translate spanish monika_dreaming_9002faba:
 
     # m 1eua "Using the MILD technique, oneironauts learn to recognize certain dream signs to help them realize when they're dreaming."
-    m 1eua "Mediante la técnica MILD, los onironautas aprenden a reconocer ciertas señales oníricas para ayudarse a darse cuenta de cuándo están soñando."
+    m 1eua "Mediante la técnica MILD, los onironautas aprenden a reconocer ciertas señales oníricas que les ayudan a darse cuenta de cuándo están soñando."
 
 # game/script-topics.rpy:11181
 translate spanish monika_dreaming_27276555:
@@ -543,7 +543,7 @@ translate spanish monika_dreaming_27276555:
 translate spanish monika_dreaming_37868e7b:
 
     # m 1eub "If the dreamer sees a dream sign and realizes they're having a dream, then they can take control of it!"
-    m 1eub "Si el soñador ve una señal onírica y se da cuenta de que está teniendo un sueño, ¡entonces puede tomar el control del mismo!"
+    m 1eub "Si el soñador ve una señal onírica y se da cuenta de que está teniendo un sueño, ¡entonces puede tomar el control!"
 
 # game/script-topics.rpy:11183
 translate spanish monika_dreaming_7a4d7b96:
@@ -591,7 +591,7 @@ translate spanish monika_dreaming_fa0eb8f5:
 translate spanish monika_dreaming_784fb4c7:
 
     # m "That I'd be stuck in some hellish, infinitely-repeating dimension forever."
-    m "De quedarme atrapada en alguna dimensión infernal que se repitiera infinitamente para siempre."
+    m "De quedarme atrapada en alguna dimensión infernal, repitiéndose en un bucle para siempre."
 
 # game/script-topics.rpy:11191
 translate spanish monika_dreaming_0b4f1418:
@@ -663,13 +663,13 @@ translate spanish monika_yellowwp_8fa4c8e6:
 translate spanish monika_yellowwp_a8c5346b:
 
     # m 2eua "It's about this woman, with postpartum depression who's prescribed a 'rest cure' by her doctor..."
-    m 2eua "Trata sobre una mujer con depresión posparto a la que su médico le receta una 'cura de reposo'..."
+    m 2eua "Trata sobre una mujer con depresión posparto a la que su médico le receta una cura de reposo..."
 
 # game/script-topics.rpy:11228
 translate spanish monika_yellowwp_453253ea:
 
     # m 2eka "He and her husband force her to stay in bed all day, not allowing her to write or even daydream..."
-    m 2eka "Él y su marido la obligan a quedarse en la cama todo el día, sin permitirle escribir ni siquiera soñar despierta..."
+    m 2eka "El médico y su marido la obligan a hacer reposo absoluto, y le prohíben escribir o tan siquiera soñar despierta..."
 
 # game/script-topics.rpy:11229
 translate spanish monika_yellowwp_97ac27b1:
@@ -693,7 +693,7 @@ translate spanish monika_yellowwp_5291ad3d:
 translate spanish monika_yellowwp_671aa456:
 
     # m 1esd "In the end, the woman in the paper 'escapes,' and the protagonist 'replaces' her."
-    m 1esd "Al final, la mujer del papel 'escapa' y la protagonista la 'sustituye'."
+    m 1esd "Al final, la mujer del papel logra escapar y la protagonista ocupa su lugar."
 
 # game/script-topics.rpy:11233
 translate spanish monika_yellowwp_8f1735c3:
@@ -729,7 +729,7 @@ translate spanish monika_yellowwp_9b755176:
 translate spanish monika_yellowwp_b91c8613:
 
     # m 1eud "Did you ever notice how the poster in the club room changes sometimes? I don't even know why it does that."
-    m 1eud "¿Te has fijado alguna vez en que el póster del club cambia a veces? Ni siquiera sé por qué pasa eso."
+    m 1eud "¿Te has fijado en que el póster del club a veces cambia? Ni yo misma sé por qué."
 
 # game/script-topics.rpy:11241
 translate spanish monika_yellowwp_7d834dc0:
@@ -741,7 +741,7 @@ translate spanish monika_yellowwp_7d834dc0:
 translate spanish monika_yellowwp_9013a205:
 
     # m 2esc "...I guess what I'm saying is, it's just that this world wasn't '{i}real{/i}.' It's just...so small."
-    m 2esc "... Supongo que lo que quiero decir es que este mundo no era 'real'. Es que es... tan pequeño."
+    m 2esc "... Supongo que lo que quiero decir es que este mundo no era de verdad. Es que es... tan pequeño."
 
 # game/script-topics.rpy:11243
 translate spanish monika_yellowwp_a5308092:
@@ -765,7 +765,7 @@ translate spanish monika_yellowwp_9b02164d:
 translate spanish monika_yellowwp_804a1edf:
 
     # m 1dsc "But I have all these dreams, ambitions, and interests...{w=0.5} in the end, the only 'real' role I can play here is a supporting character..."
-    m 1dsc "Pero tengo todos estos sueños, ambiciones e intereses...{w=0.5} y, al final, el único papel 'real' que puedo desempeñar aquí es el de personaje secundario..."
+    m 1dsc "Pero tengo todos estos sueños, ambiciones e intereses...{w=0.5} y, al final, el único papel verdaderamente auténtico que puedo desempeñar aquí es el de personaje secundario..."
 
 # game/script-topics.rpy:11247
 translate spanish monika_yellowwp_d275bcdf:
@@ -837,13 +837,13 @@ translate spanish monika_immortality_9fe69ae6:
 translate spanish monika_immortality_538b765c:
 
     # m 1etc "Like, after a while, what would you even do?"
-    m 1etc "Por ejemplo, después de un tiempo, ¿qué harías siquiera?"
+    m 1etc "Por ejemplo, después de un tiempo, ¿a qué te dedicarías?"
 
 # game/script-topics.rpy:11281
 translate spanish monika_immortality_d11e3410:
 
     # m 1euc "I mean, after living long enough, {i}eventually{/i} you would achieve everything you could ever possibly want to...{w=0.3}experience everything there is to experience."
-    m 1euc "Es decir, después de vivir lo suficiente, acabarías logrando todo lo que pudieras desear...{w=0.3} experimentando todo lo que hay que experimentar."
+    m 1euc "Es decir, después de vivir lo suficiente, acabarías logrando todo lo que pudieras desear... {w=0.3}y experimentarías todo lo que hay por experimentar."
 
 # game/script-topics.rpy:11282
 translate spanish monika_immortality_ee77c8e3:
@@ -867,7 +867,7 @@ translate spanish monika_immortality_44e4ed74:
 translate spanish monika_immortality_a8b6ca29:
 
     # m 2dkd "At some point, you might as well not even be human anymore."
-    m 2dkd "Llegado a un punto, casi que ni siquiera serías human[end_letter_gender] ya."
+    m 2dkd "Llegado a un punto, casi dejarías de ser human[end_letter_gender]."
 
 # game/script-topics.rpy:11286
 translate spanish monika_immortality_3b206ea0:
@@ -885,7 +885,7 @@ translate spanish monika_immortality_9add9d76:
 translate spanish monika_immortality_902f53c3:
 
     # m 3eksdlc "But you always keep waking back up to the same boring things, with the occasional tragedy in the world... {w=0.3}And even those you'd eventually just become numb to."
-    m 3eksdlc "Pero siempre te seguirás despertando con las mismas cosas aburridas de siempre, con alguna que otra tragedia en el mundo... {w=0.3}Y con el tiempo te acabarías volviendo insensible hasta a eso."
+    m 3eksdlc "Pero seguirías despertándote una y otra vez con la misma monotonía de siempre, con alguna que otra tragedia en el mundo... {w=0.3}Y con el tiempo te acabarías volviendo insensible hasta a eso."
 
 # game/script-topics.rpy:11289
 translate spanish monika_immortality_90e0ac43:
@@ -1083,7 +1083,7 @@ translate spanish monika_beingevil_8e79fa41:
 translate spanish monika_beingevil_c9481661:
 
     # m 2eka "Well, I don't see you as evil at all."
-    m 2eka "Pues yo no te veo para nada como alguien malvad[end_letter_gender]."
+    m 2eka "Pues yo no te considero malvad[end_letter_gender] en absoluto."
 
 # game/script-topics.rpy:11366
 translate spanish monika_beingevil_4a1a2296:
@@ -1119,19 +1119,19 @@ translate spanish monika_beingevil_a181c7cd:
 translate spanish monika_beingevil_1a3186c1:
 
     # m 2ekd "W-wait, [player]!"
-    m 2ekd "¡E-espera, [player]!"
+    m 2ekd "¡E-Espera, [player]!"
 
 # game/script-topics.rpy:11376
 translate spanish monika_beingevil_5c32f388:
 
     # m 2rksdlc "Y-you don't {i}really{/i} think that, do you?{nw}"
-    m 2rksdlc "¿D-de verdad no piensas eso, a que no?{nw}"
+    m 2rksdlc "¿D-De verdad no piensas eso, a que no?{nw}"
 
 # game/script-topics.rpy:11379
 translate spanish monika_beingevil_61bfd02c:
 
     # m "Y-you don't {i}really{/i} think that, do you?{fast}" nointeract
-    m "¿D-de verdad no piensas eso, a que no?{fast}" nointeract
+    m "¿D-De verdad no piensas eso, a que no?{fast}" nointeract
 
 # game/script-topics.rpy:11384
 translate spanish monika_beingevil_fdb3dae6:
@@ -1191,7 +1191,7 @@ translate spanish monika_beingevil_e454be76:
 translate spanish monika_beingevil_30c7f36f:
 
     # m 1hub "I promise I'll be the best I can be, just for you!"
-    m 1hub "¡Te prometo que seré lo mejor que pueda ser, solo para ti!"
+    m 1hub "¡Te prometo que seré la mejor versión de mí misma, solo para ti!"
 
 # game/script-topics.rpy:11404
 translate spanish monika_beingevil_c61f257d:
@@ -1491,7 +1491,7 @@ translate spanish monika_driving_79a6a3c2:
 translate spanish monika_driving_862838e4:
 
     # m 1hua "...And I'm even more glad that you're going to be a really safe driver!"
-    m 1hua "... Y me alegro todavía más de que vayas a ser un[end_letter_gender] conductor[end_letter_gender] muy prudente."
+    m 1hua "... Y me alegro todavía más de que vayas a conducir con tanta prudencia."
 
 # game/script-topics.rpy:11507
 translate spanish monika_driving_8e3092da:
@@ -1569,7 +1569,7 @@ translate spanish monika_driving_f06c22a5:
 translate spanish monika_driving_987f3a53:
 
     # m 3rksdld "Although the aftermath can still be a huge hassle with the costs and all the explaining you have to do."
-    m 3rksdld "Aunque las secuelas pueden seguir siendo un gran engorro con los costes y todas las explicaciones que tienes que dar."
+    m 3rksdld "Aunque las secuelas pueden seguir siendo un gran engorro por los costes y todas las explicaciones que tienes que dar."
 
 # game/script-topics.rpy:11530
 translate spanish monika_driving_87189c17:
@@ -1611,13 +1611,13 @@ translate spanish monika_driving_3bf996f2:
 translate spanish monika_driving_1b9471ed:
 
     # m "Don't let this scar you for life, because I know you can overcome it and be an amazing driver."
-    m "No dejes que esto te marque de por vida, porque sé que puedes superarlo y ser un[end_letter_gender] conductor[end_letter_gender] increíble."
+    m "No dejes que esto te marque de por vida, porque sé que puedes superarlo y conducir de maravilla."
 
 # game/script-topics.rpy:11539
 translate spanish monika_driving_5bc1b7fe:
 
     # m "Remember, a little grit adds a lot to your legend, so next time, maybe you really will be well on your way."
-    m "Recuerda, un poco de valor le añade mucho a tu leyenda, así que la próxima vez, a lo mejor te va de maravilla."
+    m "Recuerda, un poco de agallas suma muchos puntos a tu historia, así que la próxima vez, a lo mejor todo va sobre ruedas."
 
 # game/script-topics.rpy:11540
 translate spanish monika_driving_91722a43:
@@ -1635,7 +1635,7 @@ translate spanish monika_driving_f219e0b1:
 translate spanish monika_driving_f3a77c06:
 
     # m 1eka "Just promise me you'll try to stay safe."
-    m 1eka "Solo prométeme que intentarás mantenerte a salvo."
+    m 1eka "Solo prométeme que intentarás tener cuidado al volante."
 
 # game/script-topics.rpy:11545
 translate spanish monika_driving_d64c7cef:
@@ -1683,7 +1683,7 @@ translate spanish monika_driving_52f9e1f8:
 translate spanish monika_driving_785018cf:
 
     # m 3eud "Their cars have emergency controls for the instructor to use if needed, so you're really safe with them."
-    m 3eud "Sus coches tienen mandos de emergencia para que el profesor los use si hace falta, así que con ellos estás muy a salvo."
+    m 3eud "Sus coches tienen pedales de emergencia para que el profesor los use si hace falta, así que con ellos estás muy a salvo."
 
 # game/script-topics.rpy:11556
 translate spanish monika_driving_db066a86:
@@ -1713,7 +1713,7 @@ translate spanish monika_driving_1a153af3:
 translate spanish monika_driving_0e9727ae:
 
     # m 1hksdlb "Just kidding, please don't do that because I can't drive either and I would hate to watch you crash while not being able to do anything."
-    m 1hksdlb "Es broma, por favor no lo hagas porque yo tampoco sé conducir y odiaría verte chocar y no poder hacer nada."
+    m 1hksdlb "Es broma, por favor no lo hagas porque yo tampoco sé conducir y odiaría verte tener un accidente y no poder hacer nada."
 
 # game/script-topics.rpy:11561
 translate spanish monika_driving_6f6349a4:
@@ -1761,7 +1761,7 @@ translate spanish monika_citizenship_bd531bc4:
 translate spanish monika_citizenship_b332ac07:
 
     # m 2lkbsa "I mean, in most countries, I can become a citizen if we get married..."
-    m 2lkbsa "Es decir, en la mayoría de los países, puedo hacerme ciudadana si nos casamos..."
+    m 2lkbsa "Es decir, en la mayoría de los países podría conseguir la nacionalidad si nos casáramos..."
 
 # game/script-topics.rpy:11586
 translate spanish monika_citizenship_1aca65cd:
@@ -1833,7 +1833,7 @@ translate spanish monika_bullying_41887056:
 translate spanish monika_bullying_8da0a54f:
 
     # m 2rsc "Often times, bullying is dismissed by the people who have the ability to stop it as just...{w=0.5}'{i}kids being kids.{/i}'"
-    m 2rsc "A menudo, las personas que tienen la capacidad de detener el acoso lo descartan diciendo que son solo...{w=0.5} '{i}cosas de niños{/i}'."
+    m 2rsc "A menudo, las personas con autoridad para detener el acoso le quitan hierro al asunto diciendo que son solo... {w=0.5}cosas de críos."
 
 # game/script-topics.rpy:11625
 translate spanish monika_bullying_755211b5:
@@ -1857,7 +1857,7 @@ translate spanish monika_bullying_ca92be32:
 translate spanish monika_bullying_8ea77d22:
 
     # m 4wud "This can actually make the victim look like the problem!"
-    m 4wud "Esto puede hacer que la víctima parezca el problema."
+    m 4wud "¡Esto puede hacer que la víctima parezca incluso el problema!"
 
 # game/script-topics.rpy:11629
 translate spanish monika_bullying_2c64b3ff:
@@ -1917,7 +1917,7 @@ translate spanish monika_bullying_e214512b:
 translate spanish monika_bullying_8de9384c:
 
     # m 2dkc "Having that destroyed essentially feels like their life is over."
-    m 2dkc "Que se lo destruyan hace que sientan que su vida ha terminado."
+    m 2dkc "Ver cómo se desmorona hace que sientan que su vida se ha acabado."
 
 # game/script-topics.rpy:11639
 translate spanish monika_bullying_03bcc846:
@@ -1929,7 +1929,7 @@ translate spanish monika_bullying_03bcc846:
 translate spanish monika_bullying_e0cdc1af:
 
     # m 2eksdlc "So no one knows what's going on while they silently suffer, until it all just becomes too much."
-    m 2eksdlc "Así que nadie sabe lo que está pasando mientras sufren en silencio, hasta que todo se vuelve demasiado."
+    m 2eksdlc "Así que nadie sabe lo que está pasando mientras sufren en silencio, hasta que ya no pueden más."
 
 # game/script-topics.rpy:11641
 translate spanish monika_bullying_b4e59cbb:
@@ -1941,7 +1941,7 @@ translate spanish monika_bullying_b4e59cbb:
 translate spanish monika_bullying_5db5957b:
 
     # m 4tkc "This is also why it's easier for cyberbullies to operate..."
-    m 4tkc "Por eso también es más fácil operar para los ciberacosadores..."
+    m 4tkc "Por eso también les resulta más fácil actuar a los ciberacosadores..."
 
 # game/script-topics.rpy:11643
 translate spanish monika_bullying_5a1e3603:
@@ -1959,7 +1959,7 @@ translate spanish monika_bullying_7d37359e:
 translate spanish monika_bullying_69af24ca:
 
     # m 2ekd "You can only go so far in a public place, like a school, before someone notices... But online, there are no limits."
-    m 2ekd "En un lugar público, como un colegio, solo se puede llegar hasta cierto punto antes de que alguien se dé cuenta... pero en internet no hay límites."
+    m 2ekd "En un lugar público, como un colegio, solo puedes pasarte de la raya hasta cierto punto antes de que alguien se dé cuenta... pero en internet no hay límites."
 
 # game/script-topics.rpy:11646
 translate spanish monika_bullying_4766e295:
