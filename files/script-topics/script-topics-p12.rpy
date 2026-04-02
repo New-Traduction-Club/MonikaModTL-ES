@@ -33,25 +33,25 @@ translate spanish monika_1984_3667a1e0:
 translate spanish monika_1984_8e5fc074:
 
     # m 2esc "The language, for example, is manipulated into a tool for brainwashing called 'Newspeak.'"
-    m 2esc "El lenguaje, por ejemplo, es manipulado para convertirse en una herramienta de lavado de cerebro llamada 'Neolengua'."
+    m 2esc "El lenguaje, por ejemplo, se manipula para convertirlo en una herramienta de lavado de cerebro llamada 'Neolengua'."
 
 # game/script-topics.rpy:8914
 translate spanish monika_1984_787ef6ef:
 
     # m 2ekd "The government, Ingsoc, is creating it to control people's thoughts."
-    m 2ekd "El gobierno, el Ingsoc, lo está creando para controlar los pensamientos de la gente."
+    m 2ekd "El gobierno, el Ingsoc, lo crea para controlar los pensamientos de la gente."
 
 # game/script-topics.rpy:8915
 translate spanish monika_1984_4af88f86:
 
     # m "They were reducing grammar and vocabulary to the bare basics of it in order to fit the ideologies of their totalitarian regime."
-    m "Estaban reduciendo la gramática y el vocabulario a lo más básico, para ajustarlos a las ideologías de su régimen totalitario."
+    m "Reducen la gramática y el vocabulario a lo más básico para ajustarlos a las ideologías de su régimen totalitario."
 
 # game/script-topics.rpy:8916
 translate spanish monika_1984_20b3a63c:
 
     # m 2ekc "Preventing people from committing 'thoughtcrimes' that oppose the ruling party."
-    m 2ekc "Para evitar que la gente cometiera 'crímenes de pensamiento' que se opusieran al partido gobernante."
+    m 2ekc "Para evitar que la gente cometa 'crímenes de pensamiento' que se opongan al partido gobernante."
 
 # game/script-topics.rpy:8917
 translate spanish monika_1984_7c9ded62:
@@ -165,7 +165,7 @@ translate spanish monika_wolf_008b8012:
 translate spanish monika_wolf_8f40bcbe:
 
     # m 1euc "Is it because we learned to be afraid of things that hurt us, hundreds of thousands of years ago?"
-    m 1euc "¿Será porque aprendimos a tener miedo de las cosas que nos hacían daño hace cientos de miles de años?"
+    m 1euc "¿Será porque, hace cientos de miles de años, aprendimos a temer a las cosas que nos hacían daño?"
 
 # game/script-topics.rpy:8947
 translate spanish monika_wolf_4739ce8f:
@@ -219,7 +219,7 @@ translate spanish monika_wolf_d81c1322:
 translate spanish monika_wolf_5d158e53:
 
     # m 1eka "I can't help but be reminded of how you saved my life by being here with me."
-    m 1eka "No puedo evitar recordar cómo me salvaste la vida al estar aquí conmigo."
+    m 1eka "No puedo evitar acordarme de cómo me salvaste la vida al quedarte aquí conmigo."
 
 # game/script-topics.rpy:8956
 translate spanish monika_wolf_86343b89:
@@ -363,13 +363,13 @@ translate spanish monika_sleep_0bf9e8b7:
 translate spanish monika_sleep_6fe8df03:
 
     # m 1eka "I just think you're really great and wanted to make sure you're not accidentally destroying yourself."
-    m 1eka "Simplemente creo que eres genial y quería asegurarme de que no te estés destrozando sin querer."
+    m 1eka "Simplemente me importas muchísimo y quería asegurarme de que no te estés haciendo daño sin darte cuenta."
 
 # game/script-topics.rpy:9009
 translate spanish monika_sleep_1ab6d3f5:
 
     # m 1eua "So try to keep your sleep on track, okay?"
-    m 1eua "Así que intenta llevar un buen ritmo de sueño, ¿vale?"
+    m 1eua "Así que intenta mantener un buen horario de sueño, ¿vale?"
 
 # game/script-topics.rpy:9011
 translate spanish monika_sleep_35c02976:
@@ -471,7 +471,7 @@ translate spanish monika_breakup_8ad67047:
 translate spanish monika_breakup_c914a297:
 
     # m 1lksdld "That's not a joke, [player]!"
-    m 1lksdld "¡Eso no es una broma, [player]!"
+    m 1lksdld "¡Eso no tiene gracia, [player]!"
 
 # game/script-topics.rpy:9067
 translate spanish monika_breakup_70b8c221:
@@ -639,7 +639,7 @@ translate spanish monika_breakup_a41ccb79:
 translate spanish monika_breakup_0822aa6b:
 
     # m 1eka "Let's stay together forever~"
-    m 1eka "Estemos juntos para siempre."
+    m 1eka "Quedémonos junt[end_letter_gender]s para siempre."
 
 # game/script-topics.rpy:9123
 translate spanish monika_breakup_0bd97190:
@@ -651,7 +651,7 @@ translate spanish monika_breakup_0bd97190:
 translate spanish monika_breakup_02d71813:
 
     # m 2rkc "You keep saying that, I'm starting to think you actually mean it..."
-    m 2rkc "No paras de decir eso, empiezo a pensar que lo dices en serio..."
+    m 2rkc "Como no paras de decirlo, estoy empezando a pensar que lo dices en serio..."
 
 # game/script-topics.rpy:9127
 translate spanish monika_breakup_19428ff1:
@@ -777,7 +777,7 @@ translate spanish monika_hamlet_e0f40d68:
 translate spanish monika_hamlet_3336e456:
 
     # m 1eua "Most of the problems he faced were caused by his own indecisiveness and weak state of mind."
-    m 1eua "La mayoría de los problemas a los que se enfrentó fueron causados por su propia indecisión y su débil estado mental."
+    m 1eua "La mayoría de los problemas a los que se enfrentó fueron culpa de su propia indecisión y su debilidad mental."
 
 # game/script-topics.rpy:9161
 translate spanish monika_hamlet_a8ae9e4b:
@@ -795,7 +795,7 @@ translate spanish monika_hamlet_d73d9adf:
 translate spanish monika_hamlet_10c66418:
 
     # m 1eua "It took a lot of effort but we're finally together. Just us alone."
-    m 1eua "Costó mucho esfuerzo, pero por fin estamos juntos. Solo nosotros dos."
+    m 1eua "Nos costó mucho esfuerzo, pero por fin estamos junt[end_letter_gender]s. Sol[end_letter_gender]s tú y yo."
 
 # game/script-topics.rpy:9164
 translate spanish monika_hamlet_dbb629c9:
@@ -891,7 +891,7 @@ translate spanish monika_omamori_d3aa2727:
 translate spanish monika_omamori_e59dbe3d:
 
     # m 1eub "It could help to use either a small piece of wood or plastic to keep it protected."
-    m 1eub "Podría ayudar usar un trocito de madera o plástico para mantenerlo protegido."
+    m 1eub "Estaría bien usar un trocito de madera o plástico para que no se estropee."
 
 # game/script-topics.rpy:9199
 translate spanish monika_omamori_338e51aa:
@@ -969,7 +969,7 @@ translate spanish monika_omamori_8e54b233:
 translate spanish monika_smoking_0096b0cb:
 
     # m 2esc "You know, [player]...{w=0.3} Lately I've realized that people can really like a lot of things that are terrible for them."
-    m 2esc "Sabes, [player]... {w=0.3} Úbúltimamente me he dado cuenta de que a la gente le pueden gustar mucho cosas que son terribles para ellos."
+    m 2esc "Sabes, [player]...{w=0.3} Últimamente me he dado cuenta de que a la gente le pueden gustar mucho cosas que son terribles para ellos."
 
 # game/script-topics.rpy:9231
 translate spanish monika_smoking_8504d9ed:
@@ -981,13 +981,13 @@ translate spanish monika_smoking_8504d9ed:
 translate spanish monika_smoking_336e433d:
 
     # m 7eud "It's amazing how many people do it every day...{w=0.2}even though it's so damaging not only to themselves, but to others as well."
-    m 7eud "Es increíble cuánta gente lo hace a diario... {w=0.2} aunque sea tan perjudicial no solo para ellos mismos, sino también para los demás."
+    m 7eud "Es increíble cuánta gente lo hace a diario...{w=0.2} aunque sea tan perjudicial no solo para ellos mismos, sino también para los demás."
 
 # game/script-topics.rpy:9233
 translate spanish monika_smoking_c23633c3:
 
     # m 2rkc "Not to mention how harmful it is to the environment...{w=0.2} All the pollution and trash smoking leaves behind is ridiculous for a bunch of carcinogens."
-    m 2rkc "Por no hablar de lo perjudicial que es para el medio ambiente... {w=0.2} Toda la contaminación y basura que deja fumar es ridícula para un montón de carcinógenos."
+    m 2rkc "Por no hablar de lo perjudicial que es para el medio ambiente...{w=0.2} Toda la contaminación y basura que genera el tabaco es absurda, y todo por un puñado de carcinógenos."
 
 # game/script-topics.rpy:9234
 translate spanish monika_smoking_9df1c23a:
@@ -999,7 +999,7 @@ translate spanish monika_smoking_9df1c23a:
 translate spanish monika_smoking_e83f0e51:
 
     # m 4tkd "It's also quite a big hole in your pockets since you'll be buying more and more once your supply is out."
-    m 4tkd "También es un gran agujero en tus bolsillos, ya que comprarás más y más una vez que se te acabe."
+    m 4tkd "También supone un agujero enorme en el bolsillo, ya que seguirás comprando más y más en cuanto se te acabe."
 
 # game/script-topics.rpy:9236
 translate spanish monika_smoking_c5a577ae:
@@ -1023,7 +1023,7 @@ translate spanish monika_smoking_188a9606:
 translate spanish monika_smoking_f09c7a89:
 
     # m 1ekd "Haven't been able to shake the habit yet, [player]?"
-    m 1ekd "¿Aún no has podido dejar el hábito, [player]?"
+    m 1ekd "¿Aún no te has podido quitar el hábito, [player]?"
 
 # game/script-topics.rpy:9247
 translate spanish monika_smoking_68538064:
@@ -1113,7 +1113,7 @@ translate spanish monika_smoking_388e602b:
 translate spanish monika_smoking_6804ae34:
 
     # m 3rksdlc "I know I can't really force you to stop, but it would mean a lot to me if you considered it."
-    m 3rksdlc "Sé que no puedo obligarte a parar, pero significaría mucho para mí si lo consideraras."
+    m 3rksdlc "Sé que no puedo obligarte a dejarlo, pero significaría mucho para mí que te lo plantearas."
 
 # game/script-topics.rpy:9269
 translate spanish monika_smoking_68f13c31:
@@ -1449,7 +1449,7 @@ translate spanish monika_cartravel_fcbc4a50:
 translate spanish monika_cartravel_38a02791:
 
     # m 3hub "Maybe we could drive through an alluring forest...{w=0.5}or even see the sunset by the coastline!"
-    m 3hub "Quizá podríamos conducir a través de un bosque fascinante... {w=0.5} ¡o incluso ver el atardecer en la costa!"
+    m 3hub "Quizá podríamos conducir a través de un bosque fascinante...{w=0.5} ¡o incluso ver el atardecer en la costa!"
 
 # game/script-topics.rpy:9412
 translate spanish monika_cartravel_b46d68da:
@@ -1545,7 +1545,7 @@ translate spanish monika_100k_2db0218e:
 translate spanish monika_100k_9f2bbc84:
 
     # m 2eka "It means the world."
-    m 2eka "Significa el mundo para mí."
+    m 2eka "Para mí lo es todo."
 
 # game/script-topics.rpy:9436
 translate spanish monika_100k_3b1355b5:
@@ -1593,7 +1593,7 @@ translate spanish monika_asks_charity_584987a2:
 translate spanish monika_asks_charity_f3961c6b:
 
     # m 2esd "You must have at least seen a homeless person if you've been in a big city before."
-    m 2esd "Debes haber visto al menos a una persona sin hogar si has estado en una gran ciudad alguna vez."
+    m 2esd "Seguro que alguna vez has visto a alguna persona sin hogar si has estado en una gran ciudad."
 
 # game/script-topics.rpy:9469
 translate spanish monika_asks_charity_d0756641:
@@ -1653,7 +1653,7 @@ translate spanish monika_asks_charity_2a2f9d48:
 translate spanish monika_asks_charity_2c02d3ab:
 
     # m 3ekd "It doesn't help that some charities claim to support a cause, but take people's donations for themselves."
-    m 3ekd "Tampoco ayuda que algunas organizaciones benéficas afirmen apoyar una causa, pero se queden con las donaciones de la gente para ellas mismas."
+    m 3ekd "Tampoco ayuda que algunas organizaciones benéficas afirmen apoyar una causa, pero luego se queden con las donaciones de la gente."
 
 # game/script-topics.rpy:9485
 translate spanish monika_asks_charity_e2f7a6a9:
@@ -1713,7 +1713,7 @@ translate spanish monika_asks_charity_031c1708:
 translate spanish monika_asks_charity_35be842f:
 
     # m 2ekc "It's understandable; most working adults don't necessarily have time to spare."
-    m 2ekc "Es comprensible, la mayoría de los adultos que trabajan no tienen necesariamente tiempo libre."
+    m 2ekc "Es comprensible; la mayoría de los adultos que trabajan no suelen tener mucho tiempo libre."
 
 # game/script-topics.rpy:9499
 translate spanish monika_asks_charity_bc68ee52:
@@ -1737,7 +1737,7 @@ translate spanish monika_asks_charity_2bd09e4e:
 translate spanish monika_asks_charity_8499d31d:
 
     # m 4eub "Plus, I've heard that it can be great to have volunteer experience on a resume, when you apply for a job."
-    m 4eub "Además, he oído que puede ser muy bueno tener experiencia de voluntariado en un currículum cuando solicitas un trabajo."
+    m 4eub "Además, he oído que queda genial tener experiencia de voluntariado en el currículum a la hora de buscar trabajo."
 
 # game/script-topics.rpy:9503
 translate spanish monika_asks_charity_f4e49868:
@@ -1887,7 +1887,7 @@ translate spanish monika_kizuna_bdedd786:
 translate spanish monika_kizuna_58d513fc:
 
     # m 3rksdla "It seems to me that she's a voice actress hiding behind a 3D puppet."
-    m 3rksdla "A mí me parece que es una actriz de voz que se esconde tras una marioneta en 3D."
+    m 3rksdla "A mí me parece que es una actriz de doblaje que se esconde tras una marioneta en 3D."
 
 # game/script-topics.rpy:9555
 translate spanish monika_kizuna_68834ac4:
@@ -1911,13 +1911,13 @@ translate spanish monika_kizuna_df06c015:
 translate spanish monika_kizuna_7d373311:
 
     # m 2lksdlb "To be honest, I'm not sure how I feel about 'Let's Plays.'"
-    m 2lksdlb "Para ser sincera, no estoy segura de lo que pienso de los 'Let's Plays'."
+    m 2lksdlb "Para ser sincera, no tengo muy claro qué pensar sobre los 'Let's Plays'."
 
 # game/script-topics.rpy:9559
 translate spanish monika_kizuna_c5cafce1:
 
     # m 3euc "I mean, of {i}this{/i} game, mostly."
-    m 3euc "O sea, de {i}este{/i} juego, sobre todo."
+    m 3euc "Me refiero sobre todo a este juego en concreto."
 
 # game/script-topics.rpy:9560
 translate spanish monika_kizuna_7ca58bd9:
@@ -1947,7 +1947,7 @@ translate spanish monika_kizuna_fdb6c4ac:
 translate spanish monika_kizuna_33e8b0ad:
 
     # m 3eua "At least more than your average YouTuber."
-    m 3eua "Al menos más que el YouTuber promedio."
+    m 3eua "Al menos más que el YouTuber medio."
 
 # game/script-topics.rpy:9565
 translate spanish monika_kizuna_5cd3418d:
