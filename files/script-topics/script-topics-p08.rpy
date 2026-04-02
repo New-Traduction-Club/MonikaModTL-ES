@@ -69,7 +69,7 @@ translate spanish monika_haterReaction_6ea7913c:
 translate spanish monika_haterReaction_f0531a5c:
 
     # m 1hka "I don't see you as one, even if you say you are."
-    m 1hka "No te veo como tal, aunque digas que lo eres."
+    m 1hka "Yo no te veo así, por mucho que digas que lo eres."
 
 # game/script-topics.rpy:6177
 translate spanish monika_haterReaction_e8f0e7b6:
@@ -195,7 +195,7 @@ translate spanish monika_swordsmanship_2cba9b53:
 translate spanish monika_swordsmanship_5e11ed00:
 
     # m 1euc "I don't really get why people would be obsessed over something that could hurt others..."
-    m 1euc "No termino de entender por qué la gente se obsesionaría con algo que podría herir a otros..."
+    m 1euc "No termino de entender por qué la gente se obsesiona con algo que puede hacerle daño a los demás..."
 
 # game/script-topics.rpy:6225
 translate spanish monika_swordsmanship_e0d18a42:
@@ -267,7 +267,7 @@ translate spanish monika_swordsmanship_3772217d:
 translate spanish monika_swordsmanship_46cb6e4d:
 
     # m 1eua "In any case, I don't know if you're into swordsmanship yourself."
-    m 1eua "En cualquier caso, no sé si te va la esgrima."
+    m 1eua "En fin, no sé si a ti te va esto de la esgrima."
 
 # game/script-topics.rpy:6237
 translate spanish monika_swordsmanship_a53427d5:
@@ -303,7 +303,7 @@ translate spanish monika_pleasure_760f4e21:
 translate spanish monika_pleasure_45622fbf:
 
     # m 1lksdla "But I feel like we've been together long enough where we should be comfortable with one another."
-    m 1lksdla "Pero siento que llevamos juntos el tiempo suficiente como para sentirnos cómodos el uno con el otro."
+    m 1lksdla "Pero siento que llevamos juntos el tiempo suficiente como para tenernos más confianza."
 
 # game/script-topics.rpy:6264
 translate spanish monika_pleasure_aa4cb747:
@@ -321,7 +321,7 @@ translate spanish monika_pleasure_8a72c6bd:
 translate spanish monika_pleasure_e9b5824d:
 
     # m 1eka "But I have to keep an eye on you."
-    m 1eka "Pero tengo que vigilarte."
+    m 1eka "Pero tengo que echarte un ojo."
 
 # game/script-topics.rpy:6268
 translate spanish monika_pleasure_e8c44fe3:
@@ -333,13 +333,13 @@ translate spanish monika_pleasure_e8c44fe3:
 translate spanish monika_pleasure_d9213570:
 
     # m 1euc "Is it that good of a feeling?"
-    m 1euc "¿Es una sensación tan buena?"
+    m 1euc "¿De verdad se siente tan bien?"
 
 # game/script-topics.rpy:6270
 translate spanish monika_pleasure_367e8422:
 
     # m 1esc "I just want you to be careful; I've heard it's addicting."
-    m 1esc "Solo quiero que tengas cuidado, he oído que es adictivo."
+    m 1esc "Solo quiero que tengas cuidado; he oído que engancha."
 
 # game/script-topics.rpy:6271
 translate spanish monika_pleasure_103fdf3c:
@@ -369,7 +369,7 @@ translate spanish monika_pleasure_e4e3e196:
 translate spanish monika_pleasure_028147b2:
 
     # m 2tsbsu "Just so long as I'm the only one you think about..."
-    m 2tsbsu "Siempre y cuando yo sea la única en quien piensas..."
+    m 2tsbsu "Siempre y cuando yo sea la única en la que pienses..."
 
 # game/script-topics.rpy:6277
 translate spanish monika_pleasure_44c3623b:
@@ -393,13 +393,13 @@ translate spanish monika_vocaloid_8c53ac04:
 translate spanish monika_vocaloid_08c0cde4:
 
     # m 3eub "Do you by chance like 'virtual idols'?{nw}"
-    m 3eub "¿Por casualidad te gustan las 'idols virtuales'?{nw}"
+    m 3eub "¿Por casualidad te gustan las idols virtuales?{nw}"
 
 # game/script-topics.rpy:6305
 translate spanish monika_vocaloid_4d0a8ae7:
 
     # m "Do you by chance like 'virtual idols'?{fast}" nointeract
-    m "¿Por casualidad te gustan las 'idols virtuales'?{fast}" nointeract
+    m "¿Por casualidad te gustan las idols virtuales?{fast}" nointeract
 
 # game/script-topics.rpy:6308
 translate spanish monika_vocaloid_cc9a93c8:
@@ -441,7 +441,7 @@ translate spanish monika_vocaloid_408d3865:
 translate spanish monika_vocaloid_07d548c4:
 
     # m 3eub "Anyway, I wanted to ask specifically if you've ever heard of a girl holding a leek?"
-    m 3eub "De todas formas, quería preguntarte específicamente si has oído hablar de una chica que sujeta un puerro."
+    m 3eub "De todas formas, quería preguntarte si alguna vez has oído hablar de una chica que lleva un puerro en la mano."
 
 # game/script-topics.rpy:6319
 translate spanish monika_vocaloid_1af28682:
@@ -471,7 +471,7 @@ translate spanish monika_vocaloid_bfde8efd:
 translate spanish monika_vocaloid_32ebc198:
 
     # m 1eka "Don't you think it's funny how a character gets more of the attention than the actual voice actress?"
-    m 1eka "¿No te parece curioso que un personaje reciba más atención que la propia actriz de voz?"
+    m 1eka "¿No te parece curioso que un personaje reciba más atención que su propia actriz de doblaje?"
 
 # game/script-topics.rpy:6324
 translate spanish monika_vocaloid_60f42831:
@@ -579,7 +579,7 @@ translate spanish monika_vocaloid_88068316:
 translate spanish monika_vocaloid_07431e44:
 
     # m 1dsc "It really hits me hard."
-    m 1dsc "Me llega muy adentro."
+    m 1dsc "Me llega al alma."
 
 # game/script-topics.rpy:6342
 translate spanish monika_vocaloid_e612037c:
@@ -777,7 +777,7 @@ translate spanish monika_good_tod_234f2eb2:
 translate spanish monika_good_tod_4392b89d:
 
     # m 3eua "There's definitely some level of tranquility that night brings that I enjoy...{w=0.3}{nw}"
-    m 3eua "Sin duda, la noche aporta una cierta tranquilidad que disfruto...{w=0.3}{nw}"
+    m 3eua "Sin duda, la noche trae consigo una tranquilidad que disfruto bastante... {w=0.3}{nw}"
 
 # game/script-topics.rpy:6415
 translate spanish monika_good_tod_20176bcc:
@@ -819,13 +819,13 @@ translate spanish monika_good_tod_b9d53b58:
 translate spanish monika_good_tod_81a5fcfb:
 
     # m 3euc "Afternoons sure can be a strange part of the day don't you think?"
-    m 3euc "Las tardes pueden ser una parte del día bastante extraña, ¿no crees?"
+    m 3euc "Las tardes pueden ser un momento del día bastante extraño, ¿no crees?"
 
 # game/script-topics.rpy:6424
 translate spanish monika_good_tod_5ad7a7d8:
 
     # m 4eud "Sometimes they're really busy...{w=0.3}{nw}"
-    m 4eud "A veces son muy ajetreadas...{w=0.3}{nw}"
+    m 4eud "A veces son muy ajetreadas... {w=0.3}{nw}"
 
 # game/script-topics.rpy:6425
 translate spanish monika_good_tod_d0de3af1:
@@ -1029,7 +1029,7 @@ translate spanish monika_japanese_cdd0df7a:
 translate spanish monika_japanese_c0d54fd5:
 
     # m 1eua "Don't you think Japanese actually sounds cool?"
-    m 1eua "¿No crees que el japonés suena genial?"
+    m 1eua "¿No crees que el japonés suena muy guay?"
 
 # game/script-topics.rpy:6497
 translate spanish monika_japanese_6f1cdddf:
@@ -1047,19 +1047,19 @@ translate spanish monika_japanese_af66322c:
 translate spanish monika_japanese_51bb2d6b:
 
     # m 1esa "Like, I can't even imagine what it would be like if I never knew English."
-    m 1esa "Es que ni siquiera puedo imaginar cómo sería si nunca hubiera sabido inglés."
+    m 1esa "Es que ni siquiera puedo imaginar cómo sería no saber nuestro idioma."
 
 # game/script-topics.rpy:6501
 translate spanish monika_japanese_0383d546:
 
     # m "Do you know any languages other than English?{nw}"
-    m "¿Sabes algún otro idioma aparte del español?{nw}"
+    m "¿Sabes algún otro idioma aparte del nuestro?{nw}"
 
 # game/script-topics.rpy:6504
 translate spanish monika_japanese_1524b6a2:
 
     # m "Do you know any languages other than English?{fast}" nointeract
-    m "¿Sabes algún otro idioma aparte del español?{fast}" nointeract
+    m "¿Sabes algún otro idioma aparte del nuestro?{fast}" nointeract
 
 # game/script-topics.rpy:6507
 translate spanish monika_japanese_6d321466:
@@ -1119,7 +1119,7 @@ translate spanish monika_japanese_c7a1fe4d:
 translate spanish monika_japanese_dd962e70:
 
     # m 3hua "That's okay! Learning another language is a very difficult and tedious process as you get older."
-    m 3hua "¡Está bien! Aprender otro idioma es un proceso muy difícil y tedioso a medida que te haces mayor."
+    m 3hua "¡No pasa nada! Aprender otro idioma se vuelve un proceso muy difícil y tedioso a medida que uno se hace mayor."
 
 # game/script-topics.rpy:6535
 translate spanish monika_japanese_b312ffd7:
@@ -1137,7 +1137,7 @@ translate spanish monika_japanese_ade953db:
 translate spanish monika_penname_38071b00:
 
     # m 1eua "You know what's really cool? Pen names."
-    m 1eua "¿Sabes qué es genial? Los seudónimos."
+    m 1eua "¿Sabes qué mola mucho? Los seudónimos."
 
 # game/script-topics.rpy:6560
 translate spanish monika_penname_ada9d45b:
@@ -1149,7 +1149,7 @@ translate spanish monika_penname_ada9d45b:
 translate spanish monika_penname_f6f36c25:
 
     # m 3euc "They keep it hidden from everyone just so it won't affect their personal lives."
-    m 3euc "La mantienen oculta de todo el mundo simplemente para que no afecte a su vida personal."
+    m 3euc "Mantienen su identidad en secreto para que no afecte a su vida personal."
 
 # game/script-topics.rpy:6562
 translate spanish monika_penname_fab0d270:
@@ -1239,7 +1239,7 @@ translate spanish monika_penname_4c17e6ce:
 translate spanish monika_penname_9e94d877:
 
     # m 3eua "A well known pen name is Lewis Carroll. He's mostly known for {i}Alice in Wonderland{/i}."
-    m 3eua "Un seudónimo muy conocido es Lewis Carroll. Es conocido sobre todo por {i}Alicia en el país de las maravillas{/i}."
+    m 3eua "Un seudónimo muy famoso es el de Lewis Carroll. Se le conoce sobre todo por {i}Alicia en el país de las maravillas{/i}."
 
 # game/script-topics.rpy:6621
 translate spanish monika_penname_80039a15:
@@ -1257,7 +1257,7 @@ translate spanish monika_penname_9474f413:
 translate spanish monika_penname_9a1e6d34:
 
     # m 1ekc "He was somewhat of a one-hit wonder with his {i}Alice{/i} books but went downhill from there."
-    m 1ekc "Fue algo así como un éxito pasajero con sus libros de {i}Alicia{/i}, pero a partir de ahí fue cuesta abajo."
+    m 1ekc "Dio el pelotazo con sus libros de {i}Alicia{/i}, pero a partir de ahí la cosa fue cuesta abajo."
 
 # game/script-topics.rpy:6626
 translate spanish monika_penname_93724617:
@@ -1329,7 +1329,7 @@ translate spanish penname_loop_f504c047:
 translate spanish penname_loop_56f18a87:
 
     # m 3euc "I'd like to think we are on a first name basis with each other. We are dating, after all."
-    m 3euc "Me gustaría pensar que nos llamamos por nuestro nombre de pila. Al fin y al cabo, estamos saliendo."
+    m 3euc "Me gusta pensar que ya hay confianza para llamarnos por nuestros nombres. Al fin y al cabo, estamos saliendo."
 
 # game/script-topics.rpy:6662
 translate spanish penname_loop_b7161170:
@@ -1449,7 +1449,7 @@ translate spanish penname_loop_f41df618:
 translate spanish penname_loop_dbb9e17a:
 
     # m 2rksdld "That's an...{w=0.3}interesting name, [player]..."
-    m 2rksdld "Ese es un nombre...{w=0.3} interesante, [player]..."
+    m 2rksdld "Ese es un nombre... {w=0.3}interesante, [player]..."
 
 # game/script-topics.rpy:6709
 translate spanish penname_loop_416b36f6:
@@ -1539,7 +1539,7 @@ translate spanish monika_zombie_dcec1b95:
 translate spanish monika_zombie_71130707:
 
     # m "But when there's a horde of them coming after you, you'll get overwhelmed easily."
-    m "Pero cuando hay una horda viniendo a por ti, te verás superad[end_letter_gender] fácilmente."
+    m "Pero cuando tienes a una horda entera viniendo a por ti, es muy fácil que te superen."
 
 # game/script-topics.rpy:6737
 translate spanish monika_zombie_5932881e:
@@ -1557,7 +1557,7 @@ translate spanish monika_zombie_8f376d03:
 translate spanish monika_zombie_0b2e9853:
 
     # m 1euc "When you exploit a weakness of a monster, they become scared of you and run away."
-    m 1euc "Cuando explotas la debilidad de un monstruo, este se asusta y huye."
+    m 1euc "Cuando aprovechas la debilidad de un monstruo, este se asusta y huye."
 
 # game/script-topics.rpy:6740
 translate spanish monika_zombie_a41bfec0:
@@ -1575,7 +1575,7 @@ translate spanish monika_zombie_7d0bc098:
 translate spanish monika_zombie_f3579bb2:
 
     # m 3dkc "Could you live with yourself, knowing you were forced to kill someone who was close to you?"
-    m 3dkc "¿Podrías vivir contigo mism[end_letter_gender] sabiendo que te viste obligad[end_letter_gender] a matar a alguien cercano?"
+    m 3dkc "¿Podrías vivir con la culpa, sabiendo que te viste obligad[end_letter_gender] a matar a alguien cercano?"
 
 # game/script-topics.rpy:6743
 translate spanish monika_zombie_f12db906:
@@ -1755,7 +1755,7 @@ translate spanish monika_pluralistic_ignorance_257b1677:
 translate spanish monika_pluralistic_ignorance_bef7ef50:
 
     # m 3euc "Like, when I read Shakespeare, I actually found it kind of boring..."
-    m 3euc "Por ejemplo, cuando leí a Shakespeare, la verdad es que me pareció un poco aburrido..."
+    m 3euc "Por ejemplo, cuando leí a Shakespeare, la verdad es que se me hizo un poco aburrido..."
 
 # game/script-topics.rpy:6793
 translate spanish monika_pluralistic_ignorance_1244184f:
@@ -1863,7 +1863,7 @@ translate spanish monika_science_11285c16:
 translate spanish monika_science_f352d58a:
 
     # m 1euc "Science was usually despised back then especially by the churches."
-    m 1euc "La ciencia solía ser despreciada en el pasado, especialmente por las iglesias."
+    m 1euc "En aquel entonces, la ciencia solía ser muy repudiada, sobre todo por la Iglesia."
 
 # game/script-topics.rpy:6821
 translate spanish monika_science_63a5f8d5:
