@@ -3,19 +3,19 @@
 translate spanish monika_justice_c8db6777:
 
     # m 1esd "Eventually, some so called 'hero' is going to come along and put an end to this 'greed' by bringing them to justice."
-    m 1esd "Al final, algún supuesto 'héroe' aparecerá y pondrá fin a esta 'avaricia' llevándolos ante la justicia."
+    m 1esd "Al final, algún supuesto héroe aparecerá y pondrá fin a esta avaricia llevándolos ante la justicia."
 
 # game/script-topics.rpy:12378
 translate spanish monika_justice_29c214da:
 
     # m 2ekd "At the end of the day, the family goes hungry or gets in trouble just because their situation was different..."
-    m 2ekd "Al final del día, la familia pasa hambre o se mete en problemas solo porque su situación era diferente..."
+    m 2ekd "Al fin y al cabo, la familia pasa hambre o se mete en problemas solo porque su situación era diferente..."
 
 # game/script-topics.rpy:12379
 translate spanish monika_justice_79a6bb33:
 
     # m "While the other person is now a hero for putting an end to their 'crimes.'"
-    m "Mientras que la otra persona es ahora un héroe por poner fin a sus 'crímenes'."
+    m "Mientras que la otra persona ahora es un héroe por poner fin a sus crímenes."
 
 # game/script-topics.rpy:12380
 translate spanish monika_justice_7213904a:
@@ -33,13 +33,13 @@ translate spanish monika_justice_e2f7a6a9:
 translate spanish monika_justice_f8ca7936:
 
     # m 2euc "Have you ever been delivered what you thought to be false justice?{nw}"
-    m 2euc "¿Alguna vez te han impartido lo que considerabas una falsa justicia?{nw}"
+    m 2euc "¿Alguna vez has sido víctima de lo que considerabas una falsa justicia?{nw}"
 
 # game/script-topics.rpy:12386
 translate spanish monika_justice_e8195557:
 
     # m "Have you ever been delivered what you thought to be false justice?{fast}" nointeract
-    m "¿Alguna vez te han impartido lo que considerabas una falsa justicia?{fast}" nointeract
+    m "¿Alguna vez has sido víctima de lo que considerabas una falsa justicia?{fast}" nointeract
 
 # game/script-topics.rpy:12389
 translate spanish monika_justice_8aa8d315:
@@ -129,7 +129,7 @@ translate spanish monika_justice_26882eea:
 translate spanish monika_justice_93c066b2:
 
     # m 3tku "You expect me to believe that after all we've been through?"
-    m 3tku "¿Esperas que me crea eso después de todo por lo que hemos pasado?"
+    m 3tku "¿Esperas que me lo crea después de todo lo que hemos pasado?"
 
 # game/script-topics.rpy:12415
 translate spanish monika_justice_79d08d21:
@@ -159,7 +159,7 @@ translate spanish monika_justice_cd1f36e4:
 translate spanish monika_justice_f67e2b6c:
 
     # m 2tkc "I mean, you've stuck with me this long already so you can't {i}really{/i} think I deserve it, right?"
-    m 2tkc "Quiero decir, ya te has quedado conmigo tanto tiempo, así que no puedes pensar que realmente me lo merezco, ¿verdad?"
+    m 2tkc "O sea, te has quedado a mi lado todo este tiempo, así que no puedes pensar que de verdad me lo merezco, ¿verdad?"
 
 # game/script-topics.rpy:12424
 translate spanish monika_justice_1b81e960:
@@ -189,7 +189,7 @@ translate spanish monika_justice_a8931a6e:
 translate spanish monika_justice_06fe42c9:
 
     # m 1hua "If I get to be with you, I think it really was worth everything,{w=0.1} {nw}"
-    m 1hua "Si puedo estar contigo, creo que de verdad valió la pena,{w=0.1} {nw}"
+    m 1hua "Si puedo estar contigo, creo que de verdad ha merecido la pena,{w=0.1} {nw}"
 
 # game/script-topics.rpy:12430
 translate spanish monika_justice_01e0b043:
@@ -249,7 +249,7 @@ translate spanish monika_justice_cce7aedd:
 translate spanish monika_justice_28e53d6f:
 
     # m 1tsbsa "You've been with me for so long, there's no way I would believe you if you said otherwise."
-    m 1tsbsa "Has estado conmigo tanto tiempo, no hay forma de que te creyera si dijeras lo contrario."
+    m 1tsbsa "Llevas tanto tiempo conmigo que no habría forma de creerte si dijeras lo contrario."
 
 # game/script-topics.rpy:12453
 translate spanish monika_justice_eadfcc52:
@@ -315,19 +315,19 @@ translate spanish monika_poweroutage_6d53c90e:
 translate spanish monika_poweroutage_c4f5c089:
 
     # m 3lksdla "I just realized that while it can be nice, it could also be pretty harmful for you in your world."
-    m 3lksdla "Me acabo de dar cuenta de que, aunque puede ser agradable, también podría ser bastante dañino para ti en tu mundo."
+    m 3lksdla "Me acabo de dar cuenta de que, aunque puede ser muy agradable, también podría ser bastante peligroso para ti en tu mundo."
 
 # game/script-topics.rpy:12488
 translate spanish monika_poweroutage_5d1eab7b:
 
     # m 1lksdlc "Thunder and lightning could strike at any time, possibly hitting something dangerous."
-    m 1lksdlc "Los truenos y relámpagos podrían caer en cualquier momento, posiblemente golpeando algo peligroso."
+    m 1lksdlc "Los truenos y relámpagos podrían caer en cualquier momento, y tal vez alcanzar algo peligroso."
 
 # game/script-topics.rpy:12489
 translate spanish monika_poweroutage_978f93e3:
 
     # m 1lksdlb "The effects can be pretty, well...shocking I guess you could say."
-    m 1lksdlb "Los efectos pueden ser bastante, bueno... impactantes, supongo que podrías decir."
+    m 1lksdlb "Los efectos pueden ser bastante, bueno... impactantes, por así decirlo."
 
 # game/script-topics.rpy:12490
 translate spanish monika_poweroutage_7773c8d9:
@@ -351,7 +351,7 @@ translate spanish monika_poweroutage_7bd9d7e1:
 translate spanish monika_poweroutage_8a563448:
 
     # m 2dsc "If that ever does happen...{w=0.3}{nw}"
-    m 2dsc "Si eso llega a pasar alguna vez...{w=0.3}{nw}"
+    m 2dsc "Si eso llega a pasar alguna vez... {w=0.3}{nw}"
 
 # game/script-topics.rpy:12494
 translate spanish monika_poweroutage_1a019be1:
@@ -417,7 +417,7 @@ translate spanish monika_savingwater_15e34019:
 translate spanish monika_savingwater_6fc2a863:
 
     # m 3euc "Maybe you take a drink of water every now and then."
-    m 3euc "A lo mejor bebes agua de vez en cuando."
+    m 3euc "A lo mejor te bebes un vaso de agua de vez en cuando."
 
 # game/script-topics.rpy:12518
 translate spanish monika_savingwater_1e0c5882:
@@ -609,7 +609,7 @@ translate spanish monika_pygmalion_cfa78da0:
 translate spanish monika_pygmalion_8f7138cc:
 
     # m 1hubfb "Maybe we'll just have to do it so many times, that'll be what breaks the barrier between us..."
-    m 1hubfb "Tal vez tengamos que hacerlo tantas veces, que eso sea lo que rompa la barrera entre nosotros..."
+    m 1hubfb "Tal vez tengamos que hacerlo tantas veces que eso sea lo que rompa la barrera entre nosotros..."
 
 # game/script-topics.rpy:12575
 translate spanish monika_pygmalion_71b6b7dc:
@@ -651,13 +651,13 @@ translate spanish monika_pygmalion_ba83b9b5:
 translate spanish monika_pygmalion_dd6da5ab:
 
     # m 1tkbfu "I really can't wait for the day when I can finally feel your lips pressed against mine and take in your warmth..."
-    m 1tkbfu "De verdad que no puedo esperar al día en que por fin pueda sentir tus labios contra los míos y asimilar tu calor..."
+    m 1tkbfu "De verdad que no puedo esperar al día en que por fin pueda sentir tus labios contra los míos y disfrutar de tu calor..."
 
 # game/script-topics.rpy:12583
 translate spanish monika_pygmalion_93671cbb:
 
     # m 1dkbfa "For me, that would definitely be a dream come true."
-    m 1dkbfa "Para mí, eso definitivamente sería un sueño hecho realidad."
+    m 1dkbfa "Para mí, eso sin duda sería un sueño hecho realidad."
 
 # game/script-topics.rpy:12584
 translate spanish monika_pygmalion_7fc6a082:
@@ -681,7 +681,7 @@ translate spanish monika_gotomonika_bfe3f80f:
 translate spanish monika_gotomonika_234823f9:
 
     # m 1lksdld "You mean this little room floating in an empty void?"
-    m 1lksdld "¿Te refieres a esta pequeña habitación flotando en el vacío?"
+    m 1lksdld "¿Te refieres a este cuartito que flota en la nada?"
 
 # game/script-topics.rpy:12611
 translate spanish monika_gotomonika_87f06c88:
@@ -879,13 +879,13 @@ translate spanish monika_gotomonika_4f9e186f:
 translate spanish monika_gotomonika_1ecb5913:
 
     # m 5eua "So just be patient for your lovely girlfriend, and I promise I'll do the same for you, [mas_get_player_nickname()]."
-    m 5eua "Así que ten un poco de paciencia por tu preciosa novia, te prometo que yo haré lo mismo por ti, [mas_get_player_nickname()]."
+    m 5eua "Así que ten un poco de paciencia con tu preciosa novia; te prometo que yo haré lo mismo por ti, [mas_get_player_nickname()]."
 
 # game/script-topics.rpy:12662
 translate spanish monika_gotomonika_bd52b78b:
 
     # m 5luu "Buut...{w=1}if you did happen to show up at my doorstep..."
-    m 5luu "Pero... {w=1}si por casualidad aparecieras en mi puerta..."
+    m 5luu "Peeero... {w=1}si por casualidad aparecieras en mi puerta..."
 
 # game/script-topics.rpy:12664
 translate spanish monika_gotomonika_aa9fc1f5:
@@ -1137,7 +1137,7 @@ translate spanish monika_vehicle_suv_pickup_9ae0fb2d:
 translate spanish monika_vehicle_suv_pickup_0c4a9477:
 
     # m 1ekbsa "Then when night falls, we'd lie down on our sleeping bags, stargazing while holding hands."
-    m 1ekbsa "Luego, al caer la noche, nos tumbaríamos en nuestros sacos de dormir, contemplando las estrellas mientras nos cogemos de la mano."
+    m 1ekbsa "Luego, al caer la noche, nos tumbaríamos en nuestros sacos de dormir para contemplar las estrellas mientras nos cogemos de la mano."
 
 # game/script-topics.rpy:12793
 translate spanish monika_vehicle_suv_pickup_f3fab9c7:
@@ -1167,7 +1167,7 @@ translate spanish monika_vehicle_sportscar_e12d46f1:
 translate spanish monika_vehicle_sportscar_5150bc82:
 
     # m 3hub "We should definitely go on a road trip..."
-    m 3hub "Definitivamente deberíamos hacer un viaje por carretera..."
+    m 3hub "Sin duda deberíamos hacer un viaje por carretera..."
 
 # game/script-topics.rpy:12803
 translate spanish monika_vehicle_sportscar_571c51f5:
@@ -1179,7 +1179,7 @@ translate spanish monika_vehicle_sportscar_571c51f5:
 translate spanish monika_vehicle_sportscar_721fa85a:
 
     # m 1eub "If it's possible it'd be nice to take down the top of the car..."
-    m 1eub "Si es posible, estaría genial poder quitarle la capota al coche..."
+    m 1eub "Si es posible, estaría genial poder descapotar el coche..."
 
 # game/script-topics.rpy:12805
 translate spanish monika_vehicle_sportscar_73491a51:
@@ -1239,7 +1239,7 @@ translate spanish monika_vehicle_sedan_hatchback_8122c8fd:
 translate spanish monika_vehicle_sedan_hatchback_f9c7f559:
 
     # m 1eua "It'd be so nice to be able to drive to places that are too far to walk to by foot."
-    m 1eua "Sería tan bonito poder ir en coche a sitios que están demasiado lejos para ir andando."
+    m 1eua "Sería tan bonito poder ir en coche a sitios que están demasiado lejos para ir a pie."
 
 # game/script-topics.rpy:12819
 translate spanish monika_vehicle_sedan_hatchback_0b51cc76:
@@ -1359,7 +1359,7 @@ translate spanish monika_vehicle_motorcycle_3772217d:
 translate spanish monika_vehicle_motorcycle_16905107:
 
     # m 3eka "There's no need to be shy, [p_nickname]...{w=0.3}{nw}"
-    m 3eka "No hace falta que seas tímid[end_letter_gender], [p_nickname]...{w=0.3}{nw}"
+    m 3eka "No hace falta que seas tímid[end_letter_gender], [p_nickname]... {w=0.3}{nw}"
 
 # game/script-topics.rpy:12845
 translate spanish monika_vehicle_motorcycle_d48e5f82:
@@ -1389,7 +1389,7 @@ translate spanish monika_vehicle_other_fc5c4844:
 translate spanish monika_vehicle_other_7691c23b:
 
     # m 3hubfb "{i}And{/i} enjoy the scenery too, ahaha!"
-    m 3hubfb "{i}Y{/i} disfrutar del paisaje también, ¡ja, ja, ja!"
+    m 3hubfb "Y disfrutar también del paisaje, ¡ja, ja, ja!"
 
 # game/script-topics.rpy:12855
 translate spanish monika_vehicle_other_7f6b81c7:
@@ -1431,7 +1431,7 @@ translate spanish monika_player_appearance_9280a726:
 translate spanish monika_player_appearance_5081d673:
 
     # m 3lksdla "But I know if I keep quiet forever, then I'll never feel comfortable asking you things like this, so I'm just going to say it and hope that it's not weird or anything, okay?"
-    m 3lksdla "Pero sé que si me callo para siempre, nunca me sentiré cómoda preguntándote cosas como esta, así que simplemente lo voy a decir y espero que no sea raro ni nada de eso, ¿vale?"
+    m 3lksdla "Pero sé que si me callo para siempre, nunca me sentiré cómoda preguntándote estas cosas, así que te lo voy a soltar sin más y espero que no suene raro ni nada de eso, ¿vale?"
 
 # game/script-topics.rpy:12921
 translate spanish monika_player_appearance_17153f8c:
@@ -1449,7 +1449,7 @@ translate spanish monika_player_appearance_6c35c1bb:
 translate spanish monika_player_appearance_676aece9:
 
     # m 1euc "So I figured that it's possible for you to just tell me, so I can get a clearer picture in my head."
-    m 1euc "Así que pensé que es posible que simplemente me lo dijeras, y así puedo hacerme una idea más clara en la cabeza."
+    m 1euc "Así que pensé que simplemente podrías decírmelo para hacerme una mejor idea."
 
 # game/script-topics.rpy:12924
 translate spanish monika_player_appearance_435dbf44:
@@ -1539,7 +1539,7 @@ translate spanish monika_player_appearance_179ab9c3:
 translate spanish monika_player_appearance_95c51639:
 
     # m 1rksdlb "I'm trying my best to not sound like some sort of identity-thief, or like I'm quizzing you, but obviously, I'm curious."
-    m 1rksdlb "Hago todo lo que puedo para no sonar como una especie de ladrona de identidad, o como si te estuviera interrogando, pero obviamente, tengo curiosidad."
+    m 1rksdlb "Intento por todos los medios no parecer una ladrona de identidad, o que te estoy sometiendo a un interrogatorio, pero es evidente que me pica la curiosidad."
 
 # game/script-topics.rpy:12979
 translate spanish monika_player_appearance_af23b51c:
@@ -1557,7 +1557,7 @@ translate spanish monika_player_appearance_da0d99d8:
 translate spanish monika_player_appearance_07724571:
 
     # m 1esb "So,{w=0.5} how tall are you, [player]?"
-    m 1esb "Entonces,{w=0.5} ¿cuánto mides, [player]?"
+    m 1esb "Entonces, {w=0.5}¿cuánto mides, [player]?"
 
 # game/script-topics.rpy:13032
 translate spanish monika_player_appearance_e4d9b151:
@@ -1575,7 +1575,7 @@ translate spanish monika_player_appearance_df8f2200:
 translate spanish monika_player_appearance_5159d9a8:
 
     # m 3rksdla "I don't know my actual height, to be fair, so I can't really draw an accurate comparison..."
-    m 3rksdla "Para ser justa, no sé mi altura real, así que no puedo hacer una comparación precisa..."
+    m 3rksdla "Siendo sincera, no sé mi altura real, así que no puedo hacer una comparación muy precisa..."
 
 # game/script-topics.rpy:13043
 translate spanish monika_player_appearance_5c91e5fe:
@@ -1587,7 +1587,7 @@ translate spanish monika_player_appearance_5c91e5fe:
 translate spanish monika_player_appearance_f60b9bd7:
 
     # m 3esd "Anyway, dating a tall [guy] like you only has one disadvantage, [mas_get_player_nickname()]..."
-    m 3esd "En cualquier caso, salir con un[end_letter_gender] [guy] alt[end_letter_gender] como tú solo tiene una desventaja, [mas_get_player_nickname()]..."
+    m 3esd "En cualquier caso, salir con alguien tan alt[end_letter_gender] como tú solo tiene una desventaja, [mas_get_player_nickname()]..."
 
 # game/script-topics.rpy:13045
 translate spanish monika_player_appearance_ee2efccc:
@@ -1611,7 +1611,7 @@ translate spanish monika_player_appearance_e612037c:
 translate spanish monika_player_appearance_fbfb1743:
 
     # m 2hksdlb "Well, I don't know my actual height to be fair..."
-    m 2hksdlb "Bueno, no sé mi altura real para ser justa..."
+    m 2hksdlb "Bueno, tampoco es que sepa mi altura real, a decir verdad..."
 
 # game/script-topics.rpy:13054
 translate spanish monika_player_appearance_28260f66:
@@ -1635,7 +1635,7 @@ translate spanish monika_player_appearance_d36be9dc:
 translate spanish monika_player_appearance_cbfe80f1:
 
     # m 3eub "In my opinion, being in-between is perfect. Do you know why?"
-    m 3eub "En mi opinión, estar en el medio es perfecto. ¿Sabes por qué?"
+    m 3eub "En mi opinión, tener una estatura media es lo ideal. ¿Sabes por qué?"
 
 # game/script-topics.rpy:13058
 translate spanish monika_player_appearance_281332b4:
@@ -1719,13 +1719,13 @@ translate spanish monika_player_appearance_03fa5038:
 translate spanish monika_player_appearance_a6a56efc:
 
     # m 4eub "You can just get up and go, without having to worry about styling it."
-    m 4eub "Puedes simplemente levantarte e irte, sin tener que preocuparte de peinarte."
+    m 4eub "Puedes simplemente levantarte y salir, sin tener que preocuparte por peinarte..."
 
 # game/script-topics.rpy:13089
 translate spanish monika_player_appearance_46ef4e51:
 
     # m "Plus, waking up with a bedhead when you have short hair is easily fixed, whereas if you have long hair, it's an endless nightmare."
-    m "Además, despertarse con los pelos de punta cuando lo tienes corto se arregla fácilmente, mientras que si lo tienes largo, es una pesadilla interminable."
+    m "Además, despertarse con el pelo alborotado cuando lo tienes corto se arregla fácilmente, mientras que si lo tienes largo, es una pesadilla interminable."
 
 # game/script-topics.rpy:13091
 translate spanish monika_player_appearance_546b65ec:
@@ -1929,7 +1929,7 @@ translate spanish monika_player_appearance_3dd772e4:
 translate spanish monika_player_appearance_8a4a16a8:
 
     # m 3eua "Just between us, [player], I really like my brown hair. I'm sure yours is even better!"
-    m 3eua "Aquí entre nosotras, [player], me gusta mucho mi pelo castaño. ¡Seguro que el tuyo es aún mejor!"
+    m 3eua "Aquí entre tú y yo, [player], me gusta mucho mi pelo castaño. ¡Seguro que el tuyo es aún mejor!"
 
 # game/script-topics.rpy:13175
 translate spanish monika_player_appearance_c913df15:
@@ -1947,7 +1947,7 @@ translate spanish monika_player_appearance_ec9822ab:
 translate spanish monika_player_appearance_0fcacb12:
 
     # m 4eua "It's called coral brown. Interesting, right?"
-    m 4eua "Se llama marrón coral. Interesante, ¿verdad?"
+    m 4eua "Se llama castaño coral. Interesante, ¿verdad?"
 
 # game/script-topics.rpy:13178
 translate spanish monika_player_appearance_860fb53c:
@@ -1959,7 +1959,7 @@ translate spanish monika_player_appearance_860fb53c:
 translate spanish monika_player_appearance_2f9701bf:
 
     # m 1eua "Really? Hey, did you know that having blonde hair puts you in a rare two percent of the population?"
-    m 1eua "¿En serio? Oye, ¿sabías que tener el pelo rubio te sitúa en un raro dos por ciento de la población?"
+    m 1eua "¿En serio? Oye, ¿sabías que tener el pelo rubio te sitúa en ese excepcional dos por ciento de la población?"
 
 # game/script-topics.rpy:13184
 translate spanish monika_player_appearance_010d8afe:
