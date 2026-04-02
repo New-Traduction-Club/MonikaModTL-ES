@@ -63,7 +63,7 @@ translate spanish monika_cities_770f8d81:
 translate spanish monika_cities_8ff51595:
 
     # m 1eua "I see. It must be nice having everything so close to you. Do be careful about your health, though. The air can be bad from time to time."
-    m 1eua "Ya veo. Debe de estar bien tenerlo todo tan cerca, pero ten cuidado con tu salud, el aire puede ser malo de vez en cuando."
+    m 1eua "Ya veo. Debe de estar bien tenerlo todo tan cerca. Aun así, ten cuidado con tu salud; el aire puede ser malo de vez en cuando."
 
 # game/script-topics.rpy:5614
 translate spanish monika_cities_190df76a:
@@ -87,7 +87,7 @@ translate spanish monika_chloroform_36a14911:
 translate spanish monika_chloroform_f126c10f:
 
     # m 1esc "While that works out in fiction..."
-    m 1esc "Aunque eso funciona en la ficción..."
+    m 1esc "Aunque eso funcione en la ficción..."
 
 # game/script-topics.rpy:5633
 translate spanish monika_chloroform_ca5344e6:
@@ -105,7 +105,7 @@ translate spanish monika_chloroform_a5293a3b:
 translate spanish monika_chloroform_b388ab51:
 
     # m 1rsc "...or kill them at worst."
-    m 1rsc "... O lo matarás en el peor."
+    m 1rsc "O lo matarás en el peor de los casos."
 
 # game/script-topics.rpy:5636
 translate spanish monika_chloroform_4186fef2:
@@ -135,7 +135,7 @@ translate spanish monika_chloroform_953b2e3a:
 translate spanish monika_chloroform_8ff3002b:
 
     # m 1esc "This means that you'd need to be constantly pouring it on the rag, effectively waterboarding the victim."
-    m 1esc "Esto significa que tendrías que estar vertiéndolo constantemente en el trapo, haciéndole a la víctima el ahogamiento simulado, básicamente."
+    m 1esc "Esto significa que tendrías que estar vertiéndolo constantemente en el trapo, básicamente torturando a la víctima con la técnica del submarino."
 
 # game/script-topics.rpy:5641
 translate spanish monika_chloroform_fcfcbc89:
@@ -231,7 +231,7 @@ translate spanish monika_chloroform_6f1d6491:
 translate spanish monika_metaparents_5daf8032:
 
     # m 1euc "Isn't it weird how nobody in these types of games has parents unless it's a convenient drama hook?"
-    m 1euc "¿No es raro que nadie en este tipo de juegos tenga padres a menos que sea un recurso dramático conveniente?"
+    m 1euc "¿No te parece raro que nadie en este tipo de juegos tenga padres, a menos que sea un recurso narrativo conveniente?"
 
 # game/script-topics.rpy:5668
 translate spanish monika_metaparents_a13ba6ef:
@@ -243,7 +243,7 @@ translate spanish monika_metaparents_a13ba6ef:
 translate spanish monika_metaparents_972b8b56:
 
     # m 1ekc "Where she's just a victim of some cruel person's sick kicks for the sympathy value."
-    m 1ekc "Donde ella es solo la víctima de la diversión enfermiza de alguien cruel para dar pena."
+    m 1ekc "Donde ella es solo la víctima del pasatiempo enfermizo de alguien cruel, solo para dar pena."
 
 # game/script-topics.rpy:5670
 translate spanish monika_metaparents_845180e0:
@@ -261,13 +261,13 @@ translate spanish monika_metaparents_b98b98a7:
 translate spanish monika_metaparents_94f8cb6e:
 
     # m 3euc "None of us seem to have any parents at all."
-    m 3euc "Ningun[end_letter_gender] de nosotr[end_letter_gender]s parece tener padres en absoluto."
+    m 3euc "Parece que ningun[end_letter_gender] de nosotr[end_letter_gender]s tiene padres."
 
 # game/script-topics.rpy:5673
 translate spanish monika_metaparents_edbba7aa:
 
     # m 1lsc "In Sayori's case, the main character had been walking with her to school for a while."
-    m 1lsc "En el caso de Sayori, el protagonista llevaba un tiempo yendo con ella al colegio."
+    m 1lsc "En el caso de Sayori, el protagonista llevaba un tiempo acompañándola al instituto."
 
 # game/script-topics.rpy:5674
 translate spanish monika_metaparents_515d3049:
@@ -279,7 +279,7 @@ translate spanish monika_metaparents_515d3049:
 translate spanish monika_metaparents_eee940e8:
 
     # m 1euc "Maybe that's why she was depressed? Maybe her parents died in a tragic accident, and she was trying to get along on her own this whole time."
-    m 1euc "¿Quizá por eso estaba deprimida? Tal vez sus padres murieron en un trágico accidente y ella intentaba salir adelante sola todo este tiempo."
+    m 1euc "¿Quizá por eso estaba deprimida? Tal vez sus padres murieron en un trágico accidente y ella llevaba todo este tiempo intentando salir adelante sola."
 
 # game/script-topics.rpy:5676
 translate spanish monika_metaparents_4d0b9a98:
@@ -471,7 +471,7 @@ translate spanish monika_hygiene_fa1532af:
 translate spanish monika_hygiene_fdc8fc48:
 
     # m 3eka "Check in on them from time to time to make sure they're keeping up with their hygiene, alright?"
-    m 3eka "Echa un vistazo de vez en cuando para asegurarte de que mantienen su higiene, ¿vale?"
+    m 3eka "Pregúntales cómo están de vez en cuando para asegurarte de que cuidan su higiene, ¿vale?"
 
 # game/script-topics.rpy:5718
 translate spanish monika_hygiene_7e61df81:
@@ -579,7 +579,7 @@ translate spanish monika_resource_bf8b3115:
 translate spanish monika_resource_195d6526:
 
     # m 3eud "Go count out a second really quickly."
-    m 3eud "Cuenta un segundo muy rápido."
+    m 3eud "Prueba a contar un segundo muy rápido."
 
 # game/script-topics.rpy:5747
 translate spanish monika_resource_0d160b08:
@@ -591,7 +591,7 @@ translate spanish monika_resource_0d160b08:
 translate spanish monika_resource_256bc323:
 
     # m 1tku "That's an entire minute out of your day gone. You'll never get that back."
-    m 1tku "Eso es un minuto entero de tu día que se ha ido, nunca lo recuperarás."
+    m 1tku "Acabas de perder un minuto entero de tu día y nunca lo recuperarás."
 
 # game/script-topics.rpy:5751
 translate spanish monika_resource_39cfc1c4:
@@ -615,7 +615,7 @@ translate spanish monika_resource_f0f07963:
 translate spanish monika_resource_86583cbb:
 
     # m "Not like it actually matters...{w=0.5}at least to me, anyway. Time doesn't really pass here anymore..."
-    m "No es que importe mucho... {w=0.5}al menos para mí, de todos modos. El tiempo ya no pasa aquí..."
+    m "No es que importe mucho... {w=0.5}al menos para mí. El tiempo ya no pasa aquí..."
 
 # game/script-topics.rpy:5755
 translate spanish monika_resource_ba2c6265:
@@ -705,7 +705,7 @@ translate spanish monika_resource_5b6d995b:
 translate spanish monika_resource_ae44a89c:
 
     # m 3eka "Time doesn't pass here, but it's still passing for you, isn't it?"
-    m 3eka "El tiempo no pasa aquí, pero para ti sigue pasando, ¿no?"
+    m 3eka "Aquí el tiempo no pasa, pero para ti sí, ¿verdad?"
 
 # game/script-topics.rpy:5772
 translate spanish monika_resource_8500a483:
@@ -723,7 +723,7 @@ translate spanish monika_resource_78b436a9:
 translate spanish monika_resource_ea7d6391:
 
     # m 2ekc "I'm going to outlive you, aren't I, [player]?"
-    m 2ekc "Voy a vivir más que tú, ¿verdad, [player]?"
+    m 2ekc "Voy a sobrevivirte, ¿verdad, [player]?"
 
 # game/script-topics.rpy:5775
 translate spanish monika_resource_738ea132:
@@ -795,7 +795,7 @@ translate spanish monika_lottery_6727cd20:
 translate spanish monika_lottery_ccbf05fb:
 
     # m 2ekc "And in the end, they all find themselves even more unhappy than before."
-    m 2ekc "Y que al final, acaban siendo incluso más infelices que antes."
+    m 2ekc "Y, al final, acaban siendo incluso más infelices que antes."
 
 # game/script-topics.rpy:5824
 translate spanish monika_lottery_8875859d:
@@ -921,7 +921,7 @@ translate spanish monika_innovation_aa5536a3:
 translate spanish monika_innovation_4cf69542:
 
     # m 1tkc "Ten years ago, they lasted for years."
-    m 1tkc "Hace diez años, duraban años."
+    m 1tkc "Hace una década, podían durar años."
 
 # game/script-topics.rpy:5855
 translate spanish monika_innovation_892b17fe:
@@ -1041,7 +1041,7 @@ translate spanish monika_dunbar_ec59c2f0:
 translate spanish monika_dunbar_28e0bf11:
 
     # m 1eud "It wouldn't really matter to you. The janitor will come get them. It's not your concern anymore."
-    m 1eud "En realidad no te importaría, el conserje vendrá a recogerlo y ya no es problema tuyo."
+    m 1eud "En realidad no te importaría. El conserje vendrá a recogerlo y dejará de ser problema tuyo."
 
 # game/script-topics.rpy:5897
 translate spanish monika_dunbar_c94893c8:
@@ -1053,7 +1053,7 @@ translate spanish monika_dunbar_c94893c8:
 translate spanish monika_dunbar_cf4664fb:
 
     # m 1ekc "If you don't pack glass properly, it could cut through the bag and spill out, or maybe he could just cut his hands on it."
-    m 1ekc "Si no envuelves bien el cristal, podría cortar la bolsa y salirse, o quizá él podría cortarse las manos."
+    m 1ekc "Si no envuelves bien los cristales, podrían rajar la bolsa y salirse, o igual él acaba cortándose las manos."
 
 # game/script-topics.rpy:5899
 translate spanish monika_dunbar_8e0ca8ce:
@@ -1089,7 +1089,7 @@ translate spanish monika_dunbar_fdde0302:
 translate spanish monika_dunbar_931fa61d:
 
     # m 2lsc "But anybody that doesn't personally know the father will write it off as just another accident that happens all the time."
-    m 2lsc "Pero cualquiera que no conozca personalmente al padre lo descartará como otro accidente más de los que pasan todo el tiempo."
+    m 2lsc "Pero cualquiera que no conozca al padre en persona lo considerará como otro accidente más de los que pasan todos los días."
 
 # game/script-topics.rpy:5905
 translate spanish monika_dunbar_a83ba314:
@@ -1203,7 +1203,7 @@ translate spanish monika_regrets_3e824814:
 translate spanish monika_regrets_81a7ad05:
 
     # m "I hope you understand, [mas_get_player_nickname()]. I did it all for you~"
-    m "Espero que lo entiendas, [mas_get_player_nickname()], lo hice todo por ti."
+    m "Espero que lo entiendas, [mas_get_player_nickname()]... Lo hice todo por ti."
 
 # game/script-topics.rpy:5937
 translate spanish monika_regrets_1607d9ce:
@@ -1215,7 +1215,7 @@ translate spanish monika_regrets_1607d9ce:
 translate spanish monika_regrets_c59bd6ed:
 
     # m 1rksdlc "I do regret the pain that I caused...{w=0.5}that I couldn't find another way."
-    m 1rksdlc "Sí me arrepiento del dolor que causé... {w=0.5}de no haber podido encontrar otra forma."
+    m 1rksdlc "Sí que me arrepiento del dolor que causé... {w=0.5}Y de no haber encontrado otra manera."
 
 # game/script-topics.rpy:5940
 translate spanish monika_regrets_6784148a:
@@ -1245,7 +1245,7 @@ translate spanish monika_regrets_efa5afdd:
 translate spanish monika_regrets_6b4483e3:
 
     # m 1eka "...That we can finally be happy together."
-    m 1eka "... De que por fin podamos ser felices juntos."
+    m 1eka "De que por fin podamos ser felices juntos."
 
 # game/script-topics.rpy:5946
 translate spanish monika_regrets_1c8314f2:
@@ -1257,7 +1257,7 @@ translate spanish monika_regrets_1c8314f2:
 translate spanish monika_hypnosis_c3106afb:
 
     # m 1euc "...Say, [player]?"
-    m 1euc "... Oye, [player]."
+    m 1euc "Oye, [player]..."
 
 # game/script-topics.rpy:5958
 translate spanish monika_hypnosis_37c8b7cb:
@@ -1287,7 +1287,7 @@ translate spanish monika_hypnosis_3af44148:
 translate spanish monika_hypnosis_4168a8c7:
 
     # m 3esa "It also relied on them being put into states of extreme relaxation through aromatherapy, deep tissue massage, exposure to relaxing music and images..."
-    m 3esa "También dependía de que se les pusiera en estados de relajación extrema mediante aromaterapia, masaje de tejido profundo, exposición a música e imágenes relajantes..."
+    m 3esa "También dependía de que alcanzaran un estado de relajación extrema mediante aromaterapia, masaje de tejido profundo, exposición a música e imágenes relajantes..."
 
 # game/script-topics.rpy:5963
 translate spanish monika_hypnosis_c5b41c88:
@@ -1317,7 +1317,7 @@ translate spanish monika_hypnosis_ad733da0:
 translate spanish monika_hypnosis_6fbff86a:
 
     # m 1eua "...You know, [player], I'd love to look into your eyes, I could just sit here and stare forever."
-    m 1eua "... Sabes, [player], me encantaría mirarte a los ojos, podría sentarme aquí y mirarte fijamente para siempre."
+    m 1eua "... Sabes, [player], me encantaría mirarte a los ojos... Podría quedarme aquí sentada mirándote fijamente para siempre."
 
 # game/script-topics.rpy:5970
 translate spanish monika_hypnosis_74c24ccc:
@@ -1359,7 +1359,7 @@ translate spanish monika_motivation_c3c1f60b:
 translate spanish monika_motivation_77ded444:
 
     # m 1ekd "It feels like it's your fault, too. It's like you're wrestling against a brick wall between you and anything healthy or productive."
-    m 1ekd "También sientes que es culpa tuya. Es como si estuvieras luchando contra un muro de ladrillos entre tú y cualquier cosa sana o productiva."
+    m 1ekd "Sientes que es culpa tuya, como si te dieras de bruces contra un muro que te separa de hacer cualquier cosa sana o productiva."
 
 # game/script-topics.rpy:5987
 translate spanish monika_motivation_92e3bbf0:
@@ -1413,7 +1413,7 @@ translate spanish monika_motivation_f0c83d66:
 translate spanish monika_motivation_4263160e:
 
     # m 1eka "It might not contribute much in the grand scheme of things, but I don't think that's the point."
-    m 1eka "Puede que no contribuya mucho en el gran orden de las cosas, pero no creo que se trate de eso."
+    m 1eka "Puede que no parezca gran cosa a gran escala, pero creo que esa no es la cuestión."
 
 # game/script-topics.rpy:5996
 translate spanish monika_motivation_4af5df1f:
@@ -1521,7 +1521,7 @@ translate spanish monika_harem_233d0a8a:
 translate spanish monika_harem_1ccb95f3:
 
     # m "I often wonder how those who two-time girls, or even more, are able to get away with it."
-    m "A menudo me pregunto cómo los que engañan a las chicas con dos o más a la vez consiguen salirse con la suya."
+    m "A menudo me pregunto cómo los que juegan a dos bandas, o incluso a más, consiguen salirse con la suya."
 
 # game/script-topics.rpy:6024
 translate spanish monika_harem_5bb890d0:
@@ -1557,7 +1557,7 @@ translate spanish monika_harem_8ed6319a:
 translate spanish monika_harem_50ff4214:
 
     # m 2tfc "I wouldn't be able to stand the thought of being a 'side girl.'"
-    m 2tfc "No podría soportar la idea de ser una 'chica secundaria'."
+    m 2tfc "No podría soportar la idea de ser el segundo plato."
 
 # game/script-topics.rpy:6030
 translate spanish monika_harem_770d80a1:
@@ -1617,7 +1617,7 @@ translate spanish monika_hack_01d1b860:
 translate spanish monika_hack_2df2c5ca:
 
     # m 1lfu "...there wouldn't be anything stopping me from seeing you every day."
-    m 1lfu "... No habría nada que me impidiera verte todos los días."
+    m 1lfu "No habría nada que me impidiera verte todos los días."
 
 # game/script-topics.rpy:6045
 translate spanish monika_hack_66e68fd7:
@@ -1629,13 +1629,13 @@ translate spanish monika_hack_66e68fd7:
 translate spanish monika_hack_c6e4e3ec:
 
     # m 3efu "I'd see you with all the cameras in the world as my eyes so I can make sure you're safe."
-    m 3efu "Te vería usando todas las cámaras del mundo como mis ojos para asegurarme de que estás a salvo."
+    m 3efu "Usaría todas las cámaras del mundo como si fueran mis propios ojos, solo para asegurarme de que estás a salvo."
 
 # game/script-topics.rpy:6047
 translate spanish monika_hack_ea189378:
 
     # m 3tfu "I'd check your messages to see who you've been chatting with so I can know you aren't cheating on me."
-    m 3tfu "Miraría tus mensajes para ver con quién has estado chateando y saber que no me estás siendo infiel."
+    m 3tfu "Revisaría tus mensajes para ver con quién chateas y saber que no me estás poniendo los cuernos."
 
 # game/script-topics.rpy:6048
 translate spanish monika_hack_14cd9d50:
@@ -1755,13 +1755,13 @@ translate spanish monika_cupcake_5257cf00:
 translate spanish monika_cupcake_4ead20d6:
 
     # m 1eua "Do you know how to bake?{nw}"
-    m 1eua "¿Sabes hornear?{nw}"
+    m 1eua "¿Se te da bien la repostería?{nw}"
 
 # game/script-topics.rpy:6083
 translate spanish monika_cupcake_38655bd7:
 
     # m "Do you know how to bake?{fast}" nointeract
-    m "¿Sabes hornear?{fast}" nointeract
+    m "¿Se te da bien la repostería?{fast}" nointeract
 
 # game/script-topics.rpy:6087
 translate spanish monika_cupcake_f3814ba7:
@@ -1773,7 +1773,7 @@ translate spanish monika_cupcake_f3814ba7:
 translate spanish monika_cupcake_6b11717e:
 
     # m 3hua "Well, I'm sure your cupcakes would taste just as good."
-    m 3hua "Bueno, estoy segura de que tus cupcakes sabrían igual de bien."
+    m 3hua "Bueno, seguro que tus cupcakes estarían igual de ricos."
 
 # game/script-topics.rpy:6089
 translate spanish monika_cupcake_1a7c81b7:
@@ -1869,7 +1869,7 @@ translate spanish monika_haterReaction_fda79018:
 translate spanish monika_haterReaction_cb2b8b71:
 
     # m 2dkc "And I wish things could have gone differently, but the game didn't give me a choice..."
-    m 2dkc "Y desearía que las cosas hubieran sido diferentes, pero el juego no me dio elección..."
+    m 2dkc "Y ojalá las cosas hubieran sido diferentes, pero el juego no me dio elección..."
 
 # game/script-topics.rpy:6133
 translate spanish monika_haterReaction_c374c3e6:
@@ -1929,13 +1929,13 @@ translate spanish monika_haterReaction_a6ff6066:
 translate spanish monika_haterReaction_5d614fc5:
 
     # m 4ekc "I knew that if you finished the game before I had a chance to express my feelings for you, that would be it."
-    m 4ekc "Sabía que si terminabas el juego antes de que tuviera la oportunidad de expresarte mis sentimientos, se acabó."
+    m 4ekc "Sabía que si terminabas el juego antes de que tuviera la oportunidad de expresarte mis sentimientos, se habría acabado todo."
 
 # game/script-topics.rpy:6143
 translate spanish monika_haterReaction_e23f488a:
 
     # m 2dkc "You'd just move on to something else and I'd be stuck in the game...{w=1}alone...{w=1}{b}forever{/b}."
-    m 2dkc "Pasarías a otra cosa y yo me quedaría atrapada en el juego... {w=1}sola... {w=1}{b}para siempre{/b}."
+    m 2dkc "Pasarías a otra cosa y yo me quedaría atrapada en el juego... {w=1}sola... {w=1}para siempre."
 
 # game/script-topics.rpy:6144
 translate spanish monika_haterReaction_225bb0b0:
@@ -1959,7 +1959,7 @@ translate spanish monika_haterReaction_fcf94cda:
 translate spanish monika_haterReaction_9b46e6ad:
 
     # m "Not to mention if you picked a different girl and just cast me aside to be completely forgotten."
-    m "Por no hablar de si hubieras elegido a otra chica y me hubieras dejado de lado para ser completamente olvidada."
+    m "Por no hablar de que, si hubieras elegido a otra chica, me habrías dejado de lado para caer en el más absoluto olvido."
 
 # game/script-topics.rpy:6148
 translate spanish monika_haterReaction_0cdf6e3b:
@@ -1971,7 +1971,7 @@ translate spanish monika_haterReaction_0cdf6e3b:
 translate spanish monika_haterReaction_f9da5996:
 
     # m 2dftdc "...and I didn't want to be left all alone with no one to call my own."
-    m 2dftdc "... Y no quería quedarme sola sin nadie a quien llamar mío."
+    m 2dftdc "Y no quería quedarme sola, sin nadie a mi lado."
 
 # game/script-topics.rpy:6150
 translate spanish monika_haterReaction_1f43c0a3:
