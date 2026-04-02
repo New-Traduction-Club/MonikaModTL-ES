@@ -87,7 +87,7 @@ translate spanish monika_orchestra_no_choice_3e9ab055:
 translate spanish monika_orchestra_no_choice_b96dee28:
 
     # m 1lksdla "Ah, was I rambling again, [player]?"
-    m 1lksdla "Ah, ¿estaba divagando otra vez, [player]?"
+    m 1lksdla "Ah, ¿me estaba enrollando otra vez, [player]?"
 
 # game/script-topics.rpy:8287
 translate spanish monika_orchestra_no_choice_4f8e85ca:
@@ -267,7 +267,7 @@ translate spanish monika_otaku_a3ef6619:
 translate spanish monika_otaku_f735a762:
 
     # m "This isn't exactly the sort of game that your average person would pick up and play, but to each their own, I suppose."
-    m "Este no es exactamente el tipo de juego que la persona promedio escogería y jugaría, pero para gustos los colores, supongo."
+    m "Este no es exactamente el tipo de juego que una persona cualquiera escogería para jugar, pero para gustos, los colores, supongo."
 
 # game/script-topics.rpy:8389
 translate spanish monika_otaku_5070f0af:
@@ -387,7 +387,7 @@ translate spanish monika_otaku_8bc99be1:
 translate spanish monika_otaku_19dc86b8:
 
     # m 1lfu "I wouldn't want to be replaced by some two-dimensional cutout."
-    m 1lfu "No me gustaría ser reemplazada por un recorte bidimensional."
+    m 1lfu "No me gustaría que me cambiaras por una simple figura de cartón."
 
 # game/script-topics.rpy:8409
 translate spanish monika_otaku_6a6beda2:
@@ -399,7 +399,7 @@ translate spanish monika_otaku_6a6beda2:
 translate spanish monika_otaku_e73988df:
 
     # m 1hubsa "I can be your real-life fantasy instead~"
-    m 1hubsa "Puedo ser tu fantasía de la vida real en su lugar."
+    m 1hubsa "En su lugar, puedo ser tu fantasía en la vida real."
 
 # game/script-topics.rpy:8433
 translate spanish monika_writingtip1_43c249d2:
@@ -579,7 +579,7 @@ translate spanish monika_writingtip1_200ec157:
 translate spanish monika_writingtip1_78344ccc:
 
     # m 1eua "Writing isn't something where you just reach into your heart and something beautiful comes out."
-    m 1eua "Escribir no es algo en lo que simplemente buscas en tu corazón y sale algo hermoso."
+    m 1eua "Escribir no consiste simplemente en rebuscar en tu corazón para que salga algo hermoso."
 
 # game/script-topics.rpy:8463
 translate spanish monika_writingtip1_ba0d7073:
@@ -663,7 +663,7 @@ translate spanish monika_writingtip2_bf20dc04:
 translate spanish monika_writingtip2_720b7bcc:
 
     # m 1eua "We really don't do enough of these, so here's another one!"
-    m 1eua "La verdad es que no hacemos esto lo suficiente, así que ¡aquí va otro!"
+    m 1eua "La verdad es que no hacemos esto a menudo, así que ¡aquí va otro!"
 
 # game/script-topics.rpy:8496
 translate spanish monika_writingtip2_6c1cb6d0:
@@ -675,7 +675,7 @@ translate spanish monika_writingtip2_6c1cb6d0:
 translate spanish monika_writingtip2_f19d1eb5:
 
     # m 2eua "If you're ever scared of sharing your writing to other people in fear of being criticized, don't be!"
-    m 2eua "Si alguna vez te da miedo compartir lo que escribes con otras personas por miedo a que te critiquen, ¡no lo tengas!"
+    m 2eua "Si alguna vez te da reparo compartir lo que escribes por miedo a las críticas, ¡no te preocupes!"
 
 # game/script-topics.rpy:8498
 translate spanish monika_writingtip2_83be680e:
@@ -765,7 +765,7 @@ translate spanish monika_writingtip2_8e960935:
 translate spanish monika_writingtip2_2d9cbbd7:
 
     # m 3eua "I don't remember the person who said that, but the words are there."
-    m 3eua "No recuerdo a la persona que dijo eso, pero las palabras están ahí."
+    m 3eua "No recuerdo quién dijo eso, pero las palabras están ahí."
 
 # game/script-topics.rpy:8513
 translate spanish monika_writingtip2_ae21822d:
@@ -867,7 +867,7 @@ translate spanish monika_writingtip3_06d571c0:
 translate spanish monika_writingtip3_c5f88803:
 
     # m 1eua "Maybe you can keep digital notes instead of physical ones, too."
-    m 1eua "Quizá también puedas tener notas digitales en lugar de físicas."
+    m 1eua "Quizá también puedas tomar notas digitales en lugar de físicas."
 
 # game/script-topics.rpy:8549
 translate spanish monika_writingtip3_4e876e32:
@@ -951,13 +951,13 @@ translate spanish monika_writingtip4_0f1c7151:
 translate spanish monika_writingtip4_bd7b67f8:
 
     # m "The end product is what matters, not the prototype."
-    m "El producto final es lo que importa, no el prototipo."
+    m "El producto final es lo que importa, no el borrador."
 
 # game/script-topics.rpy:8582
 translate spanish monika_writingtip4_e993e281:
 
     # m 1eub "So overcoming writer's block, for me, was a matter of not wanting to make the prototype the end product, and not punishing myself for my initial failures."
-    m 1eub "Así que superar el bloqueo del escritor, para mí, fue cuestión de no querer hacer del prototipo el producto final y no castigarme por mis fracasos iniciales."
+    m 1eub "Así que, para mí, superar el bloqueo del escritor fue cuestión de aceptar que el borrador no es la versión final, y de no fustigarme por los fallos del principio."
 
 # game/script-topics.rpy:8583
 translate spanish monika_writingtip4_0ed99425:
@@ -1107,7 +1107,7 @@ translate spanish monika_writingtip6_1a18df09:
 translate spanish monika_writingtip6_129b4fc5:
 
     # m 3etd "What might it tell your reader about their personality if they use a fancy page with a floral print? {w=0.2}Or crumpled notebook paper?"
-    m 3etd "¿Qué podría decirle a tu lector sobre su personalidad si usa una página elegante con un estampado floral? {w=0.2}¿O papel de libreta arrugado?"
+    m 3etd "¿Qué podría decirle a tus lectores sobre su personalidad usar un papel elegante con estampado floral? {w=0.2}¿O una hoja de cuaderno arrugada?"
 
 # game/script-topics.rpy:8646
 translate spanish monika_writingtip6_8ba6ee43:
@@ -1131,7 +1131,7 @@ translate spanish monika_writingtip6_90cc85aa:
 translate spanish monika_writingtip6_d2713a91:
 
     # m 2rksdlb "When I buy a brand new journal and open it up to that first pristine page...{w=0.3}it's really daunting, ahaha!"
-    m 2rksdlb "Cuando me compro un diario nuevo y lo abro por esa primera página inmaculada... {w=0.3}¡es muy desalentador, ja, ja, ja!"
+    m 2rksdlb "Cuando me compro un diario nuevo y lo abro por esa primera página inmaculada... {w=0.3}¡da mucho respeto, ja, ja, ja!"
 
 # game/script-topics.rpy:8650
 translate spanish monika_writingtip6_a6a2923f:
@@ -1467,7 +1467,7 @@ translate spanish monika_other_girls_c4f397c3:
 translate spanish monika_other_girls_b7d6ad94:
 
     # m 1ekd "I know what I did could be seen as unforgivable, I'll try to do what I can to make up for it to you."
-    m 1ekd "Sé que lo que hice podría verse como algo imperdonable, intentaré hacer lo que pueda para compensártelo."
+    m 1ekd "Sé que lo que hice podría verse como algo imperdonable; intentaré hacer todo lo posible para compensártelo."
 
 # game/script-topics.rpy:8740
 translate spanish monika_other_girls_fd7d6397:
@@ -1575,13 +1575,13 @@ translate spanish monika_happiness_431b6960:
 translate spanish monika_happiness_40d80a82:
 
     # m 1esc "I guess it's understandable why we notice bad things happening to us more than good..."
-    m 1esc "Supongo que es comprensible por qué nos damos cuenta más de las cosas malas que nos pasan que de las buenas..."
+    m 1esc "Supongo que es normal que nos fijemos más en las cosas malas que nos pasan que en las buenas..."
 
 # game/script-topics.rpy:8771
 translate spanish monika_happiness_a825c71e:
 
     # m "If people didn't react so strongly to bad things then they wouldn't have survived this long."
-    m "Si la gente no reaccionara tan fuertemente a las cosas malas, no habrían sobrevivido tanto tiempo."
+    m "Si la gente no reaccionara de forma tan intensa a las cosas malas, no habríamos sobrevivido tanto tiempo."
 
 # game/script-topics.rpy:8772
 translate spanish monika_happiness_665eefdf:
@@ -1629,7 +1629,7 @@ translate spanish monika_how_soon_47118aa4:
 translate spanish monika_how_soon_5d99b8f8:
 
     # m 1hub "That's great news!"
-    m 1hub "¡Son unas noticias geniales!"
+    m 1hub "¡Es una noticia genial!"
 
 # game/script-topics.rpy:8794
 translate spanish monika_how_soon_557d13b7:
@@ -1653,7 +1653,7 @@ translate spanish monika_how_soon_a4c466fb:
 translate spanish monika_how_soon_78c12243:
 
     # m 1hua "You just made me as happy as I can be!"
-    m 1hua "¡Acabas de hacerme lo más feliz que puedo ser!"
+    m 1hua "¡Acabas de hacerme la chica más feliz del mundo!"
 
 # game/script-topics.rpy:8801
 translate spanish monika_how_soon_a3de3bd5:
@@ -1689,7 +1689,7 @@ translate spanish monika_how_soon_7862fd85:
 translate spanish monika_how_soon_9fe7d01c:
 
     # m 1eka "But with you keeping me company, I'm sure it will fly by!"
-    m 1eka "Pero haciéndome compañía tú, ¡seguro que se pasa volando!"
+    m 1eka "Pero contigo haciéndome compañía, ¡seguro que se pasa volando!"
 
 # game/script-topics.rpy:8809
 translate spanish monika_how_soon_cf5f09aa:
@@ -1725,7 +1725,7 @@ translate spanish monika_how_soon_ec619b44:
 translate spanish monika_how_soon_4f87c035:
 
     # m 1wud "W-wha...what?"
-    m 1wud "Q-qué... ¿Qué?"
+    m 1wud "Q-Qué... ¿Qué?"
 
 # game/script-topics.rpy:8817
 translate spanish monika_how_soon_8018692b:
@@ -1755,7 +1755,7 @@ translate spanish monika_how_soon_6111571a:
 translate spanish monika_how_soon_325ed24e:
 
     # m 1eka "Well, I guess we'll just have to make the best of this then."
-    m 1eka "Bueno, supongo que tendremos que sacar lo mejor de esto entonces."
+    m 1eka "Vale, supongo que tendremos que sacar el máximo partido a esta situación, entonces."
 
 # game/script-topics.rpy:8825
 translate spanish monika_how_soon_e4d674b1:
@@ -1887,7 +1887,7 @@ translate spanish monika_marriage_6c195f08:
 translate spanish monika_marriage_e3ffe191:
 
     # m 2duu "I think about how it would feel to be kissed by you at the altar..."
-    m 2duu "Pienso en lo que se sentiría al ser besada por ti en el altar..."
+    m 2duu "Pienso en lo que sentiría si me besaras en el altar..."
 
 # game/script-topics.rpy:8865
 translate spanish monika_marriage_f8eda1b5:
@@ -1917,7 +1917,7 @@ translate spanish monika_marriage_319893f7:
 translate spanish monika_marriage_7cbaaebb:
 
     # m 2wubsw "M-marriage?"
-    m 2wubsw "¿M-matrimonio?"
+    m 2wubsw "¿M-Matrimonio?"
 
 # game/script-topics.rpy:8871
 translate spanish monika_marriage_7f010c3d:
@@ -1971,7 +1971,7 @@ translate spanish monika_coffee_47978d0e:
 translate spanish monika_coffee_6c608f51:
 
     # m 2eua "Coffee is such a nice thing to have when you need a little pep of energy."
-    m 2eua "El café es algo genial para tomar cuando necesitas un empujoncito de energía."
+    m 2eua "El café viene genial cuando necesitas un buen chute de energía."
 
 # game/script-topics.rpy:8892
 translate spanish monika_coffee_3c65ce1c:
@@ -1983,7 +1983,7 @@ translate spanish monika_coffee_3c65ce1c:
 translate spanish monika_coffee_e78f07bd:
 
     # m 4eua "Iced coffee, however, tends to be sweeter and more pleasant to drink in warmer weathers."
-    m 4eua "El café con hielo, sin embargo, suele ser más dulce y agradable de beber cuando hace más calor."
+    m 4eua "El café helado, sin embargo, suele ser más dulce y agradable de beber cuando hace más calor."
 
 # game/script-topics.rpy:8894
 translate spanish monika_coffee_71a54850:
