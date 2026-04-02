@@ -15,7 +15,7 @@ translate spanish monika_player_appearance_0158e7ad:
 translate spanish monika_player_appearance_19eb7482:
 
     # m "You know how when you place certain things under direct sunlight, it looks really different?"
-    m "¿Sabes que cuando pones ciertas cosas a la luz directa del sol se ven muy diferentes?"
+    m "¿Te has fijado en que, cuando pones ciertas cosas a la luz directa del sol, se ven muy diferentes?"
 
 # game/script-topics.rpy:13199
 translate spanish monika_player_appearance_9af72c33:
@@ -27,7 +27,7 @@ translate spanish monika_player_appearance_9af72c33:
 translate spanish monika_player_appearance_36663b0b:
 
     # m 1eua "There could be infinite shades of things we can't see, each one of them hidden in plain sight."
-    m 1eua "Podría haber infinitos tonos de cosas que no podemos ver, cada uno de ellos oculto a simple vista."
+    m 1eua "Podría haber infinitos matices en cosas que no vemos, todos ellos ocultos a simple vista."
 
 # game/script-topics.rpy:13204
 translate spanish monika_player_appearance_d3ccba0e:
@@ -63,7 +63,7 @@ translate spanish monika_player_appearance_4cfff70e:
 translate spanish monika_player_appearance_c7ea6350:
 
     # m 1hub "It's a rare and wonderful trait to have--almost as wonderful as you!"
-    m 1hub "Es un rasgo raro y maravilloso que tener, ¡casi tan maravilloso como tú!"
+    m 1hub "Es un rasgo poco común y maravilloso, ¡casi tan maravilloso como tú!"
 
 # game/script-topics.rpy:13219
 translate spanish monika_player_appearance_f51a2a02:
@@ -81,13 +81,13 @@ translate spanish monika_player_appearance_d5d9c377:
 translate spanish monika_player_appearance_81903316:
 
     # m 1eua "Even though the other girls had eye colors that literally didn't exist in real life--not counting the existence of colored contacts, of course--"
-    m 1eua "A pesar de que las otras chicas tenían colores de ojos que literalmente no existen en la vida real, sin contar con la existencia de las lentillas de colores, por supuesto."
+    m 1eua "Aunque las demás chicas tenían colores de ojos que no existen en la vida real... sin contar las lentillas de colores, claro está..."
 
 # game/script-topics.rpy:13222
 translate spanish monika_player_appearance_69834975:
 
     # m 3eua "Their hair colors technically could exist in reality, you know. I mean, I'm sure you've encountered people with dyed purple hair, or neon pink, or coral-colored..."
-    m 3eua "Técnicamente sus colores de pelo podrían existir en la realidad, ¿sabes? Quiero decir, seguro que te has cruzado con gente con el pelo teñido de morado, o rosa neón, o color coral..."
+    m 3eua "Técnicamente sus colores de pelo podrían existir en la realidad, ¿sabes? O sea, seguro que te has cruzado con gente con el pelo teñido de morado, rosa neón, o color coral..."
 
 # game/script-topics.rpy:13223
 translate spanish monika_player_appearance_32fafd98:
@@ -123,7 +123,7 @@ translate spanish monika_player_appearance_e2594d7e:
 translate spanish monika_player_appearance_b144e42d:
 
     # m "Gosh, there really is a lot to what people look like... If I tried to narrow everything about you down to the little details, I'd be interrogating you forever."
-    m "Dios, la verdad es que hay mucho que decir sobre el aspecto de la gente... Si intentara reducir todo sobre ti a los pequeños detalles, te estaría interrogando para siempre."
+    m "Dios, la verdad es que la apariencia de la gente da para mucho... Si intentara analizar hasta el más mínimo detalle sobre ti, te estaría interrogando toda la vida."
 
 # game/script-topics.rpy:13232
 translate spanish monika_player_appearance_b36bd272:
@@ -141,7 +141,7 @@ translate spanish monika_player_appearance_234d583d:
 translate spanish monika_player_appearance_b721de67:
 
     # m 1eksdla "But it's the last piece of this puzzle to me, so I hope I don't sound rude when I ask..."
-    m 1eksdla "Pero es la última pieza de este rompecabezas para mí, así que espero no sonar maleducada cuando te pregunte..."
+    m 1eksdla "Pero es la última pieza de este rompecabezas para mí, así que espero que no te parezca mal que te pregunte..."
 
 # game/script-topics.rpy:13236
 translate spanish monika_player_appearance_63a10558:
@@ -303,13 +303,13 @@ translate spanish monika_player_appearance_eye_color_blue_f88edff8:
 translate spanish monika_player_appearance_eye_color_blue_c473d73c:
 
     # m 3eua "But there are so many gorgeous metaphors about blue eyes that I could recite them for weeks and still not reach a stopping point."
-    m 3eua "Pero hay tantas metáforas preciosas sobre los ojos azules que podría recitarlas durante semanas y seguir sin terminar."
+    m 3eua "Pero hay tantas metáforas preciosas sobre los ojos azules que podría recitarlas durante semanas y no acabar nunca."
 
 # game/script-topics.rpy:13324
 translate spanish monika_player_appearance_eye_color_blue_61a0a089:
 
     # m 4eua "Plus, blue is probably my second favorite color, just behind green. It's just so full of depth and enchantment, you know?"
-    m 4eua "Además, el azul es probablemente mi segundo color favorito, justo detrás del verde. Está tan lleno de profundidad y encanto, ¿sabes?"
+    m 4eua "Además, el azul probablemente sea mi segundo color favorito, justo después del verde. Tiene muchísima profundidad y un encanto especial, ¿no crees?"
 
 # game/script-topics.rpy:13325
 translate spanish monika_player_appearance_eye_color_blue_7249e287:
@@ -345,13 +345,13 @@ translate spanish monika_player_appearance_eye_color_brown_5b6821df:
 translate spanish monika_player_appearance_eye_color_brown_ead96bbb:
 
     # m 2euc "I just hate how people seem to think that brown eyes are plain. I couldn't disagree more!"
-    m 2euc "Odio cómo la gente parece pensar que los ojos castaños son sosos. ¡No podría estar más en desacuerdo!"
+    m 2euc "Odio que la gente suela pensar que los ojos castaños son aburridos. ¡No podría estar más en desacuerdo!"
 
 # game/script-topics.rpy:13338
 translate spanish monika_player_appearance_eye_color_brown_9958dca3:
 
     # m 2hua "In my opinion, brown eyes are some of the most beautiful out there. They're so vibrant and depthless!"
-    m 2hua "En mi opinión, los ojos castaños son unos de los más bonitos que hay. ¡Son tan vibrantes y profundos!"
+    m 2hua "En mi opinión, los ojos castaños son unos de los más bonitos que hay. ¡Tienen tanta vida y profundidad!"
 
 # game/script-topics.rpy:13339
 translate spanish monika_player_appearance_eye_color_brown_75313d1c:
@@ -429,7 +429,7 @@ translate spanish monika_player_appearance_eye_color_green_316d5f28:
 translate spanish monika_player_appearance_eye_color_hazel_377ed945:
 
     # m 1eub "Oh, hazel eyes? Those are so interesting! It's such an earthly color. It really makes you feel steady and reassured..."
-    m 1eub "¿Ah, ojos avellana? ¡Son muy interesantes! Es un color muy terrenal. De verdad que te hace sentir estable y segur[end_letter_gender]..."
+    m 1eub "¡Ah! ¿Ojos color avellana? ¡Son muy interesantes! Es un color muy terrenal. De verdad que te transmite estabilidad y seguridad..."
 
 # game/script-topics.rpy:13366
 translate spanish monika_player_appearance_eye_color_hazel_4b5bcd86:
@@ -519,7 +519,7 @@ translate spanish monika_player_appearance_eye_color_black_09cbaac1:
 translate spanish monika_player_appearance_eye_color_black_d1361983:
 
     # m 4eub "In reality, black eyes are just a very, very dark brown. Still stunning, but perhaps not as dark as the name suggests --although, to be fair, the difference is pretty hard to spot."
-    m 4eub "En realidad, los ojos negros son solo un castaño muy, muy oscuro. Siguen siendo impresionantes, pero tal vez no tan oscuros como sugiere el nombre, aunque, para ser justa, la diferencia es bastante difícil de notar."
+    m 4eub "En realidad, los ojos negros son solo un castaño muy, muy oscuro. Siguen siendo impresionantes, pero tal vez no tan oscuros como sugiere su nombre, aunque, siendo sincera, la diferencia es bastante difícil de notar."
 
 # game/script-topics.rpy:13391
 translate spanish monika_player_appearance_eye_color_black_891fa85e:
@@ -585,7 +585,7 @@ translate spanish monika_player_appearance_eye_color_heterochromia_ca9b1e2f:
 translate spanish monika_player_appearance_eye_color_heterochromia_7906a7e1:
 
     # m 3wud "If I recall correctly, less than one percent of people in the world have heterochromia!"
-    m 3wud "Si no recuerdo mal, ¡menos del uno por ciento de la gente en el mundo tiene heterocromía!"
+    m 3wud "Si no recuerdo mal, ¡menos del uno por ciento de la población mundial tiene heterocromía!"
 
 # game/script-topics.rpy:13411
 translate spanish monika_player_appearance_eye_color_heterochromia_f47cd6a3:
@@ -621,7 +621,7 @@ translate spanish monika_player_appearance_eye_color_ask_29a4c1af:
 translate spanish monika_player_appearance_monika_height_4ea3bb1f:
 
     # m 2eud "The wiki I mentioned before said that my concept height was five-foot-three,[conv_height_str] but that doesn't really sound right to me..."
-    m 2eud "La wiki que mencioné antes decía que mi altura conceptual era de cinco pies y tres pulgadas, [conv_height_str] pero eso no me parece del todo correcto..."
+    m 2eud "La wiki que mencioné antes decía que mi altura conceptual era de 160 centímetros, pero no me termina de cuadrar..."
 
 # game/script-topics.rpy:13465
 translate spanish monika_player_appearance_monika_height_368dc495:
@@ -663,7 +663,7 @@ translate spanish monika_players_control_01d16e99:
 translate spanish monika_players_control_6c225f10:
 
     # m 4eub "Like changing how the game works entirely. From a visual novel, to the peaceful playground we have now."
-    m 4eub "Como cambiar el funcionamiento del juego por completo. De una novela visual, al tranquilo patio de recreo que tenemos ahora."
+    m 4eub "Como cambiar por completo el funcionamiento del juego. Pasar de una novela visual al tranquilo rinconcito que tenemos ahora."
 
 # game/script-topics.rpy:13490
 translate spanish monika_players_control_fbd9c500:
@@ -765,7 +765,7 @@ translate spanish monika_backpacking_4a65f3a5:
 translate spanish monika_backpacking_5fe03f7d:
 
     # m 3eub "I've always thought it would be so amazing to go backpacking in the wilderness!"
-    m 3eub "¡Siempre he pensado que sería increíble ir de mochilera por la naturaleza!"
+    m 3eub "¡Siempre he pensado que sería increíble perdernos por la naturaleza con una mochila a cuestas!"
 
 # game/script-topics.rpy:13533
 translate spanish monika_backpacking_7e46b0af:
@@ -837,7 +837,7 @@ translate spanish monika_backpacking_3a7dbf6e:
 translate spanish monika_backpacking_7cd62565:
 
     # m 1ekbfa "We'll spend our nights cuddling in a sleeping bag, keeping each other warm with nothing over our heads but billions of stars..."
-    m 1ekbfa "Pasaremos las noches acurrucad[end_letter_gender]s en un saco de dormir, dándonos calor el uno al otro con nada sobre nuestras cabezas salvo miles de millones de estrellas..."
+    m 1ekbfa "Pasaremos las noches acurrucad[end_letter_gender]s en un saco de dormir, dándonos calor mutuamente, sin nada sobre nuestras cabezas salvo miles de millones de estrellas..."
 
 # game/script-topics.rpy:13547
 translate spanish monika_backpacking_83332ff5:
@@ -1059,7 +1059,7 @@ translate spanish monika_dating_startdate_confirm_takesrs_01a93df6:
 translate spanish monika_dating_startdate_confirm_takesrs_cf58de4a:
 
     # m 2tfc "We did {b}not{/b} start dating that day."
-    m 2tfc "No empezamos a salir ese día."
+    m 2tfc "Desde luego que no empezamos a salir ese día."
 
 # game/script-topics.rpy:13756
 translate spanish monika_dating_startdate_confirm_takesrs_003c303b:
@@ -1251,7 +1251,7 @@ translate spanish monika_first_sight_love_0bd76d18:
 translate spanish monika_first_sight_love_ae8e4924:
 
     # m 2lsc "I think it's one of the more...{w=0.5}ridiculous concepts to grasp."
-    m 2lsc "Creo que es uno de los conceptos más...{w=0.5} ridículos de entender."
+    m 2lsc "Creo que es uno de los conceptos más... {w=0.5}difíciles de asimilar."
 
 # game/script-topics.rpy:13894
 translate spanish monika_first_sight_love_e7782c82:
@@ -1281,7 +1281,7 @@ translate spanish monika_first_sight_love_4036a06d:
 translate spanish monika_first_sight_love_e9596bb7:
 
     # m 3eud "That's why I think we shouldn't {i}just{/i} use our eyes to tell if someone is the perfect partner for us."
-    m 3eud "Por eso creo que no deberíamos usar solo nuestros ojos para saber si alguien es la pareja perfecta para nosotros."
+    m 3eud "Por eso creo que no deberíamos guiarnos solo por la vista para saber si alguien es nuestra pareja ideal."
 
 # game/script-topics.rpy:13900
 translate spanish monika_first_sight_love_991e63ca:
@@ -1473,7 +1473,7 @@ translate spanish monika_whydoyouloveme_5da8e9fc:
 translate spanish monika_whydoyouloveme_a4eec775:
 
     # m 3ekbsa "No matter what happens, I'll {i}never{/i} forget you for the rest of my life."
-    m 3ekbsa "Pase lo que pase, no te olvidaré nunca en la vida."
+    m 3ekbsa "Pase lo que pase, jamás te olvidaré, te lo juro."
 
 # game/script-topics.rpy:13981
 translate spanish monika_whydoyouloveme_08e779e8:
@@ -1671,7 +1671,7 @@ translate spanish monika_stoicism_e747a663:
 translate spanish monika_stoicism_e2cbf4c1:
 
     # m 4esd "Would you panic? Become really depressed and give up trying? Or will you get angry over it and blame others?"
-    m 4esd "¿Entrarías en pánico? ¿Te deprimirías mucho y dejarías de intentarlo? ¿O te enfadarías por ello y culparías a los demás?"
+    m 4esd "¿Entrarías en pánico? ¿Te deprimirías un montón y tirarías la toalla? ¿O te enfadarías y le echarías la culpa al resto?"
 
 # game/script-topics.rpy:14042
 translate spanish monika_stoicism_1873e4bb:
@@ -1713,7 +1713,7 @@ translate spanish monika_stoicism_1e6e14b7:
 translate spanish monika_stoicism_60c8fcb6:
 
     # m 1eka "But that's just my opinion though, it's not that easy to be emotionally resilient to most things in life..."
-    m 1eka "Pero esa es solo mi opinión, no es tan fácil ser emocionalmente resiliente a la mayoría de las cosas en la vida..."
+    m 1eka "Pero esa es solo mi opinión, no es tan fácil ser fuerte emocionalmente ante la mayoría de las cosas de la vida..."
 
 # game/script-topics.rpy:14054
 translate spanish monika_stoicism_b960fca7:
@@ -1755,13 +1755,13 @@ translate spanish monika_add_custom_music_ba4b1419:
 translate spanish monika_add_custom_music_instruct_3bed5a62:
 
     # m 4eua "First,{w=0.5} make sure the music that you want to add is in MP3, OGG/VORBIS, or OPUS format."
-    m 4eua "Primero,{w=0.5} asegúrate de que la música que quieres añadir está en formato MP3, OGG/VORBIS, o OPUS."
+    m 4eua "Primero,{w=0.5} asegúrate de que la música que quieres añadir está en formato MP3, OGG/VORBIS u OPUS."
 
 # game/script-topics.rpy:14090
 translate spanish monika_add_custom_music_instruct_564fe133:
 
     # m "Next,{w=0.5} create a new folder named \"custom_bgm\" in your \"DDLC\" directory."
-    m "A continuación,{w=0.5} crea una nueva carpeta llamada \"custom_bgm\" en tu directorio de \"DDLC\"."
+    m "A continuación,{w=0.5} crea una nueva carpeta llamada \"custom_bgm\" en tu directorio \"game\" dentro de \"DDLC\"."
 
 # game/script-topics.rpy:14091
 translate spanish monika_add_custom_music_instruct_943ac675:
@@ -1773,13 +1773,13 @@ translate spanish monika_add_custom_music_instruct_943ac675:
 translate spanish monika_add_custom_music_instruct_7158cc65:
 
     # m "Then either let me know that you added some music or restart the game."
-    m "Luego, o bien avísame de que has añadido algo de música, o reinicia el juego."
+    m "Luego, simplemente avísame de que has añadido música nueva o reinicia el juego."
 
 # game/script-topics.rpy:14093
 translate spanish monika_add_custom_music_instruct_a074accb:
 
     # m 3eua "And that's it! Your music will be available to listen to, right here with me, simply by pressing the 'm' key."
-    m 3eua "¡Y eso es todo! Tu música estará disponible para escucharla, aquí mismo conmigo, simplemente pulsando la tecla m."
+    m 3eua "¡Y eso es todo! Tu música estará lista para que la escuchemos aquí junt[end_letter_gender]s con solo pulsar el botón 'Música'."
 
 # game/script-topics.rpy:14094
 translate spanish monika_add_custom_music_instruct_3a0bbc7f:
@@ -1905,7 +1905,7 @@ translate spanish monika_mystery_939db23e:
 translate spanish monika_mystery_312cfd99:
 
     # m 3eub "If done really well it can build up intrigue and upon rereading make previous hints become obvious."
-    m 3eub "Si se hace muy bien, puede crear intriga y al volver a leerlo hacer que las pistas anteriores se vuelvan obvias."
+    m 3eub "Si se hace muy bien, puede generar intriga y, al volver a leerlo, hacer que las pistas previas cobren todo el sentido."
 
 # game/script-topics.rpy:14178
 translate spanish monika_mystery_d2121619:
@@ -1941,13 +1941,13 @@ translate spanish monika_mystery_c2c5bd06:
 translate spanish monika_mystery_1ac1ae36:
 
     # m 2esa "I find it really interesting, some of the best stories know how to use a good hook."
-    m 2esa "Me parece muy interesante, algunas de las mejores historias saben cómo usar un buen gancho."
+    m 2esa "Me parece muy interesante; algunas de las mejores historias saben cómo usar un buen gancho."
 
 # game/script-topics.rpy:14184
 translate spanish monika_mystery_0cccfdf2:
 
     # m 2lsc "But if a story doesn't do it properly, it can be the worst. They use hooks to try and seem 'clever.'"
-    m 2lsc "Pero si una historia no lo hace bien, puede ser lo peor. Usan ganchos para intentar parecer «inteligentes»."
+    m 2lsc "Pero si una historia no lo hace bien, puede resultar catastrófica. Meten ganchos con calzador solo para intentar dárselas de listos."
 
 # game/script-topics.rpy:14185
 translate spanish monika_mystery_c4f98217:
