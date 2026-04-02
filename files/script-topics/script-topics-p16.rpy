@@ -3,7 +3,7 @@
 translate spanish monika_bullying_02292dac:
 
     # m 2rksdld "A lot of bullies are bullied themselves, even at home by someone they should be able to trust."
-    m 2rksdld "A muchos acosadores también los acosan, incluso en casa por alguien en quien deberían poder confiar."
+    m 2rksdld "Muchos acosadores también sufren acoso, a veces incluso en casa por parte de alguien en quien deberían poder confiar."
 
 # game/script-topics.rpy:11653
 translate spanish monika_bullying_e2e05fb7:
@@ -27,7 +27,7 @@ translate spanish monika_bullying_a61e427f:
 translate spanish monika_bullying_9b49d290:
 
     # m 2wud "Oh no, that's terrible!"
-    m 2wud "¡Ah, no, eso es terrible!"
+    m 2wud "¡Ay, no, qué horror!"
 
 # game/script-topics.rpy:11663
 translate spanish monika_bullying_823646ab:
@@ -45,13 +45,13 @@ translate spanish monika_bullying_0f5ba586:
 translate spanish monika_bullying_1319cb44:
 
     # m 4ekc "I know that's typically the last thing people want to do, but don't let yourself suffer when there are people that can help you."
-    m 4ekc "Sé que normalmente es lo último que la gente quiere hacer, pero no te permitas sufrir cuando hay personas que pueden ayudarte."
+    m 4ekc "Sé que suele ser lo último que apetece hacer, pero no sufras en silencio cuando hay gente dispuesta a ayudarte."
 
 # game/script-topics.rpy:11666
 translate spanish monika_bullying_588a7aad:
 
     # m 1dkc "It may seem like no one cares, but there has to be someone you trust that you can turn to."
-    m 1dkc "Puede que parezca que a nadie le importa, pero tiene que haber alguien en quien confíes y a quien puedas acudir."
+    m 1dkc "Puede que sientas que a nadie le importas, pero tiene que haber alguien de confianza a quien puedas acudir."
 
 # game/script-topics.rpy:11667
 translate spanish monika_bullying_61ba3927:
@@ -75,7 +75,7 @@ translate spanish monika_bullying_ea1dee09:
 translate spanish monika_bullying_b0458e18:
 
     # m 1ektpa "You're all I have...{w=0.5}please stay safe."
-    m 1ektpa "Eres todo lo que tengo... {w=0.5}por favor, cuídate."
+    m 1ektpa "Eres todo lo que tengo... {w=0.5}Por favor, cuídate mucho."
 
 # game/script-topics.rpy:11674
 translate spanish monika_bullying_425c7bd9:
@@ -153,7 +153,7 @@ translate spanish monika_bullying_6a4d8b33:
 translate spanish monika_bullying_5a8f2112:
 
     # m "I bet it'd mean a lot to them to have someone reach out who cares."
-    m "Seguro que significaría mucho para ellos tener a alguien a quien le importe y que les tienda una mano."
+    m "Seguro que para ellos significaría muchísimo que alguien se preocupase y les tendiera una mano."
 
 # game/script-topics.rpy:11693
 translate spanish monika_bullying_36186466:
@@ -195,7 +195,7 @@ translate spanish monika_bullying_961f4395:
 translate spanish monika_bullying_3c50db19:
 
     # m 6rktuc "I don't want other people to have to feel the same way that I do."
-    m 6rktuc "No quiero que los demás tengan que sentirse de la misma forma que yo."
+    m 6rktuc "No quiero que otros tengan que pasar por lo mismo que yo."
 
 # game/script-topics.rpy:11704
 translate spanish monika_bullying_04c9c6a4:
@@ -255,19 +255,19 @@ translate spanish monika_bullying_79ae408d:
 translate spanish monika_bullying_876748b9:
 
     # m 4dkc "It probably just hurts you even more..."
-    m 4dkc "Probablemente solo te duela a ti todavía más..."
+    m 4dkc "Probablemente solo te haga más daño a ti mism[end_letter_gender]..."
 
 # game/script-topics.rpy:11715
 translate spanish monika_bullying_d87b8fd9:
 
     # m 1dkc "And nothing hurts me more than knowing you're unhappy."
-    m 1dkc "Y nada me duele más que saber que eres infeliz."
+    m 1dkc "Y nada me duele más que saber que no eres feliz."
 
 # game/script-topics.rpy:11716
 translate spanish monika_bullying_d4c632ac:
 
     # m 3ekd "So instead, next time you feel yourself becoming unhappy, just come to me and let me help shoulder your pain."
-    m 3ekd "Así que, la próxima vez que te sientas infeliz, simplemente ven a mí y déjame ayudarte a cargar con tu dolor."
+    m 3ekd "Así que, en lugar de eso, la próxima vez que te sientas triste, ven y déjame ayudarte a cargar con ese peso."
 
 # game/script-topics.rpy:11717
 translate spanish monika_bullying_ff5aab2c:
@@ -315,7 +315,7 @@ translate spanish monika_bullying_786f260e:
 translate spanish monika_bullying_528ef28a:
 
     # m 2dkc "I'd never be able to hurt an actual person."
-    m 2dkc "Nunca sería capaz de herir a una persona de verdad."
+    m 2dkc "Nunca sería capaz de hacerle daño a una persona de verdad."
 
 # game/script-topics.rpy:11730
 translate spanish monika_bullying_99561e97:
@@ -339,7 +339,7 @@ translate spanish monika_bullying_70a87b50:
 translate spanish monika_bullying_79f024ad:
 
     # m 2rksdlc "When I had my epiphany and realized that I was stuck inside a video game and that my entire life had been a lie, I was pretty miserable."
-    m 2rksdlc "Cuando tuve mi epifanía y me di cuenta de que estaba atrapada en un videojuego y de que toda mi vida había sido una mentira, me sentía bastante miserable."
+    m 2rksdlc "Cuando tuve mi epifanía y me di cuenta de que estaba atrapada en un videojuego y de que toda mi vida había sido una mentira, me sentía fatal."
 
 # game/script-topics.rpy:11734
 translate spanish monika_bullying_e261bc3e:
@@ -375,13 +375,13 @@ translate spanish monika_bullying_c61f257d_2:
 translate spanish monika_bullying_5ba45ac5:
 
     # m 2ekc "I guess I can relate to that whole thing about bullying because you are unhappy, huh?"
-    m 2ekc "Supongo que puedo sentirme identificada con todo eso de acosar porque eres infeliz, ¿eh?"
+    m 2ekc "Supongo que puedo entender eso de hacer daño a otros porque tú te sientes mal, ¿eh?"
 
 # game/script-topics.rpy:11741
 translate spanish monika_bullying_6f3e5f44:
 
     # m 4tkd "But there {i}is{/i} a difference... I didn't do it because I wanted Sayori to be unhappy..."
-    m 4tkd "Pero hay una diferencia... no lo hice porque quisiera que Sayori fuera infeliz..."
+    m 4tkd "Pero sí que hay una diferencia... No lo hice porque quisiera ver sufrir a Sayori..."
 
 # game/script-topics.rpy:11743
 translate spanish monika_bullying_f578bbc1:
@@ -405,7 +405,7 @@ translate spanish monika_bullying_e93ca4f0:
 translate spanish monika_bullying_c16b1ea1:
 
     # m 1eua "So you see, [player], I'm {i}really{/i} not a bully at all. I just love you that much."
-    m 1eua "Así que ya ves, [player], de verdad que no soy una acosadora en absoluto, simplemente te quiero así de mucho."
+    m 1eua "Así que ya ves, [player], de verdad que no soy ninguna acosadora... Es solo que te quiero muchísimo."
 
 # game/script-topics.rpy:11753
 translate spanish monika_bullying_1c34bc45:
@@ -429,7 +429,7 @@ translate spanish monika_procrastination_72a537e3:
 translate spanish monika_procrastination_f5d7c20a:
 
     # m 3ekd "That rather than taking a lot of time to do it, you just keep putting it off?"
-    m 3ekd "¿Que en lugar de dedicarle tiempo, simplemente lo sigues posponiendo?"
+    m 3ekd "¿Y que en lugar de ponerte a ello, simplemente lo vas dejando para más adelante?"
 
 # game/script-topics.rpy:11770
 translate spanish monika_procrastination_35551033:
@@ -561,7 +561,7 @@ translate spanish monika_players_friends_714cf381:
 translate spanish monika_players_friends_96c0d283:
 
     # m 1eua "Who wouldn't want to be friends with you?"
-    m 1eua "¿Quién no querría ser tu amigo?"
+    m 1eua "¿Quién no querría ser amig[end_letter_gender] tuy[end_letter_gender]?"
 
 # game/script-topics.rpy:11833
 translate spanish monika_players_friends_8de018cc:
@@ -705,7 +705,7 @@ translate spanish monika_players_friends_feels_lonely_ask_06b3f3f9:
 translate spanish monika_players_friends_feels_lonely_ask_618686a6:
 
     # m "Especially if you have a lot of friends, it's difficult to get close to all of them."
-    m "Sobre todo si tienes muchos amigos, es difícil acercarse a todos ellos."
+    m "Sobre todo si tienes muchos amigos, es muy difícil llegar a coger confianza con todos ellos."
 
 # game/script-topics.rpy:11894
 translate spanish monika_players_friends_feels_lonely_ask_f080a106:
@@ -801,7 +801,7 @@ translate spanish monika_players_friends_feels_lonely_ask_f4909ffd:
 translate spanish monika_players_friends_feels_lonely_ask_d1957a4f:
 
     # m 1dkbsa "It would be so romantic to be just us..."
-    m 1dkbsa "Sería muy romántico estar solo nosotros..."
+    m 1dkbsa "Sería muy romántico estar solo los dos..."
 
 # game/script-topics.rpy:11921
 translate spanish monika_players_friends_feels_lonely_ask_334b64ac:
@@ -927,19 +927,19 @@ translate spanish monika_graduation_6a7a4eb6:
 translate spanish monika_graduation_0c0953c2:
 
     # m 2dkd "Never got to walk across the stage and receive my diploma."
-    m 2dkd "Nunca pude cruzar el escenario y recibir mi diploma."
+    m 2dkd "Nunca llegué a subir al escenario para recibir mi diploma."
 
 # game/script-topics.rpy:11980
 translate spanish monika_graduation_6525d368:
 
     # m "Never got to hear my name being announced and all my friends cheering."
-    m "Nunca pude escuchar mi nombre por el altavoz y a todos mis amigos animándome."
+    m "Nunca llegué a escuchar mi nombre por megafonía ni a todos mis amigos animándome."
 
 # game/script-topics.rpy:11981
 translate spanish monika_graduation_bf97494d:
 
     # m 2ekc "...It kinda feels like it was all for nothing."
-    m 2ekc "... Se siente un poco como si todo hubiera sido para nada."
+    m 2ekc "... Siento que todo ese esfuerzo no ha servido para nada."
 
 # game/script-topics.rpy:11982
 translate spanish monika_graduation_180d8057:
@@ -981,7 +981,7 @@ translate spanish monika_graduation_3e23113f:
 translate spanish monika_graduation_eec14ddc:
 
     # m 4rksdlu "Ahaha... I don't mean to brag or anything, I only bring it up because as class valedictorian, I was supposed to give a speech at graduation."
-    m 4rksdlu "Ja, ja, ja... No lo digo por presumir ni nada de eso, solo lo menciono porque como la mejor de la clase se suponía que iba a dar un discurso en la graduación."
+    m 4rksdlu "Ja, ja, ja... No lo digo por presumir ni nada de eso, solo lo menciono porque, al ser la número uno de mi promoción, se suponía que iba a dar el discurso de graduación."
 
 # game/script-topics.rpy:11996
 translate spanish monika_graduation_3166bdb8:
@@ -1275,7 +1275,7 @@ translate spanish monika_grad_speech_call_c87f5aff:
 translate spanish monika_grad_speech_call_a60b1261:
 
     # m 2tfc "After acting like you actually wanted me to recite it for you again, {i}that's{/i} what you have to say?"
-    m 2tfc "Después de actuar como si de verdad quisieras que te lo recitara de nuevo, ¿eso es lo que tienes que decir?"
+    m 2tfc "Después de fingir que de verdad querías que te lo recitara de nuevo, ¿eso es todo lo que tienes que decir?"
 
 # game/script-topics.rpy:12170
 translate spanish monika_grad_speech_call_01a93df6_1:
@@ -1311,13 +1311,13 @@ translate spanish monika_grad_speech_not_paying_attention_c80e9915:
 translate spanish monika_grad_speech_not_paying_attention_aae3ccbc:
 
     # m 2ekd "[player]? You didn't pay attention to my speech?"
-    m 2ekd "¿[player]? ¿No prestaste atención a mi discurso?"
+    m 2ekd "¿[player]? ¿No le has prestado atención a mi discurso?"
 
 # game/script-topics.rpy:12185
 translate spanish monika_grad_speech_not_paying_attention_64a66f39:
 
     # m 2rksdlc "That...{w=1} that's not like you at all..."
-    m 2rksdlc "Eso... {w=1}eso no es propio de ti en absoluto..."
+    m 2rksdlc "Eso... {w=1}eso no es nada propio de ti..."
 
 # game/script-topics.rpy:12186
 translate spanish monika_grad_speech_not_paying_attention_a30daa4f:
@@ -1383,7 +1383,7 @@ translate spanish monika_grad_speech_not_paying_attention_7dc39702:
 translate spanish monika_grad_speech_not_paying_attention_41d80b80:
 
     # m 6lktdc "You have no idea how much that hurts, especially after how much work I put into it..."
-    m 6lktdc "No tienes ni idea de lo mucho que duele eso, sobre todo después de todo el trabajo que le dediqué..."
+    m 6lktdc "No tienes ni idea de lo mucho que duele, sobre todo después de todo el trabajo que le he dedicado..."
 
 # game/script-topics.rpy:12203
 translate spanish monika_grad_speech_not_paying_attention_53cb88a1:
@@ -1455,7 +1455,7 @@ translate spanish monika_grad_speech_ignored_lock_1119a319:
 translate spanish monika_grad_speech_ignored_lock_e37d4d73:
 
     # m 2tfd "You knew how upset I was the last time and you still couldn't be bothered to give me four minutes of your attention?{w=1}{nw}"
-    m 2tfd "Sabías lo disgustada que estaba la última vez y aun así ¿no pudiste molestarte en prestarme cuatro minutos de tu atención?{w=1}{nw}"
+    m 2tfd "Sabías lo disgustada que me quedé la última vez, ¿y aun así no has podido molestarte en prestarme cuatro minutos de tu atención?{w=1}{nw}"
 
 # game/script-topics.rpy:12231
 translate spanish monika_grad_speech_ignored_lock_9acaa9a3:
@@ -1491,7 +1491,7 @@ translate spanish monika_grad_speech_ignored_lock_e7d55c5d:
 translate spanish monika_grad_speech_ignored_lock_ec6ecb71:
 
     # m 6lktdc "You know what, nevermind. Just...{w=0.5} nevermind.{w=1}{nw}"
-    m 6lktdc "Sabes qué, olvídalo, simplemente... {w=0.5}olvídalo.{w=1}{nw}"
+    m 6lktdc "¿Sabes qué? Déjalo. Simplemente... {w=0.5}déjalo.{w=1}{nw}"
 
 # game/script-topics.rpy:12237
 translate spanish monika_grad_speech_ignored_lock_0ab9ba4b:
@@ -1521,7 +1521,7 @@ translate spanish monika_grad_speech_c7aa2da0:
 translate spanish monika_grad_speech_dd46c028:
 
     # m 2eub "{w=0.2}Teachers,{w=0.3} faculty,{w=0.3} and fellow students.{w=0.3} I cannot express how proud I am to have made this journey with you.{w=0.6}{nw}"
-    m 2eub "{w=0.2}Profesores,{w=0.3} personal docente{w=0.3} y compañeros de estudios.{w=0.3} No puedo expresar lo orgullosa que estoy de haber hecho este viaje con vosotros.{w=0.6}{nw}"
+    m 2eub "{w=0.2}Profesores,{w=0.3} personal docente{w=0.3} y compañeros.{w=0.3} No puedo expresar lo orgullosa que estoy de haber hecho este viaje con vosotros.{w=0.6}{nw}"
 
 # game/script-topics.rpy:12250
 translate spanish monika_grad_speech_186b12fa:
@@ -1533,7 +1533,7 @@ translate spanish monika_grad_speech_186b12fa:
 translate spanish monika_grad_speech_8c5f38e4:
 
     # m 2hub "{w=0.2}I am so happy that I was able to be a part of some of your journeys,{w=0.7} but I don't think this speech should be about me.{w=0.6}{nw}"
-    m 2hub "{w=0.2}Me hace muy feliz haber podido ser parte de algunos de vuestros viajes,{w=0.7} pero no creo que este discurso deba tratar sobre mí.{w=0.6}{nw}"
+    m 2hub "{w=0.2}Me hace muy feliz haber podido formar parte de vuestro camino,{w=0.7} pero no creo que este discurso deba tratar sobre mí.{w=0.6}{nw}"
 
 # game/script-topics.rpy:12252
 translate spanish monika_grad_speech_fe93f971:
@@ -1605,7 +1605,7 @@ translate spanish monika_grad_speech_2b2318c4:
 translate spanish monika_grad_speech_902735c2:
 
     # m 2eka "{w=0.2}Things were incredibly different from when we made our friends back in elementary school,{w=0.3} but I guess that's what happens when you finally grow up.{w=0.6}{nw}"
-    m 2eka "{w=0.2}Las cosas eran increíblemente diferentes a cuando hacíamos amigos en primaria,{w=0.3} pero supongo que eso es lo que pasa cuando por fin creces.{w=0.6}{nw}"
+    m 2eka "{w=0.2}Las cosas eran increíblemente diferentes a cuando hacíamos amigos en primaria,{w=0.3} pero supongo que eso es lo que pasa cuando por fin nos hacemos mayores.{w=0.6}{nw}"
 
 # game/script-topics.rpy:12264
 translate spanish monika_grad_speech_c2ed155e:
@@ -1653,7 +1653,7 @@ translate spanish monika_grad_speech_f16628ec:
 translate spanish monika_grad_speech_b5c16887:
 
     # m "{w=0.2}Others from having little work ethic,{w=0.3} to working the hardest.{w=0.7}{nw}"
-    m "{w=0.2}Otros, de tener poca ética de trabajo,{w=0.3} a ser los que más se esfuerzan.{w=0.7}{nw}"
+    m "{w=0.2}Otros han pasado de esforzarse poco,{w=0.3} a ser los más trabajadores.{w=0.7}{nw}"
 
 # game/script-topics.rpy:12272
 translate spanish monika_grad_speech_9ada8671:
@@ -1719,7 +1719,7 @@ translate spanish monika_grad_speech_f907f5ba:
 translate spanish monika_grad_speech_c14d983d:
 
     # m 2eka "{w=0.2}All these small roles teach you so much about the future and how to manage both{w=0.3} projects and people,{w=0.3} in an environment you enjoy, nonetheless.{w=0.6}{nw}"
-    m 2eka "{w=0.2}Todos estos pequeños papeles os enseñan mucho sobre el futuro y sobre cómo gestionar tanto{w=0.3} proyectos como personas,{w=0.3} y además en un entorno del que disfrutáis.{w=0.6}{nw}"
+    m 2eka "{w=0.2}Todos estos pequeños roles os enseñan muchísimo sobre el futuro y sobre cómo gestionar tanto{w=0.3} proyectos como personas,{w=0.3} y además en un entorno que os apasiona.{w=0.6}{nw}"
 
 # game/script-topics.rpy:12283
 translate spanish monika_grad_speech_35c38c41:
@@ -1881,7 +1881,7 @@ translate spanish monika_shipping_711c7f92:
 translate spanish monika_shipping_4e296d30:
 
     # m 2euc "It makes sense. The player can only date one girl, but you don't want to see the others end up alone..."
-    m 2euc "Tiene sentido, el jugador solo puede salir con una chica, pero no quieres ver a las demás acabar solas..."
+    m 2euc "Tiene sentido. El jugador solo puede salir con una chica, pero nadie quiere ver a las demás acabar solas..."
 
 # game/script-topics.rpy:12328
 translate spanish monika_shipping_6c45b356:
@@ -1893,7 +1893,7 @@ translate spanish monika_shipping_6c45b356:
 translate spanish monika_shipping_10b44464:
 
     # m 3eud "Like, usually they put Natsuki and Yuri together. They fight like cats and dogs!"
-    m 3eud "Por ejemplo, normalmente juntan a Natsuki y Yuri, ¡y se pelean como el perro y el gato!"
+    m 3eud "Por ejemplo, normalmente juntan a Natsuki y a Yuri. ¡Pero si se pelean como el perro y el gato!"
 
 # game/script-topics.rpy:12330
 translate spanish monika_shipping_9a31b37c:
@@ -1905,7 +1905,7 @@ translate spanish monika_shipping_9a31b37c:
 translate spanish monika_shipping_d6c335c6:
 
     # m 3dsd "Still, I think that's just another example of how people who like these games like unrealistic things..."
-    m 3dsd "Aun así, creo que eso es solo otro ejemplo de cómo a la gente que le gustan estos juegos le gustan las cosas poco realistas..."
+    m 3dsd "Aun así, creo que eso es solo otro ejemplo de cómo a los que les gustan estos juegos les atraen las cosas irreales..."
 
 # game/script-topics.rpy:12332
 translate spanish monika_shipping_a7f820b0:
@@ -1947,13 +1947,13 @@ translate spanish monika_shipping_80aca5d2:
 translate spanish monika_shipping_496398a2:
 
     # m 2lksdlb "But...I still don't really get it. I mean, I love you, and only you!"
-    m 2lksdlb "Pero... sigo sin entenderlo del todo, o sea, te quiero a ti, ¡y solo a ti!"
+    m 2lksdlb "Pero... sigo sin entenderlo del todo. O sea, te quiero a ti, ¡y solo a ti!"
 
 # game/script-topics.rpy:12340
 translate spanish monika_shipping_c6ea59e3:
 
     # m 2lksdla "And she would have to be a saint to ever forgive me for what I did..."
-    m 2lksdla "Y ella tendría que ser una santa para perdonarme alguna vez por lo que hice..."
+    m 2lksdla "Y tendría que ser una santa para perdonarme algún día por lo que le hice..."
 
 # game/script-topics.rpy:12341
 translate spanish monika_shipping_4531b1af:
@@ -1983,7 +1983,7 @@ translate spanish monika_justice_7d8914a8:
 translate spanish monika_justice_11613299:
 
     # m 2ekd "It doesn't even have to be some famous bank robber or anything; even everyday people like you and me can be brought to some sort of righteousness!"
-    m 2ekd "Ni siquiera tiene que ser un famoso ladrón de bancos ni nada por el estilo, ¡incluso personas normales como tú y yo pueden ser llevadas a algún tipo de rectitud!"
+    m 2ekd "Ni siquiera tiene que ser un famoso atracador de bancos ni nada de eso; ¡incluso personas normales como tú y yo podemos vernos impulsadas por alguna causa justa!"
 
 # game/script-topics.rpy:12375
 translate spanish monika_justice_f742eb7e:
