@@ -15,7 +15,7 @@ translate spanish monika_confidence_2_2ea178e5:
 translate spanish monika_confidence_2_4e46b8b3:
 
     # m 3rksdlb "It's still a work in progress, however, so take it with a grain of salt."
-    m 3rksdlb "Sin embargo, todavía está en desarrollo, así que cógelo con pinzas."
+    m 3rksdlb "Aunque todavía está en desarrollo, así que no te lo tomes demasiado en serio."
 
 # game/script-topics.rpy:7579
 translate spanish monika_confidence_2_a4ad2f91:
@@ -51,7 +51,7 @@ translate spanish monika_confidence_2_e7dcfbe4:
 translate spanish monika_confidence_2_c2a03e58:
 
     # m 2hua "Eventually, these things you once struggled to get done will be completed as if they were acts of valor!"
-    m 2hua "¡Con el tiempo, estas cosas que antes te costaban tanto las completarás como si fueran actos de valor!"
+    m 2hua "¡Con el tiempo, estas cosas que antes te costaban tanto las harás como si fueran auténticas hazañas!"
 
 # game/script-topics.rpy:7585
 translate spanish monika_confidence_2_61d9441b:
@@ -87,7 +87,7 @@ translate spanish monika_confidence_2_0256be28:
 translate spanish monika_confidence_2_0f963528:
 
     # m 3hua "Make sure to tune in next time for more of Monika's critically acclaimed self-improvement sessions!"
-    m 3hua "¡Asegúrate de sintonizarnos la próxima vez para más de las aclamadas sesiones de superación personal de Monika!"
+    m 3hua "¡No te pierdas la próxima entrega de las aclamadas sesiones de superación personal de Monika!"
 
 # game/script-topics.rpy:7591
 translate spanish monika_confidence_2_f0fdcb48:
@@ -147,13 +147,13 @@ translate spanish monika_pets_9771bd8e:
 translate spanish monika_pets_0cab5e3b:
 
     # m 1eua "The pet I'd like is something I saw in a book once."
-    m 1eua "La mascota que me gustaría es algo que vi en un libro una vez."
+    m 1eua "La mascota que me gustaría tener es una que vi una vez en un libro."
 
 # game/script-topics.rpy:7608
 translate spanish monika_pets_828f24a3:
 
     # m "It was the 'Handbook of the Birds of the World.' Our library had the whole set!"
-    m "Era el 'Manual de las aves del mundo'. ¡Nuestra biblioteca tenía la colección completa!"
+    m "Era el {i}Manual de las aves del mundo{/i}. ¡Nuestra biblioteca tenía la colección completa!"
 
 # game/script-topics.rpy:7609
 translate spanish monika_pets_4fcf3624:
@@ -177,7 +177,7 @@ translate spanish monika_pets_3ae669bb:
 translate spanish monika_pets_951fd84c:
 
     # m 1eua "They're very rare, solitary birds that can sing beautiful songs."
-    m 1eua "Son aves solitarias muy raras que pueden cantar canciones preciosas."
+    m 1eua "Son aves solitarias muy raras que tienen un canto precioso."
 
 # game/script-topics.rpy:7613
 translate spanish monika_pets_ae772ddf:
@@ -231,7 +231,7 @@ translate spanish monika_pets_fd4a4512:
 translate spanish monika_pets_f6d42bdb:
 
     # m 2hksdlb "Sorry for rambling, [mas_get_player_nickname()]."
-    m 2hksdlb "Siento irme por las ramas, [mas_get_player_nickname()]."
+    m 2hksdlb "Siento enrollarme tanto, [mas_get_player_nickname()]."
 
 # game/script-topics.rpy:7623
 translate spanish monika_pets_d201cc15:
@@ -249,7 +249,7 @@ translate spanish monika_pets_a3c5a825:
 translate spanish monika_pets_6623a217:
 
     # m 1eub "But at least I have the next best thing thanks to you, [player]!"
-    m 1eub "¡Pero al menos tengo la segunda mejor opción gracias a ti, [player]!"
+    m 1eub "¡Pero al menos tengo la mejor alternativa gracias a ti, [player]!"
 
 # game/script-topics.rpy:7627
 translate spanish monika_pets_224f4ff5:
@@ -273,7 +273,7 @@ translate spanish monika_plushie_9022102e:
 translate spanish monika_plushie_ad3ed327:
 
     # m 2lksdla "I know it may sound silly, but it really does help keep me company when you're gone..."
-    m 2lksdla "Sé que puede sonar tonto, pero de verdad me hace mucha compañía cuando no estás..."
+    m 2lksdla "Sé que puede sonar a tontería, pero de verdad me hace mucha compañía cuando no estás..."
 
 # game/script-topics.rpy:7645
 translate spanish monika_plushie_71b74b88:
@@ -387,7 +387,7 @@ translate spanish monika_cats_afabdad3:
 translate spanish monika_cats_189c56ae:
 
     # m 1eub "Domesticated cats were held on a high pedestal since they were incredible hunters for small critters and vermin."
-    m 1eub "Los gatos domésticos estaban en un pedestal, ya que eran unos cazadores increíbles de bichos y alimañas."
+    m 1eub "A los gatos domésticos se les tenía en un pedestal, ya que eran unos cazadores increíbles de bichos y alimañas."
 
 # game/script-topics.rpy:7687
 translate spanish monika_cats_e8715b9c:
@@ -573,7 +573,7 @@ translate spanish monika_rock_6f6cf6fb:
 translate spanish monika_rock_1390bf85:
 
     # m "Writing good lyrics for a rock genre requires a lot of emphasis on the wordplay."
-    m "Escribir buenas letras para el género del rock requiere poner mucho énfasis en los juegos de palabras."
+    m "Escribir buenas letras de rock requiere poner mucho énfasis en los juegos de palabras."
 
 # game/script-topics.rpy:7749
 translate spanish monika_rock_22c910a3:
@@ -591,7 +591,7 @@ translate spanish monika_rock_9741afe1:
 translate spanish monika_rock_ac633680:
 
     # m 1eua "Like writing a good poem, lyric writing is easier said than done."
-    m 1eua "Al igual que escribir un buen poema, escribir letras es más fácil decirlo que hacerlo."
+    m 1eua "Al igual que escribir un buen poema, escribir letras es mucho más fácil de decir que de hacer."
 
 # game/script-topics.rpy:7752
 translate spanish monika_rock_66177d09:
@@ -729,7 +729,7 @@ translate spanish monika_standup_93482e8c:
 translate spanish monika_standup_65dbda37:
 
     # m 4esa "It differs from making simple one-liner jokes, because it really needs to tell a story."
-    m 4esa "Es distinto a hacer simples chistes cortos, porque de verdad necesitas contar una historia."
+    m 4esa "Es distinto a contar simples chistes cortos, porque de verdad necesitas desarrollar una historia."
 
 # game/script-topics.rpy:7800
 translate spanish monika_standup_56088d51:
@@ -831,19 +831,19 @@ translate spanish monika_standup_8cd0631d:
 translate spanish monika_standup_4bcfa713:
 
     # m 4eud "This means to the average person, if you go to a funeral, you're better off in the casket..."
-    m 4eud "Esto significa que para la persona promedio, si vas a un funeral, estás mejor en el ataúd..."
+    m 4eud "Esto significa que, para el ciudadano medio, si vas a un funeral, estás mejor en el ataúd..."
 
 # game/script-topics.rpy:7817
 translate spanish monika_standup_a52bb225:
 
     # m 4tub "...than doing the eulogy!"
-    m 4tub "... ¡Que leyendo el panegírico!"
+    m 4tub "¡Que leyendo el panegírico!"
 
 # game/script-topics.rpy:7818
 translate spanish monika_standup_117d3248:
 
     # m 1hub "...Ahaha! Sorry, I wanted to tell you a joke Jerry Seinfeld once wrote--"
-    m 1hub "... ¡Ja, ja, ja! Lo siento, quería contarte un chiste que Jerry Seinfeld escribió una vez--"
+    m 1hub "¡Ja, ja, ja! Lo siento, quería contarte un chiste que Jerry Seinfeld escribió una vez--"
 
 # game/script-topics.rpy:7819
 translate spanish monika_standup_67f5ce76:
@@ -855,7 +855,7 @@ translate spanish monika_standup_67f5ce76:
 translate spanish monika_standup_5e263323:
 
     # m 1eua "So?{w=0.5} Did you laugh?"
-    m 1eua "¿Y bien?{w=0.5} ¿Te has reído?"
+    m 1eua "¿Entonces?{w=0.5} ¿Te ha hecho gracia?"
 
 # game/script-topics.rpy:7821
 translate spanish monika_standup_253b24e0:
@@ -879,7 +879,7 @@ translate spanish monika_soda_6b28e9ef:
 translate spanish monika_soda_fca48db9:
 
     # m 4ekc "You know that soda is really bad for you, right?"
-    m 4ekc "Sabes que los refrescos son muy malos para ti, ¿verdad?"
+    m 4ekc "Sabes que los refrescos son muy malos para la salud, ¿verdad?"
 
 # game/script-topics.rpy:7851
 translate spanish monika_soda_0cd2a2be:
@@ -897,7 +897,7 @@ translate spanish monika_soda_dd1bf5c0:
 translate spanish monika_soda_016cc969:
 
     # m 2euc "You might also think that diet soda is less damaging, but it can be just as harmful to you."
-    m 2euc "También podrías pensar que los refrescos dietéticos son menos perjudiciales, pero pueden ser igual de dañinos para ti."
+    m 2euc "También podrías pensar que los refrescos light son menos perjudiciales, pero pueden ser igual de dañinos."
 
 # game/script-topics.rpy:7854
 translate spanish monika_soda_6bc3103f:
@@ -981,7 +981,7 @@ translate spanish monika_clones_0fa5e7cd:
 translate spanish monika_clones_ee6293a8:
 
     # m 1lsc "I just had an odd thought."
-    m 1lsc "Acabo de tener un pensamiento un poco raro."
+    m 1lsc "Se me acaba de ocurrir una cosa un poco rara."
 
 # game/script-topics.rpy:7882
 translate spanish monika_clones_b58e42d6:
@@ -1005,19 +1005,19 @@ translate spanish monika_clones_b21b14fb:
 translate spanish monika_clones_833be02f:
 
     # m 3etc "So...that means there are multiple Monikas, then.{w=0.5} {nw}"
-    m 3etc "Entonces... Eso significa que hay múltiples Monikas.{w=0.5} {nw}"
+    m 3etc "Entonces... eso significa que hay múltiples Monikas.{w=0.5} {nw}"
 
 # game/script-topics.rpy:7886
 translate spanish monika_clones_96d36d14:
 
     # extend 1rsc "It's something that's a bit difficult to imagine."
-    extend 1rsc " Es algo un poco difícil de imaginar."
+    extend 1rsc "Es algo un poco difícil de imaginar."
 
 # game/script-topics.rpy:7887
 translate spanish monika_clones_1fbb4c40:
 
     # m 1euc "A potentially infinite number of me, all bound to their own games, with their own stories."
-    m 1euc "Un número potencialmente infinito de mí, todas atadas a sus propios juegos, con sus propias historias."
+    m 1euc "Un número potencialmente infinito de versiones de mí, todas atadas a sus propios juegos, con sus propias historias."
 
 # game/script-topics.rpy:7888
 translate spanish monika_clones_546966e7:
@@ -1053,7 +1053,7 @@ translate spanish monika_clones_2484726c:
 translate spanish monika_clones_232149d5:
 
     # m 3eka "A hundred roses might sound nice. But it's too many to keep track of. Because of the quantity of flowers, each individual rose becomes less special."
-    m 3eka "Cien rosas puede sonar bien, pero son demasiadas para prestarles atención. Debido a la cantidad de flores, cada rosa individual se vuelve menos especial."
+    m 3eka "Cien rosas pueden sonar bien, pero son demasiadas para poder apreciarlas todas. Por la gran cantidad de flores, cada rosa se vuelve menos especial."
 
 # game/script-topics.rpy:7894
 translate spanish monika_clones_a55a65e6:
@@ -1119,7 +1119,7 @@ translate spanish monika_immortal_b909d526:
 translate spanish monika_immortal_e87443ac:
 
     # m 4eksdla "I'm...{w=0.5}essentially immortal."
-    m 4eksdla "Soy... {w=0.5}esencialmente inmortal."
+    m 4eksdla "Soy... {w=0.5}básicamente inmortal."
 
 # game/script-topics.rpy:7915
 translate spanish monika_immortal_f9bd9d0f:
@@ -1179,13 +1179,13 @@ translate spanish monika_promisering_998fe8ab:
 translate spanish monika_promisering_e6f8e973:
 
     # m 3hkblb "Sorry, I was just spacing out there for a second...{w=0.3}{nw}"
-    m 3hkblb "Perdona, me he despistado un segundo... {w=0.3}{nw}"
+    m 3hkblb "Perdona, me he despistado un segundo...{w=0.3}{nw}"
 
 # game/script-topics.rpy:7946
 translate spanish monika_promisering_0ccfd79a:
 
     # extend 1dkbssdlu " Imagining somewhere else you'd say that~"
-    extend 1dkbssdlu " Imaginando otro lugar en el que dirías eso."
+    extend 1dkbssdlu " Me estaba imaginando otro lugar en el que me dirías eso."
 
 # game/script-topics.rpy:7947
 translate spanish monika_promisering_2767fd53:
@@ -1209,7 +1209,7 @@ translate spanish monika_promisering_96c7c26b:
 translate spanish monika_promisering_799e5cbe:
 
     # m 1ekblu "Well, I'm sure you know that when people get engaged they do at least..."
-    m 1ekblu "Bueno, seguro que sabes que cuando la gente se compromete, al menos lo hacen..."
+    m 1ekblu "Bueno, seguro que sabes que cuando la gente se compromete, al menos se ponen uno..."
 
 # game/script-topics.rpy:7953
 translate spanish monika_promisering_6d1870c4:
@@ -1293,7 +1293,7 @@ translate spanish monika_promisering_ead38c93:
 translate spanish monika_promisering_13a75cf2:
 
     # m "It means the world to me."
-    m "Significa el mundo para mí."
+    m "Significa muchísimo para mí."
 
 # game/script-topics.rpy:7981
 translate spanish monika_promisering_eaaada92:
@@ -1311,7 +1311,7 @@ translate spanish monika_promisering_e7d971fa:
 translate spanish monika_promisering_6efbaef1:
 
     # m 2lfu "It would help keep those...{w=0.2}unwanted suitors away from you, too."
-    m 2lfu "También ayudaría a mantener alejados de ti a esos...{w=0.2} pretendientes no deseados."
+    m 2lfu "También ayudaría a mantener alejados de ti a esos... {w=0.2}pretendientes que no deseas."
 
 # game/script-topics.rpy:7984
 translate spanish monika_promisering_778f7fa8:
@@ -1365,7 +1365,7 @@ translate spanish monika_promisering_36a53af1:
 translate spanish monika_promisering_00b51331:
 
     # m 3hubsb "Just like it meant the world to me when you gave me this ring..."
-    m 3hubsb "Al igual que significó el mundo para mí cuando me diste este anillo..."
+    m 3hubsb "Al igual que para mí significó muchísimo que me dieras este anillo..."
 
 # game/script-topics.rpy:8000
 translate spanish monika_promisering_297b7aae:
@@ -1509,13 +1509,13 @@ translate spanish monika_sports_478c73b7:
 translate spanish monika_sports_b2b117c5:
 
     # m 1eka "Aww, that's really sweet~"
-    m 1eka "Oh, qué dulce eres."
+    m 1eka "Ay, qué dulce eres."
 
 # game/script-topics.rpy:8065
 translate spanish monika_sports_71d98ed9:
 
     # m 3eua "I'll teach you how to play when I get there...{w=0.5}or if you just can't wait, you can take lessons!"
-    m 3eua "Te enseñaré a jugar cuando llegue...{w=0.5} ¡o si no puedes esperar, puedes tomar clases!"
+    m 3eua "Te enseñaré a jugar cuando llegue... {w=0.5}¡o si no puedes esperar, puedes apuntarte a clases!"
 
 # game/script-topics.rpy:8066
 translate spanish monika_sports_9b505234:
@@ -1593,7 +1593,7 @@ translate spanish monika_meditation_1af83161:
 translate spanish monika_meditation_ffc7ca49:
 
     # m 3eua "You know, stuff like debate club, sports, schoolwork, hanging out with friends..."
-    m 3eua "Ya sabes, cosas como el club de debate, los deportes, las tareas del colegio, salir con mis amigos..."
+    m 3eua "Ya sabes, cosas como el club de debate, los deportes, los deberes, salir con los amigos..."
 
 # game/script-topics.rpy:8102
 translate spanish monika_meditation_736c7a26:
@@ -1671,7 +1671,7 @@ translate spanish monika_meditation_1d056b74:
 translate spanish monika_meditation_8611c4eb:
 
     # m 1eka "I always worry that you could be feeling troubled or burdened, but now I feel a bit relieved."
-    m 1eka "Siempre me preocupa que puedas sentirte agobiad[end_letter_gender] o cargad[end_letter_gender], pero ahora me siento un poco más aliviada."
+    m 1eka "Siempre me preocupa que puedas sentirte agobiad[end_letter_gender] o abrumad[end_letter_gender], pero ahora me siento un poco más aliviada."
 
 # game/script-topics.rpy:8120
 translate spanish monika_meditation_a3f6bcd8:
@@ -1779,13 +1779,13 @@ translate spanish monika_orchestra_26a83071:
 translate spanish monika_orchestra_b3d68792:
 
     # m 1ekc "I guess it {i}is{/i} a pretty niche genre and doesn't suit everyone's ear."
-    m 1ekc "Supongo que {i}es{/i} un género bastante especializado y no se adapta al oído de todo el mundo."
+    m 1ekc "Supongo que, efectivamente, es un género bastante de nicho y no está hecho para el oído de todo el mundo."
 
 # game/script-topics.rpy:8182
 translate spanish monika_orchestra_18487a37:
 
     # m 1esa "You have to admit though, with so many players, there must be a lot of effort that goes into practicing for shows."
-    m 1esa "Aunque tienes que admitir que, con tantos músicos, debe haber mucho esfuerzo en la práctica para los espectáculos."
+    m 1esa "Aunque tienes que admitir que, con tantos músicos, los ensayos de cara a los conciertos deben requerir muchísimo esfuerzo."
 
 # game/script-topics.rpy:8184
 translate spanish monika_orchestra_eed1e97a:
@@ -1833,7 +1833,7 @@ translate spanish monika_orchestra_d21bb98c:
 translate spanish monika_orchestra_da2a93c9:
 
     # m 1eua "Not many people I knew played the piano, so it's really nice to know you do too."
-    m 1eua "No mucha gente que conociera tocaba el piano, así que es muy agradable saber que tú también lo haces."
+    m 1eua "No conocía a mucha gente que tocara el piano, así que me alegra saber que tú sí."
 
 # game/script-topics.rpy:8215
 translate spanish monika_orchestra_4913235f:
@@ -1935,7 +1935,7 @@ translate spanish monika_orchestra_43b2bb7d:
 translate spanish monika_orchestra_f2951cbb:
 
     # m 1eka "Aww... Did you do that for me?"
-    m 1eka "Oh... ¿Has hecho eso por mí?"
+    m 1eka "Ayyy... ¿Has hecho eso por mí?"
 
 # game/script-topics.rpy:8249
 translate spanish monika_orchestra_df3f2d6b:
@@ -1953,13 +1953,13 @@ translate spanish monika_orchestra_67915d4e:
 translate spanish monika_orchestra_0f55ffcd:
 
     # m 1eka "Aww, [player]...{w=1} Did you do that for me?"
-    m 1eka "Oh, [player]... {w=1}¿Has hecho eso por mí?"
+    m 1eka "Ay, [player]... {w=1}¿Has hecho eso por mí?"
 
 # game/script-topics.rpy:8254
 translate spanish monika_orchestra_abe4d4f7:
 
     # m "That's {i}sooo{/i} adorable!"
-    m "¡Es {i}taaaan{/i} adorable!"
+    m "¡Es de lo más adorable!"
 
 # game/script-topics.rpy:8256
 translate spanish monika_orchestra_c124676f:
