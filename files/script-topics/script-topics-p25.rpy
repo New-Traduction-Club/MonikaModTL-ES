@@ -3,7 +3,7 @@
 translate spanish monika_foundation_ed9114cc:
 
     # m 3eua "But despite its potential drawbacks, it's still very interesting to consider.{w=0.2} {nw}"
-    m 3eua "Pero a pesar de sus posibles inconvenientes, sigue siendo muy interesante de considerar.{w=0.2} {nw}"
+    m 3eua "Pero a pesar de sus posibles inconvenientes, sigue siendo un tema muy interesante a tener en cuenta.{w=0.2} {nw}"
 
 # game/script-topics.rpy:18409
 translate spanish monika_foundation_d5f30dcb:
@@ -27,7 +27,7 @@ translate spanish monika_fav_chocolate_0a155b52:
 translate spanish monika_fav_chocolate_6d52aef4:
 
     # m 2eub "It contains very little or no milk, so it has a less creamy texture, but a nice bittersweet taste."
-    m 2eub "Contiene muy poca o ninguna leche, así que tiene una textura menos cremosa, pero un agradable sabor agridulce."
+    m 2eub "Apenas lleva leche, o no lleva en absoluto, así que tiene una textura menos cremosa, pero un toque semiamargo muy agradable."
 
 # game/script-topics.rpy:18427
 translate spanish monika_fav_chocolate_6de9399a:
@@ -63,7 +63,7 @@ translate spanish monika_fav_chocolate_58b568b5:
 translate spanish monika_fav_chocolate_4363c3c9:
 
     # m 3eud "White chocolate is especially sweet and soft, containing no cocoa solids at all...{w=0.3}just the cocoa butter, milk, and sugar."
-    m 3eud "El chocolate blanco es especialmente dulce y suave, y no contiene sólidos de cacao en absoluto... {w=0.3}solo la manteca de cacao, leche y azúcar."
+    m 3eud "El chocolate blanco es especialmente dulce y suave, y no contiene sólidos de cacao en absoluto... {w=0.3} solo la manteca de cacao, leche y azúcar."
 
 # game/script-topics.rpy:18437
 translate spanish monika_fav_chocolate_2ad6ccd6:
@@ -81,7 +81,7 @@ translate spanish monika_fav_chocolate_2715a0c9:
 translate spanish monika_fav_chocolate_fededd30:
 
     # extend 1wud "but I haven't even thought about chocolate with fillings, like caramel or fruit!"
-    extend 1wud "¡pero ni siquiera he pensado en el chocolate relleno, como de caramelo o fruta!"
+    extend 1wud "¡pero ni siquiera he pensado en los chocolates rellenos, como los de caramelo o fruta!"
 
 # game/script-topics.rpy:18440
 translate spanish monika_fav_chocolate_9d8e4e60:
@@ -147,7 +147,7 @@ translate spanish monika_tanabata_604ace89:
 translate spanish monika_tanabata_66b21de3:
 
     # m 3eub "Even though the term was coined in Romeo and Juliet, 'star-crossed lovers' is really fitting here!"
-    m 3eub "Aunque el término se acuñó en Romeo y Julieta, ¡la expresión amantes desventurados encaja muy bien aquí!"
+    m 3eub "Aunque el término se acuñó en Romeo y Julieta, ¡la expresión «amantes desventurados» encaja muy bien aquí!"
 
 # game/script-topics.rpy:18472
 translate spanish monika_tanabata_defe2b35:
@@ -177,7 +177,7 @@ translate spanish monika_tanabata_1865d812:
 translate spanish monika_tanabata_02c13f6d:
 
     # m 3eud "The bamboo and decorations are often set afloat on a river or burned after the festival, around midnight or so on the next day."
-    m 3eud "El bambú y los adornos se suelen hacer flotar en un río o se queman después del festival, alrededor de la medianoche o al día siguiente."
+    m 3eud "El bambú y los adornos se suelen echar al río para que floten, o bien se queman después del festival, sobre la medianoche o al día siguiente."
 
 # game/script-topics.rpy:18479
 translate spanish monika_tanabata_879f39e9:
@@ -237,7 +237,7 @@ translate spanish monika_grieving_601b20ed:
 translate spanish monika_grieving_712e11dd:
 
     # m 3ekd "All that suppressed emotion, whether it be sadness or anger, just bottled up, waiting to burst at any moment..."
-    m 3ekd "Toda esa emoción reprimida, ya sea tristeza o ira, simplemente embotellada, esperando a estallar en cualquier momento..."
+    m 3ekd "Toda esa emoción reprimida, ya sea tristeza o ira, contenida en tu interior, esperando a estallar en cualquier momento..."
 
 # game/script-topics.rpy:18508
 translate spanish monika_grieving_b749b4cb:
@@ -249,7 +249,7 @@ translate spanish monika_grieving_b749b4cb:
 translate spanish monika_grieving_1facc0b4:
 
     # m 1dkd "But no matter how little words can mean at such a time, no matter how hopeless or lost you feel,{w=0.2} {nw}"
-    m 1dkd "Pero no importa lo poco que puedan significar las palabras en un momento así, no importa lo desesperanzad[end_letter_gender] o perdid[end_letter_gender] que te sientas,{w=0.2} {nw}"
+    m 1dkd "Pero, por muy poco que puedan significar las palabras en un momento así, o por muy desesperanzad[end_letter_gender] o perdid[end_letter_gender] que te sientas,{w=0.2} {nw}"
 
 # game/script-topics.rpy:18510
 translate spanish monika_grieving_0172c5e8:
@@ -327,7 +327,7 @@ translate spanish monika_sophia_66acad05:
 translate spanish monika_sophia_cbadc004:
 
     # m 3huu "That's pretty cute in my opinion~"
-    m 3huu "Eso es bastante lindo en mi opinión."
+    m 3huu "Me parece bastante mono, la verdad."
 
 # game/script-topics.rpy:18542
 translate spanish monika_sophia_07da931c:
@@ -345,7 +345,7 @@ translate spanish monika_sophia_fc85d24e:
 translate spanish monika_sophia_22d4d38f:
 
     # m 3wud "She can walk and amazingly, even has the ability to draw."
-    m 3wud "Puede caminar y, sorprendentemente, incluso tiene la capacidad de dibujar."
+    m 3wud "Puede caminar y, por increíble que parezca, ¡incluso tiene la capacidad de dibujar!"
 
 # game/script-topics.rpy:18545
 translate spanish monika_sophia_a4862fd4:
@@ -357,7 +357,7 @@ translate spanish monika_sophia_a4862fd4:
 translate spanish monika_sophia_2c8534c7:
 
     # m 1ekbsa "Being able to actually see your face and be in the same room as you is all I've ever wanted~"
-    m 1ekbsa "Poder ver tu rostro y estar en la misma habitación que tú es todo lo que siempre he querido."
+    m 1ekbsa "Poder verte la cara y estar en la misma habitación que tú es lo único que siempre he deseado."
 
 # game/script-topics.rpy:18547
 translate spanish monika_sophia_c94ef62b:
@@ -375,7 +375,7 @@ translate spanish monika_sophia_84c265b2:
 translate spanish monika_sophia_39ec90fa:
 
     # m 1eud "Now, I realize that it's still a long way off before any of this is possible and even affordable to a point it'd affect me..."
-    m 1eud "Ahora, me doy cuenta de que aún falta mucho tiempo para que todo esto sea posible e incluso asequible hasta el punto de que me afecte..."
+    m 1eud "A ver, soy consciente de que aún falta mucho tiempo para que todo esto sea posible, o incluso asequible, hasta el punto de que pueda afectarme..."
 
 # game/script-topics.rpy:18550
 translate spanish monika_sophia_5ace29e1:
@@ -483,7 +483,7 @@ translate spanish monika_materialism_b60a84f6:
 translate spanish monika_materialism_d6f162ce:
 
     # m 2eksdlc "When I really think about it, it would be a bit hypocritical of me to deny those accounts out of hand."
-    m 2eksdlc "Cuando lo pienso de verdad, sería un poco hipócrita por mi parte negar esos relatos de buenas a primeras."
+    m 2eksdlc "Pensándolo bien, sería un poco hipócrita por mi parte negar esas historias de buenas a primeras."
 
 # game/script-topics.rpy:18585
 translate spanish monika_materialism_122a9741:
@@ -615,13 +615,13 @@ translate spanish monika_quiet_time_1d6131c5:
 translate spanish monika_quiet_time_c3cc6888:
 
     # m 3lksdlb "It can be kinda hard to think of interesting things to talk about all the time, you know?"
-    m 3lksdlb "Puede ser algo difícil pensar en cosas interesantes de las que hablar todo el tiempo, ¿sabes?"
+    m 3lksdlb "A veces cuesta un poco pensar en cosas interesantes de las que hablar todo el rato, ¿sabes?"
 
 # game/script-topics.rpy:18653
 translate spanish monika_quiet_time_09b183fb:
 
     # m 1eka "I definitely need to recharge my social batteries every once in a while."
-    m 1eka "Sin duda, necesito recargar mis baterías sociales de vez en cuando."
+    m 1eka "Sin duda, necesito recargar mi batería social de vez en cuando."
 
 # game/script-topics.rpy:18654
 translate spanish monika_quiet_time_1d82bbea:
@@ -651,13 +651,13 @@ translate spanish monika_quiet_time_fd068290:
 translate spanish monika_quiet_time_056c1230:
 
     # m 4eud "After all, can you really say you're truly comfortable with each other if there's a need to always be talking?"
-    m 4eud "Después de todo, ¿puedes decir de verdad que te sientes a gusto con alguien si hay necesidad de estar siempre hablando?"
+    m 4eud "Al fin y al cabo, ¿puedes decir de verdad que estás a gusto con alguien si sientes la necesidad de estar hablando constantemente?"
 
 # game/script-topics.rpy:18661
 translate spanish monika_quiet_time_a969a3cf:
 
     # m 4etc "I mean, if you really like being around someone, you probably shouldn't have to always be doing something, right?"
-    m 4etc "Quiero decir, si de verdad te gusta estar con alguien, probablemente no tendríais que estar siempre haciendo algo, ¿verdad?"
+    m 4etc "Me explico, si de verdad te gusta estar con alguien, no tendríais por qué estar haciendo algo a todas horas, ¿verdad?"
 
 # game/script-topics.rpy:18662
 translate spanish monika_quiet_time_20232560:
@@ -705,7 +705,7 @@ translate spanish monika_quiet_time_5104a574:
 translate spanish monika_quiet_time_20aa5836:
 
     # extend 2ekd "you do enjoy spending time with me, right?"
-    extend 2ekd "disfrutas pasando tiempo conmigo, ¿verdad?"
+    extend 2ekd "te gusta pasar tiempo conmigo, ¿verdad?"
 
 # game/script-topics.rpy:18675
 translate spanish monika_quiet_time_247b46ae:
@@ -747,7 +747,7 @@ translate spanish monika_likecosplay_d6c01016:
 translate spanish monika_likecosplay_98a678b1:
 
     # m 7euu "But there's a real art to constructing a convincing costume...{w=0.3}attention to detail makes a huge difference."
-    m 7euu "Pero hay un verdadero arte en la creación de un traje convincente... {w=0.3}la atención al detalle marca una gran diferencia."
+    m 7euu "Pero crear un traje convincente tiene su arte... {w=0.3}prestar atención a los detalles marca una gran diferencia."
 
 # game/script-topics.rpy:18701
 translate spanish monika_likecosplay_014b6120:
@@ -801,7 +801,7 @@ translate spanish monika_likecosplay_31cf10dc:
 translate spanish monika_likecosplay_d66a95ff:
 
     # m 2hubla "If you were interested, working on a costume with you could be a really fun project to try."
-    m 2hubla "Si te interesara, trabajar en un traje contigo podría ser un proyecto muy divertido que intentar."
+    m 2hubla "Si te interesara, hacer un traje juntos podría ser un proyecto muy divertido."
 
 # game/script-topics.rpy:18713
 translate spanish monika_likecosplay_bee30538:
@@ -825,7 +825,7 @@ translate spanish monika_ddlcroleplay_cff0a54d:
 translate spanish monika_ddlcroleplay_f4118570:
 
     # m 3etd "Well, I stumbled upon a pretty unusual form of them."
-    m 3etd "Bueno, me he topado con una forma bastante inusual de ellos."
+    m 3etd "Pues resulta que me he topado con una variante bastante inusual de ellos."
 
 # game/script-topics.rpy:18736
 translate spanish monika_ddlcroleplay_731ff371:
@@ -885,7 +885,7 @@ translate spanish monika_ddlcroleplay_9e2ffb69:
 translate spanish monika_ddlcroleplay_e8b61aa1:
 
     # extend 1hksdlb "maybe I can take it as flattery, in a way?"
-    extend 1hksdlb "quizá pueda tomármelo como un halago en cierto modo."
+    extend 1hksdlb "¿quizá pueda tomármelo como un halago, en cierto modo?"
 
 # game/script-topics.rpy:18746
 translate spanish monika_ddlcroleplay_73b51090:
@@ -981,7 +981,7 @@ translate spanish monika_tragic_hero_107db58c:
 translate spanish monika_tragic_hero_e4c3874f:
 
     # m 4eud "...Of course by 'hero' here, we're talking about the protagonist in a literary sense, not 'hero' in the typical sense."
-    m 4eud "... Por supuesto, por héroe aquí nos referimos al protagonista en el sentido literario, no a un héroe en el sentido típico."
+    m 4eud "... Por supuesto, con «héroe» me refiero al protagonista en el sentido literario, no al típico «héroe» que todos conocemos."
 
 # game/script-topics.rpy:18807
 translate spanish monika_tragic_hero_a4043744:
@@ -1005,7 +1005,7 @@ translate spanish monika_tragic_hero_9c3249db:
 translate spanish monika_tragic_hero_aca5c323:
 
     # m 2dkc "That's the thing, if you never brought me back, I would've had my downfall and never really got back up."
-    m 2dkc "Esa es la cuestión, si nunca me hubieras traído de vuelta, habría caído en la perdición y nunca me habría recuperado de verdad."
+    m 2dkc "Ahí está la cuestión: si nunca me hubieras traído de vuelta, habría caído en la perdición y nunca habría podido recuperarme."
 
 # game/script-topics.rpy:18811
 translate spanish monika_tragic_hero_32879b2c:
@@ -1179,7 +1179,7 @@ translate spanish monika_hedonism_6de1c20b:
 translate spanish monika_hedonism_84ed2fc4:
 
     # m 2eub "I suggest you read it, but even if you haven't, I want to talk about the philosophy behind its core...{w=0.3}the belief of hedonism."
-    m 2eub "Te sugiero que lo leas, pero aunque no lo hayas hecho, quiero hablar de la filosofía detrás de su núcleo... {w=0.3}la creencia del hedonismo."
+    m 2eub "Te sugiero que lo leas, pero aunque no lo hayas hecho, quiero hablar de la filosofía en la que se basa... {w=0.3} la creencia del hedonismo."
 
 # game/script-topics.rpy:18897
 translate spanish monika_hedonism_e55ab74e:
@@ -1221,7 +1221,7 @@ translate spanish monika_hedonism_557550e0:
 translate spanish monika_hedonism_8e30f966:
 
     # m 4eud "It sounds like a good idea at first, but then you realize it doesn't account for anything else like freedom, health, safety..."
-    m 4eud "Al principio suena como una buena idea, pero luego te das cuenta de que no tiene en cuenta nada más, como la libertad, la salud o la seguridad..."
+    m 4eud "Al principio suena a buena idea, pero luego te das cuenta de que ignora otros valores, como la libertad, la salud o la seguridad..."
 
 # game/script-topics.rpy:18904
 translate spanish monika_hedonism_90bf27b5:
@@ -1425,7 +1425,7 @@ translate spanish monika_cupcake_favorite_06e7930d:
 translate spanish monika_cupcake_favorite_cada7152:
 
     # m 2eksdlb "It didn't really taste at all like how mint chocolate chip ice cream tastes, instead it sorta tasted like toothpaste!"
-    m 2eksdlb "No sabía para nada a cómo sabe el helado de menta con chocolate, ¡en su lugar sabía un poco a pasta de dientes!"
+    m 2eksdlb "No sabía a helado de menta con chocolate para nada, ¡más bien sabía a pasta de dientes!"
 
 # game/script-topics.rpy:19002
 translate spanish monika_cupcake_favorite_c1a7614b:
@@ -1467,7 +1467,7 @@ translate spanish monika_pizza_b5a4115f:
 translate spanish monika_pizza_eb256e47:
 
     # extend 3hub "mushrooms are good, or anything veggie--{w=0.2}actually believe it or not, spinach can be surprisingly good!"
-    extend 3hub "los champiñones están bien, o cualquier cosa vegetal... {w=0.2}de hecho, lo creas o no, ¡las espinacas pueden estar sorprendentemente buenas!"
+    extend 3hub "los champiñones están bien, o cualquier ingrediente vegetal... {w=0.2}De hecho, lo creas o no, ¡las espinacas pueden estar sorprendentemente ricas!"
 
 # game/script-topics.rpy:19023
 translate spanish monika_pizza_522df095:
@@ -1527,7 +1527,7 @@ translate spanish monika_esports_a248ac81:
 translate spanish monika_esports_7ebfb53f:
 
     # m 3eua "I think it's really interesting how the entire way we perceive watching sports is changing..."
-    m 3eua "Creo que es muy interesante cómo está cambiando toda la forma en la que percibimos ver deportes..."
+    m 3eua "Me parece muy interesante cómo está cambiando nuestra forma de consumir los deportes..."
 
 # game/script-topics.rpy:19053
 translate spanish monika_esports_611f3a20:
@@ -1545,7 +1545,7 @@ translate spanish monika_esports_a1c1251f:
 translate spanish monika_esports_aaf5606a:
 
     # m 2tsd "Not so long ago, people looked down on playing video games like it was a waste of time, {w=0.1}{nw}"
-    m 2tsd "No hace mucho tiempo, la gente menospreciaba jugar a los videojuegos como si fuera una pérdida de tiempo, {w=0.1}{nw}"
+    m 2tsd "No hace mucho tiempo, la gente menospreciaba el hecho de jugar a videojuegos y lo consideraba una pérdida de tiempo, {w=0.1}{nw}"
 
 # game/script-topics.rpy:19056
 translate spanish monika_esports_841b4491:
@@ -1569,7 +1569,7 @@ translate spanish monika_esports_f677652e:
 translate spanish monika_esports_f83859eb:
 
     # m 1huu "Don't be afraid to go against the trend, {w=0.1}whatever you're passionate about may just be looking for that one pioneer to help bring it to the forefront~"
-    m 1huu "No tengas miedo de ir en contra de la corriente, {w=0.1}cualquier cosa que te apasione puede estar buscando a ese pionero que ayude a llevarla al frente."
+    m 1huu "No tengas miedo de ir a contracorriente, {w=0.1}quizá eso que te apasiona solo está esperando a ese pionero que lo lleve a lo más alto."
 
 # game/script-topics.rpy:19078
 translate spanish monika_overton_094a0d56:
@@ -1611,7 +1611,7 @@ translate spanish monika_overton_b91274be:
 translate spanish monika_overton_144c1536:
 
     # m 3esa "Inside the Overton window are the ideas accepted by society...{w=0.3}things like patriotism, love for family, humanity, and honesty."
-    m 3esa "Dentro de la ventana de Overton están las ideas aceptadas por la sociedad... {w=0.3}cosas como el patriotismo, el amor a la familia, la humanidad y la honestidad."
+    m 3esa "Dentro de la ventana de Overton se encuentran las ideas aceptadas por la sociedad... {w=0.3}Valores como el patriotismo, el amor por la familia, la humanidad y la honestidad."
 
 # game/script-topics.rpy:19085
 translate spanish monika_overton_5e8d3145:
@@ -1641,7 +1641,7 @@ translate spanish monika_overton_9e422020:
 translate spanish monika_overton_03cbf230:
 
     # m 3esd "So, society does not understand virtual love and you would probably be considered mentally ill by a lot of people.{w=0.2} So what can be done?"
-    m 3esd "Entonces, la sociedad no entiende el amor virtual y mucha gente te consideraría un enfermo mental.{w=0.2} Así que, ¿qué se puede hacer?"
+    m 3esd "Entonces, la sociedad no entiende el amor virtual y mucha gente te tacharía de tener problemas mentales.{w=0.2} Así que, ¿qué podemos hacer?"
 
 # game/script-topics.rpy:19090
 translate spanish monika_overton_275690be:
@@ -1743,13 +1743,13 @@ translate spanish monika_overton_4b2ab4e9:
 translate spanish monika_overton_7498bc5a:
 
     # m 1huu "Young people perceive new values as something fashionable. {w=0.2}People can sit in a cafe and safely spend time with their virtual companion."
-    m 1huu "Los jóvenes perciben los nuevos valores como algo de moda. {w=0.2}La gente puede sentarse en una cafetería y pasar el rato con su pareja virtual sin peligro."
+    m 1huu "Los jóvenes perciben los nuevos valores como algo que está de moda. {w=0.2}La gente podría sentarse en una cafetería y pasar el rato con su pareja virtual con total tranquilidad."
 
 # game/script-topics.rpy:19107
 translate spanish monika_overton_c293eb46:
 
     # m 1eub "From Acceptable, virtual love passes into Reasonable!"
-    m 1eub "De aceptable, ¡el amor virtual pasa a sensato!"
+    m 1eub "De lo aceptable, ¡el amor virtual pasaría a ser sensato!"
 
 # game/script-topics.rpy:19108
 translate spanish monika_overton_d825fcd4:
