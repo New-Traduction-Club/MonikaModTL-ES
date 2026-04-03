@@ -2573,3 +2573,7 @@ translate spanish strings:
     old "Yellow"
     new "Amarillo"
 
+    # game/zz_cardgames.rpy:5174
+    old "Can you help me?"
+    new "¿Me echas una mano?"
+
