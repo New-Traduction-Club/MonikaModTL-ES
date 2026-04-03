@@ -435,13 +435,13 @@ translate spanish mas_island_day1_e3a7f53c:
 translate spanish mas_island_day1_9881e16e:
 
     # m "Lying under the shade while reading my favorite book."
-    m "Tumbad[end_letter_gender]s a la sombra mientras leo mi libro favorito."
+    m "Tumbad[end_letter_gender]s a la sombra mientras leo mi libro favorito,"
 
 # game/script-islands-event.rpy:2469
 translate spanish mas_island_day1_81a03bda:
 
     # m "...Along with a snack and your favorite drink on the side."
-    m "... Con algo de picar y tu bebida favorita al lado."
+    m "con algo de picar y tu bebida favorita al lado."
 
 # game/script-islands-event.rpy:2470
 translate spanish mas_island_day1_273d6eec:
@@ -1119,13 +1119,13 @@ translate spanish mas_island_gravestones_e9a00f13:
 translate spanish mas_island_gravestones_3d7913b8:
 
     # m "...{w=0.2}What tombstones? {w=0.2}I'm not sure what you're talking about."
-    m "... {w=0.2}¿Qué lápidas? {w=0.2}No estoy segura de qué estás hablando."
+    m "{w=0.2}¿Qué lápidas? {w=0.2}No estoy segura de entender lo que estás diciendo."
 
 # game/script-islands-event.rpy:2713
 translate spanish mas_island_gravestones_e901e997:
 
     # m "Are you...{w=0.2}pfft--"
-    m "Estás... {w=0.2}Pfff..."
+    m "¿Estás...? {w=0.2}Pfff..."
 
 # game/script-islands-event.rpy:2714
 translate spanish mas_island_gravestones_30727938:
@@ -1137,7 +1137,7 @@ translate spanish mas_island_gravestones_30727938:
 translate spanish mas_island_gravestones_0b1ebf79:
 
     # m "Sorry, I couldn't resist."
-    m "Lo siento, no pude resistirme."
+    m "Lo siento, no he podido aguantarme."
 
 # game/script-islands-event.rpy:2716
 translate spanish mas_island_gravestones_530d6d0f:

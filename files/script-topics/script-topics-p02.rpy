@@ -1143,13 +1143,13 @@ translate spanish monika_college_ba8add1b:
 translate spanish monika_college_1c080618:
 
     # m 3ekd "And colleges are also businesses, so they just keep raising their prices due to the demand..."
-    m 3ekd "Y las universidades también son negocios, así que siguen subiendo los precios debido a la demanda..."
+    m 3ekd "Y las universidades también son negocios, así que siguen subiendo los precios debido a la demanda...,"
 
 # game/script-topics.rpy:1823
 translate spanish monika_college_0ba87844:
 
     # m 2ekc "...so now we have all these young adults, tens of thousands of dollars in debt, with no job."
-    m 2ekc "... Así que ahora tenemos a todos estos jóvenes adultos, endeudados por decenas de miles de dólares y sin trabajo."
+    m 2ekc "así que ahora tenemos a todos estos jóvenes adultos, endeudados por decenas de miles de dólares y sin trabajo."
 
 # game/script-topics.rpy:1824
 translate spanish monika_college_88d26a14:
@@ -1443,13 +1443,13 @@ translate spanish monika_horror_7f7ce74d:
 translate spanish monika_horror_3413cad6:
 
     # m "Like if you set up a bunch of expectations on what the story is going to be about..."
-    m "Como si creas un montón de expectativas sobre de qué va a tratar la historia..."
+    m "Como si creas un montón de expectativas sobre de qué va a tratar la historia...,"
 
 # game/script-topics.rpy:1952
 translate spanish monika_horror_2ea1d1da:
 
     # m 3tfu "...and then, you just start inverting things and pulling the pieces apart."
-    m 3tfu "... Y luego, simplemente empiezas a invertir las cosas y a desmontar las piezas."
+    m 3tfu "y luego, simplemente empiezas a invertir las cosas y a desmontar las piezas."
 
 # game/script-topics.rpy:1953
 translate spanish monika_horror_3c90498f:
@@ -1683,13 +1683,13 @@ translate spanish monika_wine_698c3048:
 translate spanish monika_wine_39bda4e9:
 
     # m 4tsb "Though I think Natsuki was secretly a bit curious to try it..."
-    m 4tsb "Aunque creo que Natsuki sentía un poco de curiosidad por probarlo en secreto..."
+    m 4tsb "Aunque creo que Natsuki sentía un poco de curiosidad por probarlo en secreto...,"
 
 # game/script-topics.rpy:2042
 translate spanish monika_wine_f7b1c29a:
 
     # m 4rssdrb "...and to be completely honest, I kind of was, too."
-    m 4rssdrb "... Y, para ser totalmente sincera, yo también un poco."
+    m 4rssdrb "y, para ser totalmente sincera, yo también un poco."
 
 # game/script-topics.rpy:2043
 translate spanish monika_wine_10b055f0:
@@ -1713,7 +1713,7 @@ translate spanish monika_wine_717a3f3a:
 translate spanish monika_wine_1a54d709:
 
     # m 2hksdlb "...Gosh, what am I talking about this for?"
-    m 2hksdlb "... Madre mía, ¿por qué hablo de esto?"
+    m 2hksdlb "Madre mía, ¿por qué hablo de esto?"
 
 # game/script-topics.rpy:2047
 translate spanish monika_wine_e3d2c543:
@@ -1827,7 +1827,7 @@ translate spanish monika_kiss_0ecfc81d:
 translate spanish monika_kiss_d646f25d:
 
     # m 2hksdlb "...Ahaha! Wow, sorry..."
-    m 2hksdlb "... ¡Ja, ja, ja! Guau, perdona..."
+    m 2hksdlb "¡Ja, ja, ja! Guau, perdona..."
 
 # game/script-topics.rpy:2153
 translate spanish monika_kiss_f63fa111:
@@ -1941,13 +1941,13 @@ translate spanish monika_think_first_kiss_2ea002db:
 translate spanish monika_think_first_kiss_c26cf74a:
 
     # m 2eksdlb "Our lips didn't even touch, really."
-    m 2eksdlb "Nuestros labios ni siquiera se tocaron, en realidad."
+    m 2eksdlb "En realidad, nuestros labios ni siquiera se han tocado."
 
 # game/script-topics.rpy:2205
 translate spanish monika_think_first_kiss_d961854e:
 
     # m 6dku "...And yet, {w=0.2}I can still feel my heart pounding, even now."
-    m 6dku "... Y, aun así, {w=0.2}todavía siento que el corazón me late a mil por hora, incluso ahora."
+    m 6dku "Y, aun así, {w=0.2}todavía siento que el corazón me late a mil por hora, incluso ahora."
 
 # game/script-topics.rpy:2206
 translate spanish monika_think_first_kiss_1a1ebcf8:
@@ -1983,13 +1983,13 @@ translate spanish monika_think_first_kiss_696224ba:
 translate spanish monika_think_first_kiss_9b4933d2:
 
     # m 5subsb "...Our first real one.{w=0.3} {nw}"
-    m 5subsb "... Nuestro primer beso de verdad.{w=0.3} {nw}"
+    m 5subsb "Nuestro primer beso real.{w=0.3} {nw}"
 
 # game/script-topics.rpy:2213
 translate spanish monika_think_first_kiss_9caae0fd:
 
     # extend 5ekbsu "And our first real hug, and the first time our hands touch--"
-    extend 5ekbsu "Y nuestro primer abrazo de verdad, y la primera vez que nuestras manos se toquen..."
+    extend 5ekbsu "Y nuestro primer abrazo real, y la primera vez que nuestras manos se toquen..."
 
 # game/script-topics.rpy:2214
 translate spanish monika_think_first_kiss_975e1c53:

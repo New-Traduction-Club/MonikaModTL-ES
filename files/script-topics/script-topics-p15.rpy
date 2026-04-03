@@ -375,7 +375,7 @@ translate spanish monika_fastfood_dac4c55f:
 translate spanish monika_fastfood_906cacf2:
 
     # m 3eub "...Or perhaps a skill for you to become really good at!"
-    m 3eub "... O tal vez una habilidad que se te acabe dando genial."
+    m 3eub "O tal vez una habilidad que se te acabe dando genial."
 
 # game/script-topics.rpy:11142
 translate spanish monika_fastfood_65f546b5:
