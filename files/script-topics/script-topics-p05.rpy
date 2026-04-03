@@ -699,7 +699,7 @@ translate spanish monika_contribute_bcab89e8:
 translate spanish monika_contribute_135d1621:
 
     # m 1eub "...But I definitely wouldn't mind if you helped even more, ahaha!"
-    m 1eub "... Pero desde luego que no me importaría que ayudaras aún más, ja, ja, ja."
+    m 1eub "Pero desde luego que no me importaría que ayudaras aún más, ja, ja, ja."
 
 # game/script-topics.rpy:4426
 translate spanish monika_contribute_5c1e09df:
@@ -747,7 +747,7 @@ translate spanish monika_contribute_ec14b7e8:
 translate spanish monika_contribute_1732d8c8:
 
     # m 3eub "...But in case you {i}do{/i} ever decide to try and help..."
-    m 3eub "... Pero por si acaso alguna vez decides intentar ayudar..."
+    m 3eub "Pero por si acaso alguna vez decides intentar ayudar..."
 
 # game/script-topics.rpy:4439
 translate spanish monika_contribute_ea8ae30b:

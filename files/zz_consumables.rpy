@@ -117,7 +117,7 @@ translate spanish mas_consumables_refill_explain_ca2f1dde:
 translate spanish mas_consumables_refill_explain_9822c445:
 
     # m 1ekbsu "...Or maybe it's your everlasting love that makes it special~"
-    m 1ekbsu "... O quizá sea tu amor eterno lo que lo hace especial."
+    m 1ekbsu "O quizá sea tu amor eterno lo que lo hace especial."
 
 # game/zz_consumables.rpy:1592
 translate spanish mas_consumables_generic_running_out_bf9fbe47:
