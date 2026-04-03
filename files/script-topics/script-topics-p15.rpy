@@ -1281,7 +1281,7 @@ translate spanish monika_driving_d93dc8b5:
 translate spanish monika_driving_9dabe25f:
 
     # m 3hua "That's great!"
-    m 3hua "¡Qué bien!"
+    m 3hua "¡Fantástico!"
 
 # game/script-topics.rpy:11454
 translate spanish monika_driving_9ea8bb8e:
@@ -1335,7 +1335,7 @@ translate spanish monika_driving_dfe11cdb:
 translate spanish monika_driving_e93005d0:
 
     # m 2ekc "Oh..."
-    m 2ekc "Ah..."
+    m 2ekc "Oh..."
 
 # game/script-topics.rpy:11468
 translate spanish monika_driving_86484568:
@@ -1527,7 +1527,7 @@ translate spanish monika_driving_8018692b:
 translate spanish monika_driving_34b5555c:
 
     # m 2lksdld "Oh..."
-    m 2lksdld "Ah..."
+    m 2lksdld "Oh..."
 
 # game/script-topics.rpy:11517
 translate spanish monika_driving_28bd65c7:
@@ -1587,7 +1587,7 @@ translate spanish monika_driving_2ba846b2:
 translate spanish monika_driving_ad0acea6:
 
     # m 2lksdlc "I see."
-    m 2lksdlc "Ya veo."
+    m 2lksdlc "Entiendo."
 
 # game/script-topics.rpy:11535
 translate spanish monika_driving_e1624db8:

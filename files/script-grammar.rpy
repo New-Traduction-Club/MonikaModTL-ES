@@ -447,7 +447,7 @@ translate spanish monika_gtod_tip004_1c980485:
 translate spanish monika_gtod_tip004_d6e406aa:
 
     # m 1hua "Ehehe."
-    m 1hua "Je, je, je."
+    m 1hua "Je, je."
 
 # game/script-grammar.rpy:230
 translate spanish monika_gtod_tip004_6cd357ef:

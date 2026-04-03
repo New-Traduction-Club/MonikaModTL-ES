@@ -15,7 +15,7 @@ translate spanish monika_change_weather_3576c811:
 translate spanish monika_change_weather_c889c235:
 
     # m 1eua "There we go!"
-    m 1eua "¡Ahí va!"
+    m 1eua "¡Listo!"
 
 # game/zz_weather.rpy:1181
 translate spanish monika_change_weather_7ba12229:
@@ -63,7 +63,7 @@ translate spanish monika_change_weather_6111571a:
 translate spanish monika_change_weather_3d8a873d:
 
     # m 1eua "Alright!"
-    m 1eua "¡Genial!"
+    m 1eua "¡Muy bien!"
 
 # game/zz_weather.rpy:1212
 translate spanish monika_change_weather_3576c811_1:
@@ -75,7 +75,7 @@ translate spanish monika_change_weather_3576c811_1:
 translate spanish monika_change_weather_c889c235_1:
 
     # m 1eua "There we go!"
-    m 1eua "¡Ahí va!"
+    m 1eua "¡Listo!"
 
 translate spanish strings:
     # game/zz_weather.rpy:1115

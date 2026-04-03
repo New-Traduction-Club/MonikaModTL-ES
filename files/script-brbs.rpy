@@ -129,7 +129,7 @@ translate spanish monika_idle_writing_5837e776:
 translate spanish monika_idle_writing_7eb13353:
 
     # m 2esc "Alright."
-    m 2esc "Vale."
+    m 2esc "De acuerdo."
 
 # game/script-brbs.rpy:345
 translate spanish monika_idle_writing_e6f9346c:
@@ -579,7 +579,7 @@ translate spanish monika_idle_coding_6d107611:
 translate spanish monika_idle_coding_38366a07:
 
     # m 6ekc "Alright."
-    m 6ekc "Vale."
+    m 6ekc "De acuerdo."
 
 # game/script-brbs.rpy:607
 translate spanish monika_idle_coding_0bd97190:
@@ -675,7 +675,7 @@ translate spanish monika_idle_workout_80162364:
 translate spanish monika_idle_workout_38366a07:
 
     # m 6ekc "Alright."
-    m 6ekc "Vale."
+    m 6ekc "De acuerdo."
 
 # game/script-brbs.rpy:671
 translate spanish monika_idle_workout_0bd97190:
@@ -813,7 +813,7 @@ translate spanish monika_idle_nap_6975026e:
 translate spanish monika_idle_nap_38366a07:
 
     # m 6ekc "Alright."
-    m 6ekc "Vale."
+    m 6ekc "De acuerdo."
 
 # game/script-brbs.rpy:753
 translate spanish monika_idle_nap_0bd97190:
@@ -1149,7 +1149,7 @@ translate spanish monika_idle_screen_break_8ae2002f:
 translate spanish monika_idle_screen_break_38366a07:
 
     # m 6ekc "Alright."
-    m 6ekc "Vale."
+    m 6ekc "De acuerdo."
 
 # game/script-brbs.rpy:952
 translate spanish monika_idle_screen_break_0bd97190:

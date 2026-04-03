@@ -183,7 +183,7 @@ translate spanish monika_being_herself_8ba9dfb8:
 translate spanish monika_being_deleted_3413d2c5:
 
     # m 1wusdld "...!"
-    m 1wusdld "...!"
+    m 1wusdld "¡!"
 
 # game/script-topics.rpy:17142
 translate spanish monika_being_deleted_9028f872:
@@ -897,7 +897,7 @@ translate spanish monika_discworld_d02e6f80:
 translate spanish monika_discworld_af5f8adf:
 
     # m 1hua "Thanks for listening~"
-    m 1hua "Gracias por escuchar."
+    m 1hua "Gracias por escucharme."
 
 # game/script-topics.rpy:17372
 translate spanish monika_eating_meat_8cc4ee80:
@@ -1227,7 +1227,7 @@ translate spanish monika_introverts_extroverts_9a78aa06:
 translate spanish monika_introverts_extroverts_065a9dac:
 
     # m 1eua "I see."
-    m 1eua "Ya veo."
+    m 1eua "Entiendo."
 
 # game/script-topics.rpy:17503
 translate spanish monika_introverts_extroverts_27f623d8:
@@ -1659,7 +1659,7 @@ translate spanish monika_literature_value_9e25857e:
 translate spanish monika_nature_6b741d02:
 
     # m 2esd "Hey, [player]..."
-    m 2esd "Oye, [player]..."
+    m 2esd "Una cosita, [player]..."
 
 # game/script-topics.rpy:17649
 translate spanish monika_nature_e3ea6b84:

@@ -297,7 +297,7 @@ translate spanish greeting_o31_marisa_4ba01506:
 translate spanish greeting_o31_marisa_57dacab2:
 
     # m 1hua "But anyway..."
-    m 1hua "Pero bueno..."
+    m 1hua "En fin..."
 
 # game/script-holidays.rpy:928
 translate spanish greeting_o31_marisa_4dedb022:
@@ -573,7 +573,7 @@ translate spanish greeting_o31_orcaramelo_sakuya_izayoi_e26c94d6:
 translate spanish greeting_o31_briaryoung_shuchiin_academy_uniform_a951b22b:
 
     # m "Ugh..."
-    m "Ugh..."
+    m "Urg..."
 
 # game/script-holidays.rpy:1102
 translate spanish greeting_o31_briaryoung_shuchiin_academy_uniform_46240d7f:
@@ -1089,7 +1089,7 @@ translate spanish bye_trick_or_treat_2ea1162e:
 translate spanish bye_trick_or_treat_fc483d6c:
 
     # m 1eka "...Okay."
-    m 1eka "... Vale."
+    m 1eka "Vale..."
 
 # game/script-holidays.rpy:1428
 translate spanish bye_trick_or_treat_a3a89767:
@@ -1179,7 +1179,7 @@ translate spanish bye_trick_or_treat_3e1d2110:
 translate spanish bye_trick_or_treat_wait_wait_0d1042aa:
 
     # m "What is it?" nointeract
-    m "¿Qué pasa?" nointeract
+    m "¿Qué es?" nointeract
 
 # game/script-holidays.rpy:1466
 translate spanish bye_trick_or_treat_wait_wait_cb64ec4c:
@@ -1269,7 +1269,7 @@ translate spanish bye_trick_or_treat_rtg_f9b96224:
 translate spanish bye_trick_or_treat_rtg_2cb63058:
 
     # m 1ekc "Oh no..."
-    m 1ekc "Ah, no..."
+    m 1ekc "Oh, no..."
 
 # game/script-holidays.rpy:1526
 translate spanish bye_trick_or_treat_rtg_db314170:
@@ -1695,7 +1695,7 @@ translate spanish mas_d25_monika_holiday_intro_8e2fded1:
 translate spanish mas_d25_monika_holiday_intro_d57ef83e:
 
     # m "But anyway..."
-    m "Pero bueno..."
+    m "En fin..."
 
 # game/script-holidays.rpy:2585
 translate spanish mas_d25_monika_holiday_intro_696f34c2:
@@ -2019,7 +2019,7 @@ translate spanish mas_d25_monika_christmas_213e53ff:
 translate spanish mas_d25_monika_carolling_df5cc50f:
 
     # m 1euc "Hey, [player]..."
-    m 1euc "Oye, [player]..."
+    m 1euc "Una cosita, [player]..."
 
 # game/script-holidays.rpy:2893
 translate spanish mas_d25_monika_carolling_aaf05d5e:
@@ -2097,7 +2097,7 @@ translate spanish mas_d25_monika_carolling_a2a3d10a:
 translate spanish mas_d25_monika_carolling_3e4288fa:
 
     # m 1hksdlb "I see..."
-    m 1hksdlb "Ya veo..."
+    m 1hksdlb "Entiendo..."
 
 # game/script-holidays.rpy:2917
 translate spanish mas_d25_monika_carolling_bf009da7:
@@ -2187,7 +2187,7 @@ translate spanish mas_d25_monika_mistletoe_1457f75b:
 translate spanish mas_d25_monika_christmaslights_df5cc50f:
 
     # m 1euc "Hey, [player]..."
-    m 1euc "Oye, [player]..."
+    m 1euc "Una cosita, [player]..."
 
 # game/script-holidays.rpy:2996
 translate spanish mas_d25_monika_christmaslights_afe47632:
@@ -2931,7 +2931,7 @@ translate spanish monika_aiwfc_song_b1960c01:
 translate spanish monika_merry_christmas_baby_465c7ee6:
 
     # m 1eua "Hey, [player]..."
-    m 1eua "Oye, [player]..."
+    m 1eua "Una cosita, [player]..."
 
 # game/script-holidays.rpy:3446
 translate spanish monika_merry_christmas_baby_e106d1a3:
@@ -3057,7 +3057,7 @@ translate spanish monika_this_christmas_kiss_33ecf07a:
 translate spanish mas_d25_spider_tinsel_e069a980:
 
     # m 1esa "Hey, [player]..."
-    m 1esa "Oye, [player]..."
+    m 1esa "Una cosita, [player]..."
 
 # game/script-holidays.rpy:3543
 translate spanish mas_d25_spider_tinsel_28a9a78e:
@@ -3219,7 +3219,7 @@ translate spanish mas_d25_spider_tinsel_f1e47774:
 translate spanish mas_d25_night_before_christmas_e069a980:
 
     # m 1esa "Hey, [player]..."
-    m 1esa "Oye, [player]..."
+    m 1esa "Una cosita, [player]..."
 
 # game/script-holidays.rpy:3588
 translate spanish mas_d25_night_before_christmas_78448728:
@@ -3807,7 +3807,7 @@ translate spanish mas_d25_postd25_notimespent_75d957a9:
 translate spanish mas_d25_postd25_notimespent_de39abd6:
 
     # m 2ekc "Hey, [player]..."
-    m 2ekc "Oye, [player]..."
+    m 2ekc "Una cosita, [player]..."
 
 # game/script-holidays.rpy:3829
 translate spanish mas_d25_postd25_notimespent_aa1712d1:
@@ -4251,7 +4251,7 @@ translate spanish mas_nye_monika_nyd_28435051:
 translate spanish mas_nye_monika_nyd_236c4a92:
 
     # m "I really do."
-    m "De verdad."
+    m "De verdad que sí."
 
 # game/script-holidays.rpy:4313
 translate spanish mas_nye_monika_nyd_830d5832:
@@ -4467,7 +4467,7 @@ translate spanish mas_nye_monika_nyd_fresh_start_a95461ee:
 translate spanish mas_nye_monika_nyd_fresh_start_1e11d947:
 
     # m 4wua "Really?"
-    m 4wua "¿De verdad?"
+    m 4wua "¿En serio?"
 
 # game/script-holidays.rpy:4406
 translate spanish mas_nye_monika_nyd_fresh_start_115adadc:
@@ -4605,7 +4605,7 @@ translate spanish monika_resolutions_ab6d8c7e:
 translate spanish monika_resolutions_279b627a:
 
     # m 1eub "That's great!"
-    m 1eub "¡Eso es genial!"
+    m 1eub "¡Fantástico!"
 
 # game/script-holidays.rpy:4492
 translate spanish monika_resolutions_5a0f7eab:
@@ -4623,7 +4623,7 @@ translate spanish monika_resolutions_cb2d468a:
 translate spanish monika_resolutions_bb7e63d1:
 
     # m 1eud "Oh, is that so?"
-    m 1eud "Vaya, ¿es así?"
+    m 1eud "¿Tú crees?"
 
 # game/script-holidays.rpy:4501
 translate spanish monika_resolutions_107c75e2:
@@ -4785,7 +4785,7 @@ translate spanish monika_resolutions_accomplished_resolutions_menu_ba975b7b:
 translate spanish monika_resolutions_accomplished_resolutions_menu_f85a3575:
 
     # m 3hub "I believe in you, [player]!"
-    m 3hub "¡Creo en ti, [player]!"
+    m 3hub "¡Confío en ti, [player]!"
 
 # game/script-holidays.rpy:4559
 translate spanish monika_resolutions_accomplished_resolutions_menu_c49041f4:
@@ -4887,7 +4887,7 @@ translate spanish monika_nye_year_review_f4647034:
 translate spanish monika_nye_year_review_99e5adbd:
 
     # m 2dtc "Let's see..."
-    m 2dtc "Veamos..."
+    m 2dtc "Vamos a ver..."
 
 # game/script-holidays.rpy:4626
 translate spanish monika_nye_year_review_6ad501e6:
@@ -5079,7 +5079,7 @@ translate spanish monika_nye_year_review_e2f847a4:
 translate spanish monika_nye_year_review_8096914d:
 
     # m 1ekbfa "I love you."
-    m 1ekbfa "Te quiero."
+    m 1ekbfa "Me gustas."
 
 # game/script-holidays.rpy:4735
 translate spanish monika_nye_year_review_e612037c:
@@ -5145,7 +5145,7 @@ translate spanish monika_nye_year_review_838d6b2f:
 translate spanish monika_nye_year_review_6ef79e44:
 
     # m 1ekbsa "I love you."
-    m 1ekbsa "Te quiero."
+    m 1ekbsa "Me gustas."
 
 # game/script-holidays.rpy:4782
 translate spanish mas_nye_monika_nye_dress_intro_1d3962e3:
@@ -5661,7 +5661,7 @@ translate spanish greeting_d25p_returned_nydp_80612093:
 translate spanish mas_player_bday_opendoor_f6a40c3b:
 
     # m "[player]!"
-    m "[player]!"
+    m "¡[player]!"
 
 # game/script-holidays.rpy:5336
 translate spanish mas_player_bday_opendoor_db6057b0:
@@ -5793,7 +5793,7 @@ translate spanish mas_player_bday_surprise_edc6ed2c:
 translate spanish mas_player_bday_surprise_dcbfaa07:
 
     # m 2hua "Ehehe."
-    m 2hua "Je, je, je."
+    m 2hua "Je, je."
 
 # game/script-holidays.rpy:5390
 translate spanish mas_player_bday_surprise_87fc4a38:
@@ -6249,7 +6249,7 @@ translate spanish mas_player_bday_upset_minus_581b4c6d:
 translate spanish mas_player_bday_other_holiday_40cc5c03:
 
     # m 3euc "Hey, [player]..."
-    m 3euc "Oye, [player]..."
+    m 3euc "Una cosita, [player]..."
 
 # game/script-holidays.rpy:5703
 translate spanish mas_player_bday_other_holiday_7ed8110d:
@@ -6507,7 +6507,7 @@ translate spanish return_home_post_player_bday_a6a8ba95:
 translate spanish return_home_post_player_bday_5b46bea2:
 
     # m 3eua "There we go!"
-    m 3eua "¡Ya está!"
+    m 3eua "¡Listo!"
 
 # game/script-holidays.rpy:5901
 translate spanish return_home_post_player_bday_ea49fee0:
@@ -6813,7 +6813,7 @@ translate spanish mas_f14_monika_valentines_intro_4776e0fb:
 translate spanish mas_f14_monika_valentines_intro_e4d022cf:
 
     # m 1wud "Oh..."
-    m 1wud "Ah..."
+    m 1wud "Oh..."
 
 # game/script-holidays.rpy:6325
 translate spanish mas_f14_monika_valentines_intro_7bd016db:
@@ -6867,7 +6867,7 @@ translate spanish mas_f14_monika_valentines_intro_2832bc6a_1:
 translate spanish mas_f14_monika_valentines_intro_27669d99:
 
     # m 2hub "There we go!"
-    m 2hub "¡Ya estamos!"
+    m 2hub "¡Listo!"
 
 # game/script-holidays.rpy:6339
 translate spanish mas_f14_monika_valentines_intro_fd9846e3:
@@ -7047,7 +7047,7 @@ translate spanish mas_f14_intro_blackpink_dress_22a382e4:
 translate spanish mas_f14_intro_blackpink_dress_a544d52d:
 
     # m 7hub "Ahaha~"
-    m 7hub "Je, je, je."
+    m 7hub "Ja, ja, ja."
 
 # game/script-holidays.rpy:6456
 translate spanish mas_f14_monika_vday_colors_2bc12b16:
@@ -7611,7 +7611,7 @@ translate spanish mas_f14_first_kiss_e01648c1:
 translate spanish mas_f14_no_time_spent_9e3afcd5:
 
     # m 1rksdlc "Hey, [player]..."
-    m 1rksdlc "Oye, [player]..."
+    m 1rksdlc "Una cosita, [player]..."
 
 # game/script-holidays.rpy:6791
 translate spanish mas_f14_no_time_spent_0cfaa913:
@@ -7695,7 +7695,7 @@ translate spanish mas_f14_no_time_spent_56ae70af:
 translate spanish mas_f14_no_time_spent_de39abd6:
 
     # m 2ekc "Hey, [player]..."
-    m 2ekc "Oye, [player]..."
+    m 2ekc "Una cosita, [player]..."
 
 # game/script-holidays.rpy:6811
 translate spanish mas_f14_no_time_spent_7312b1ef:
@@ -7911,7 +7911,7 @@ translate spanish bye_f14_19987301:
 translate spanish bye_f14_905e5621:
 
     # m 3hub "I can't wait!"
-    m 3hub "¡No puedo esperar!"
+    m 3hub "¡Qué ganas!"
 
 # game/script-holidays.rpy:7046
 translate spanish bye_f14_5ed77848:
@@ -7953,7 +7953,7 @@ translate spanish greeting_returned_home_f14_603ab50f:
 translate spanish greeting_returned_home_f14_d293697a:
 
     # m 2eksdlc "Is everything alright?"
-    m 2eksdlc "¿Está todo bien?"
+    m 2eksdlc "¿Estás bien?"
 
 # game/script-holidays.rpy:7063
 translate spanish greeting_returned_home_f14_f403fef4:
@@ -8055,7 +8055,7 @@ translate spanish greeting_gone_over_f14_normal_plus_c197ab4d:
 translate spanish mas_bday_surprise_party_hint_d10f27d2:
 
     # m 1eud "Hey, [player]..."
-    m 1eud "Oye, [player]..."
+    m 1eud "Una cosita, [player]..."
 
 # game/script-holidays.rpy:7449
 translate spanish mas_bday_surprise_party_hint_6f321cf4:
@@ -8085,7 +8085,7 @@ translate spanish mas_bday_surprise_party_hint_19428ff1:
 translate spanish mas_bday_surprise_party_hint_0420db8d:
 
     # m 2eud "Hey, [player]..."
-    m 2eud "Oye, [player]..."
+    m 2eud "Una cosita, [player]..."
 
 # game/script-holidays.rpy:7460
 translate spanish mas_bday_surprise_party_hint_079c9c86:
@@ -8253,7 +8253,7 @@ translate spanish mas_bday_pool_happy_belated_bday_85cc87be:
 translate spanish mas_bday_pool_happy_belated_bday_72ddf00b:
 
     # m 3hua "That's all that matters."
-    m 3hua "Eso es todo lo que importa."
+    m 3hua "Eso es lo único que importa."
 
 # game/script-holidays.rpy:7577
 translate spanish mas_bday_pool_happy_belated_bday_da6a69b7:
@@ -8361,7 +8361,7 @@ translate spanish mas_bday_surprise_party_reacton_cake_3e8542ec:
 translate spanish mas_bday_surprise_party_reacton_cake_4211db86:
 
     # m 6hua "But anyway..."
-    m 6hua "Pero bueno..."
+    m 6hua "En fin..."
 
 # game/script-holidays.rpy:7627
 translate spanish mas_bday_surprise_party_reacton_cake_492928b5:
@@ -8391,7 +8391,7 @@ translate spanish mas_bday_surprise_party_reaction_post_make_wish_e51dcdf7:
 translate spanish mas_bday_surprise_party_reaction_post_make_wish_bbc7223c:
 
     # m 6hub "Ahaha..."
-    m 6hub "Ja, ja, ja..."
+    m 6hub "Ja, ja, ja."
 
 # game/script-holidays.rpy:7653
 translate spanish mas_bday_surprise_party_reaction_post_make_wish_e9797be0:
@@ -8811,7 +8811,7 @@ translate spanish mas_bday_spent_time_with_wrapup_efaa1d40:
 translate spanish mas_bday_postbday_notimespent_9e3afcd5:
 
     # m 1rksdlc "Hey, [player]..."
-    m 1rksdlc "Oye, [player]..."
+    m 1rksdlc "Una cosita, [player]..."
 
 # game/script-holidays.rpy:7888
 translate spanish mas_bday_postbday_notimespent_5a5e6320:
@@ -8841,7 +8841,7 @@ translate spanish mas_bday_postbday_notimespent_ef6af241:
 translate spanish mas_bday_postbday_notimespent_c0f0889a:
 
     # m 2rksdla "Hey, [player]..."
-    m 2rksdla "Oye, [player]..."
+    m 2rksdla "Una cosita, [player]..."
 
 # game/script-holidays.rpy:7898
 translate spanish mas_bday_postbday_notimespent_c7e6a21a:
@@ -8883,7 +8883,7 @@ translate spanish mas_bday_postbday_notimespent_a61bd9f5:
 translate spanish mas_bday_postbday_notimespent_651c1129:
 
     # m 2rksdld "Hey, [player]..."
-    m 2rksdld "Oye, [player]..."
+    m 2rksdld "Una cosita, [player]..."
 
 # game/script-holidays.rpy:7908
 translate spanish mas_bday_postbday_notimespent_7a6f70c2:
@@ -8973,7 +8973,7 @@ translate spanish mas_bday_postbday_notimespent_0bd97190:
 translate spanish mas_bday_postbday_notimespent_df5cc50f:
 
     # m 1euc "Hey, [player]..."
-    m 1euc "Oye, [player]..."
+    m 1euc "Una cosita, [player]..."
 
 # game/script-holidays.rpy:7938
 translate spanish mas_bday_postbday_notimespent_90924668:
@@ -9009,7 +9009,7 @@ translate spanish mas_bday_postbday_notimespent_8ed014c8:
 translate spanish mas_bday_postbday_notimespent_32eecef0:
 
     # m 1ekc "Hey, [player]..."
-    m 1ekc "Oye, [player]..."
+    m 1ekc "Una cosita, [player]..."
 
 # game/script-holidays.rpy:7953
 translate spanish mas_bday_postbday_notimespent_89abd530:
@@ -9333,7 +9333,7 @@ translate spanish greeting_returned_home_bday_603ab50f:
 translate spanish greeting_returned_home_bday_d293697a:
 
     # m 2eksdlc "Is everything alright?"
-    m 2eksdlc "¿Está todo bien?"
+    m 2eksdlc "¿Estás bien?"
 
 # game/script-holidays.rpy:8168
 translate spanish greeting_returned_home_bday_f403fef4:
@@ -9567,7 +9567,7 @@ translate spanish greeting_returned_home_bday_606b6a2f:
 translate spanish greeting_returned_home_bday_e4249b49:
 
     # m 3eub "There we go!"
-    m 3eub "¡Ya estamos!"
+    m 3eub "¡Listo!"
 
 # game/script-holidays.rpy:8274
 translate spanish greeting_returned_home_bday_2f37f018:
@@ -9585,7 +9585,7 @@ translate spanish greeting_returned_home_bday_7a27ebb1:
 translate spanish greeting_returned_home_bday_e4249b49_1:
 
     # m 3eub "There we go!"
-    m 3eub "¡Ya estamos!"
+    m 3eub "¡Listo!"
 
 # game/script-holidays.rpy:8281
 translate spanish greeting_returned_home_bday_350bba24:

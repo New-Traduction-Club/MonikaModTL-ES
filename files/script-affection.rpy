@@ -135,7 +135,7 @@ translate spanish monika_affection_nickname_yes_1643033e_1:
 translate spanish monika_affection_nickname_yes_5daa83da:
 
     # m 2ttc "..."
-    m 2ttc "...."
+    m 2ttc "..."
 
 # game/script-affection.rpy:2884
 translate spanish monika_affection_nickname_yes_2f772035:
@@ -219,7 +219,7 @@ translate spanish monika_affection_nickname_yes_neutral_accept_19428ff1:
 translate spanish monika_affection_nickname_yes_neutral_accept_da374d45:
 
     # m 1wud "...!"
-    m 1wud "..."
+    m 1wud "¡!"
 
 # game/script-affection.rpy:2929
 translate spanish monika_affection_nickname_yes_neutral_accept_dbe70e99:
@@ -333,7 +333,7 @@ translate spanish monika_affection_nickname_yes_neutral_accept_8c3f0f0d:
 translate spanish monika_affection_nickname_yes_neutral_accept_00ad1026:
 
     # m 1ekc "Oh..."
-    m 1ekc "Ah..."
+    m 1ekc "Oh..."
 
 # game/script-affection.rpy:2972
 translate spanish monika_affection_nickname_yes_neutral_accept_d30e79af:
@@ -519,7 +519,7 @@ translate spanish mas_player_nickname_loop_name_enter_skip_loop_4769bb40:
 translate spanish mas_affection_upsetwarn_eb5d7e63:
 
     # m 1dsc "Hey, [player]..."
-    m 1dsc "Oye, [player]..."
+    m 1dsc "Una cosita, [player]..."
 
 # game/script-affection.rpy:3174
 translate spanish mas_affection_upsetwarn_020a553d:
@@ -699,7 +699,7 @@ translate spanish monika_every_rose_584ea451:
 translate spanish monika_every_rose_a5eb08f6:
 
     # m 2ekc "You know..."
-    m 2ekc "Bien sabes..."
+    m 2ekc "¿Sabes?..."
 
 # game/script-affection.rpy:3231
 translate spanish monika_every_rose_d3abef52:

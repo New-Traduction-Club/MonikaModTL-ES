@@ -75,7 +75,7 @@ translate spanish monika_haterReaction_f0531a5c:
 translate spanish monika_haterReaction_e8f0e7b6:
 
     # m 1ekd "I mean..."
-    m 1ekd "Quiero decir..."
+    m 1ekd "A ver..."
 
 # game/script-topics.rpy:6178
 translate spanish monika_haterReaction_84027f0d:
@@ -279,7 +279,7 @@ translate spanish monika_swordsmanship_a53427d5:
 translate spanish monika_pleasure_de39abd6:
 
     # m 2ekc "Hey, [player]..."
-    m 2ekc "Oye, [player]..."
+    m 2ekc "Una cosita, [player]..."
 
 # game/script-topics.rpy:6259
 translate spanish monika_pleasure_b0f2f8c1:
@@ -1185,7 +1185,7 @@ translate spanish monika_penname_3d7ebd74:
 translate spanish monika_penname_926a4c36:
 
     # m 1hua "All right!"
-    m 1hua "¡Muy bien!"
+    m 1hua "¡Genial!"
 
 # game/script-topics.rpy:6578
 translate spanish monika_penname_a4e7323c:
@@ -1605,7 +1605,7 @@ translate spanish monika_zombie_6111571a:
 translate spanish monika_zombie_7331c613:
 
     # m 1hksdlb "Ahaha..."
-    m 1hksdlb "Ja, ja, ja..."
+    m 1hksdlb "Ja, ja, ja."
 
 # game/script-topics.rpy:6748
 translate spanish monika_zombie_9280c44e:
@@ -1635,7 +1635,7 @@ translate spanish monika_zombie_06e7c6ea:
 translate spanish monika_zombie_989e23ab:
 
     # m 2lksdlb "Ahaha..."
-    m 2lksdlb "Ja, ja, ja..."
+    m 2lksdlb "Ja, ja, ja."
 
 # game/script-topics.rpy:6753
 translate spanish monika_zombie_99bd8e2e:
@@ -1905,7 +1905,7 @@ translate spanish monika_science_2f1b11eb:
 translate spanish monika_surprise_d3a284b9:
 
     # m 1rksdla "You know..."
-    m 1rksdla "Sabes..."
+    m 1rksdla "¿Sabes?..."
 
 # game/script-topics.rpy:6834
 translate spanish monika_surprise_3a23bafb:

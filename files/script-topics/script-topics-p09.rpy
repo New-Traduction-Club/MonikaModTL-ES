@@ -15,7 +15,7 @@ translate spanish monika_surprise_ff7177e0:
 translate spanish monika_surprise_0d527817_1:
 
     # m 1hua "Alright!"
-    m 1hua "¡Vale!"
+    m 1hua "¡Muy bien!"
 
 # game/script-topics.rpy:6861
 translate spanish monika_surprise_8ce390fd_1:
@@ -861,7 +861,7 @@ translate spanish monika_adventure_8c233968:
 translate spanish monika_panties_05076889:
 
     # m 1lsc "Hey, [player]..."
-    m 1lsc "Oye, [player]..."
+    m 1lsc "Una cosita, [player]..."
 
 # game/script-topics.rpy:7238
 translate spanish monika_panties_a059ea6b:
@@ -1089,7 +1089,7 @@ translate spanish monika_panties_8c713718:
 translate spanish monika_panties_ce66895f:
 
     # m 1lsbsa "Besides..."
-    m 1lsbsa "Además..."
+    m 1lsbsa "Además...,"
 
 # game/script-topics.rpy:7279
 translate spanish monika_panties_17862ff3:
@@ -1191,7 +1191,7 @@ translate spanish monika_panties_8470c163:
 translate spanish monika_panties_477f8d03:
 
     # m 4hubsb "Ahaha~"
-    m 4hubsb "Ja, ja, ja..."
+    m 4hubsb "Ja, ja, ja."
 
 # game/script-topics.rpy:7308
 translate spanish monika_panties_b8091823:

@@ -375,7 +375,7 @@ translate spanish monika_social_norms_de72e965:
 translate spanish monika_intrusive_thoughts_52867f2b:
 
     # m 1rsc "Hey, [player]..."
-    m 1rsc "Oye, [player]..."
+    m 1rsc "Una cosita, [player]..."
 
 # game/script-topics.rpy:15842
 translate spanish monika_intrusive_thoughts_a388020a:
@@ -1143,7 +1143,7 @@ translate spanish monika_multi_perspective_approach_a1e907f9:
 translate spanish monika_allegory_of_the_cave_465c7ee6:
 
     # m 1eua "Hey, [player]..."
-    m 1eua "Oye, [player]..."
+    m 1eua "Una cosita, [player]..."
 
 # game/script-topics.rpy:16133
 translate spanish monika_allegory_of_the_cave_64911c81:

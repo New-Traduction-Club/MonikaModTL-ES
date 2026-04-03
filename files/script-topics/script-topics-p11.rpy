@@ -51,7 +51,7 @@ translate spanish monika_orchestra_19428ff1:
 translate spanish monika_orchestra_no_choice_01254815:
 
     # m 1euc "I see..."
-    m 1euc "Ya veo..."
+    m 1euc "Entiendo..."
 
 # game/script-topics.rpy:8281
 translate spanish monika_orchestra_no_choice_fed30d4d:
@@ -159,7 +159,7 @@ translate spanish monika_jazz_d11137a4:
 translate spanish monika_jazz_065a9dac:
 
     # m 1eua "I see."
-    m 1eua "Ya veo."
+    m 1eua "Entiendo."
 
 # game/script-topics.rpy:8343
 translate spanish monika_jazz_fa28877b:
@@ -405,19 +405,19 @@ translate spanish monika_otaku_e73988df:
 translate spanish monika_writingtip1_43c249d2:
 
     # m 1esa "You know, it's been a while since we've done one of these..."
-    m 1esa "Sabes, hace un tiempo que no hacemos uno de estos..."
+    m 1esa "Hace mucho que no hacemos nada semejante, así que..."
 
 # game/script-topics.rpy:8434
 translate spanish monika_writingtip1_07814128:
 
     # m 1hub "...so let's go for it!"
-    m 1hub "... ¡así que vamos a ello!"
+    m 1hub "¡vamos allá!"
 
 # game/script-topics.rpy:8435
 translate spanish monika_writingtip1_6c1cb6d0:
 
     # m 3hub "Here's Monika's Writing Tip of the Day!"
-    m 3hub "¡Aquí tienes el consejo de escritura del día de Monika!"
+    m 3hub "¡Aquí va el consejo poemil del día!"
 
 # game/script-topics.rpy:8436
 translate spanish monika_writingtip1_e5930a61:
@@ -429,133 +429,133 @@ translate spanish monika_writingtip1_e5930a61:
 translate spanish monika_writingtip1_1787c7b1:
 
     # m 1ekc "It's really depressing, you know?"
-    m 1ekc "Es muy deprimente, ¿sabes?"
+    m 1ekc "Es bastante deprimente, ¿sabes?"
 
 # game/script-topics.rpy:8438
 translate spanish monika_writingtip1_97639aea:
 
     # m 1ekd "As someone who loves more than anything else to share the joy of exploring your passions..."
-    m 1ekd "Como alguien a quien le gusta más que nada compartir la alegría de explorar tus pasiones..."
+    m 1ekd "Adoro compartir el gozo de explorar tus pasiones más que nada en el mundo."
 
 # game/script-topics.rpy:8439
 translate spanish monika_writingtip1_fb1f4470:
 
     # m 3ekd "...it pains me when people think that being good just comes naturally."
-    m 3ekd "... me duele cuando la gente piensa que ser bueno es algo natural."
+    m 3ekd "Por tanto, me duele que la gente piense que el talento depende del azar."
 
 # game/script-topics.rpy:8440
 translate spanish monika_writingtip1_d09f8775:
 
     # m 3eka "That's how it is with everything, not just writing."
-    m 3eka "Así pasa con todo, no solo con la escritura."
+    m 3eka "Así funciona con todo, no solo con la escritura."
 
 # game/script-topics.rpy:8441
 translate spanish monika_writingtip1_cebbdfcc:
 
     # m 1eua "When you try something for the first time, you're probably going to suck at it."
-    m 1eua "Cuando intentas algo por primera vez, probablemente se te dé fatal."
+    m 1eua "Cuando pruebas algo por primera vez, es normal que te salga una mierda."
 
 # game/script-topics.rpy:8442
 translate spanish monika_writingtip1_0995b6f8:
 
     # m "Sometimes, when you finish, you feel really proud of it and even want to share it with everyone."
-    m "A veces, cuando terminas, te sientes muy orgullos[end_letter_gender] y hasta quieres compartirlo con todo el mundo."
+    m "A veces, cuando terminas, estás superorgulloso y quieres compartirlo con todo el mundo."
 
 # game/script-topics.rpy:8443
 translate spanish monika_writingtip1_6d8eacbd:
 
     # m 3eksdld "But maybe after a few weeks you come back to it, and you realize it was never really any good."
-    m 3eksdld "Pero quizá, después de unas semanas vuelves a verlo y te das cuenta de que en realidad nunca fue tan bueno."
+    m 3eksdld "Pero, pocas semanas después, lo ves de nuevo y te das cuenta de que nunca fue bueno."
 
 # game/script-topics.rpy:8444
 translate spanish monika_writingtip1_abe38405:
 
     # m 3eksdla "That happens to me all the time."
-    m 3eksdla "Eso me pasa a mí todo el tiempo."
+    m 3eksdla "Me pasa constantemente."
 
 # game/script-topics.rpy:8445
 translate spanish monika_writingtip1_aea05e68:
 
     # m "It can be pretty disheartening to put so much time and effort into something, and then you realize it sucks."
-    m "Puede ser bastante desalentador dedicarle tanto tiempo y esfuerzo a algo y luego darte cuenta de que es una basura."
+    m "Invertir tanto tiempo y esfuerzo en algo que resulta ser terrible es bastante desalentador."
 
 # game/script-topics.rpy:8446
 translate spanish monika_writingtip1_4783cdf6:
 
     # m 4eub "But that tends to happen when you're always comparing yourself to the top professionals."
-    m 4eub "Pero eso suele pasar cuando siempre te comparas con los mejores profesionales."
+    m 4eub "Pero es lo normal cuando no paras de compararte con los mejores profesionales."
 
 # game/script-topics.rpy:8447
 translate spanish monika_writingtip1_1b22afdb:
 
     # m 4eka "When you reach right for the stars, they're always gonna be out of your reach, you know?"
-    m 4eka "Cuando intentas alcanzar las estrellas directamente, siempre van a estar fuera de tu alcance, ¿sabes?"
+    m 4eka "Cuando apuntas alto, acabas dándote cuenta de que el cielo no tiene límites, ¿verdad?"
 
 # game/script-topics.rpy:8448
 translate spanish monika_writingtip1_c1a64157:
 
     # m "The truth is, you have to climb up there, step by step."
-    m "La verdad es que tienes que subir hasta allí, paso a paso."
+    m "La clave está en escalar poco a poco, pasito a pasito."
 
 # game/script-topics.rpy:8449
 translate spanish monika_writingtip1_c4e8614a:
 
     # m 4eua "And whenever you reach a milestone, first you look back and see how far you've gotten..."
-    m 4eua "Y cada vez que alcanzas un hito, primero miras atrás y ves lo lejos que has llegado..."
+    m 4eua "Después, cuando alcanzas una meta, mirás atrás y te das cuenta de lo lejos que has llegado..."
 
 # game/script-topics.rpy:8450
 translate spanish monika_writingtip1_66d3aa1e:
 
     # m "And then you look ahead and realize how much more there is to go."
-    m "Y luego miras hacia adelante y te das cuenta de cuánto te queda por recorrer."
+    m "Pero, luego, miras al frente y ves el enorme trecho que te queda por delante."
 
 # game/script-topics.rpy:8451
 translate spanish monika_writingtip1_88b1dd2e:
 
     # m 2duu "So, sometimes it can help to set the bar a little lower..."
-    m 2duu "Así que, a veces puede ayudar poner el listón un poco más bajo..."
+    m 2duu "En ocasiones, es bueno ponerse metas más humildes."
 
 # game/script-topics.rpy:8452
 translate spanish monika_writingtip1_21c511c1:
 
     # m 1eua "Try to find something you think is {i}pretty{/i} good, but not world-class."
-    m 1eua "Intenta buscar algo que creas que está bastante bien, pero que no sea de talla mundial."
+    m 1eua "Buscar algo que creas que se te dé bien aunque no seas un experto en ello."
 
 # game/script-topics.rpy:8453
 translate spanish monika_writingtip1_752b2373:
 
     # m "And you can make that your own personal goal."
-    m "Y puedes convertir eso en tu propia meta personal."
+    m "Y puedes convertirlo en tu objetivo personal."
 
 # game/script-topics.rpy:8454
 translate spanish monika_writingtip1_9ad4c041:
 
     # m 3eud "It's also really important to understand the scope of what you're trying to do."
-    m 3eud "También es muy importante entender el alcance de lo que intentas hacer."
+    m 3eud "También es muy importante ser consciente del tamaño de aquello que intentas emprender."
 
 # game/script-topics.rpy:8455
 translate spanish monika_writingtip1_26f7acae:
 
     # m 4eka "If you jump right into a huge project and you're still amateur, you'll never get it done."
-    m 4eka "Si te lanzas directamente a un proyecto enorme y aún eres principiante, nunca lo terminarás."
+    m 4eka "Si te embarcas en un proyecto gigantesco cuando aún eres un novato, nunca conseguirás acabarlo."
 
 # game/script-topics.rpy:8456
 translate spanish monika_writingtip1_351d4d98:
 
     # m "So if we're talking about writing, a novel might be too much at first."
-    m "Así que si hablamos de escribir, una novela puede ser demasiado al principio."
+    m "En lo que a escritura se refiere, una novela puede resultar excesiva."
 
 # game/script-topics.rpy:8457
 translate spanish monika_writingtip1_8ed336ac:
 
     # m 4esa "Why not try some short stories?"
-    m 4esa "¿Por qué no pruebas con algunos relatos cortos?"
+    m 4esa "Así que... ¿por qué no empezar con historias cortas?"
 
 # game/script-topics.rpy:8458
 translate spanish monika_writingtip1_ba6988ac:
 
     # m 1esa "The great thing about short stories is that you can focus on just one thing that you want to do right."
-    m 1esa "Lo bueno de los relatos cortos es que puedes centrarte en una sola cosa que quieras hacer bien."
+    m 1esa "Lo bueno que tienen es que puedes concentrarte en un solo aspecto que quieras hacer bien."
 
 # game/script-topics.rpy:8459
 translate spanish monika_writingtip1_13290c07:
@@ -567,85 +567,85 @@ translate spanish monika_writingtip1_13290c07:
 translate spanish monika_writingtip1_d1ebfc39:
 
     # m 3esa "It's such a good learning experience and stepping stone."
-    m 3esa "Es una experiencia de aprendizaje y un trampolín buenísimo."
+    m 3esa "Son perfectos como método de aprendizaje y como trampolín."
 
 # game/script-topics.rpy:8461
 translate spanish monika_writingtip1_200ec157:
 
     # m 1euc "Oh, one more thing..."
-    m 1euc "Ah, una cosa más..."
+    m 1euc "Ah, y una cosa más..."
 
 # game/script-topics.rpy:8462
 translate spanish monika_writingtip1_78344ccc:
 
     # m 1eua "Writing isn't something where you just reach into your heart and something beautiful comes out."
-    m 1eua "Escribir no consiste simplemente en rebuscar en tu corazón para que salga algo hermoso."
+    m 1eua "A la hora de escribir, no basta con abrir tu corazón para que te salga algo bonito."
 
 # game/script-topics.rpy:8463
 translate spanish monika_writingtip1_ba0d7073:
 
     # m 3esa "Just like drawing and painting, it's a skill in itself to learn how to express what you have inside."
-    m 3esa "Al igual que dibujar y pintar, es una habilidad en sí misma aprender a expresar lo que llevas dentro."
+    m 3esa "Como en el dibujo y en la escritura, aprender a expresar lo que tienes en mente es una habilidad en sí misma."
 
 # game/script-topics.rpy:8464
 translate spanish monika_writingtip1_0195150c:
 
     # m 1hua "That means there are methods and guides and basics to it!"
-    m 1hua "¡Eso significa que hay métodos, guías y fundamentos para ello!"
+    m 1hua "¡Lo que significa que existen métodos, guías y consejos sobre el tema!"
 
 # game/script-topics.rpy:8465
 translate spanish monika_writingtip1_fce0bf66:
 
     # m 3eua "Reading up on that stuff can be super eye-opening."
-    m 3eua "Leer sobre ese tema puede abrirte mucho los ojos."
+    m 3eua "Leérselos puede ser la mar de revelador."
 
 # game/script-topics.rpy:8466
 translate spanish monika_writingtip1_0bb16dc8:
 
     # m 1eua "That sort of planning and organization will really help prevent you from getting overwhelmed and giving up."
-    m 1eua "Ese tipo de planificación y organización realmente te ayudará a evitar agobiarte y rendirte."
+    m 1eua "La planificación y la organización evitarán que te resulte abrumador y acabes abandonando."
 
 # game/script-topics.rpy:8467
 translate spanish monika_writingtip1_60ad9661:
 
     # m 3esa "And before you know it..."
-    m 3esa "Y antes de que te des cuenta..."
+    m 3esa "Y, antes de que te des cuenta...,"
 
 # game/script-topics.rpy:8468
 translate spanish monika_writingtip1_04a00405:
 
     # m 1hua "You start sucking less and less."
-    m 1hua "Empieza a dársete cada vez menos mal."
+    m 1hua "resulta que eres un poquito mejor."
 
 # game/script-topics.rpy:8469
 translate spanish monika_writingtip1_812bd16d:
 
     # m 1esa "Nothing comes naturally."
-    m 1esa "Nada surge de forma natural."
+    m 1esa "Nada se consigue por inspiración divina."
 
 # game/script-topics.rpy:8470
 translate spanish monika_writingtip1_051b94aa:
 
     # m 1eua "Our society, our art, everything - it's built on thousands of years of human innovation."
-    m 1eua "Nuestra sociedad, nuestro arte, todo, está construido sobre miles de años de innovación humana."
+    m 1eua "La sociedad, el arte... Todo se ha construido sobre miles de años de innovación humana."
 
 # game/script-topics.rpy:8471
 translate spanish monika_writingtip1_9741114b:
 
     # m 1eka "So as long as you start on that foundation, and take it step by step..."
-    m 1eka "Así que mientras empieces desde esa base y vayas paso a paso..."
+    m 1eka "En otras palabras, mientras tomes eso como base y avances paso a paso...,"
 
 # game/script-topics.rpy:8472
 translate spanish monika_writingtip1_500c8164:
 
     # m 1eua "You, too, can do amazing things."
-    m 1eua "Tú también puedes hacer cosas increíbles."
+    m 1eua "tú también conseguirás grandes logros."
 
 # game/script-topics.rpy:8473
 translate spanish monika_writingtip1_b1993c5b:
 
     # m 1hua "...That's my advice for today!"
-    m 1hua "¡Ese es mi consejo por hoy!"
+    m 1hua "¡Ese es mi consejo de hoy!"
 
 # game/script-topics.rpy:8474
 translate spanish monika_writingtip1_253e37c1:
@@ -657,7 +657,7 @@ translate spanish monika_writingtip1_253e37c1:
 translate spanish monika_writingtip2_bf20dc04:
 
     # m 1euc "You know..."
-    m 1euc "Sabes..."
+    m 1euc "¿Sabes?..."
 
 # game/script-topics.rpy:8495
 translate spanish monika_writingtip2_720b7bcc:
@@ -669,7 +669,7 @@ translate spanish monika_writingtip2_720b7bcc:
 translate spanish monika_writingtip2_6c1cb6d0:
 
     # m 3hub "Here's Monika's Writing Tip of the Day!"
-    m 3hub "¡Aquí tienes el consejo de escritura del día de Monika!"
+    m 3hub "¡Aquí va el consejo poemil del día!"
 
 # game/script-topics.rpy:8497
 translate spanish monika_writingtip2_f19d1eb5:
@@ -783,7 +783,7 @@ translate spanish monika_writingtip2_b8619423:
 translate spanish monika_writingtip2_018b6ddf:
 
     # m 3hub "...That's my advice for today!"
-    m 3hub "... ¡Ese es mi consejo por hoy!"
+    m 3hub "¡Ese es mi consejo de hoy!"
 
 # game/script-topics.rpy:8516
 translate spanish monika_writingtip2_34cf8feb:
@@ -801,7 +801,7 @@ translate spanish monika_writingtip3_a1b539bf:
 translate spanish monika_writingtip3_6c1cb6d0:
 
     # m 3hub "Here's Monika's Writing Tip of the Day!"
-    m 3hub "¡Aquí tienes el consejo de escritura del día de Monika!"
+    m 3hub "¡Aquí va el consejo poemil del día!"
 
 # game/script-topics.rpy:8538
 translate spanish monika_writingtip3_d07c39e9:
@@ -897,7 +897,7 @@ translate spanish monika_writingtip3_e29a7183:
 translate spanish monika_writingtip3_cc3e5c43:
 
     # m 3hua "...That's my advice for today!"
-    m 3hua "... ¡Ese es mi consejo por hoy!"
+    m 3hua "¡Ese es mi consejo de hoy!"
 
 # game/script-topics.rpy:8554
 translate spanish monika_writingtip3_253e37c1:
@@ -909,7 +909,7 @@ translate spanish monika_writingtip3_253e37c1:
 translate spanish monika_writingtip4_6c1cb6d0:
 
     # m 3hub "Here's Monika's Writing Tip of the Day!"
-    m 3hub "¡Aquí tienes el consejo de escritura del día de Monika!"
+    m 3hub "¡Aquí va el consejo poemil del día!"
 
 # game/script-topics.rpy:8575
 translate spanish monika_writingtip4_bf262587:
@@ -993,7 +993,7 @@ translate spanish monika_writingtip4_1cac37a4:
 translate spanish monika_writingtip4_cc3e5c43:
 
     # m 3hua "...That's my advice for today!"
-    m 3hua "... ¡Ese es mi consejo por hoy!"
+    m 3hua "¡Ese es mi consejo de hoy!"
 
 # game/script-topics.rpy:8589
 translate spanish monika_writingtip4_253e37c1:
@@ -1005,7 +1005,7 @@ translate spanish monika_writingtip4_253e37c1:
 translate spanish monika_writingtip5_6c1cb6d0:
 
     # m 3hub "Here's Monika's Writing Tip of the Day!"
-    m 3hub "¡Aquí tienes el consejo de escritura del día de Monika!"
+    m 3hub "¡Aquí va el consejo poemil del día!"
 
 # game/script-topics.rpy:8610
 translate spanish monika_writingtip5_1e401232:
@@ -1167,7 +1167,7 @@ translate spanish monika_writingtip6_253e37c1:
 translate spanish monika_selfharm_031134e3:
 
     # m 1lksdlc "Hey, [player]..."
-    m 1lksdlc "Oye, [player]..."
+    m 1lksdlc "Una cosita, [player]..."
 
 # game/script-topics.rpy:8668
 translate spanish monika_selfharm_beb9ca32:
@@ -1179,7 +1179,7 @@ translate spanish monika_selfharm_beb9ca32:
 translate spanish monika_selfharm_cd5f107f:
 
     # m 2lksdld "You know..."
-    m 2lksdld "Ya sabes..."
+    m 2lksdld "¿Sabes?..."
 
 # game/script-topics.rpy:8670
 translate spanish monika_selfharm_85c46129:
@@ -1809,7 +1809,7 @@ translate spanish monika_how_soon_47fb655b:
 translate spanish monika_how_soon_39fa6376:
 
     # m 1lksdlc "I see."
-    m 1lksdlc "Ya veo."
+    m 1lksdlc "Entiendo."
 
 # game/script-topics.rpy:8835
 translate spanish monika_how_soon_6111571a_1:

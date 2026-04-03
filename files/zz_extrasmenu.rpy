@@ -51,7 +51,7 @@ translate spanish mas_extra_menu_zoom_out_first_time_e75cb38e:
 translate spanish mas_extra_menu_zoom_out_first_time_19428ff1:
 
     # m 1hua "Ehehe~"
-    m 1hua "Je, je."
+    m 1hua "Je, je, je."
 
 # game/zz_extrasmenu.rpy:215
 translate spanish mas_extra_menu_zoom_in_first_time_8be0e713:

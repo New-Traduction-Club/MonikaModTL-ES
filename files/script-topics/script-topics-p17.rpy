@@ -99,7 +99,7 @@ translate spanish monika_justice_22a5df9f:
 translate spanish monika_justice_d59214c9:
 
     # m 2rksdlc "Oh..."
-    m 2rksdlc "Ah..."
+    m 2rksdlc "Oh..."
 
 # game/script-topics.rpy:12408
 translate spanish monika_justice_5986d097:
@@ -615,7 +615,7 @@ translate spanish monika_pygmalion_8f7138cc:
 translate spanish monika_pygmalion_71b6b7dc:
 
     # m 2rubfu "Ehehe."
-    m 2rubfu "Je, je, je."
+    m 2rubfu "Je, je."
 
 # game/script-topics.rpy:12576
 translate spanish monika_pygmalion_3c913233:
@@ -975,7 +975,7 @@ translate spanish monika_vehicle_fef01014:
 translate spanish monika_vehicle_000e2e86:
 
     # m 1eua "What about you?"
-    m 1eua "¿Y tú?"
+    m 1eua "¿Y qué hay de ti?"
 
 # game/script-topics.rpy:12708
 translate spanish monika_vehicle_240f631a:
@@ -1041,7 +1041,7 @@ translate spanish monika_vehicle_0b61291c:
 translate spanish monika_vehicle_88ef4f59:
 
     # m 3eua "Speaking of which..."
-    m 3eua "Hablando de eso..."
+    m 3eua "Por cierto..."
 
 # game/script-topics.rpy:12750
 translate spanish monika_vehicle_ec1cc73c:
@@ -1743,7 +1743,7 @@ translate spanish monika_player_appearance_61de5baf:
 translate spanish monika_player_appearance_9032299f:
 
     # extend 2hub "Ahaha~"
-    extend 2hub "¡Ja, ja, ja!"
+    extend 2hub "Ja, ja, ja."
 
 # game/script-topics.rpy:13098
 translate spanish monika_player_appearance_eb1a0333:

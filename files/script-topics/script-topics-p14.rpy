@@ -9,7 +9,7 @@ translate spanish monika_prom_417a24b4:
 translate spanish monika_prom_a375c986:
 
     # m 1eka "And besides..."
-    m 1eka "Y además..."
+    m 1eka "Y además...,"
 
 # game/script-topics.rpy:10288
 translate spanish monika_prom_8ad4e397:
@@ -33,7 +33,7 @@ translate spanish monika_prom_3772217d_2:
 translate spanish monika_prom_9e9a34e5:
 
     # m 3euc "Really?"
-    m 3euc "¿De verdad?"
+    m 3euc "¿En serio?"
 
 # game/script-topics.rpy:10295
 translate spanish monika_prom_ddd3bcd4:
@@ -609,7 +609,7 @@ translate spanish monika_timeconcern_night_1_3d0be195:
 translate spanish monika_timeconcern_night_1_08dbe3a2:
 
     # m 1eud "I see."
-    m 1eud "Ya veo."
+    m 1eud "Entiendo."
 
 # game/script-topics.rpy:10543
 translate spanish monika_timeconcern_night_1_769f5c28:
@@ -705,7 +705,7 @@ translate spanish monika_timeconcern_night_1_df2fb95a:
 translate spanish monika_timeconcern_night_1_03382aed:
 
     # m 1esc "I see."
-    m 1esc "Ya veo."
+    m 1esc "Entiendo."
 
 # game/script-topics.rpy:10571
 translate spanish monika_timeconcern_night_1_af60ecf2:
@@ -1227,7 +1227,7 @@ translate spanish monika_timeconcern_day_0_7055b071:
 translate spanish monika_timeconcern_day_0_f307030b:
 
     # m 1wuo "...!"
-    m 1wuo "...!"
+    m 1wuo "¡!"
 
 # game/script-topics.rpy:10729
 translate spanish monika_timeconcern_day_0_42d02f63:
@@ -1527,7 +1527,7 @@ translate spanish monika_timeconcern_disallow_2850b6c1:
 translate spanish monika_hydration_df5cc50f:
 
     # m 1euc "Hey, [player]..."
-    m 1euc "Oye, [player]..."
+    m 1euc "Una cosita, [player]..."
 
 # game/script-topics.rpy:10816
 translate spanish monika_hydration_1c7c32e8:
@@ -1587,7 +1587,7 @@ translate spanish monika_hydration_a94ef445:
 translate spanish monika_hydration_5dac9eed:
 
     # m 1tuu "So..."
-    m 1tuu "Así que..."
+    m 1tuu "Pues..."
 
 # game/script-topics.rpy:10826
 translate spanish monika_hydration_3f6a1994:
@@ -1599,7 +1599,7 @@ translate spanish monika_hydration_3f6a1994:
 translate spanish monika_amusementpark_465c7ee6:
 
     # m 1eua "Hey, [player]..."
-    m 1eua "Oye, [player]..."
+    m 1eua "Una cosita, [player]..."
 
 # game/script-topics.rpy:10841
 translate spanish monika_amusementpark_4f15e92f:
@@ -1989,7 +1989,7 @@ translate spanish monika_dating_9096b2d3:
 translate spanish monika_dating_b0c89130:
 
     # m 5ekbfa "Are you ready?"
-    m 5ekbfa "¿Estás list[end_letter_gender]?"
+    m 5ekbfa "¿estáis listos?"
 
 # game/script-topics.rpy:11005
 translate spanish monika_dating_3732def8:

@@ -1011,7 +1011,7 @@ translate spanish monika_curse_words_d7c226d5:
 translate spanish monika_curse_words_6be20dcc:
 
     # m 1euc "I see."
-    m 1euc "Ya veo."
+    m 1euc "Entiendo."
 
 # game/script-topics.rpy:18102
 translate spanish monika_curse_words_2ea0815a:

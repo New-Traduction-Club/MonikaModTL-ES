@@ -351,7 +351,7 @@ translate spanish monika_asks_family_5ea3178c:
 translate spanish monika_asks_family_c32dbf06:
 
     # m 1lsc "Then again..."
-    m 1lsc "Aunque claro..."
+    m 1lsc "Pensándolo bien..."
 
 # game/script-topics.rpy:9716
 translate spanish monika_asks_family_26c29470:
@@ -819,7 +819,7 @@ translate spanish monika_beach_38171b90:
 translate spanish monika_beach_ffa7927b:
 
     # m 1hub "That's great!"
-    m 1hub "¡Qué bien!"
+    m 1hub "¡Fantástico!"
 
 # game/script-topics.rpy:9936
 translate spanish monika_beach_da79eff1:
@@ -1557,7 +1557,7 @@ translate spanish monika_timetravel_8b187193:
 translate spanish monika_timetravel_252f3573:
 
     # m "So..."
-    m "Entonces..."
+    m "Pues..."
 
 # game/script-topics.rpy:10149
 translate spanish monika_timetravel_b5c3b741:
@@ -1683,7 +1683,7 @@ translate spanish monika_timetravel_8a821fc9:
 translate spanish monika_prom_bf20dc04:
 
     # m 1euc "You know..."
-    m 1euc "Sabes..."
+    m 1euc "¿Sabes?..."
 
 # game/script-topics.rpy:10205
 translate spanish monika_prom_23ccd856:
@@ -1797,7 +1797,7 @@ translate spanish monika_prom_1aabdcab:
 translate spanish monika_prom_f8a3a9a7:
 
     # m 1hua "That's great!"
-    m 1hua "¡Qué bien!"
+    m 1hua "¡Fantástico!"
 
 # game/script-topics.rpy:10233
 translate spanish monika_prom_260640bf:
@@ -1827,7 +1827,7 @@ translate spanish monika_prom_695b195d:
 translate spanish monika_prom_99181cd2:
 
     # m 1euc "Oh, wow."
-    m 1euc "Ah, vaya."
+    m 1euc "Caramba."
 
 # game/script-topics.rpy:10242
 translate spanish monika_prom_92099f26:

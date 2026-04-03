@@ -3,7 +3,7 @@
 translate spanish mas_dockstat_ready_to_go_71510bb3:
 
     # m "Alright."
-    m "Muy bien."
+    m "De acuerdo."
 
 # game/zz_dockingstation.rpy:2136
 translate spanish mas_dockstat_first_time_goers_a2d4a9c4:
@@ -63,7 +63,7 @@ translate spanish mas_dockstat_generic_iowait_e71a1fd6:
 translate spanish mas_dockstat_generic_wait_label_0d1042aa:
 
     # m "What is it?" nointeract
-    m "¿Qué pasa?" nointeract
+    m "¿Qué es?" nointeract
 
 # game/zz_dockingstation.rpy:2484
 translate spanish mas_dockstat_generic_wait_label_1c1d8caa:
@@ -81,7 +81,7 @@ translate spanish mas_dockstat_generic_rtg_05fd4282:
 translate spanish mas_dockstat_generic_rtg_2cb63058:
 
     # m 1ekc "Oh no..."
-    m 1ekc "Ah, no..."
+    m 1ekc "Oh, no..."
 
 # game/zz_dockingstation.rpy:2512
 translate spanish mas_dockstat_generic_rtg_ebefb5a0:
@@ -165,7 +165,7 @@ translate spanish mas_dockstat_generic_cancelled_still_going_ask_53acdc5c:
 translate spanish mas_dockstat_generic_cancelled_still_going_ask_26233271:
 
     # m 2tfd "...Fine."
-    m 2tfd "... Vale."
+    m 2tfd "Vale..."
 
 # game/zz_dockingstation.rpy:2567
 translate spanish mas_dockstat_generic_cancelled_still_going_ask_4edac8b9:

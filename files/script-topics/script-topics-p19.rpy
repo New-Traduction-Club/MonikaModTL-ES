@@ -3,7 +3,7 @@
 translate spanish monika_player_read_poetry_f3814ba7:
 
     # m 1sub "Really?"
-    m 1sub "¿De verdad?"
+    m 1sub "¿En serio?"
 
 # game/script-topics.rpy:14221
 translate spanish monika_player_read_poetry_9a4ecfb8:
@@ -1251,7 +1251,7 @@ translate spanish monika_hemispheres_75b657de:
 translate spanish monika_hemispheres_e4d4f59d:
 
     # m 2eka "But anyway..."
-    m 2eka "Pero bueno..."
+    m 2eka "En fin..."
 
 # game/script-topics.rpy:14803
 translate spanish monika_hemispheres_76b1441b:
@@ -1773,7 +1773,7 @@ translate spanish monika_robotbody_4fd594ac:
 translate spanish monika_robotbody_e6f89ce6:
 
     # m 1hub "Ahaha~"
-    m 1hub "¡Ja, ja, ja!"
+    m 1hub "Ja, ja, ja."
 
 # game/script-topics.rpy:15007
 translate spanish monika_robotbody_24109219:

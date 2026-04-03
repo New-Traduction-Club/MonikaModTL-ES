@@ -891,7 +891,7 @@ translate spanish mas_story_genie_regret_2c2d8871:
 translate spanish mas_story_genie_regret_f5f6e5ea:
 
     # m 1eka "As for me..."
-    m 1eka "En cuanto a mí..."
+    m 1eka "En mi caso...,"
 
 # game/script-stories.rpy:673
 translate spanish mas_story_genie_regret_70862105:
@@ -1203,7 +1203,7 @@ translate spanish mas_story_immortal_love_51852155:
 translate spanish mas_story_immortal_love_af5f8adf:
 
     # m 1hua "Thanks for listening~"
-    m 1hua "Gracias por escuchar."
+    m 1hua "Gracias por escucharme."
 
 # game/script-stories.rpy:778
 translate spanish mas_story_mother_and_trees_4a56f05b:
@@ -4791,7 +4791,7 @@ translate spanish mas_scary_story_prison_escape_bab84b35:
 translate spanish mas_scary_story_prison_escape_f1d1d45b:
 
     # m 2wusdld "...!"
-    m 2wusdld "¡...!"
+    m 2wusdld "¡!"
 
 # game/script-stories.rpy:1920
 translate spanish mas_scary_story_prison_escape_c01b3923:

@@ -591,7 +591,7 @@ translate spanish bye_prompt_sleep_goodnight_kiss_4644c309:
 translate spanish bye_prompt_sleep_goodnight_kiss_c6afba82:
 
     # m 7dkd "Fine..."
-    m 7dkd "Bien..."
+    m 7dkd "Está bien..."
 
 # game/script-farewells.rpy:829
 translate spanish bye_prompt_sleep_goodnight_kiss_223eb706:
@@ -735,7 +735,7 @@ translate spanish bye_enjoyyourafternoon_0bd97190:
 translate spanish bye_goodevening_8266c833:
 
     # m 1hua "I had fun today."
-    m 1hua "Me lo he pasado muy bien hoy."
+    m 1hua "Me lo he pasado muy bien."
 
 # game/script-farewells.rpy:954
 translate spanish bye_goodevening_13072766:
@@ -807,7 +807,7 @@ translate spanish bye_goodnight_5b711001:
 translate spanish bye_goodnight_bc018cc2:
 
     # m 1eka "I'll see you tomorrow, okay?"
-    m 1eka "Nos vemos mañana, ¿vale?"
+    m 1eka "Mañana nos vemos, ¿vale?"
 
 # game/script-farewells.rpy:1002
 translate spanish bye_goodnight_435d44e4:
@@ -981,7 +981,7 @@ translate spanish bye_long_absence_c419f5a0:
 translate spanish bye_long_absence_c106db43:
 
     # m 1esc "Oh..."
-    m 1esc "Ah..."
+    m 1esc "Oh..."
 
 # game/script-farewells.rpy:1073
 translate spanish bye_long_absence_34d34313:
@@ -1257,7 +1257,7 @@ translate spanish bye_long_absence_4e589e9f:
 translate spanish bye_long_absence_a228faf3:
 
     # m 3ekc "I see..."
-    m 3ekc "Ya veo..."
+    m 3ekc "Entiendo..."
 
 # game/script-farewells.rpy:1139
 translate spanish bye_long_absence_f89d87ec:
@@ -1287,7 +1287,7 @@ translate spanish bye_long_absence_5787a288:
 translate spanish bye_long_absence_f8a3a9a7:
 
     # m 1hua "That's great!"
-    m 1hua "¡Eso es genial!"
+    m 1hua "¡Fantástico!"
 
 # game/script-farewells.rpy:1148
 translate spanish bye_long_absence_e933c0fc:
@@ -1425,13 +1425,13 @@ translate spanish bye_going_somewhere_normalplus_flow_aff_check_5e17b156:
 translate spanish bye_going_somewhere_normalplus_flow_aff_check_2cce676c:
 
     # m 1hua "I can't wait!"
-    m 1hua "¡Qué ganas tengo!"
+    m 1hua "¡Qué ganas!"
 
 # game/script-farewells.rpy:1271
 translate spanish bye_going_somewhere_normalplus_flow_aff_check_f3814ba7:
 
     # m 1sub "Really?"
-    m 1sub "¿De verdad?"
+    m 1sub "¿En serio?"
 
 # game/script-farewells.rpy:1272
 translate spanish bye_going_somewhere_normalplus_flow_aff_check_1b71b2b4:
@@ -1461,7 +1461,7 @@ translate spanish bye_going_somewhere_nothanks_40e42986:
 translate spanish bye_going_somewhere_nothanks_fc75572d:
 
     # m 2eka "You understand, right?"
-    m 2eka "Lo entiendes, ¿verdad?"
+    m 2eka "Me entiendes, ¿no?"
 
 # game/script-farewells.rpy:1281
 translate spanish bye_going_somewhere_nothanks_461d5829:
@@ -1533,7 +1533,7 @@ translate spanish bye_going_somewhere_leavemenu_53acdc5c:
 translate spanish bye_going_somewhere_leavemenu_26233271:
 
     # m 2tfd "...Fine."
-    m 2tfd "... Vale."
+    m 2tfd "Vale..."
 
 # game/script-farewells.rpy:1317
 translate spanish bye_going_somewhere_leavemenu_4edac8b9:
@@ -1587,7 +1587,7 @@ translate spanish bye_prompt_game_a5d66be2:
 translate spanish bye_prompt_game_be48e08f:
 
     # m 3sub "Really?"
-    m 3sub "¿De verdad?"
+    m 3sub "¿En serio?"
 
 # game/script-farewells.rpy:1354
 translate spanish bye_prompt_game_22048cc1:
@@ -1899,7 +1899,7 @@ translate spanish bye_prompt_housework_79512b41:
 translate spanish bye_prompt_housework_e6b4c855:
 
     # m 6ekc "I see..."
-    m 6ekc "Ya veo..."
+    m 6ekc "Entiendo..."
 
 # game/script-farewells.rpy:1707
 translate spanish bye_prompt_housework_78659267:
@@ -1947,7 +1947,7 @@ translate spanish bye_prompt_restart_0bd97190:
 translate spanish bye_prompt_restart_edfc8cf0:
 
     # m 2euc "Alright."
-    m 2euc "Vale."
+    m 2euc "De acuerdo."
 
 # game/script-farewells.rpy:1755
 translate spanish bye_prompt_workout_834d1736:
@@ -1983,7 +1983,7 @@ translate spanish bye_prompt_workout_e5d4def9:
 translate spanish bye_prompt_workout_141ee842:
 
     # m 5rubsu "Yeah..."
-    m 5rubsu "Ajá..."
+    m 5rubsu "Sí..."
 
 # game/script-farewells.rpy:1767
 translate spanish bye_prompt_workout_8051a18f:

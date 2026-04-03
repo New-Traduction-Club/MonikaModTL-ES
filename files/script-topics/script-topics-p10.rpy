@@ -1167,7 +1167,7 @@ translate spanish monika_promisering_5a670385:
 translate spanish monika_promisering_d8c67873:
 
     # m 1wkbld "Oh..."
-    m 1wkbld "Ah..."
+    m 1wkbld "Oh..."
 
 # game/script-topics.rpy:7944
 translate spanish monika_promisering_998fe8ab:
@@ -1749,7 +1749,7 @@ translate spanish monika_orchestra_5d756d59:
 translate spanish monika_orchestra_11cd17e2:
 
     # m 3eub "That's great!"
-    m 3eub "¡Genial!"
+    m 3eub "¡Fantástico!"
 
 # game/script-topics.rpy:8174
 translate spanish monika_orchestra_2fa82af6:
@@ -1851,7 +1851,7 @@ translate spanish monika_orchestra_6d347553:
 translate spanish monika_orchestra_f5403dcf:
 
     # m 3hua "Really?"
-    m 3hua "¿De verdad?"
+    m 3hua "¿En serio?"
 
 # game/script-topics.rpy:8223
 translate spanish monika_orchestra_417124ef:
@@ -1887,7 +1887,7 @@ translate spanish monika_orchestra_c7c81615:
 translate spanish monika_orchestra_09fc434e:
 
     # m 1duc "I see."
-    m 1duc "Ya veo."
+    m 1duc "Entiendo."
 
 # game/script-topics.rpy:8235
 translate spanish monika_orchestra_f7692d13:

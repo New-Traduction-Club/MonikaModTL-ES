@@ -21,13 +21,13 @@ translate spanish splashscreen_e193832f:
 translate spanish after_load_78a4e9dc:
 
     # "The save file could not be loaded."
-    "No se pudo cargar el archivo de guardado."
+    "El archivo de guardado no se puede cargar."
 
 # game/splash.rpy:273
 translate spanish after_load_5c5510ae:
 
     # "Are you trying to cheat?"
-    "¿Estás intentando hacer trampa?"
+    "¿Estás intentando hacer trampas?"
 
 translate spanish strings:
 

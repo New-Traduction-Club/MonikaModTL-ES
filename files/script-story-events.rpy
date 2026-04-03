@@ -393,7 +393,7 @@ translate spanish mas_player_name_enter_name_loop_8e5c1991:
 translate spanish mas_player_name_enter_name_loop_a43d1d16:
 
     # m 1tkc "Really?"
-    m 1tkc "¿De verdad?"
+    m 1tkc "¿En serio?"
 
 # game/script-story-events.rpy:585
 translate spanish mas_player_name_enter_name_loop_655a094a:
@@ -843,7 +843,7 @@ translate spanish birthdate_set_81975a21:
 translate spanish calendar_birthdate_7f8c9848:
 
     # m 1lksdla "Hey, [player]..."
-    m 1lksdla "Oye, [player]..."
+    m 1lksdla "Una cosita, [player]..."
 
 # game/script-story-events.rpy:893
 translate spanish calendar_birthdate_0495fe82:
@@ -1041,7 +1041,7 @@ translate spanish mas_unlock_chess_ed3a48c9:
 translate spanish mas_unlock_hangman_465c7ee6:
 
     # m 1eua "Hey, [player]..."
-    m 1eua "Oye, [player]..."
+    m 1eua "Una cosita, [player]..."
 
 # game/script-story-events.rpy:989
 translate spanish mas_unlock_hangman_4bb7c263:
@@ -1329,7 +1329,7 @@ translate spanish mas_random_ask_bb79c154:
 translate spanish mas_random_ask_77917b05:
 
     # m 1eka "Alright."
-    m 1eka "Muy bien."
+    m 1eka "De acuerdo."
 
 # game/script-story-events.rpy:1128
 translate spanish mas_random_ask_d2f8a275:
@@ -1575,7 +1575,7 @@ translate spanish mas_crashed_long_whq_6ae34308:
 translate spanish mas_crashed_long_whq_b5b09318:
 
     # m 1eua "I'm counting on you."
-    m 1eua "Cuento contigo."
+    m 1eua "Confío en ti."
 
 # game/script-story-events.rpy:1417
 translate spanish mas_crashed_long_whq_affe3dbf:
@@ -1587,7 +1587,7 @@ translate spanish mas_crashed_long_whq_affe3dbf:
 translate spanish mas_crashed_long_whq_00ad1026:
 
     # m 1ekc "Oh..."
-    m 1ekc "Ah..."
+    m 1ekc "Oh..."
 
 # game/script-story-events.rpy:1421
 translate spanish mas_crashed_long_whq_b751a5e1:
@@ -1683,7 +1683,7 @@ translate spanish mas_crashed_quip_takecare_92d08aa0:
 translate spanish mas_crashed_quip_takecare_7331c613:
 
     # m 1hksdlb "Ahaha..."
-    m 1hksdlb "Ja, ja, ja..."
+    m 1hksdlb "Ja, ja, ja."
 
 # game/script-story-events.rpy:1507
 translate spanish mas_crashed_quip_takecare_dcc72b06:
@@ -1737,7 +1737,7 @@ translate spanish mas_crashed_quip_takecare_8306a181:
 translate spanish mas_crashed_quip_takecare_9985d2d5:
 
     # m 2rksdla "Still..."
-    m 2rksdla "Aun así..."
+    m 2rksdla "Bueno, pero..."
 
 # game/script-story-events.rpy:1518
 translate spanish mas_crashed_quip_takecare_7cb80869:
@@ -1755,7 +1755,7 @@ translate spanish mas_crashed_quip_takecare_f07bc0cd:
 translate spanish mas_corrupted_persistent_d10f27d2:
 
     # m 1eud "Hey, [player]..."
-    m 1eud "Oye, [player]..."
+    m 1eud "Una cosita, [player]..."
 
 # game/script-story-events.rpy:1638
 translate spanish mas_corrupted_persistent_6f321cf4:
@@ -1887,7 +1887,7 @@ translate spanish mas_new_character_file_75f3eb2d:
 translate spanish mas_new_character_file_8643d2fa:
 
     # m 1hua "Doesn't that sound wonderful?"
-    m 1hua "¿No suena maravilloso?"
+    m 1hua "¿No te parece una idea maravillosa?"
 
 # game/script-story-events.rpy:1745
 translate spanish mas_new_character_file_42a4b258:
@@ -2007,7 +2007,7 @@ translate spanish monika_rpy_files_c7d1ccea:
 translate spanish monika_rpy_files_ef6dfa9c:
 
     # m "I see."
-    m "Ya veo."
+    m "Entiendo."
 
 # game/script-story-events.rpy:1810
 translate spanish monika_rpy_files_1d868665:
@@ -2043,7 +2043,7 @@ translate spanish monika_rpy_files_be7a1c29:
 translate spanish monika_rpy_files_432f07f6:
 
     # m 2hua "There we go!"
-    m 2hua "¡Ya está!"
+    m 2hua "¡Listo!"
 
 # game/script-story-events.rpy:1824
 translate spanish monika_rpy_files_2bd4fd47:
@@ -2103,7 +2103,7 @@ translate spanish monika_rpy_files_193589f8:
 translate spanish monika_rpy_files_4068a088:
 
     # m 1hua "There we go!"
-    m 1hua "¡Ya está!"
+    m 1hua "¡Listo!"
 
 # game/script-story-events.rpy:1853
 translate spanish monika_rpy_files_e80ab30e:
@@ -2595,7 +2595,7 @@ translate spanish mas_notification_windowreact_797dcaa4:
 translate spanish mas_gift_giving_instructs_d10f27d2:
 
     # m 1eud "Hey, [player]..."
-    m 1eud "Oye, [player]..."
+    m 1eud "Una cosita, [player]..."
 
 # game/script-story-events.rpy:2220
 translate spanish mas_gift_giving_instructs_6f321cf4:
@@ -2949,7 +2949,7 @@ translate spanish monika_credits_song_a5a99df2_1:
 translate spanish mas_covid19_de39abd6:
 
     # m 2ekc "Hey, [player]..."
-    m 2ekc "Oye, [player]..."
+    m 2ekc "Una cosita, [player]..."
 
 # game/script-story-events.rpy:2520
 translate spanish mas_covid19_94c5c79a:

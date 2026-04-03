@@ -165,7 +165,7 @@ translate spanish mas_fun_fact_love_you_971fd7d2:
 translate spanish mas_fun_fact_love_you_3076ca25:
 
     # m 1rkc "The thing is..."
-    m 1rkc "La cosa es que..."
+    m 1rkc "El caso es que..."
 
 # game/script-fun-facts.rpy:146
 translate spanish mas_fun_fact_love_you_4ef5e129:
@@ -723,7 +723,7 @@ translate spanish mas_fun_fact_bananas_5ba118f0:
 translate spanish mas_fun_fact_bananas_b73301d5:
 
     # m 1dsc "Let's just move on..."
-    m 1dsc "Pasemos a otra cosa..."
+    m 1dsc "Cambiemos de tema..."
 
 # game/script-fun-facts.rpy:406
 translate spanish mas_fun_fact_pens_e307f756:

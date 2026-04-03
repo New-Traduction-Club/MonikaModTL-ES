@@ -1431,7 +1431,7 @@ translate spanish monika_real_f3a33eb4:
 translate spanish monika_mythology_df5cc50f:
 
     # m 1euc "Hey, [player]..."
-    m 1euc "Oye, [player]..."
+    m 1euc "Una cosita, [player]..."
 
 # game/script-topics.rpy:5381
 translate spanish monika_mythology_e5a6a13c:

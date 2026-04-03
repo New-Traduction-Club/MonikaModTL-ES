@@ -616,7 +616,7 @@ translate spanish anni_4_3f7cf0c8:
 translate spanish anni_4_6ef79e44:
 
     # m 1ekbsa "I love you."
-    m 1ekbsa "Te quiero."
+    m 1ekbsa "Me gustas."
 
 # game/script-anniversary.rpy:626
 translate spanish anni_4_2f379bc6:

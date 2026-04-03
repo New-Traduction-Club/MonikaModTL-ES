@@ -267,7 +267,7 @@ translate spanish mas_backups_incompat_what_do_884295ca:
 translate spanish mas_backups_incompat_user_will_restore_16cd82b1:
 
     # "Alright!"
-    "¡Vale!"
+    "¡Muy bien!"
 
 # game/zz_backup.rpy:928
 translate spanish mas_backups_incompat_user_will_restore_8518d51c:
@@ -375,7 +375,7 @@ translate spanish mas_backups_incompat_rpy_yes_del_540db159:
 translate spanish mas_backups_incompat_rpy_no_del_9ed134ce:
 
     # "Oh..."
-    "Ay, ya veo..."
+    "Oh..."
 
 # game/zz_backup.rpy:1009
 translate spanish mas_backups_incompat_rpy_no_del_ec7095ae:
@@ -411,7 +411,7 @@ translate spanish mas_backups_incompat_updater_failed_3cf4a602:
 translate spanish mas_backups_incompat_updater_start_d98683b4:
 
     # "Hey!"
-    "¡Oye!"
+    "¡Eh!"
 
 # game/zz_backup.rpy:1078
 translate spanish mas_backups_incompat_updater_start_91e14dde:
@@ -423,7 +423,7 @@ translate spanish mas_backups_incompat_updater_start_91e14dde:
 translate spanish mas_backups_incompat_updater_start_770056d1:
 
     # "Oh!"
-    "¡Uh...!"
+    "¡Ah!"
 
 # game/zz_backup.rpy:1084
 translate spanish mas_backups_incompat_updater_start_4d46cc43:

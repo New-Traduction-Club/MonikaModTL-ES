@@ -1329,7 +1329,7 @@ translate spanish monika_conventions_3ebef919:
 translate spanish monika_conventions_f5f6653d:
 
     # m 2etd "Really?"
-    m 2etd "¿De verdad?"
+    m 2etd "¿En serio?"
 
 # game/script-topics.rpy:18966
 translate spanish monika_conventions_9b986440:
@@ -1347,7 +1347,7 @@ translate spanish monika_conventions_2d51b7c2:
 translate spanish monika_conventions_b95de452:
 
     # m 2eud "Ah, I see."
-    m 2eud "Ah, ya veo."
+    m 2eud "Ah, entiendo."
 
 # game/script-topics.rpy:18970
 translate spanish monika_conventions_ae1c5a79:

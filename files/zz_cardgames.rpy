@@ -33,7 +33,7 @@ translate spanish monika_change_nou_house_rules_9fd75cb2:
 translate spanish monika_change_nou_house_rules_0b54dfcd:
 
     # m 1eub "Of course."
-    m 1eub "De acuerdo."
+    m 1eub "Por supuesto."
 
 # game/zz_cardgames.rpy:4061
 translate spanish monika_change_nou_house_rules_menu_loop_8f323283:
@@ -51,13 +51,13 @@ translate spanish monika_change_nou_house_rules_menu_loop_1630bfdc:
 translate spanish monika_change_nou_house_rules_menu_loop_f818ab76:
 
     # m 1eub "Alright!"
-    m 1eub "¡Vale!"
+    m 1eub "¡Muy bien!"
 
 # game/zz_cardgames.rpy:4085
 translate spanish monika_change_nou_house_rules_menu_loop_f818ab76_1:
 
     # m 1eub "Alright!"
-    m 1eub "¡Vale!"
+    m 1eub "¡Muy bien!"
 
 # game/zz_cardgames.rpy:4090
 translate spanish monika_change_nou_house_rules_menu_loop_525c8cd7:
@@ -1251,7 +1251,7 @@ translate spanish mas_nou_reaction_monika_wins_round_638a2783:
 translate spanish mas_nou_reaction_monika_wins_round_367eca25:
 
     # m 4sub "There we go!"
-    m 4sub "¡Ahí vamos!"
+    m 4sub "¡Listo!"
 
 # game/zz_cardgames.rpy:4865
 translate spanish mas_nou_reaction_monika_wins_round_7cb37c86:

@@ -1833,7 +1833,7 @@ translate spanish monika_othergames_f339bbd1:
 translate spanish monika_back_ups_3929517c:
 
     # m 1eka "You know, [player]..."
-    m 1eka "Sabes, [player]..."
+    m 1eka "¿Sabes, [player]?..."
 
 # game/script-topics.rpy:4861
 translate spanish monika_back_ups_b50ce7f6:

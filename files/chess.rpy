@@ -183,7 +183,7 @@ translate spanish mas_chess_start_chess_6586871a:
 translate spanish mas_chess_start_chess_fe9c0937:
 
     # m 1eua "Anyway..."
-    m 1eua "De todas formas..."
+    m 1eua "En fin..."
 
 # game/chess.rpy:1083
 translate spanish mas_chess_start_chess_2377db7a:
@@ -195,7 +195,7 @@ translate spanish mas_chess_start_chess_2377db7a:
 translate spanish mas_chess_start_chess_fe9c0937_1:
 
     # m 1eua "Anyway..."
-    m 1eua "Total..."
+    m 1eua "En fin..."
 
 # game/chess.rpy:1110
 translate spanish mas_chess_start_chess_ed69febf:
@@ -303,7 +303,7 @@ translate spanish mas_chess_start_chess_43d2d26f:
 translate spanish mas_chess_start_chess_fe9c0937_2:
 
     # m 1eua "Anyway..."
-    m 1eua "Aunque..."
+    m 1eua "En fin..."
 
 # game/chess.rpy:1187
 translate spanish mas_chess_start_chess_673bb300:
@@ -549,7 +549,7 @@ translate spanish mas_chess_save_multi_dlg_ccb20cfd:
 translate spanish mas_chess_save_multi_dlg_6be9d23e:
 
     # m 2dsc "I see."
-    m 2dsc "Ya veo..."
+    m 2dsc "Entiendo."
 
 # game/chess.rpy:1439
 translate spanish mas_chess_save_multi_dlg_a29fd4bb:
@@ -567,7 +567,7 @@ translate spanish mas_chess_save_multi_dlg_c739d190:
 translate spanish mas_chess_save_multi_dlg_0f026494:
 
     # m 1eua "Alright."
-    m 1eua "¡Vale!"
+    m 1eua "De acuerdo."
 
 # game/chess.rpy:1472
 translate spanish mas_chess_dlg_quicksave_lost_53ee25dd:
@@ -597,7 +597,7 @@ translate spanish mas_chess_dlg_quicksave_lost_d8c79967:
 translate spanish mas_chess_dlg_quicksave_lost_0fb41a85:
 
     # m 3hub "Ahaha~"
-    m 3hub "¡Ja, ja, ja!"
+    m 3hub "Ja, ja, ja."
 
 # game/chess.rpy:1483
 translate spanish mas_chess_dlg_quicksave_lost_297eb97f:
@@ -627,7 +627,7 @@ translate spanish mas_chess_dlg_quicksave_lost_cf8a6a73:
 translate spanish mas_chess_dlg_quicksave_lost_0eae88ec:
 
     # m 7rsc "Anyway..."
-    m 7rsc "Bueno..."
+    m 7rsc "En fin..."
 
 # game/chess.rpy:1490
 translate spanish mas_chess_dlg_quicksave_lost_61e666c3:
@@ -639,7 +639,7 @@ translate spanish mas_chess_dlg_quicksave_lost_61e666c3:
 translate spanish mas_chess_dlg_quicksave_lost_a7509a9c:
 
     # m 1lksdlc "I'm sorry..."
-    m 1lksdlc "Lo lamento..."
+    m 1lksdlc "Perdona..."
 
 # game/chess.rpy:1494
 translate spanish mas_chess_dlg_quicksave_lost_41af46d5:
@@ -705,7 +705,7 @@ translate spanish mas_chess_dlg_quickfile_lost_deleted_33c3dc8e:
 translate spanish mas_chess_dlg_quickfile_lost_deleted_ad363a17:
 
     # m 1etc "Oh?"
-    m 1etc "¿Ah, sí?"
+    m 1etc "¿Eh?"
 
 # game/chess.rpy:1538
 translate spanish mas_chess_dlg_quickfile_lost_deleted_0f2b82a7:
@@ -921,7 +921,7 @@ translate spanish mas_chess_dlg_quickfile_lost_maybe_filechecker_no_file_ac9ba01
 translate spanish mas_chess_dlg_quickfile_lost_maybe_save_found_9da041f8:
 
     # m 2eua "Oh!"
-    m 2eua "Vaya..."
+    m 2eua "¡Ah!"
 
 # game/chess.rpy:1670
 translate spanish mas_chess_dlg_quickfile_lost_maybe_save_found_b226c195:
@@ -993,7 +993,7 @@ translate spanish mas_chess_dlg_quickfile_lost_accident_2897c47d:
 translate spanish mas_chess_dlg_quickfile_edited_6f96a035:
 
     # m 2lksdlc "[player]..."
-    m 2lksdlc "Oye [player]..."
+    m 2lksdlc "[player]..."
 
 # game/chess.rpy:1703
 translate spanish mas_chess_dlg_quickfile_edited_76684384:
@@ -1077,7 +1077,7 @@ translate spanish mas_chess_dlg_quickfile_edited_yes_game_ruined_349cff1b:
 translate spanish mas_chess_dlg_quickfile_edited_no_aee3d749:
 
     # m 1dsc "Hmm..."
-    m 1dsc "Emm..."
+    m 1dsc "Mmm..."
 
 
 # game/chess.rpy:1775
@@ -1102,7 +1102,7 @@ translate spanish mas_chess_dlg_quickfile_edited_no_9f55c7c9:
 translate spanish mas_chess_dlg_quickfile_edited_no_9f7abd79:
 
     # m 1ekc "I see."
-    m 1ekc "Ya veo..."
+    m 1ekc "Entiendo."
 
 # game/chess.rpy:1784
 translate spanish mas_chess_dlg_quickfile_edited_no_e612037c:
@@ -1120,7 +1120,7 @@ translate spanish mas_chess_dlg_quickfile_edited_no_402d6f88:
 translate spanish mas_chess_dlg_quickfile_edited_no_4a7ea962:
 
     # m 2dfc "[player]..."
-    m 2dfc "Oye [player]..."
+    m 2dfc "[player]..."
 
 # game/chess.rpy:1791
 translate spanish mas_chess_dlg_quickfile_edited_no_f1020305:
@@ -1162,7 +1162,7 @@ translate spanish mas_chess_dlg_quickfile_edited_no_c55548ad:
 translate spanish mas_chess_dlg_quickfile_edited_no_quicksave_4a7ea962:
 
     # m 2dfc "[player]..."
-    m 2dfc "Oye [player]..."
+    m 2dfc "[player]..."
 
 # game/chess.rpy:1828
 translate spanish mas_chess_dlg_quickfile_edited_no_quicksave_1c17b6a4:

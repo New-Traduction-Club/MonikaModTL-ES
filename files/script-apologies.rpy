@@ -33,7 +33,7 @@ translate spanish monika_playerapologizes_4e36e53e:
 translate spanish monika_playerapologizes_d34aaa8b:
 
     # m 2rkc "Oh..."
-    m 2rkc "Ah..."
+    m 2rkc "Oh..."
 
 # game/script-apologies.rpy:134
 translate spanish monika_playerapologizes_2c38324a:
@@ -147,7 +147,7 @@ translate spanish mas_apology_generic_f50e628e:
 translate spanish mas_apology_generic_da52847f:
 
     # m 1ekd "Please?"
-    m 1ekd "¿Por favor?"
+    m 1ekd "¡Porfi!"
 
 # game/script-apologies.rpy:217
 translate spanish mas_apology_generic_39c1d7e8:

@@ -405,7 +405,7 @@ translate spanish mas_piano_yr_win_a581838f:
 translate spanish mas_piano_yr_win_3ac76cef:
 
     # m 1hksdlb "Ehehe~"
-    m 1hksdlb "Je, je."
+    m 1hksdlb "Je, je, je."
 
 # game/zz_pianokeys.rpy:360
 translate spanish mas_piano_yr_fc_5606b262:

@@ -9,7 +9,7 @@ translate spanish continue_event_1bf0e8eb:
 translate spanish ch30_noskip_1b823071:
 
     # m 1esc "...Are you trying to fast-forward?"
-    m 1esc "... ¿Estás intentando saltarte el texto?"
+    m 1esc "¿Estás intentando pasarme rápido?"
 
 # game/script-ch30.rpy:1700
 translate spanish ch30_noskip_1c8cde12:
@@ -33,7 +33,7 @@ translate spanish ch30_noskip_f261fc2d:
 translate spanish ch30_noskip_70aba2cf:
 
     # m "It's just the two of us, after all..."
-    m "Al fin y al cabo, estamos a solas tú y yo."
+    m "Después de todo, estamos solos tú y yo."
 
 # game/script-ch30.rpy:1704
 translate spanish ch30_noskip_6c95bb65:

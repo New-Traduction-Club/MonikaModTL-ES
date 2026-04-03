@@ -108,7 +108,7 @@ translate spanish greeting_gooday_7e1f9eb5:
 translate spanish greeting_gooday_00ad1026:
 
     # m 1ekc "Oh..."
-    m 1ekc "Ah..."
+    m 1ekc "Oh..."
 
 # game/script-greetings.rpy:389
 translate spanish greeting_gooday_c1020e02:
@@ -180,7 +180,7 @@ translate spanish greeting_gooday_1dc6ecc1:
 translate spanish greeting_gooday_33083b51:
 
     # m "Oh..."
-    m "Ah..."
+    m "Oh..."
 
 # game/script-greetings.rpy:410
 translate spanish greeting_gooday_aab83578:
@@ -510,7 +510,7 @@ translate spanish greeting_goodmorning_3aa0a1ce:
 translate spanish greeting_goodmorning_71c41c7d:
 
     # m 1tkc "Oh dear..."
-    m 1tkc "Ah, vaya..."
+    m 1tkc "Ay, madre..."
 
 # game/script-greetings.rpy:516
 translate spanish greeting_goodmorning_aa498529:
@@ -840,7 +840,7 @@ translate spanish greeting_latin_6b55aa0e:
 translate spanish greeting_latin_07b33c81:
 
     # m 4rksdla "Ehehe..."
-    m 4rksdla "Je, je..."
+    m 4rksdla "Je, je, je..."
 
 # game/script-greetings.rpy:824
 translate spanish greeting_latin_61a9c02f:
@@ -876,7 +876,7 @@ translate spanish greeting_esperanto_6e7c6ce1:
 translate spanish greeting_esperanto_19428ff1:
 
     # m 1hua "Ehehe~"
-    m 1hua "Je, je."
+    m 1hua "Je, je, je."
 
 # game/script-greetings.rpy:844
 translate spanish greeting_esperanto_3346b792:
@@ -1980,7 +1980,7 @@ translate spanish monikaroom_greeting_opendoor_locked_88ef62ab:
 translate spanish monikaroom_greeting_opendoor_locked_c08bc8f4:
 
     # m "Good."
-    m "Bien."
+    m "Genial."
 
 # game/script-greetings.rpy:1713
 translate spanish monikaroom_greeting_opendoor_locked_206b8cca:
@@ -2022,7 +2022,7 @@ translate spanish monikaroom_greeting_opendoor_locked_87b967b0:
 translate spanish monikaroom_greeting_opendoor_locked_4068a088:
 
     # m 1hua "There we go!"
-    m 1hua "¡Ya está!"
+    m 1hua "¡Listo!"
 
 # game/script-greetings.rpy:1736
 translate spanish monikaroom_greeting_opendoor_locked_dbbac0cb:
@@ -2142,7 +2142,7 @@ translate spanish monikaroom_greeting_opendoor_seen_partone_4ac2903b:
 translate spanish monikaroom_greeting_opendoor_seen_partone_234541ea:
 
     # m 3hua_static "That's right!"
-    m 3hua_static "¡Eso es!"
+    m 3hua_static "¡Es verdad!"
 
 # game/script-greetings.rpy:1804
 translate spanish monikaroom_greeting_opendoor_seen_partone_cd0688b5:
@@ -2250,7 +2250,7 @@ translate spanish monikaroom_greeting_opendoor_7b136e06:
 translate spanish monikaroom_greeting_opendoor_7c8d2dd0:
 
     # m 3eua_static "There we go!"
-    m 3eua_static "¡Ya está!"
+    m 3eua_static "¡Listo!"
 
 # game/script-greetings.rpy:1904
 translate spanish monikaroom_greeting_opendoor_55bc810f:
@@ -2580,7 +2580,7 @@ translate spanish greeting_japan_7ab08b37:
 translate spanish greeting_japan_45d9cd96:
 
     # m "Ehehe~"
-    m "Je, je."
+    m "Je, je, je."
 
 # game/script-greetings.rpy:2068
 translate spanish greeting_japan_f07ad986:
@@ -2598,7 +2598,7 @@ translate spanish greeting_japan_e8356ffd:
 translate spanish greeting_japan_947f9ebc:
 
     # m 3eua "Let's see..."
-    m 3eua "Veamos..."
+    m 3eua "Vamos a ver..."
 
 # game/script-greetings.rpy:2073
 translate spanish greeting_japan_d7f3ba54:
@@ -2694,7 +2694,7 @@ translate spanish greeting_sunshine_12b26ee7:
 translate spanish greeting_sunshine_bac230dd:
 
     # m 1wud "...Eh?"
-    m 1wud "... ¿Eh?"
+    m 1wud "¿Eh?"
 
 # game/script-greetings.rpy:2113
 translate spanish greeting_sunshine_1945e6d2:
@@ -2988,7 +2988,7 @@ translate spanish greeting_sick_8f3b03a7:
 translate spanish greeting_sick_7e12eaba:
 
     # m 2ekc "Welcome back, [player]..."
-    m 2ekc "Bienvenid[end_letter_gender] de nuevo, [player]..."
+    m 2ekc "Bienvenido, [player]..."
 
 # game/script-greetings.rpy:2274
 translate spanish greeting_sick_b1bf511a:
@@ -3126,7 +3126,7 @@ translate spanish greeting_stillsickrest_e9e587db:
 translate spanish greeting_stillsicknorest_1c48619b:
 
     # m 1lksdlc "I see..."
-    m 1lksdlc "Ya veo..."
+    m 1lksdlc "Entiendo..."
 
 # game/script-greetings.rpy:2332
 translate spanish greeting_stillsicknorest_abda1521:
@@ -3210,7 +3210,7 @@ translate spanish greeting_stillsickresting_5447c9b9:
 translate spanish greeting_stillsickresting_f1ffa26f:
 
     # m 5hua "Ehehe~"
-    m 5hua "Je, je."
+    m 5hua "Je, je, je."
 
 # game/script-greetings.rpy:2359
 translate spanish greeting_stillsickresting_e475e63a:
@@ -3600,7 +3600,7 @@ translate spanish greeting_long_absence_364931f0:
 translate spanish greeting_long_absence_762f0f55:
 
     # m 2wud "Ah...!"
-    m 2wud "¡Ah...!"
+    m 2wud "¡Ah!..."
 
 # game/script-greetings.rpy:2470
 translate spanish greeting_long_absence_074820b9:
@@ -3816,7 +3816,7 @@ translate spanish greeting_long_absence_20f1e29c:
 translate spanish greeting_long_absence_d2b022ed:
 
     # m 3ekd "Is everything alright?"
-    m 3ekd "¿Está todo bien?"
+    m 3ekd "¿Estás bien?"
 
 # game/script-greetings.rpy:2524
 translate spanish greeting_long_absence_e7af05bb:
@@ -4146,7 +4146,7 @@ translate spanish greeting_long_absence_210b4b3d:
 translate spanish greeting_long_absence_19428ff1:
 
     # m 1hua "Ehehe~"
-    m 1hua "Je, je."
+    m 1hua "Je, je, je."
 
 # game/script-greetings.rpy:2605
 translate spanish greeting_long_absence_4d415681:
@@ -4416,7 +4416,7 @@ translate spanish greeting_long_absence_7aaa2b5c:
 translate spanish greeting_long_absence_19428ff1_1:
 
     # m 1hua "Ehehe~"
-    m 1hua "Je, je."
+    m 1hua "Je, je, je."
 
 # game/script-greetings.rpy:2674
 translate spanish greeting_long_absence_994fa447:
@@ -4488,7 +4488,7 @@ translate spanish greeting_hairdown_15d5a236:
 translate spanish greeting_hairdown_adcf7866:
 
     # m 6sub "Really?"
-    m 6sub "¿De verdad?"
+    m 6sub "¿En serio?"
 
 # game/script-greetings.rpy:2777
 translate spanish greeting_hairdown_95aa13b0:
@@ -4506,7 +4506,7 @@ translate spanish greeting_hairdown_aabefd24:
 translate spanish greeting_hairdown_00ad1026:
 
     # m 1ekc "Oh..."
-    m 1ekc "Ah..."
+    m 1ekc "Oh..."
 
 # game/script-greetings.rpy:2783
 translate spanish greeting_hairdown_8018692b:
@@ -4752,7 +4752,7 @@ translate spanish greeting_back_from_school_c93697e1:
 translate spanish greeting_back_from_school_06c2a5b3:
 
     # m 2sub "Really?!"
-    m 2sub "¡¿De verdad?!"
+    m 2sub "¡¿En serio?!"
 
 # game/script-greetings.rpy:3003
 translate spanish greeting_back_from_school_c94d66cb:
@@ -4818,7 +4818,7 @@ translate spanish greeting_back_from_school_de393359:
 translate spanish greeting_back_from_school_00ad1026:
 
     # m 1ekc "Oh..."
-    m 1ekc "Ah..."
+    m 1ekc "Oh..."
 
 # game/script-greetings.rpy:3022
 translate spanish greeting_back_from_school_5720e981:
@@ -4836,7 +4836,7 @@ translate spanish greeting_back_from_school_27c67abc:
 translate spanish greeting_back_from_school_00ad1026_1:
 
     # m 1ekc "Oh..."
-    m 1ekc "Ah..."
+    m 1ekc "Oh..."
 
 # game/script-greetings.rpy:3027
 translate spanish greeting_back_from_school_8a772733:
@@ -4884,7 +4884,7 @@ translate spanish greeting_back_from_school_fdc443ca:
 translate spanish greeting_back_from_school_class_related_53da2108:
 
     # m 2dsc "I see..."
-    m 2dsc "Ya veo..."
+    m 2dsc "Entiendo..."
 
 # game/script-greetings.rpy:3066
 translate spanish greeting_back_from_school_class_related_c83efa8d:
@@ -5046,7 +5046,7 @@ translate spanish greeting_back_from_school_by_people_7153e2eb:
 translate spanish greeting_back_from_school_bad_day_f1e2c03e:
 
     # m 1ekc "I see..."
-    m 1ekc "Ya veo..."
+    m 1ekc "Entiendo..."
 
 # game/script-greetings.rpy:3107
 translate spanish greeting_back_from_school_bad_day_87ce5903:
@@ -5106,7 +5106,7 @@ translate spanish greeting_back_from_school_sick_0bf4f735:
 translate spanish greeting_back_from_school_sick_b29b5325:
 
     # m "That's too bad..."
-    m "Qué lástima..."
+    m "Qué rabia..."
 
 # game/script-greetings.rpy:3130
 translate spanish greeting_back_from_school_sick_b4175aec:
@@ -5148,7 +5148,7 @@ translate spanish greeting_back_from_school_sick_89e4838e:
 translate spanish greeting_back_from_school_sick_e7e2d464:
 
     # m 6rkc "Oh..."
-    m 6rkc "Ah..."
+    m 6rkc "Oh..."
 
 # game/script-greetings.rpy:3145
 translate spanish greeting_back_from_school_sick_573e486f:
@@ -5544,7 +5544,7 @@ translate spanish greeting_back_from_work_work_late_768655d1:
 translate spanish greeting_back_from_work_work_late_effd92fa:
 
     # m 2hub "Ehehe~"
-    m 2hub "Je, je."
+    m 2hub "Je, je, je."
 
 # game/script-greetings.rpy:3323
 translate spanish greeting_back_from_work_little_done_d30d9a60:
@@ -5676,7 +5676,7 @@ translate spanish greeting_back_from_work_sick_e7f6fa62:
 translate spanish greeting_back_from_work_sick_e7e2d464:
 
     # m 6rkc "Oh..."
-    m 6rkc "Ah..."
+    m 6rkc "Oh..."
 
 # game/script-greetings.rpy:3368
 translate spanish greeting_back_from_work_sick_f3c9aac3:
@@ -5880,7 +5880,7 @@ translate spanish greeting_ourreality_04cdda54:
 translate spanish greeting_ourreality_19428ff1:
 
     # m 1hua "Ehehe~"
-    m 1hua "Je, je."
+    m 1hua "Je, je, je."
 
 # game/script-greetings.rpy:3480
 translate spanish greeting_ourreality_31df11fd:
@@ -6390,7 +6390,7 @@ translate spanish greeting_back_from_game_d8174f50:
 translate spanish greeting_back_from_game_7331c613:
 
     # m 1hksdlb "Ahaha..."
-    m 1hksdlb "Ja, ja, ja..."
+    m 1hksdlb "Ja, ja, ja."
 
 # game/script-greetings.rpy:3828
 translate spanish greeting_back_from_game_f8ebff34:
@@ -6438,7 +6438,7 @@ translate spanish greeting_back_from_game_00b76509:
 translate spanish greeting_back_from_game_15d8f377:
 
     # m 2euc "Oh..."
-    m 2euc "Ah..."
+    m 2euc "Oh..."
 
 # game/script-greetings.rpy:3841
 translate spanish greeting_back_from_game_70e479af:
@@ -6858,13 +6858,13 @@ translate spanish greeting_back_from_game_61340c0d:
 translate spanish greeting_back_from_game_e93005d0:
 
     # m 2ekc "Oh..."
-    m 2ekc "Ah..."
+    m 2ekc "Oh..."
 
 # game/script-greetings.rpy:3946
 translate spanish greeting_back_from_game_578b933c:
 
     # m 2rka "You know, [player]..."
-    m 2rka "Sabes, [player]..."
+    m 2rka "¿Sabes, [player]?..."
 
 # game/script-greetings.rpy:3947
 translate spanish greeting_back_from_game_0b259093:
@@ -7002,7 +7002,7 @@ translate spanish greeting_back_from_game_afed7aa1:
 translate spanish greeting_back_from_eat_d042431d:
 
     # m 1eud "Oh?"
-    m 1eud "¿Ah?"
+    m 1eud "¿Eh?"
 
 # game/script-greetings.rpy:3996
 translate spanish greeting_back_from_eat_64065d15:
@@ -7566,7 +7566,7 @@ translate spanish greeting_back_from_hangout_ee54a7c6:
 translate spanish greeting_back_from_hangout_b7d58e74:
 
     # m 1ekd "Oh..."
-    m 1ekd "Ah..."
+    m 1ekd "Oh..."
 
 # game/script-greetings.rpy:4309
 translate spanish greeting_back_from_hangout_52c1623e:

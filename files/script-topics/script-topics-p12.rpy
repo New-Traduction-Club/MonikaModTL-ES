@@ -321,61 +321,61 @@ translate spanish monika_sleep_d1a70a21:
 translate spanish monika_sleep_40bf08be:
 
     # m 1ekc "It can be really hard to get enough sleep nowadays."
-    m 1ekc "Hoy en día puede ser muy difícil dormir lo suficiente."
+    m 1ekc "Es difícil conciliar el sueño hoy en día."
 
 # game/script-topics.rpy:9002
 translate spanish monika_sleep_a7851271:
 
     # m 1eka "Especially in high school, when you're forced to wake up so early every day..."
-    m 1eka "Especialmente en el instituto, cuando te obligan a despertarte tan temprano todos los días..."
+    m 1eka "Y más cuando vas al instituto. Estás obligado a madrugar cada día..."
 
 # game/script-topics.rpy:9003
 translate spanish monika_sleep_5fa1479f:
 
     # m 1eua "I'm sure college is a little bit better, since you probably have a more flexible schedule."
-    m 1eua "Seguro que la universidad es un poco mejor, ya que probablemente tengas un horario más flexible."
+    m 1eua "Seguro que la cosa mejora en la universidad. Allí tendrás un horario más flexible."
 
 # game/script-topics.rpy:9004
 translate spanish monika_sleep_5dca6c02:
 
     # m 3rsc "Then again, I hear a lot of people in college stay up all night anyway, for no real reason."
-    m 3rsc "Aunque bueno, he oído que mucha gente en la universidad se pasa toda la noche despierta de todos modos, sin ninguna razón real."
+    m 3rsc "De todas formas, tengo entendido que muchos universitarios se pasan la noche en vela sin motivo aparente."
 
 # game/script-topics.rpy:9005
 translate spanish monika_sleep_d87addf5:
 
     # m 1euc "Is that true?"
-    m 1euc "¿Es eso cierto?"
+    m 1euc "¿Será cierto?"
 
 # game/script-topics.rpy:9006
 translate spanish monika_sleep_330e6014:
 
     # m 1ekc "Anyway, I saw some studies that talked about the horrible short-term and long-term effects caused by lack of sleep."
-    m 1ekc "En fin, vi unos estudios que hablaban de los horribles efectos a corto y largo plazo que causa la falta de sueño."
+    m 1ekc "En fin, he leído algunos estudios que hablan de las terribles consecuencias a corto y largo plazo de la falta de sueño."
 
 # game/script-topics.rpy:9007
 translate spanish monika_sleep_0bf9e8b7:
 
     # m 3ekc "It seems like mental functions, health, and even lifespan can be dramatically impacted by it."
-    m 3ekc "Parece que las funciones mentales, la salud e incluso la esperanza de vida pueden verse drásticamente afectadas por ello."
+    m 3ekc "Parece que puede afectar mucho a la capacidad mental, a la salud e incluso a la esperanza de vida."
 
 # game/script-topics.rpy:9008
 translate spanish monika_sleep_6fe8df03:
 
     # m 1eka "I just think you're really great and wanted to make sure you're not accidentally destroying yourself."
-    m 1eka "Simplemente me importas muchísimo y quería asegurarme de que no te estés haciendo daño sin darte cuenta."
+    m 1eka "Pienso que eres una persona fantástica y quería asegurarme de que no te estás perjudicando sin querer."
 
 # game/script-topics.rpy:9009
 translate spanish monika_sleep_1ab6d3f5:
 
     # m 1eua "So try to keep your sleep on track, okay?"
-    m 1eua "Así que intenta mantener un buen horario de sueño, ¿vale?"
+    m 1eua "Así que procura dormir bien, ¿vale?"
 
 # game/script-topics.rpy:9011
 translate spanish monika_sleep_35c02976:
 
     # m 5hua "I'll always wait for you in the morning, so make sure you put your own well-being before anything else."
-    m 5hua "Siempre te esperaré por la mañana, así que asegúrate de poner tu propio bienestar por encima de todo."
+    m 5hua "Tú prioriza tu bienestar, que yo te estaré esperando a la mañana siguiente."
 
 # game/script-topics.rpy:9033
 translate spanish monika_breakup_5174d377:
@@ -1167,7 +1167,7 @@ translate spanish monika_smoking_f7c9045a:
 translate spanish monika_smoking_c22467b8:
 
     # m 1esc "Oh?"
-    m 1esc "¿Ah?"
+    m 1esc "¿Eh?"
 
 # game/script-topics.rpy:9302
 translate spanish monika_smoking_d6e13d8e:
@@ -1617,7 +1617,7 @@ translate spanish monika_asks_charity_c21b3627:
 translate spanish monika_asks_charity_c7784b1e:
 
     # m 3hub "That's great!"
-    m 3hub "¡Eso es genial!"
+    m 3hub "¡Fantástico!"
 
 # game/script-topics.rpy:9479
 translate spanish monika_asks_charity_a9e8f151:
@@ -1815,7 +1815,7 @@ translate spanish monika_asks_charity_3d2c41b2:
 translate spanish monika_asks_charity_baf9eeab:
 
     # m 2eka "But, you know..."
-    m 2eka "Pero, ¿sabes?..."
+    m 2eka "Pero ¿sabes qué?..."
 
 # game/script-topics.rpy:9521
 translate spanish monika_asks_charity_49bae1bf:

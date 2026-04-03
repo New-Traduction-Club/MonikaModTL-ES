@@ -3,13 +3,13 @@
 translate spanish monika_sing_song_pool_menu_7ad23832:
 
     # m 3hub "Alright!"
-    m 3hub "¡Vale!"
+    m 3hub "¡Muy bien!"
 
 # game/script-songs.rpy:337
 translate spanish monika_sing_song_analysis_7ad23832:
 
     # m 3hub "Alright!"
-    m 3hub "¡Vale!"
+    m 3hub "¡Muy bien!"
 
 # game/script-songs.rpy:374
 translate spanish mas_song_derandom_37451494:
@@ -1719,7 +1719,7 @@ translate spanish mas_song_my_silver_lining_286721d3:
 translate spanish mas_song_my_silver_lining_665411de:
 
     # m 1hub "Alright!"
-    m 1hub "¡Vale!"
+    m 1hub "¡Muy bien!"
 
 # game/script-songs.rpy:1154
 translate spanish mas_song_my_silver_lining_b61bdd07:

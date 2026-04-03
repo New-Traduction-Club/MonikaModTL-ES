@@ -27,7 +27,7 @@ translate spanish monika_change_background_loop_321f071e:
 translate spanish mas_background_change_3d8a873d:
 
     # m 1eua "Alright!"
-    m 1eua "¡Vale!"
+    m 1eua "¡Muy bien!"
 
 # game/zz_backgrounds.rpy:3385
 translate spanish mas_background_change_f04503eb:

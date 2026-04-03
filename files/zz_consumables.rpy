@@ -147,7 +147,7 @@ translate spanish mas_consumables_generic_running_out_a2abda03:
 translate spanish mas_consumables_generic_critical_low_df5cc50f:
 
     # m 1euc "Hey, [player]..."
-    m 1euc "Oye, [player]..."
+    m 1euc "Una cosita, [player]..."
 
 # game/zz_consumables.rpy:1653
 translate spanish mas_consumables_generic_critical_low_fba607d9:

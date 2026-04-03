@@ -657,7 +657,7 @@ translate spanish monika_players_friends_11dcb448:
 translate spanish monika_players_friends_e93005d0:
 
     # m 2ekc "Oh..."
-    m 2ekc "Ah..."
+    m 2ekc "Oh..."
 
 # game/script-topics.rpy:11870
 translate spanish monika_players_friends_45b24749:

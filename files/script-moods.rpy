@@ -243,7 +243,7 @@ translate spanish mas_mood_proud_37e19b0f:
 translate spanish mas_mood_proud_da9462d4:
 
     # m 1ekc "You know, [player]..."
-    m 1ekc "Sabes, [player]..."
+    m 1ekc "¿Sabes, [player]?..."
 
 # game/script-moods.rpy:204
 translate spanish mas_mood_proud_84103aaf:
@@ -1107,7 +1107,7 @@ translate spanish mas_mood_scared_0e7bb148:
 translate spanish mas_mood_scared_edf0f600:
 
     # m 2esc "Besides..."
-    m 2esc "Además..."
+    m 2esc "Además...,"
 
 # game/script-moods.rpy:459
 translate spanish mas_mood_scared_3c57b1ea:
@@ -1545,7 +1545,7 @@ translate spanish mas_mood_lazy_c7d3e6be:
 translate spanish mas_mood_bored_e41326ab:
 
     # m 1eka "Oh..."
-    m 1eka "Ah..."
+    m 1eka "Oh..."
 
 # game/script-moods.rpy:618
 translate spanish mas_mood_bored_5ac13dbb:
@@ -1707,7 +1707,7 @@ translate spanish mas_mood_bored_b39e9dad:
 translate spanish mas_mood_bored_e4e2e831:
 
     # m 2ekc "Fine..."
-    m 2ekc "Bien..."
+    m 2ekc "Está bien..."
 
 # game/script-moods.rpy:706
 translate spanish mas_mood_bored_73142ff9:
@@ -1971,7 +1971,7 @@ translate spanish mas_mood_upset_9192d173:
 translate spanish mas_mood_relieved_d042431d:
 
     # m 1eud "Oh?"
-    m 1eud "¿Ah?"
+    m 1eud "¿Eh?"
 
 # game/script-moods.rpy:814
 translate spanish mas_mood_relieved_9cb7363b:
@@ -2175,7 +2175,7 @@ translate spanish mas_mood_excited_81624bf3:
 translate spanish mas_mood_excited_ffa7927b:
 
     # m 1hub "That's great!"
-    m 1hub "¡Eso es genial!"
+    m 1hub "¡Fantástico!"
 
 # game/script-moods.rpy:876
 translate spanish mas_mood_excited_6a830002:

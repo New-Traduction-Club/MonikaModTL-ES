@@ -39,7 +39,7 @@ translate spanish demo_minigame_pong_32d0248c:
 translate spanish mas_pong_dlg_winner_5687489f:
 
     # m 1rksdlb "Ahaha..."
-    m 1rksdlb "Ja, ja, ja..."
+    m 1rksdlb "Ja, ja, ja."
 
 # game/pong.rpy:620
 translate spanish mas_pong_dlg_winner_b7fb763f:
@@ -213,7 +213,7 @@ translate spanish mas_pong_dlg_winner_a218bfce:
 translate spanish mas_pong_dlg_winner_70d88cbc:
 
     # m 1rksdla "Ah..."
-    m 1rksdla "Ahh..."
+    m 1rksdla "Ah..."
 
 # game/pong.rpy:721
 translate spanish mas_pong_dlg_winner_7b6b8f8c:
@@ -225,7 +225,7 @@ translate spanish mas_pong_dlg_winner_7b6b8f8c:
 translate spanish mas_pong_dlg_winner_99ca4d3e:
 
     # m 2rksdlb "Ahaha..."
-    m 2rksdlb "Ja, ja, ja..."
+    m 2rksdlb "Ja, ja, ja."
 
 # game/pong.rpy:728
 translate spanish mas_pong_dlg_winner_991f1800:
@@ -585,7 +585,7 @@ translate spanish mas_pong_dlg_loser_3db132c3:
 translate spanish mas_pong_dlg_loser_5687489f:
 
     # m 1rksdlb "Ahaha..."
-    m 1rksdlb "Ja, ja, ja..."
+    m 1rksdlb "Ja, ja, ja."
 
 # game/pong.rpy:911
 translate spanish mas_pong_dlg_loser_7f64fa3e:
@@ -651,7 +651,7 @@ translate spanish mas_pong_dlg_loser_c5033fda:
 translate spanish mas_pong_dlg_loser_13fa3f85:
 
     # m 1hua "Ehehe!"
-    m 1hua "Je, je, je."
+    m 1hua "¡Je, je, je!"
 
 # game/pong.rpy:937
 translate spanish mas_pong_dlg_loser_6d0599cc:
@@ -777,7 +777,7 @@ translate spanish mas_pong_dlg_loser_e2f3e632:
 translate spanish mas_pong_dlg_loser_7c60149f:
 
     # m 2hksdlb "Ahaha..."
-    m 2hksdlb "Ja, ja, ja..."
+    m 2hksdlb "Ja, ja, ja."
 
 # game/pong.rpy:1001
 translate spanish mas_pong_dlg_loser_a946ae02:

@@ -87,7 +87,7 @@ translate spanish mas_monika_islands_progress_3873e363:
 translate spanish mas_monika_islands_progress_e93005d0:
 
     # m 2ekc "Oh..."
-    m 2ekc "Ah..."
+    m 2ekc "Oh..."
 
 # game/script-islands-event.rpy:2059
 translate spanish mas_monika_islands_progress_905a45e1:
@@ -729,7 +729,7 @@ translate spanish mas_island_night2_64d26fcd:
 translate spanish mas_island_night2_f6daf90a:
 
     # m "Ahaha..."
-    m "Ja, ja, ja..."
+    m "Ja, ja, ja."
 
 # game/script-islands-event.rpy:2561
 translate spanish mas_island_night3_475e9edd:
@@ -987,7 +987,7 @@ translate spanish mas_island_bookshelf2_9d8d0bf4:
 translate spanish mas_island_bookshelf2_26116031:
 
     # m "Isn't that right, [player]?"
-    m "¿No es así, [player]?"
+    m "¿Verdad que sí, [player]?"
 
 # game/script-islands-event.rpy:2665
 translate spanish mas_island_bookshelf2_5e66c502:

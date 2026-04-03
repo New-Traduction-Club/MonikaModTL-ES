@@ -9,7 +9,7 @@ translate spanish monika_showpoem_ccc4d9a5:
 translate spanish monika_showpoem_aec3fbc2:
 
     # m 3hua "Alright!"
-    m 3hua "¡Genial!"
+    m 3hua "¡Muy bien!"
 
 # game/zz_poems.rpy:357
 translate spanish monika_showpoem_3aa9bd6c:

@@ -417,7 +417,7 @@ translate spanish mas_reaction_gift_hairclip_0280bea1:
 translate spanish mas_reaction_gift_hairclip_2ec4f870:
 
     # m 1wuo "Oh!"
-    m 1wuo "¡Oh!"
+    m 1wuo "¡Ah!"
 
 # game/zz_reactions.rpy:1253
 translate spanish mas_reaction_gift_hairclip_b4190bd6:
@@ -741,7 +741,7 @@ translate spanish mas_thermos_mug_handler_c842a3e2:
 translate spanish mas_reaction_quetzal_plush_1e803905:
 
     # m 1wud "Oh!"
-    m 1wud "¡Oh!"
+    m 1wud "¡Ah!"
 
 # game/zz_reactions.rpy:1482
 translate spanish mas_reaction_quetzal_plush_c1a55a82:
@@ -1869,7 +1869,7 @@ translate spanish mas_reaction_gift_roses_f4e32d64:
 translate spanish mas_reaction_gift_roses_29c7a8a1:
 
     # m 1ektda "Ahaha..."
-    m 1ektda "Ja, ja, ja..."
+    m 1ektda "Ja, ja, ja."
 
 # game/zz_reactions.rpy:2353
 translate spanish mas_reaction_gift_roses_021c15c5:
@@ -1887,7 +1887,7 @@ translate spanish mas_reaction_gift_roses_af302dec:
 translate spanish mas_reaction_gift_roses_507d86ca:
 
     # m 1suo "Oh!"
-    m 1suo "¡Oh!"
+    m 1suo "¡Ah!"
 
 # game/zz_reactions.rpy:2368
 translate spanish mas_reaction_gift_roses_9bd4a258:
@@ -1941,7 +1941,7 @@ translate spanish mas_reaction_gift_roses_021c15c5_1:
 translate spanish mas_reaction_gift_roses_0d8345dc:
 
     # m 1hub "Ehehe~"
-    m 1hub "Je, je."
+    m 1hub "Je, je, je."
 
 # game/zz_reactions.rpy:2398
 translate spanish mas_reaction_gift_roses_9a483078:
@@ -2049,7 +2049,7 @@ translate spanish mas_reaction_gift_chocolates_c23cf6d1:
 translate spanish mas_reaction_gift_chocolates_2ec4f870:
 
     # m 1wuo "Oh!"
-    m 1wuo "¡Oh!"
+    m 1wuo "¡Ah!"
 
 # game/zz_reactions.rpy:2478
 translate spanish mas_reaction_gift_chocolates_2894639f:
@@ -2247,7 +2247,7 @@ translate spanish mas_reaction_gift_clothes_orcaramelo_bikini_shell_0ce41e5f:
 translate spanish mas_reaction_gift_clothes_orcaramelo_bikini_shell_7c60149f:
 
     # m 2hksdlb "Ahaha..."
-    m 2hksdlb "Ja, ja, ja..."
+    m 2hksdlb "Ja, ja, ja."
 
 # game/zz_reactions.rpy:2573
 translate spanish mas_reaction_gift_clothes_orcaramelo_bikini_shell_96cea41f:
@@ -2295,7 +2295,7 @@ translate spanish mas_reaction_gift_acs_orcaramelo_hairflower_pink_88e17fc3:
 translate spanish mas_reaction_gift_acs_orcaramelo_hairflower_pink_19428ff1:
 
     # m 1hua "Ehehe~"
-    m 1hua "Je, je."
+    m 1hua "Je, je, je."
 
 # game/zz_reactions.rpy:2605
 translate spanish mas_reaction_gift_acs_orcaramelo_hairflower_pink_db73877e:
@@ -2397,7 +2397,7 @@ translate spanish mas_reaction_gift_clothes_orcaramelo_sakuya_izayoi_392983ec:
 translate spanish mas_reaction_gift_clothes_orcaramelo_sakuya_izayoi_6a97422a:
 
     # m 3tuu "Ehehe~"
-    m 3tuu "Je, je."
+    m 3tuu "Je, je, je."
 
 # game/zz_reactions.rpy:2661
 translate spanish mas_reaction_gift_clothes_orcaramelo_sakuya_izayoi_0338af42:
@@ -2673,7 +2673,7 @@ translate spanish mas_reaction_gift_noudeck_c03d6902:
 translate spanish mas_reaction_gift_noudeck_873ebbd3:
 
     # m 5hubsa "Ehehe~"
-    m 5hubsa "Je, je."
+    m 5hubsa "Je, je, je."
 
 # game/zz_reactions.rpy:2820
 translate spanish mas_reaction_gift_noudeck_3772217d:
@@ -2703,7 +2703,7 @@ translate spanish mas_reaction_gift_noudeck_62ca5bcf:
 translate spanish mas_reaction_gift_noudeck_5687489f:
 
     # m 1rksdlb "Ahaha..."
-    m 1rksdlb "Ja, ja, ja..."
+    m 1rksdlb "Ja, ja, ja."
 
 # game/zz_reactions.rpy:2831
 translate spanish mas_reaction_gift_noudeck_e7fc7a60:

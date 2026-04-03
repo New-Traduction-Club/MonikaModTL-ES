@@ -111,7 +111,7 @@ translate spanish monika_player_appearance_86dc8984:
 translate spanish monika_player_appearance_333072cf:
 
     # m 2hua "Alright..."
-    m 2hua "Muy bien..."
+    m 2hua "Vale..."
 
 # game/script-topics.rpy:13230
 translate spanish monika_player_appearance_e2594d7e:
@@ -465,7 +465,7 @@ translate spanish monika_player_appearance_eye_color_hazel_2aa83ae9:
 translate spanish monika_player_appearance_eye_color_gray_4a8f9d5b:
 
     # m 1sub "That's so cool!"
-    m 1sub "¡Qué pasada!"
+    m 1sub "¡Eso mola muchísimo!"
 
 # game/script-topics.rpy:13377
 translate spanish monika_player_appearance_eye_color_gray_d25998d3:
@@ -1143,7 +1143,7 @@ translate spanish monika_dating_startdate_confirm_misclick_b796ac68:
 translate spanish monika_dating_startdate_confirm_tooslow_3515d1cd:
 
     # m 6lktdc "I see..."
-    m 6lktdc "Ya veo..."
+    m 6lktdc "Entiendo..."
 
 # game/script-topics.rpy:13819
 translate spanish monika_dating_startdate_confirm_tooslow_5e630d0b:
@@ -1377,7 +1377,7 @@ translate spanish monika_anime_art_9ffe22e7:
 translate spanish monika_whydoyouloveme_bafabe72:
 
     # m 2euc "Hmph."
-    m 2euc "Hmph."
+    m 2euc "Jum."
 
 # game/script-topics.rpy:13950
 translate spanish monika_whydoyouloveme_a779cf08:
@@ -1401,7 +1401,7 @@ translate spanish monika_whydoyouloveme_b86b3b9c:
 translate spanish monika_whydoyouloveme_aee3d749:
 
     # m 1dsc "Hmm..."
-    m 1dsc "Hmm..."
+    m 1dsc "Mmm..."
 
 # game/script-topics.rpy:13958
 translate spanish monika_whydoyouloveme_4127c28f:

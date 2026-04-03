@@ -628,7 +628,7 @@ translate spanish monika_gotomonika_override_82cc75f0_4:
 translate spanish monika_change_fire_e204798c:
 
     # m 1hua "Yes?"
-    m 1hua "¿Si?"
+    m 1hua "¿Sí?"
 
 # game/Submods/location_selector/Locatons/Furnished_spaceroom4.rpy:600
 translate spanish monika_change_fire_2c11397f:

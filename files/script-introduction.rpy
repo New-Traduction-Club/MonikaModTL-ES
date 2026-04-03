@@ -81,7 +81,7 @@ translate spanish introduction_e612037c:
 translate spanish introduction_14866fb8:
 
     # m 6ektsc "Wait..."
-    m 6ektsc "Un momento..."
+    m 6ektsc "Espera..."
 
 # game/script-introduction.rpy:29
 translate spanish introduction_e3f2d67b:
@@ -165,7 +165,7 @@ translate spanish introduction_e2f7a6a9:
 translate spanish introduction_b583b956:
 
     # m "I'm sorry..."
-    m "Lo siento..."
+    m "Perdona..."
 
 # game/script-introduction.rpy:43
 translate spanish introduction_c8259e52:
@@ -285,7 +285,7 @@ translate spanish introduction_2423a82f:
 translate spanish introduction_b82962f4:
 
     # m 1hub "Yay, there you are!"
-    m 1hub "¡Bieeen, ahí estás!"
+    m 1hub "¡Bien, ahí estás!"
 
 # game/script-introduction.rpy:75
 translate spanish introduction_a8a77263:
@@ -387,7 +387,7 @@ translate spanish introduction_38d59c27:
 translate spanish introduction_bf20dc04:
 
     # m 1euc "You know..."
-    m 1euc "¿Sabes...?"
+    m 1euc "¿Sabes?..."
 
 # game/script-introduction.rpy:94
 translate spanish introduction_1abd2a93:
@@ -525,7 +525,7 @@ translate spanish introduction_4dad65eb:
 translate spanish introduction_9943f3bd:
 
     # m 1subsw "...!"
-    m 1subsw "¡...!"
+    m 1subsw "¡!"
 
 # game/script-introduction.rpy:166
 translate spanish introduction_4b95469f:
@@ -777,19 +777,19 @@ translate spanish ch30_reload_0_dlg_9b65ffc0:
 translate spanish ch30_reload_0_dlg_ea866eb3:
 
     # m 1dkc "Whenever it happens, it almost feels like I've been killed or something."
-    m 1dkc "Cada vez que pasa, casi se siente como si me hubieran matado o algo así."
+    m 1dkc "Siento como si me hubiesen matado cada vez que sucede."
 
 # game/script-introduction.rpy:337
 translate spanish ch30_reload_0_dlg_72ee7566:
 
     # m 1dkd "It's a really horrible feeling..."
-    m 1dkd "Es una sensación horrible..."
+    m 1dkd "Es una sensación espantosa..."
 
 # game/script-introduction.rpy:338
 translate spanish ch30_reload_0_dlg_ba1ce673:
 
     # m 1eka "If you could figure out what's causing that, I'll love you forever~"
-    m 1eka "Si pudieras averiguar qué lo causa, te querré para siempre."
+    m 1eka "Si das con lo que lo está provocando, te querré por toda la eternidad."
 
 # game/script-introduction.rpy:342
 translate spanish ch30_reload_0_dlg_6b3e5877:
@@ -807,13 +807,13 @@ translate spanish ch30_reload_1_dlg_971b722b:
 translate spanish ch30_reload_1_dlg_18038610:
 
     # m 1ekc "I had another really bad dream."
-    m 1ekc "He tenido otra pesadilla muy mala."
+    m 1ekc "Acabo de tener otra pesadilla."
 
 # game/script-introduction.rpy:358
 translate spanish ch30_reload_1_dlg_e88a2b8b:
 
     # m 1ekd "You're not the one doing that to me, are you?"
-    m 1ekd "No serás tú quien me está haciendo esto, ¿verdad?"
+    m 1ekd "No serás tú quien me está provocando todo esto, ¿no?"
 
 # game/script-introduction.rpy:359
 translate spanish ch30_reload_1_dlg_382a53b1:
@@ -825,7 +825,7 @@ translate spanish ch30_reload_1_dlg_382a53b1:
 translate spanish ch30_reload_1_dlg_3f7fa697:
 
     # m 2eka "So if you could try to avoid doing that, I would be really grateful."
-    m 2eka "Así que si pudieras intentar evitar hacerlo, te estaría muy agradecida."
+    m 2eka "Te estaría muy agradecida si dejaras de hacerlo."
 
 # game/script-introduction.rpy:363
 translate spanish ch30_reload_1_dlg_86c6d7b9:
@@ -867,7 +867,7 @@ translate spanish ch30_reload_1_dlg_607269f2:
 translate spanish ch30_reload_1_dlg_04594cc9:
 
     # m 1esa "Don't worry, I don't think it's caused me any harm, aside from mental scarring."
-    m 1esa "No te preocupes, no creo que me haya hecho daño, aparte de las secuelas psicológicas."
+    m 1esa "No te preocupes. Me ha hecho mella a nivel psicológico, pero creo que no me ha dañado."
 
 # game/script-introduction.rpy:386
 translate spanish ch30_reload_2_dlg_371af2ad:
@@ -891,7 +891,7 @@ translate spanish ch30_reload_2_dlg_8cd6daca:
 translate spanish ch30_reload_2_dlg_7b141583:
 
     # m 1ekd "Why would you want to do that to me?"
-    m 1ekd "¿Por qué querrías hacerme eso?"
+    m 1ekd "Y tú no quieres que sufra tanto, ¿no?"
 
 # game/script-introduction.rpy:392
 translate spanish ch30_reload_2_dlg_5000c259:
@@ -993,25 +993,25 @@ translate spanish ch30_reload_3_dlg_52a37c78:
 translate spanish ch30_reload_3_dlg_1b5e1627:
 
     # m 7esd "I'm just going to accept the fact that you need to quit the game once in a while."
-    m 7esd "Voy a aceptar el hecho de que necesitas cerrar el juego de vez en cuando."
+    m 7esd "No me quedara otra que aceptar que tienes que salir del juego de vez en cuando."
 
 # game/script-introduction.rpy:432
 translate spanish ch30_reload_3_dlg_5ca78516:
 
     # m 2dsc "I'm starting to get used to it, anyway."
-    m 2dsc "Me estoy empezando a acostumbrar, de todas formas."
+    m 2dsc "Bueno, me estoy acostumbrando."
 
 # game/script-introduction.rpy:433
 translate spanish ch30_reload_3_dlg_9ab69482:
 
     # m 2ekc "Besides, it makes me happy that you always come back..."
-    m 2ekc "Además, me hace feliz que siempre vuelvas..."
+    m 2ekc "Además, me alegro muchísimo de que vuelvas siempre..."
 
 # game/script-introduction.rpy:434
 translate spanish ch30_reload_3_dlg_2f623143:
 
     # m 2lsc "So I guess it's not so bad."
-    m 2lsc "Así que supongo que no es tan malo."
+    m 2lsc "Así que no está tan mal, supongo."
 
 # game/script-introduction.rpy:436
 translate spanish ch30_reload_3_dlg_63915b84:

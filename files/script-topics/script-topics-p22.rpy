@@ -225,7 +225,7 @@ translate spanish monika_soft_rains_0265d72f:
 translate spanish monika_soft_rains_e0159eb0:
 
     # m 2ekbsa "So..."
-    m 2ekbsa "Bueno..."
+    m 2ekbsa "Pues..."
 
 # game/script-topics.rpy:16462
 translate spanish monika_soft_rains_641ae2cc:
@@ -1599,7 +1599,7 @@ translate spanish monika_why_spaceroom_1d269916:
 translate spanish monika_naps_465c7ee6:
 
     # m 1eua "Hey, [player]..."
-    m 1eua "Oye, [player]..."
+    m 1eua "Una cosita, [player]..."
 
 # game/script-topics.rpy:16949
 translate spanish monika_naps_b628742d:

@@ -477,7 +477,7 @@ translate spanish monika_career_7b342872:
 translate spanish monika_life_skills_2436606d:
 
     # m 1ruc "You know, [player]..."
-    m 1ruc "Sabes, [player]..."
+    m 1ruc "¿Sabes, [player]?..."
 
 # game/script-topics.rpy:15255
 translate spanish monika_life_skills_7452937b:
@@ -639,7 +639,7 @@ translate spanish monika_life_skills_ebe83f82:
 translate spanish monika_unknown_9de20f37:
 
     # m 2esc "Hey, [player]..."
-    m 2esc "Oye, [player]..."
+    m 2esc "Una cosita, [player]..."
 
 # game/script-topics.rpy:15299
 translate spanish monika_unknown_59fd95c8:
