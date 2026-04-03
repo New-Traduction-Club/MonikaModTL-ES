@@ -1423,3 +1423,11 @@ translate spanish strings:
     old "Are you sure you want to give up?"
     new "¿Estás segur[end_letter_gender] de que quieres tirar la toalla?"
 
+    # game/chess.rpy:1159
+    old "Great job though"
+    new "Aun así, lo has hecho genial."
+
+    # game/chess.rpy:1163
+    old "But on the bright side"
+    new "Pero, mirándolo por el lado bueno,"
+

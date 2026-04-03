@@ -2669,3 +2669,15 @@ translate spanish strings:
     old "...guilty."
     new "... culpable."
 
+    # game/script-moods.rpy:528
+    old "I know how tempting it can be to just stay in bed and not get up sometimes..."
+    new "Sé lo tentador que resulta a veces quedarse en la cama y no levantarse..."
+
+    # game/script-moods.rpy:715
+    old "And"
+    new "Y"
+
+    # game/script-moods.rpy:771
+    old "But"
+    new "Pero"
+

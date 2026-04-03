@@ -114,3 +114,71 @@ translate spanish strings:
     old "summer"
     new "verano"
 
+    # game/script-topics.rpy:12997
+    old "We can still enjoy this world that brought us together."
+    new "Todavía podemos disfrutar de este mundo que nos ha unido."
+
+    # game/script-topics.rpy:13000
+    old "Especially with you by my side~"
+    new "¡Sobre todo contigo a mi lado!"
+
+    # game/script-topics.rpy:14413
+    old "more than a little bit uneasy."
+    new "algo más que intranquila."
+
+    # game/script-topics.rpy:14414
+    old "we would end up needing to set up rules for androids to be able to live in our society."
+    new "acabaríamos teniendo que establecer normas para que los androides pudieran vivir en nuestra sociedad."
+
+    # game/script-topics.rpy:14419
+    old "feel like I'm trapped in a way."
+    new "sentirme en cierto modo atrapada."
+
+    # game/script-topics.rpy:14420
+    old "those rules are there to begin with, even if they only exist in fiction."
+    new "esas normas estén ahí de entrada, aunque solo existan en la ficción."
+
+    # game/script-topics.rpy:14923
+    old " with everyone in it just an empty shell"
+    new " y que todo el mundo sea un simple cascarón vacío"
+
+    # game/script-topics.rpy:15147
+    old "when"
+    new "cuando"
+
+    # game/script-topics.rpy:15147
+    old "if"
+    new "si"
+
+    # game/script-topics.rpy:16311
+    old "adorable green friend I have sitting on my desk isn't."
+    new "adorable amiguito verde que tengo sobre el escritorio no lo es."
+
+    # game/script-topics.rpy:16313
+    old "monitor on your desk isn't."
+    new "monitor de tu escritorio no lo es."
+
+    # game/script-topics.rpy:16553
+    old "I've made, and continue to make,"
+    new "que he hecho, y sigo haciendo,"
+
+    # game/script-topics.rpy:16555
+    old "I'll make"
+    new "que haré"
+
+    # game/script-topics.rpy:16602
+    old "it's also been a great"
+    new "también ha sido un gran"
+
+    # game/script-topics.rpy:16609
+    old "I also try to see it as an"
+    new "también intento verlo como un"
+
+    # game/script-topics.rpy:17488
+    old "I was kissing {i}him{/i}"
+    new "lo estaba besando a él"
+
+    # game/script-topics.rpy:17491
+    old "{i}he{/i} was the one hugging me"
+    new "era él quien me estaba abrazando"
+

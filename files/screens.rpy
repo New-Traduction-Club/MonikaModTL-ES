@@ -129,7 +129,7 @@ translate spanish strings:
 
     # game/screens.rpy:713
     old "History"
-    new "Historia"
+    new "Historial"
 
     # game/screens.rpy:715
     old "Skip"
@@ -137,7 +137,7 @@ translate spanish strings:
 
     # game/screens.rpy:716
     old "Auto"
-    new "Automático"
+    new "Auto"
 
     # game/screens.rpy:719
     old "Save"
@@ -149,7 +149,7 @@ translate spanish strings:
 
     # game/screens.rpy:727
     old "Settings"
-    new "Configuración"
+    new "Opciones"
 
     # game/screens.rpy:728
     old "Hide"
@@ -570,4 +570,11 @@ translate spanish strings:
     # game/screens.rpy:1988
     old "Click 'Help' for the complete list."
     new "Revisa 'Ayuda' para ver la lista completa"
+
+    old "Reset"
+    new "Reiniciar"
+
+    # game/screens.rpy:2923
+    old "Search for a conversation..."
+    new "Buscar un tema..."
 
