@@ -45,7 +45,7 @@ translate spanish mas_chess_remenu_0da28271:
 translate spanish mas_chess_remenu_6b6b37ac:
 
     # m 1ekc "...Alright, [player].{w=0.3} I was really looking forward to playing with you."
-    m 1ekc "... Vale, [player].{w=0.3} Me hacía mucha ilusión jugar contigo."
+    m 1ekc "Vale, [player].{w=0.3} Me hacía mucha ilusión jugar contigo."
 
 # game/chess.rpy:948
 translate spanish mas_chess_remenu_51dbe566:
@@ -861,19 +861,19 @@ translate spanish mas_chess_dlg_quickfile_lost_maybe_c61f257d:
 translate spanish mas_chess_dlg_quickfile_lost_maybe_8aca988f:
 
     # m 1esa "...not a problem at all."
-    m 1esa "... de todo menos un problema."
+    m 1esa "de todo menos un problema."
 
 # game/chess.rpy:1610
 translate spanish mas_chess_dlg_quickfile_lost_maybe_2b30b07a:
 
     # m "I knew you were going to do this again..."
-    m "Ya me parecía que ibas a liarla de nuevo..."
+    m "Ya me parecía que ibas a liarla de nuevo...,"
 
 # game/chess.rpy:1611
 translate spanish mas_chess_dlg_quickfile_lost_maybe_3423dac4:
 
     # m 1hub "...so I kept a backup of our save!"
-    m 1hub "... por lo que tengo una copia de seguridad de la partida guardada."
+    m 1hub "por lo que tengo una copia de seguridad de la partida guardada."
 
 # game/chess.rpy:1612
 translate spanish mas_chess_dlg_quickfile_lost_maybe_2a2f55d8:

@@ -3,13 +3,13 @@
 translate spanish monika_think_first_kiss_f8025b10:
 
     # m 5rkbla "It's just...{w=0.3}these are the kinds of things I think of when you're not here."
-    m 5rkbla "Es solo que... {w=0.3}este es el tipo de cosas en las que pienso cuando no estás aquí."
+    m 5rkbla "Es solo que... {w=0.3}este es el tipo de cosas en las que pienso cuando no estás aquí,"
 
 # game/script-topics.rpy:2216
 translate spanish monika_think_first_kiss_7f4da7f2:
 
     # m 5tkblu "...And something tells me I'm not the only one that thinks of stuff like this, ehehe."
-    m 5tkblu "... Y algo me dice que no soy la única que piensa en cosas así, je, je, je."
+    m 5tkblu "y algo me dice que no soy la única que piensa en cosas así, je, je, je."
 
 # game/script-topics.rpy:2217
 translate spanish monika_think_first_kiss_068281cc:
@@ -63,13 +63,13 @@ translate spanish monika_think_first_kiss_c38e8562:
 translate spanish monika_think_first_kiss_fab07a6d:
 
     # m 4eud "Which is fine, {w=0.2}it's important to live in the present after all."
-    m 4eud "Lo cual está bien, {w=0.2}al fin y al cabo es importante vivir el presente."
+    m 4eud "Lo cual está bien, {w=0.2}al fin y al cabo es importante vivir el presente,"
 
 # game/script-topics.rpy:2232
 translate spanish monika_think_first_kiss_5d55f705:
 
     # m 2ekc "...And perhaps I'm just being overly sentimental, but no matter how much time has passed, {w=0.1}{nw}"
-    m 2ekc "... Y quizá solo me esté poniendo demasiado sentimental, pero no importa cuánto tiempo haya pasado, {w=0.1}{nw}"
+    m 2ekc "y quizá solo me esté poniendo demasiado sentimental, pero no importa cuánto tiempo haya pasado, {w=0.1}{nw}"
 
 # game/script-topics.rpy:2233
 translate spanish monika_think_first_kiss_7a0f50d4:

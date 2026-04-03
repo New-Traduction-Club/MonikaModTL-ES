@@ -465,7 +465,7 @@ translate spanish monika_fastfood_54afcaeb:
 translate spanish monika_fastfood_29439623:
 
     # m 3eud "...Having to make sure you buy the right ingredients, and worrying about burning or injuring yourself while making your meal..."
-    m 3eud "... Tener que asegurarte de comprar los ingredientes adecuados, y preocuparte por si te quemas o te haces daño cocinando..."
+    m 3eud "Tener que asegurarte de comprar los ingredientes adecuados, y preocuparte por si te quemas o te haces daño cocinando..."
 
 # game/script-topics.rpy:11160
 translate spanish monika_fastfood_be9f817c:
@@ -609,13 +609,13 @@ translate spanish monika_dreaming_8cfc503e:
 translate spanish monika_dreaming_01cfc3f5:
 
     # m "You could be the hero you always wanted to be, fly across the infinite universe, overcome your biggest fears..."
-    m "Podrías ser el héroe que siempre quisiste ser, volar por el universo infinito, superar tus mayores miedos..."
+    m "Podrías ser el héroe que siempre quisiste ser, volar por el vasto universo, superar tus mayores miedos...,"
 
 # game/script-topics.rpy:11194
 translate spanish monika_dreaming_7babd02c:
 
     # m 3ekbsa "...You could even meet the love of your life, so to speak. Ehehe~"
-    m 3ekbsa "... Incluso podrías conocer al amor de tu vida, por así decirlo. Je, je, je."
+    m 3ekbsa "incluso podrías conocer al amor de tu vida, por así decirlo. Je, je, je."
 
 # game/script-topics.rpy:11195
 translate spanish monika_dreaming_edcdf00e:
@@ -741,7 +741,7 @@ translate spanish monika_yellowwp_7d834dc0:
 translate spanish monika_yellowwp_9013a205:
 
     # m 2esc "...I guess what I'm saying is, it's just that this world wasn't '{i}real{/i}.' It's just...so small."
-    m 2esc "... Supongo que lo que quiero decir es que este mundo no era de verdad. Es que es... tan pequeño."
+    m 2esc "Supongo que lo que quiero decir es que este mundo no era de verdad. Es que es... tan pequeño."
 
 # game/script-topics.rpy:11243
 translate spanish monika_yellowwp_a5308092:
