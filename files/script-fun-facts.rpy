@@ -711,7 +711,7 @@ translate spanish mas_fun_fact_bananas_7faca44c:
 translate spanish mas_fun_fact_bananas_7ecc10e3:
 
     # m 1rksdlb "...I'm just rambling on about bananas now."
-    m 1rksdlb "... Solo estoy divagando sobre plátanos ahora."
+    m 1rksdlb "Me acabo de embobar pensando en plátanos."
 
 # game/script-fun-facts.rpy:390
 translate spanish mas_fun_fact_bananas_5ba118f0:

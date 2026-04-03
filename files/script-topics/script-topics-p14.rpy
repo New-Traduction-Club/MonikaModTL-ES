@@ -201,7 +201,7 @@ translate spanish monika_prom_c4d23bb8:
 translate spanish monika_prom_1cbf0bbf:
 
     # m 2lksdla "...Or maybe I'm just overthinking it, ehehe."
-    m 2lksdla "... O tal vez le estoy dando demasiadas vueltas, je, je, je."
+    m 2lksdla "O tal vez le estoy dando demasiadas vueltas, je, je, je."
 
 # game/script-topics.rpy:10344
 translate spanish monika_prom_cc7679a1:
