@@ -8112,3 +8112,11 @@ translate spanish strings:
     old "I have no idea..."
     new "No tengo ni idea..."
 
+    # game/script-greetings.rpy:359
+    old "day"
+    new "día"
+
+    # game/script-greetings.rpy:359
+    old "night"
+    new "noche"
+

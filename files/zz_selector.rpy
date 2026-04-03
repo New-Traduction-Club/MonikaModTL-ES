@@ -182,9 +182,6 @@ translate spanish strings:
     old "Which flower would you like me to put in my hair?"
     new "¿Qué flor te gustaría que me pusiera en el pelo?"
 
-# TODO: Translation updated at 2026-02-15 17:02
-
-translate spanish strings:
 
     # game/zz_selector.rpy:41
     old "Can you change your choker?"
@@ -204,7 +201,7 @@ translate spanish strings:
 
     # game/zz_selector.rpy:41
     old "Can you change your earrings?"
-    new "¿Puedes cambiarte los pendientes?"
+    new "¿Puedes cambiar de pendientes?"
 
     # game/zz_selector.rpy:41
     old "Can you wear earrings?"
@@ -232,7 +229,7 @@ translate spanish strings:
 
     # game/zz_selector.rpy:41
     old "Can you change the flower in your hair?"
-    new "¿Puedes cambiarte la flor de tu pelo?"
+    new "¿Puedes cambiarte la flor del pelo?"
 
     # game/zz_selector.rpy:41
     old "Can you wear a flower in your hair?"
@@ -257,4 +254,8 @@ translate spanish strings:
     # game/zz_selector.rpy:3441
     old "Search for..."
     new "Buscar..."
+
+    # game/zz_selector.rpy:4301
+    old "Basic Hair Band"
+    new "Coletero básico"
 

@@ -182,3 +182,8 @@ translate spanish strings:
     old "{i}he{/i} was the one hugging me"
     new "era él quien me estaba abrazando"
 
+    # game/script-topics.rpy:8971
+    # asi lo requiere el contexto de la frase
+    old "tonight"
+    new "esta noche"
+

@@ -1875,7 +1875,7 @@ translate spanish mas_d25_monika_christmas_d4b40c84:
 translate spanish mas_d25_monika_christmas_d83b7cfe:
 
     # m 1lkbsa "Maybe it's [dlg_var]just the holiday season..."
-    m 1lkbsa "Quizá sea [dlg_var]solo la temporada festiva..."
+    m 1lkbsa "Quizá sean [dlg_var]solo la temporada festiva..."
 
 # game/script-holidays.rpy:2800
 translate spanish mas_d25_monika_christmas_8e580a96:
@@ -10040,4 +10040,12 @@ translate spanish strings:
     # game/script-holidays.rpy:4837
     old "holidays"
     new "festividades"
+
+    # game/script-holidays.rpy:2786
+    old ", or the decorations"
+    new ", o las decoraciones"
+
+    # game/script-holidays.rpy:2794
+    old "the decorations, or "
+    new "las decoraciones, o "
 
