@@ -3,7 +3,7 @@
 translate spanish monika_secrets_f55f3848:
 
     # m 1dfx "...But anyway, that's not the point! b3VuZCB3YXMgb25seSByZWFsaXphdGlvbi4gUmVhbGl6YXRpb24g"
-    m 1dfx "... Pero bueno, ¡eso no es lo importante! b3VuZCB3YXMgb25seSByZWFsaXphdGlvbi4gUmVhbGl6YXRpb24g"
+    m 1dfx "Pero bueno, ¡eso no es lo importante! b3VuZCB3YXMgb25seSByZWFsaXphdGlvbi4gUmVhbGl6YXRpb24g"
 
 # game/script-topics.rpy:1414
 translate spanish monika_secrets_ce56028f:
@@ -33,7 +33,7 @@ translate spanish monika_secrets_13b62354:
 translate spanish monika_secrets_3083ec5e:
 
     # m 2ekc "...Oh no, that sounds kind of desperate, doesn't it? b3Vscy4gUmVhbGl6YXRpb24gdGhhdCB3ZSBjYW4gbm90IHB1cnN1"
-    m 2ekc "... Uy, no, eso suena un poco desesperado, ¿a que sí? b3Vscy4gUmVhbGl6YXRpb24gdGhhdCB3ZSBjYW4gbm90IHB1cnN1"
+    m 2ekc "Uy, no, eso suena un poco desesperado, ¿a que sí? b3Vscy4gUmVhbGl6YXRpb24gdGhhdCB3ZSBjYW4gbm90IHB1cnN1"
 
 # game/script-topics.rpy:1419
 translate spanish monika_secrets_c87312bb:
@@ -63,7 +63,7 @@ translate spanish monika_secrets_720d2068:
 translate spanish monika_secrets_4bb4cb10:
 
     # m 1dsc "...Man, I'm starting to say some really stupid things. cmQgdGhlaXIgcG9pbnQgb2Ygb3JpZ2luOyB0aGUgZGVlcGVyIG91"
-    m 1dsc "... Madre mía, estoy empezando a decir verdaderas estupideces. cmQgdGhlaXIgcG9pbnQgb2Ygb3JpZ2luOyB0aGUgZGVlcGVyIG91"
+    m 1dsc "Madre mía, ya estoy empezando a decir estupideces. cmQgdGhlaXIgcG9pbnQgb2Ygb3JpZ2luOyB0aGUgZGVlcGVyIG91"
 
 # game/script-topics.rpy:1424
 translate spanish monika_secrets_3e0ec0b7:
@@ -93,7 +93,7 @@ translate spanish monika_color_136b6ee4:
 translate spanish monika_color_203a5434:
 
     # m 3rksdla "...That's not conceited or anything, is it?"
-    m 3rksdla "... No suena muy creído ni nada de eso, ¿verdad?"
+    m 3rksdla "No suena muy creído ni nada de eso, ¿verdad?"
 
 # game/script-topics.rpy:1435
 translate spanish monika_color_47c21a46:
@@ -117,13 +117,13 @@ translate spanish monika_color_6d6e2128:
 translate spanish monika_color_836c1c6d:
 
     # m 1tku "It's just a guess..."
-    m 1tku "Es solo una suposición..."
+    m 1tku "Es solo una suposición...,"
 
 # game/script-topics.rpy:1440
 translate spanish monika_color_23b0f4c2:
 
     # m 5tsbsu "...because you've been looking into my eyes for a while now."
-    m 5tsbsu "... Porque llevas un buen rato mirándome a los ojos."
+    m 5tsbsu "porque llevas un buen rato mirándome a los ojos."
 
 # game/script-topics.rpy:1441
 translate spanish monika_color_37340438:
@@ -339,19 +339,19 @@ translate spanish monika_okayeveryone_452f9e81:
 translate spanish monika_okayeveryone_ab73f819:
 
     # m "It's time to..."
-    m "Es hora de..."
+    m "Es hora de...,"
 
 # game/script-topics.rpy:1549
 translate spanish monika_okayeveryone_cd290d64:
 
     # m 2eka "...I'm just kidding."
-    m 2eka "... Es broma."
+    m 2eka "es broma."
 
 # game/script-topics.rpy:1550
 translate spanish monika_okayeveryone_63f123f0:
 
     # m "I just used to really like saying that for some reason."
-    m "Simplemente me gustaba mucho decir eso por alguna razón."
+    m "Es que me gustaba mucho decir eso por algún motivo."
 
 # game/script-topics.rpy:1551
 translate spanish monika_okayeveryone_eb073c10:
@@ -561,7 +561,7 @@ translate spanish monika_archetype_17e6fb27:
 translate spanish monika_archetype_ab80dbc1:
 
     # m 4eka "...You wouldn't like me more if I was like that, right?"
-    m 4eka "... No te gustaría más si yo fuera así, ¿verdad?"
+    m 4eka "No te gustaría más si yo fuera así, ¿verdad?"
 
 # game/script-topics.rpy:1625
 translate spanish monika_archetype_1595feef:
@@ -603,13 +603,13 @@ translate spanish monika_archetype_a1881ae8:
 translate spanish monika_tea_ccfb2dbb:
 
     # m 2hua "Hey, I wonder if Yuri's tea set is still in here somewhere..."
-    m 2hua "Oye, me pregunto si el juego de té de Yuri seguirá por aquí en alguna parte..."
+    m 2hua "Oye, me pregunto si el juego de té de Yuri seguirá por aquí en alguna parte...,"
 
 # game/script-topics.rpy:1645
 translate spanish monika_tea_5b72f1d8:
 
     # m 2hksdlb "...or maybe that got deleted, too."
-    m 2hksdlb "... O quizá eso también se borró."
+    m 2hksdlb "o quizá eso también se borró."
 
 # game/script-topics.rpy:1647
 translate spanish monika_tea_07d24c72:
@@ -633,7 +633,7 @@ translate spanish monika_tea_93ee7bf3:
 translate spanish monika_tea_5a4c15eb:
 
     # m 1euc "But I always wonder with her..."
-    m 1euc "Pero siempre me pregunto con ella..."
+    m 1euc "Pero siempre me preguntaba..."
 
 # game/script-topics.rpy:1654
 translate spanish monika_tea_2bc1ee74:
@@ -645,13 +645,13 @@ translate spanish monika_tea_2bc1ee74:
 translate spanish monika_tea_222aac8a:
 
     # m 1lsc "This is the problem with high schoolers..."
-    m 1lsc "Este es el problema de la gente del instituto..."
+    m 1lsc "Este es el problema de la gente del instituto...,"
 
 # game/script-topics.rpy:1658
 translate spanish monika_tea_21eba1b2:
 
     # m 1euc "...Well, I guess considering the rest of her hobbies, looking sophisticated probably isn't her biggest concern."
-    m 1euc "... Bueno, supongo que teniendo en cuenta el resto de sus aficiones, parecer sofisticada probablemente no sea su mayor preocupación."
+    m 1euc "aunque bueno, supongo que teniendo en cuenta el resto de sus aficiones, parecer sofisticada probablemente no sea su mayor preocupación."
 
 # game/script-topics.rpy:1660
 translate spanish monika_tea_b41ca910:
@@ -747,7 +747,7 @@ translate spanish monika_smash_9604842a:
 translate spanish monika_smash_af27fb20:
 
     # m 3euc "...Wait, what?"
-    m 3euc "... Espera, ¿qué?"
+    m 3euc "Espera, ¿qué?"
 
 # game/script-topics.rpy:1701
 translate spanish monika_smash_de2647f4:
@@ -759,13 +759,13 @@ translate spanish monika_smash_de2647f4:
 translate spanish monika_smash_51029d4f:
 
     # m 1eud "Was I programmed to talk about that?"
-    m 1eud "¿Estaba programada para hablar de eso?"
+    m 1eud "¿Estaba programada para decir eso?"
 
 # game/script-topics.rpy:1703
 translate spanish monika_smash_4bdaa5ea:
 
     # m "Because even I have no idea what that is."
-    m "Porque ni yo tengo idea de qué es eso."
+    m "Porque ni yo tengo idea de qué es."
 
 # game/script-topics.rpy:1704
 translate spanish monika_smash_3772217d:
@@ -1095,13 +1095,13 @@ translate spanish monika_college_d72f5b36:
 translate spanish monika_college_44d7e8ed:
 
     # m 3esc "...Or freelance work."
-    m 3esc "... O trabajar por cuenta propia."
+    m 3esc "O trabajar por cuenta propia."
 
 # game/script-topics.rpy:1815
 translate spanish monika_college_c5e52592:
 
     # m "...Or the many industries that value skill and experience more than formal education."
-    m "... O las muchas industrias que valoran más la habilidad y la experiencia que la educación formal."
+    m "O las muchas industrias que valoran más la habilidad y la experiencia que la educación formal."
 
 # game/script-topics.rpy:1816
 translate spanish monika_college_1ce76896:
@@ -1119,13 +1119,13 @@ translate spanish monika_college_1a6765dc:
 translate spanish monika_college_ba7d9728:
 
     # m "Not because they have an interest in those fields..."
-    m "No porque tengan interés en esos campos..."
+    m "No porque tengan interés en esos campos...,"
 
 # game/script-topics.rpy:1819
 translate spanish monika_college_33df6021:
 
     # m 2ekc "...but because they just hope the degree will get them some kind of job after college."
-    m 2ekc "... Sino porque esperan que el título les consiga algún tipo de trabajo al terminar la carrera."
+    m 2ekc "sino porque esperan que el título les consiga algún tipo de trabajo al terminar la carrera."
 
 # game/script-topics.rpy:1820
 translate spanish monika_college_405bcc4f:

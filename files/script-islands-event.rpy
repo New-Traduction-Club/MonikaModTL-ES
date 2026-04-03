@@ -363,13 +363,13 @@ translate spanish mas_island_day1_1f046825:
 translate spanish mas_island_day1_7df8df63:
 
     # m "...Huddled together, so as to stave off the cold."
-    m "... Acurrucad[end_letter_gender]s, para combatir el frío."
+    m "Acurrucad[end_letter_gender]s, para combatir el frío,"
 
 # game/script-islands-event.rpy:2446
 translate spanish mas_island_day1_55033d53:
 
     # m "...With some nice hot drinks to help keep us warm."
-    m "... Con unas buenas bebidas calientes que nos ayuden a entrar en calor."
+    m "con unas buenas bebidas calientes que nos ayuden a entrar en calor."
 
 # game/script-islands-event.rpy:2449
 translate spanish mas_island_day1_9a5ee521:

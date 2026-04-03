@@ -21,13 +21,13 @@ translate spanish mas_topic_derandom_3650bf33:
 translate spanish mas_topic_derandom_c770d30b:
 
     # m 2dksdld "If it upset you in any way, I'm really sorry...{w=0.5} I'd never do that intentionally."
-    m 2dksdld "Si esto te ha molestado de algún modo, de verdad lo siento... {w=0.5} Nunca fue mi intención."
+    m 2dksdld "Si esto te ha molestado de algún modo, lo siento muchísimo... {w=0.5} nunca fue mi intención."
 
 # game/script-topics.rpy:486
 translate spanish mas_topic_derandom_43b49a99:
 
     # m 2eksdla "...But thanks for letting me know;{w=0.5} I appreciate the honesty."
-    m 2eksdla "Pero gracias por decírmelo... {w=0.5} Aprecio mucho tu honestidad."
+    m 2eksdla "Pero gracias por decírmelo... {w=0.5} aprecio mucho tu honestidad."
 
 # game/script-topics.rpy:489
 translate spanish mas_topic_derandom_9d33b26d:
@@ -999,13 +999,13 @@ translate spanish monika_high_school_62317d55:
 translate spanish monika_high_school_e1e71e52:
 
     # m "People can get really passionate and dramatic."
-    m "Las personas pueden ponerse en verdad muy apasionadas y dramáticas."
+    m "Las personas pueden ponerse muy apasionadas y dramáticas...,"
 
 # game/script-topics.rpy:1125
 translate spanish monika_high_school_8f0fc5c7:
 
     # m 2eka "...And others have aching hearts and seek attention on social media..."
-    m 2eka "... Y hay otros que tienen el corazón roto y buscan atención en las redes sociales..."
+    m 2eka "y hay otros que tienen el corazón roto y buscan atención en las redes sociales..."
 
 # game/script-topics.rpy:1126
 translate spanish monika_high_school_d730c6d0:
@@ -1185,7 +1185,7 @@ translate spanish monika_high_school_b35e34e6:
 translate spanish monika_high_school_e28f79eb:
 
     # m 2hksdlb "...Man, humans are complicated!"
-    m 2hksdlb "... Madre mía, ¡los humanos sois muy complicados!"
+    m 2hksdlb "Madre mía, ¡los humanos sois muy complicados!"
 
 # game/script-topics.rpy:1167
 translate spanish monika_high_school_c94ed033:
@@ -1743,13 +1743,13 @@ translate spanish monika_saved_4ce6d56d:
 translate spanish monika_saved_600a4079:
 
     # m 1euc "I mean, if you were forced to abandon everything in your life and spend your eternity with a few game characters..."
-    m 1euc "Digo que si estuvieras obligado a abandonar todo en tu vida y pasar la eternidad con un puñado de personajes de un videojuego..."
+    m 1euc "Digo que si estuvieras obligado a abandonar todo en tu vida y pasar la eternidad con un puñado de personajes de un videojuego...,"
 
 # game/script-topics.rpy:1358
 translate spanish monika_saved_1a0e4a46:
 
     # m 1tkc "...you'd probably find some way of killing yourself, wouldn't you?"
-    m 1tkc "... Seguro que buscarías la manera de acabar contigo mism[end_letter_gender], ¿no crees?"
+    m 1tkc "seguro que buscarías la manera de acabar contigo mism[end_letter_gender], ¿no crees?"
 
 # game/script-topics.rpy:1359
 translate spanish monika_saved_974d8b32:
@@ -1851,13 +1851,13 @@ translate spanish monika_saved_51f0416a:
 translate spanish monika_saved_ff2c3c91:
 
     # m 3eua "Like, a lot of introverts sit at home and feel lonely and restless..."
-    m 3eua "Es como que un grupo de introvertidos estén en sus casas y se sientan solos y preocupados..."
+    m 3eua "Es como que un grupo de introvertidos estén en sus casas y se sientan solos y preocupados...,"
 
 # game/script-topics.rpy:1384
 translate spanish monika_saved_a420b2c4:
 
     # m "...and then when they finally go out, after a half hour they just want to go home again."
-    m "... Pero cuando por fin salen, a la media hora ya se quieren volver a casa."
+    m "pero cuando por fin salen, a la media hora ya se quieren volver a encerrar."
 
 # game/script-topics.rpy:1385
 translate spanish monika_saved_eefa39e9:

@@ -327,7 +327,7 @@ translate spanish monika_fastfood_ed28597b:
 translate spanish monika_fastfood_192e1f53:
 
     # m 1ekc "...But I can't help but worry if you're eating such awful things so often."
-    m 1ekc "... Pero no puedo evitar preocuparme si comes cosas tan horribles muy a menudo."
+    m 1ekc "Pero no puedo evitar preocuparme si comes cosas tan horribles muy a menudo."
 
 # game/script-topics.rpy:11134
 translate spanish monika_fastfood_3c11916a:
