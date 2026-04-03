@@ -105,7 +105,7 @@ translate spanish mas_fun_fact_librocubiculartist_25dddae0:
 translate spanish mas_fun_fact_librocubiculartist_f70fbc9e:
 
     # m 2hksdlb "...Ehehe, sorry [player]. I didn't mean to get so bothered~"
-    m 2hksdlb "... Je, je, je, lo siento, [player]. No quería alterarme tanto."
+    m 2hksdlb "Je, je, je, lo siento, [player]. No quería alterarme tanto."
 
 # game/script-fun-facts.rpy:122
 translate spanish mas_fun_fact_menu_currency_7cd0d760:
@@ -177,7 +177,7 @@ translate spanish mas_fun_fact_love_you_4ef5e129:
 translate spanish mas_fun_fact_love_you_bf88e617:
 
     # m 3hub "...I love you, [player]!"
-    m 3hub "... ¡Te quiero, [player]!"
+    m 3hub "¡Te quiero, [player]!"
 
 # game/script-fun-facts.rpy:148
 translate spanish mas_fun_fact_love_you_1368a01d:
@@ -225,7 +225,7 @@ translate spanish mas_fun_fact_morpheus_9dee0d72:
 translate spanish mas_fun_fact_morpheus_d50bd659:
 
     # m 4ekc "...So wouldn't it make more sense to name it after Hypnos then?"
-    m 4ekc "... Entonces, ¿no tendría más sentido llamarla así en honor a Hipnos?"
+    m 4ekc "Entonces, ¿no tendría más sentido llamarla así en honor a Hipnos?"
 
 # game/script-fun-facts.rpy:170
 translate spanish mas_fun_fact_morpheus_9fd773f0:
@@ -351,7 +351,7 @@ translate spanish mas_fun_fact_chess_08f8fe92:
 translate spanish mas_fun_fact_chess_4e118ab3:
 
     # m 2lfc "...Hmph."
-    m 2lfc "... Jum."
+    m 2lfc "Jum."
 
 # game/script-fun-facts.rpy:232
 translate spanish mas_fun_fact_chess_8d008284:
@@ -441,7 +441,7 @@ translate spanish mas_fun_fact_honey_43ccc774:
 translate spanish mas_fun_fact_honey_f567affe:
 
     # m 1eud "...Which removes the stuff that makes the honey go solid quickly."
-    m 1eud "... Lo que elimina los componentes que hacen que la miel se solidifique tan rápido."
+    m 1eud "Lo que elimina los componentes que hacen que la miel se solidifique tan rápido."
 
 # game/script-fun-facts.rpy:275
 translate spanish mas_fun_fact_honey_12d30716:
@@ -501,13 +501,13 @@ translate spanish mas_fun_fact_vincent_van_gone_81b302f3:
 translate spanish mas_fun_fact_vincent_van_gone_82b8dd16:
 
     # m 2dkc "There will come a time where it'll no longer be there."
-    m 2dkc "Llegará un momento en el que ya no estará ahí."
+    m 2dkc "Llegará un momento en el que ya no estará ahí...,"
 
 # game/script-fun-facts.rpy:299
 translate spanish mas_fun_fact_vincent_van_gone_0d7aafef:
 
     # m 2rkc "...Or at least be noticeable."
-    m 2rkc "... O al menos no se note tanto."
+    m 2rkc "o al menos no se note tanto."
 
 # game/script-fun-facts.rpy:300
 translate spanish mas_fun_fact_vincent_van_gone_27109f2e:

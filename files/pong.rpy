@@ -1007,5 +1007,5 @@ translate spanish strings:
 
     # game/pong.rpy:654
     old "...Maybe."
-    new "... Quizá."
+    new "Puede."
 

@@ -831,7 +831,7 @@ translate spanish monika_holdme_reactions_909845ae:
 translate spanish monika_holdme_reactions_4e4775f3:
 
     # m 1hubfb "--and I don't think there's such a thing as too long in this case, ahaha!"
-    m 1hubfb "... Y no creo que exista el \"demasiado largo\" en este caso, ¡ja, ja, ja!"
+    m 1hubfb "Y no creo que exista el \"demasiado largo\" en este caso, ¡ja, ja, ja!"
 
 # game/script-topics.rpy:2638
 translate spanish monika_holdme_reactions_b5aa00d2:
@@ -1275,7 +1275,7 @@ translate spanish monika_holdme_long_e612037c:
 translate spanish monika_holdme_long_1c88c15d:
 
     # m 6dubsa "...{w=1}Mmm~"
-    m 6dubsa "... {w=1}Mmm..."
+    m 6dubsa "{w=1}Mmm..."
 
 # game/script-topics.rpy:2798
 translate spanish monika_holdme_long_29fc857d:
