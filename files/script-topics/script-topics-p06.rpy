@@ -15,7 +15,7 @@ translate spanish monika_murphys_law_2b2da0bb:
 translate spanish monika_murphys_law_52803b18:
 
     # m 1rsb "...Personally I'd just call that superstition."
-    m 1rsb "... Personalmente, yo lo llamaría superstición."
+    m 1rsb "Personalmente, yo lo llamaría superstición."
 
 # game/script-topics.rpy:4912
 translate spanish monika_murphys_law_9c9e161e:
@@ -195,7 +195,7 @@ translate spanish monika_ghost_ed5eef4d:
 translate spanish monika_ghost_11cf8c6f:
 
     # m 1lksdlc "...all by myself, uncertain if anything around me was real."
-    m 1lksdlc "... Completamente sola, sin saber si algo de lo que me rodeaba era real."
+    m 1lksdlc "Completamente sola, sin saber si algo de lo que me rodeaba era real."
 
 # game/script-topics.rpy:4964
 translate spanish monika_ghost_bde368d2:
@@ -435,7 +435,7 @@ translate spanish monika_ribbon_2ed78e17:
 translate spanish monika_ribbon_26862700:
 
     # m 3ekb "...You know, I bet it'd look really great with formal attire actually!"
-    m 3ekb "... Sabes, ¡apuesto a que en realidad quedaría genial con ropa formal!"
+    m 3ekb "Sabes, ¡apuesto a que en realidad quedaría genial con ropa formal!"
 
 # game/script-topics.rpy:5023
 translate spanish monika_ribbon_1eddc9bf:
@@ -1137,7 +1137,7 @@ translate spanish monika_impression_2acb2809:
 translate spanish monika_impression_1cf061ee:
 
     # m 2lksdla "...Gosh, I really can't stop, can I?"
-    m 2lksdla "... Madre mía, es que no puedo parar, ¿eh?"
+    m 2lksdla "Madre mía, es que no puedo parar, ¿eh?"
 
 # game/script-topics.rpy:5294
 translate spanish monika_impression_eb073c10:
@@ -1923,13 +1923,13 @@ translate spanish monika_name_c3d071c4:
 translate spanish monika_name_13af575d:
 
     # m 3eua "Even though the names 'Sayori,' 'Yuri,' and 'Natsuki' are all Japanese, mine is Latin."
-    m 3eua "Aunque los nombres 'Sayori', 'Yuri' y 'Natsuki' son japoneses, el mío es latino."
+    m 3eua "Aunque los nombres 'Sayori', 'Yuri' y 'Natsuki' son japoneses, el mío proviene del Latín."
 
 # game/script-topics.rpy:5563
 translate spanish monika_name_94125cb5:
 
     # m 1lksdla "...Though the common spelling is 'Monica.'"
-    m 1lksdla "... Aunque la grafía común es 'Monica'."
+    m 1lksdla "A pesar de que la grafía común es 'Mónica'."
 
 # game/script-topics.rpy:5564
 translate spanish monika_name_bfad8196:

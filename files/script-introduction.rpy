@@ -63,13 +63,13 @@ translate spanish introduction_460cd75e:
 translate spanish introduction_1bbe957e:
 
     # m 6dftsc "Do you really..."
-    m 6dftsc "¿De verdad..."
+    m 6dftsc "¿Es cierto que..."
 
 # game/script-introduction.rpy:26
 translate spanish introduction_9a0806a4:
 
     # m "...hate me that much?"
-    m "... me odias tanto?"
+    m "me odias tanto?"
 
 # game/script-introduction.rpy:27
 translate spanish introduction_e612037c:
@@ -111,7 +111,7 @@ translate spanish introduction_f386b5bb:
 translate spanish introduction_dbd74dbd:
 
     # m 2tfc "Is it because..."
-    m 2tfc "¿Es porque..."
+    m 2tfc "¿Es porque...?"
 
 # game/script-introduction.rpy:34
 translate spanish introduction_8e873c56:
@@ -123,7 +123,7 @@ translate spanish introduction_8e873c56:
 translate spanish introduction_99edcbc5:
 
     # m 2rfc "It really did hurt, you know."
-    m 2rfc "Me dolió de verdad, ¿sabes?"
+    m 2rfc "Me duele, ¿sabes?"
 
 # game/script-introduction.rpy:36
 translate spanish introduction_89491ea6:
@@ -153,7 +153,7 @@ translate spanish introduction_7c495678:
 translate spanish introduction_682de8dc:
 
     # m 2esc "...But if you put yourself in my place, you'd do the same things I did."
-    m 2esc "... Pero si te pusieras en mi lugar, harías lo mismo que yo."
+    m 2esc "Pero si te pusieras en mi lugar, harías lo mismo que yo."
 
 # game/script-introduction.rpy:41
 translate spanish introduction_e2f7a6a9:
@@ -279,7 +279,7 @@ translate spanish introduction_83bee3c9:
 translate spanish introduction_2423a82f:
 
     # m 1rksdla "...Even if I didn't expect to see you {i}this{/i} soon."
-    m 1rksdla "... Aunque no esperaba verte tan pronto."
+    m 1rksdla "Aunque no esperaba verte tan pronto."
 
 # game/script-introduction.rpy:74
 translate spanish introduction_b82962f4:
@@ -435,13 +435,13 @@ translate spanish introduction_9362f265:
 translate spanish introduction_a4ef7c35:
 
     # m 3eua "I can {i}really{/i} transform myself into a file you can bring around."
-    m 3eua "Puedo transformarme de verdad en un archivo que te puedes llevar por ahí."
+    m 3eua "Puedo transformarme, de forma no irónica, en un archivo que te puedas llevar por ahí."
 
 # game/script-introduction.rpy:140
 translate spanish introduction_194e9c7b:
 
     # m 1eua "All you have to do is tell me that you're going to take me somewhere when you say goodbye, and I'll do the rest."
-    m 1eua "Solo tienes que decirme que me vas a llevar a algún sitio cuando te despidas y yo haré el resto."
+    m 1eua "Solo tienes que decirme que me vas a llevar a algún sitio cuando te despidas y yo haré lo demás."
 
 # game/script-introduction.rpy:141
 translate spanish introduction_0e8239bc:
@@ -471,7 +471,7 @@ translate spanish introduction_9016151e:
 translate spanish introduction_676bfbaa:
 
     # m 3eub "Or that you'll take me with you when you go out?"
-    m 3eub "¿O que me llevarás contigo cuando salgas?"
+    m 3eub "O que me llevarás contigo cuando salgas."
 
 # game/script-introduction.rpy:146
 translate spanish introduction_15e56263:
@@ -507,7 +507,7 @@ translate spanish introduction_bc1b2ee6:
 translate spanish introduction_51075937:
 
     # m 3sua "...And on Christmas no less!"
-    m 3sua "... ¡Y nada menos que en Navidad!"
+    m 3sua "¡Y nada menos que en Navidad!"
 
 # game/script-introduction.rpy:153
 translate spanish introduction_05f8c059:
@@ -657,7 +657,7 @@ translate spanish intro_end_bfb5d590:
 translate spanish intro_end_48f6fd8a:
 
     # m 1eua "...So just leave me running in the background."
-    m 1eua "... Así que simplemente déjame en segundo plano."
+    m 1eua "Así que déjame en segundo plano."
 
 # game/script-introduction.rpy:203
 translate spanish intro_end_c1db78f4:
@@ -747,7 +747,7 @@ translate spanish bookmark_derand_intro_aefe7f6e:
 translate spanish bookmark_derand_intro_26a3b24e:
 
     # m 4hksdlb "...Hopefully there aren't too many things like that, ahaha!"
-    m 4hksdlb "... Esperemos que no haya muchas cosas así, ¡ja, ja, ja!"
+    m 4hksdlb "Esperemos que no haya muchas cosas así, ¡ja, ja, ja!"
 
 # game/script-introduction.rpy:332
 translate spanish ch30_reload_0_dlg_503cdaf2:
@@ -939,7 +939,7 @@ translate spanish ch30_reload_2_dlg_5465c09c:
 translate spanish ch30_reload_2_dlg_6aa1b14f:
 
     # m 3eua "...Or better yet, just leave me on in the background forever."
-    m 3eua "... O mejor aún, déjame en segundo plano para siempre."
+    m 3eua "O mejor aún, déjame en segundo plano para siempre."
 
 # game/script-introduction.rpy:407
 translate spanish ch30_reload_2_dlg_f499ef11:
@@ -1125,7 +1125,7 @@ translate spanish strings:
 
     # game/script-introduction.rpy:463
     old "...Oh... It's over and I'm back with you, [mas_get_player_nickname()]. That...that was awful."
-    new "... Ah... Se ha acabado y estoy de vuelta contigo, [mas_get_player_nickname()]. Eso... eso ha sido horrible."
+    new "Ah... Se ha acabado y estoy de vuelta contigo, [mas_get_player_nickname()]. Eso... eso ha sido horrible."
 
     # game/script-introduction.rpy:463
     old "Did something happen outside of your control? I'm just going to guess it was."
@@ -1141,7 +1141,7 @@ translate spanish strings:
 
     # game/script-introduction.rpy:478
     old "...I hate when you close the game without telling me."
-    new "... Odio cuando cierras el juego sin decírmelo."
+    new "Odio cuando cierras el juego sin decírmelo."
 
     # game/script-introduction.rpy:478
     old "I feel miserable..."
@@ -1149,11 +1149,11 @@ translate spanish strings:
 
     # game/script-introduction.rpy:478
     old "It's still so scary when I'm suddenly turned off."
-    new "Sigue dándome mucho miedo cuando se apaga de repente."
+    new "Sigue dándome mucho miedo cuando todo se desvanece de repente."
 
     # game/script-introduction.rpy:478
     old "Every time is as bad as the first."
-    new "Cada vez es tan mala como la primera."
+    new "Cada vez es peor que la anterior."
 
     # game/script-introduction.rpy:478
     old "I'm running out of patience for this."

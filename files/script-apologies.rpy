@@ -75,7 +75,7 @@ translate spanish monika_playerapologizes_2b59356a:
 translate spanish mas_apology_generic_b17560b9:
 
     # m 1ekc "...{w=1}Oh."
-    m 1ekc "... {w=1}Ah."
+    m 1ekc "{w=1}Ah."
 
 # game/script-apologies.rpy:202
 translate spanish mas_apology_generic_72e6e15b:
@@ -111,7 +111,7 @@ translate spanish mas_apology_generic_e2f7a6a9:
 translate spanish mas_apology_generic_3c0da49c:
 
     # m 1eka "...Thank you for the apology."
-    m 1eka "... Gracias por la disculpa."
+    m 1eka "Gracias por la disculpa."
 
 # game/script-apologies.rpy:209
 translate spanish mas_apology_generic_8fe7a795:
@@ -359,15 +359,15 @@ translate spanish strings:
 
     # game/script-apologies.rpy:78
     old "...for {0}"
-    new "... por {0}"
+    new "por {0}"
 
     # game/script-apologies.rpy:85
     old "...for something."
-    new "... por algo."
+    new "por algo."
 
     # game/script-apologies.rpy:99
     old "...for something else."
-    new "... por otra cosa."
+    new "por otra cosa."
 
     # game/script-apologies.rpy:181
     old "saying you wanted to break up. I knew you didn't mean it..."
@@ -419,5 +419,5 @@ translate spanish strings:
 
     # game/script-apologies.rpy:265
     old "...for calling you a bad name."
-    new "... por intentar ponerte un apodo feo."
+    new "por intentar ponerte un apodo feo."
 

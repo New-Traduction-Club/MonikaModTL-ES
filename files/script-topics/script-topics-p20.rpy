@@ -57,7 +57,7 @@ translate spanish monika_sleigh_a279878e:
 translate spanish monika_sleigh_b50903d4:
 
     # m 1ekbfu "...What about you?"
-    m 1ekbfu "... ¿Y tú?"
+    m 1ekbfu "¿Y tú?"
 
 # game/script-topics.rpy:15106
 translate spanish monika_sleigh_1e28e577:
@@ -81,7 +81,7 @@ translate spanish monika_failure_24ec6070:
 translate spanish monika_failure_95d2407b:
 
     # m 2rkc "...Almost as if it's the end of the world."
-    m 2rkc "... Casi como si fuera el fin del mundo."
+    m 2rkc "Casi como si fuera el fin del mundo."
 
 # game/script-topics.rpy:15128
 translate spanish monika_failure_3316c170:
@@ -297,7 +297,7 @@ translate spanish monika_enjoyingspring_9225cdad:
 translate spanish monika_enjoyingspring_4d649ba0:
 
     # m 2rkc "...but I guess there's no real way to avoid it, is there?"
-    m 2rkc "... Pero supongo que no hay forma de evitarlo, ¿verdad?"
+    m 2rkc "Pero supongo que no hay forma de evitarlo, ¿verdad?"
 
 # game/script-topics.rpy:15198
 translate spanish monika_vr_e128fb0d:

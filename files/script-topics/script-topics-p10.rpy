@@ -213,7 +213,7 @@ translate spanish monika_pets_2caaa3fe:
 translate spanish monika_pets_9807492b:
 
     # m 1ekc "...I can't bring myself to do something like that, knowing what it's like."
-    m 1ekc "... No me veo capaz de hacer algo así, sabiendo lo que se siente."
+    m 1ekc "No me veo capaz de hacer algo así, sabiendo lo que se siente."
 
 # game/script-topics.rpy:7620
 translate spanish monika_pets_9855e0e2:

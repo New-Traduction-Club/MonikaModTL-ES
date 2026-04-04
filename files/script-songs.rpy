@@ -981,7 +981,7 @@ translate spanish mas_song_stand_by_me_fe24df7b:
 translate spanish mas_song_stand_by_me_286b3c69:
 
     # m 5ekbsa "...I hope you feel the same way~"
-    m 5ekbsa "... Espero que sientas lo mismo."
+    m 5ekbsa "Espero que sientas lo mismo."
 
 # game/script-songs.rpy:905
 translate spanish mas_song_drift_away_bbd6f3b2:
@@ -1353,7 +1353,7 @@ translate spanish mas_song_hero_3f87b9b3:
 translate spanish mas_song_hero_aff19866:
 
     # m 3eua "...And I'll be here the entire way to help you find that strength."
-    m 3eua "... Y estaré aquí todo el camino para ayudarte a encontrar esa fuerza."
+    m 3eua "Y estaré aquí todo el camino para ayudarte a encontrar esa fuerza."
 
 # game/script-songs.rpy:1024
 translate spanish mas_song_hero_0a225b02:
@@ -1377,7 +1377,7 @@ translate spanish mas_song_hero_53d3bd6a:
 translate spanish mas_song_hero_cc6cf86b:
 
     # m 7eud "...I think I know this about as well as anyone, in fact."
-    m 7eud "... De hecho, creo que lo entiendo tan bien como cualquiera."
+    m 7eud "De hecho, creo que lo entiendo tan bien como cualquiera."
 
 # game/script-songs.rpy:1030
 translate spanish mas_song_hero_0bf3a168:
@@ -1839,7 +1839,7 @@ translate spanish mas_song_my_silver_lining_analysis_3bccb98f:
 translate spanish mas_song_my_silver_lining_analysis_8a1a0710:
 
     # m 1duu "...But at the same time, there's no sense in getting overly worked up about things you can't change..."
-    m 1duu "... Pero al mismo tiempo, no tiene sentido angustiarse demasiado por cosas que no puedes cambiar..."
+    m 1duu "Pero al mismo tiempo, no tiene sentido angustiarse demasiado por cosas que no puedes cambiar..."
 
 # game/script-songs.rpy:1197
 translate spanish mas_song_my_silver_lining_analysis_aed5d1a5:

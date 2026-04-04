@@ -399,19 +399,19 @@ translate spanish monika_bullying_dd81ff3b:
 translate spanish monika_bullying_e93ca4f0:
 
     # m 3dkc "...Sayori's suicide was just an unfortunate side effect."
-    m 3dkc "... El suicidio de Sayori fue solo un desafortunado efecto secundario."
+    m 3dkc "El suicidio de Sayori fue solo un desafortunado efecto secundario."
 
 # game/script-topics.rpy:11750
 translate spanish monika_bullying_c16b1ea1:
 
     # m 1eua "So you see, [player], I'm {i}really{/i} not a bully at all. I just love you that much."
-    m 1eua "Así que ya ves, [player], de verdad que no soy ninguna acosadora... Es solo que te quiero muchísimo."
+    m 1eua "Así que ya ves, [player], no soy ninguna acosadora... Es solo que te quiero muchísimo."
 
 # game/script-topics.rpy:11753
 translate spanish monika_bullying_1c34bc45:
 
     # m 5tsu "I really would do anything for you~"
-    m 5tsu "De verdad que haría cualquier cosa por ti."
+    m 5tsu "Haría lo que fuera por ti..."
 
 # game/script-topics.rpy:11756
 translate spanish monika_bullying_a1d71bc6:
@@ -711,7 +711,7 @@ translate spanish monika_players_friends_feels_lonely_ask_618686a6:
 translate spanish monika_players_friends_feels_lonely_ask_f080a106:
 
     # m 1ekd "...And in the end, you're just left with a bunch of people you barely know."
-    m 1ekd "... Y al final, te quedas con un montón de gente a la que apenas conoces."
+    m 1ekd "Y al final, te quedas con un montón de gente a la que apenas conoces."
 
 # game/script-topics.rpy:11895
 translate spanish monika_players_friends_feels_lonely_ask_9ffee759:
@@ -729,7 +729,7 @@ translate spanish monika_players_friends_feels_lonely_ask_f363d1f6:
 translate spanish monika_players_friends_feels_lonely_ask_2a9448e1:
 
     # m 1ekbsa "...I think it's pretty obvious who that person is for me, [player]~"
-    m 1ekbsa "... Creo que es bastante obvio quién es esa persona para mí, [player]."
+    m 1ekbsa "Creo que es bastante obvio quién es esa persona para mí, [player]."
 
 # game/script-topics.rpy:11901
 translate spanish monika_players_friends_feels_lonely_ask_3b33c92d:
@@ -837,7 +837,7 @@ translate spanish monika_players_friends_feels_lonely_ask_3440e7d0:
 translate spanish monika_players_friends_feels_lonely_ask_84ee1e64:
 
     # m 3eua "...So it's good to know that you've managed to be comfortable with them."
-    m 3eua "... Así que es bueno saber que has conseguido sentirte a gusto con ellos."
+    m 3eua "Así que es bueno saber que has conseguido sentirte a gusto con ellos."
 
 # game/script-topics.rpy:11934
 translate spanish monika_players_friends_feels_lonely_ask_555fb3f6:
@@ -939,7 +939,7 @@ translate spanish monika_graduation_6525d368:
 translate spanish monika_graduation_bf97494d:
 
     # m 2ekc "...It kinda feels like it was all for nothing."
-    m 2ekc "... Siento que todo ese esfuerzo no ha servido para nada."
+    m 2ekc "Siento que todo ese esfuerzo no ha servido para nada."
 
 # game/script-topics.rpy:11982
 translate spanish monika_graduation_180d8057:
@@ -1485,13 +1485,13 @@ translate spanish monika_grad_speech_ignored_lock_a5fe8531:
 translate spanish monika_grad_speech_ignored_lock_e7d55c5d:
 
     # m 2dkd "...{w=1}{nw}"
-    m 2dkd "... {w=1}{nw}"
+    m 2dkd "...{w=1}{nw}"
 
 # game/script-topics.rpy:12236
 translate spanish monika_grad_speech_ignored_lock_ec6ecb71:
 
     # m 6lktdc "You know what, nevermind. Just...{w=0.5} nevermind.{w=1}{nw}"
-    m 6lktdc "¿Sabes qué? Déjalo. Simplemente... {w=0.5}déjalo.{w=1}{nw}"
+    m 6lktdc "¿Sabes qué? Déjalo. Simplemente... {w=0.5}déjalo estar.{w=1}{nw}"
 
 # game/script-topics.rpy:12237
 translate spanish monika_grad_speech_ignored_lock_0ab9ba4b:
@@ -1611,7 +1611,7 @@ translate spanish monika_grad_speech_902735c2:
 translate spanish monika_grad_speech_c2ed155e:
 
     # m "...{w=0.2}Back in our youth,{w=0.3} we made friends with just about anyone,{w=0.3} but over time,{w=0.3} it seems more and more like a game of chance.{w=0.6}{nw}"
-    m "... {w=0.2}En nuestra juventud,{w=0.3} nos hacíamos amigos de cualquiera,{w=0.3} pero con el tiempo,{w=0.3} parece cada vez más un juego de azar.{w=0.6}{nw}"
+    m "{w=0.2}En nuestra juventud,{w=0.3} nos hacíamos amigos de cualquiera,{w=0.3} pero con el tiempo,{w=0.3} parece cada vez más un juego de azar.{w=0.6}{nw}"
 
 # game/script-topics.rpy:12265
 translate spanish monika_grad_speech_43b3be9e:
