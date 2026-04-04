@@ -203,3 +203,11 @@ translate spanish strings:
     old "You'd never do that, right?"
     new "Jamás harías algo así, ¿verdad?"
 
+    # game/script-topics.rpy:8827
+    old "Do you still smoke"
+    new "¿Todavía fumas"
+
+    # game/script-topics.rpy:8827
+    old "You don't smoke, do you"
+    new "No fumas, ¿verdad"
+

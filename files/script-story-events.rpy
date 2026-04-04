@@ -4033,5 +4033,13 @@ translate spanish strings:
 
     # game/script-story-events.rpy:2739
     old "My PC broke."
-    new "Se rompió mi computadora."
+    new "Se rompió mi ordenador."
+
+    # game/script-story-events.rpy:197
+    old "And what gender do you identify as?"
+    new "¿Con qué género te identificas?"
+
+    # game/script-story-events.rpy:199
+    old "Oh, okay! {w=0.3}And what gender do you identify as?"
+    new "¡Ah, vale! {w=0.3}¿Y con qué género te identificas?"
 
