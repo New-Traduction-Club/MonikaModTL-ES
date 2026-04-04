@@ -4,9 +4,9 @@ Repositorio para llevar a cabo la traducción al español de [Monika After Story
 
 ## Progreso
 <!-- PROGRESO_TRADUCCION_START -->
-**19863 de 20789 líneas traducidas**
+**19862 de 20789 líneas traducidas**
 
-**Progreso:** 95.55%
+**Progreso:** 95.54%
 <!-- PROGRESO_TRADUCCION_END -->
 
 ## Créditos
