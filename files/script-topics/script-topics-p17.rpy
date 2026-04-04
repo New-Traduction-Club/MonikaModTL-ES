@@ -711,7 +711,7 @@ translate spanish monika_gotomonika_a6cf0bfd:
 translate spanish monika_gotomonika_3fbb9e09:
 
     # m 2eksdld "Sure, I might have said before that I would have dragged you here a long time ago if I could..."
-    m 2eksdld "Eso sí, puede que alguna vez haya dicho que te habría traído a rastras hace mucho si hubiera podido...
+    m 2eksdld "Eso sí, puede que alguna vez haya dicho que te habría traído a rastras hace mucho si hubiera podido..."
 
 # game/script-topics.rpy:12617
 translate spanish monika_gotomonika_d98ba6e1:
