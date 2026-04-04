@@ -9,7 +9,7 @@ translate spanish monika_striped_pajamas_687e7062:
 translate spanish monika_striped_pajamas_253fbbc9:
 
     # m 1eka "...And yet, just like us, they are able to form a meaningful relationship anyway."
-    m 1eka "... Y aun así, igual que nosotros, logran forjar un vínculo muy especial."
+    m 1eka "Y aun así, igual que nosotros, logran forjar un vínculo muy especial."
 
 # game/script-topics.rpy:16403
 translate spanish monika_striped_pajamas_093501d4:
@@ -141,13 +141,13 @@ translate spanish monika_soft_rains_dc597ce3:
 translate spanish monika_soft_rains_173739bc:
 
     # m 1eksdlc "...And it made me think, [player]. If something,{w=0.4} {nw}"
-    m 1eksdlc "... Y me ha dado por pensar, [player]. Si algo,{w=0.4} {nw}"
+    m 1eksdlc "Y me ha dado por pensar, [player]. Si algo,{w=0.4} {nw}"
 
 # game/script-topics.rpy:16448
 translate spanish monika_soft_rains_c91813c9:
 
     # extend 1eksdld "{i}anything{/i}{w=0.4}, happened to you...{w=0.4} {nw}"
-    extend 1eksdld "cualquier cosa{w=0.4} te pasara... {w=0.4} {nw}"
+    extend 1eksdld "cualquier cosa,{w=0.4} te pasara... {w=0.4} {nw}"
 
 # game/script-topics.rpy:16449
 translate spanish monika_soft_rains_8fdf23c7:
@@ -273,13 +273,13 @@ translate spanish monika_hot_springs_c4adc49f:
 translate spanish monika_hot_springs_ef4a45d7:
 
     # m 3eud "There are many different kinds all over the world, but only some are specifically designated for public use."
-    m 3eud "Hay muchos tipos distintos por todo el mundo, pero solo algunos están diseñados de forma específica para uso público."
+    m 3eud "Hay muchos tipos distintos por todo el mundo, pero solo algunos están diseñados de forma específica para uso público,"
 
 # game/script-topics.rpy:16489
 translate spanish monika_hot_springs_2e43e63b:
 
     # m 3hksdlb "...So don't just go jumping into some random pool of boiling water, ahaha!"
-    m 3hksdlb "... Así que no te tires de cabeza al primer charco de agua hirviendo que veas, ja, ja, ja."
+    m 3hksdlb "así que no te tires de cabeza al primer charco de agua hirviendo que veas, ja, ja, ja."
 
 # game/script-topics.rpy:16490
 translate spanish monika_hot_springs_2ae8d448:
@@ -309,13 +309,13 @@ translate spanish monika_hot_springs_6954179a:
 translate spanish monika_hot_springs_a0b3b2dc:
 
     # m 7rkbfsdlb "...Especially since some places don't allow you to wear any sort of cover, either!"
-    m 7rkbfsdlb "... ¡Sobre todo porque en algunos sitios ni siquiera te dejan llevar bañador!"
+    m 7rkbfsdlb "¡Sobre todo porque en algunos sitios ni siquiera te dejan llevar bañador!"
 
 # game/script-topics.rpy:16495
 translate spanish monika_hot_springs_0a288e14:
 
     # m 1tubfu "...Although, I wouldn't mind that so much if it was just with you."
-    m 1tubfu "... Aunque eso no me importaría tanto si estuviera a solas contigo."
+    m 1tubfu "Aunque eso no me importaría tanto si estuviera a solas contigo."
 
 # game/script-topics.rpy:16497
 translate spanish monika_hot_springs_5c5dcc05:
@@ -393,7 +393,7 @@ translate spanish monika_isekai_36683800:
 translate spanish monika_isekai_c33673ea:
 
     # m 1rksdlb "...Especially with how popular of a genre it's become."
-    m 1rksdlb "... Sobre todo por lo popular que se ha vuelto este género."
+    m 1rksdlb "Sobre todo por lo popular que se ha vuelto este género."
 
 # game/script-topics.rpy:16537
 translate spanish monika_isekai_d1685535:

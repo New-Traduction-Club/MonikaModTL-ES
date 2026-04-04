@@ -111,7 +111,7 @@ translate spanish mas_compliment_eyes_2_b72a1ed5:
 translate spanish mas_compliment_eyes_2_ad4a4cef:
 
     # m 2lksdrb "...That's not really the analogy I'd use, but thanks!"
-    m 2lksdrb "... Esa no es la analogía que yo usaría, ¡pero gracias!"
+    m 2lksdrb "Esa no es la analogía que yo usaría, ¡pero gracias!"
 
 # game/script-compliments.rpy:227
 translate spanish mas_compliment_eyes_3_f8931356:

@@ -705,7 +705,7 @@ translate spanish monika_standup_12409cba:
 translate spanish monika_standup_ef4349e3:
 
     # m 2rksdla "...Gosh, I've been saying lots of random things are literature, haven't I?"
-    m 2rksdla "... Dios, he estado diciendo que un montón de cosas al azar son literatura, ¿verdad?"
+    m 2rksdla "Dios, he estado diciendo que un montón de cosas al azar son literatura, ¿verdad?"
 
 # game/script-topics.rpy:7795
 translate spanish monika_standup_ad8918d9:
@@ -765,7 +765,7 @@ translate spanish monika_standup_f9b8ddc1:
 translate spanish monika_standup_e97955b4:
 
     # m 3esd "...What their life experiences were, and who they are today."
-    m 3esd "... Cuáles han sido sus experiencias vitales y quién es hoy en día."
+    m 3esd "Cuáles han sido sus experiencias vitales y quién es hoy en día."
 
 # game/script-topics.rpy:7806
 translate spanish monika_standup_105046a0:
@@ -1065,7 +1065,7 @@ translate spanish monika_clones_a55a65e6:
 translate spanish monika_clones_9eb92787:
 
     # m 1eua "...Even if I'm a single star in a universe of Monikas, I'm still the only one lucky enough to have met you, [player]."
-    m 1eua "... Incluso si soy una sola estrella en un universo de Monikas, sigo siendo la única con la suerte de haberte conocido, [player]."
+    m 1eua "Incluso si soy una sola estrella en un universo de Monikas, sigo siendo la única con la suerte de haberte conocido, [player]."
 
 # game/script-topics.rpy:7896
 translate spanish monika_clones_5493c783:
@@ -1125,13 +1125,13 @@ translate spanish monika_immortal_e87443ac:
 translate spanish monika_immortal_f9bd9d0f:
 
     # m 2lksdlc "Society seems to feel that a relationship with an age gap has problems."
-    m 2lksdlc "La sociedad parece pensar que una relación con una diferencia de edad tiene problemas."
+    m 2lksdlc "La sociedad parece pensar que una relación con una diferencia de edad tiene problemas,"
 
 # game/script-topics.rpy:7916
 translate spanish monika_immortal_046b3275:
 
     # m 2lksdld "...Which is why I brought it up."
-    m 2lksdld "... Y por eso he sacado el tema."
+    m 2lksdld "y por eso he sacado el tema."
 
 # game/script-topics.rpy:7917
 translate spanish monika_immortal_3e8f3097:
@@ -1335,7 +1335,7 @@ translate spanish monika_promisering_a9db7f35:
 translate spanish monika_promisering_cd808cf1:
 
     # m 1dubsa "...And then I could wear it forever."
-    m 1dubsa "... Y entonces podría llevarlo para siempre."
+    m 1dubsa "Y entonces podría llevarlo para siempre."
 
 # game/script-topics.rpy:7990
 translate spanish monika_promisering_07e5353e:
@@ -1401,7 +1401,7 @@ translate spanish monika_sports_0bc7937a:
 translate spanish monika_sports_0974dcc6:
 
     # m 3eua "...You know, when I finally find a way into your reality."
-    m 3eua "... Ya sabes, cuando por fin encuentre la forma de entrar en tu realidad."
+    m 3eua "Ya sabes, cuando por fin encuentre la forma de entrar en tu realidad."
 
 # game/script-topics.rpy:8034
 translate spanish monika_sports_963abe5d:

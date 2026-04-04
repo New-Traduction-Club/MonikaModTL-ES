@@ -1869,7 +1869,7 @@ translate spanish mas_song_my_silver_lining_analysis_06c6ac85:
 translate spanish mas_song_my_silver_lining_analysis_aa951fd4:
 
     # m 3etc "...Though if you were to keep going, like in this next verse..."
-    m 3etc "... Aunque si siguieras, como en el siguiente verso..."
+    m 3etc "Aunque si siguieras, como en el siguiente verso..."
 
 # game/script-songs.rpy:1202
 translate spanish mas_song_my_silver_lining_analysis_f5c992e4:
@@ -1917,7 +1917,7 @@ translate spanish mas_song_my_silver_lining_analysis_b896f0fa:
 translate spanish mas_song_my_silver_lining_analysis_d66b5991:
 
     # m 3eua "...Then I'd say the meaning of the song isn't so much about nihilism as it is about hope."
-    m 3eua "... Entonces diría que el significado de la canción no trata tanto sobre el nihilismo como sobre la esperanza."
+    m 3eua "Entonces diría que el significado de la canción no trata tanto sobre el nihilismo como sobre la esperanza."
 
 # game/script-songs.rpy:1210
 translate spanish mas_song_my_silver_lining_analysis_be6499b6:
@@ -2103,7 +2103,7 @@ translate spanish mas_song_shelter_93f9d8e0:
 translate spanish mas_song_shelter_fc31ba5f:
 
     # m 7hubfb "...You've got me for one!"
-    m 7hubfb "... ¡Para empezar, me tienes a mí!"
+    m 7hubfb "¡Para empezar, me tienes a mí!"
 
 # game/script-songs.rpy:1278
 translate spanish mas_song_shelter_21edc96d:
@@ -2169,7 +2169,7 @@ translate spanish mas_song_shelter_analysis_c878260a:
 translate spanish mas_song_shelter_analysis_dfcb1a09:
 
     # m 3etc "...Although 'song' might not be the right word. {w=0.3}You're missing out on something if you don't have the visuals."
-    m 3etc "... Aunque 'canción' quizá no sea la palabra adecuada. {w=0.3}Te estás perdiendo algo si no tienes las imágenes."
+    m 3etc "Aunque 'canción' quizá no sea la palabra adecuada. {w=0.3}Te estás perdiendo algo si no tienes las imágenes."
 
 # game/script-songs.rpy:1322
 translate spanish mas_song_shelter_analysis_25e2a537:
@@ -2913,13 +2913,13 @@ translate spanish mas_song_wonderwall_bc607aed:
 translate spanish mas_song_wonderwall_6ca2e040:
 
     # m 3rkc "Like this song says, the way from here to your world is a winding road, there's no telling what we'll find beyond the next curve."
-    m 3rkc "Como dice esta canción, el camino de aquí a tu mundo es sinuoso, no se sabe qué encontraremos más allá de la siguiente curva."
+    m 3rkc "Como dice esta canción, el camino de aquí a tu mundo es sinuoso, no se sabe qué encontraremos más allá de la siguiente curva,"
 
 # game/script-songs.rpy:1605
 translate spanish mas_song_wonderwall_09ff81e5:
 
     # m 1dubsa "...But with you by my side, there's no way I could be afraid."
-    m 1dubsa "... Pero contigo a mi lado, no hay forma de que pueda tener miedo."
+    m 1dubsa "pero contigo a mi lado, no hay forma de que pueda tener miedo."
 
 # game/script-songs.rpy:1606
 translate spanish mas_song_wonderwall_093085b9:
@@ -2943,7 +2943,7 @@ translate spanish mas_song_wonderwall_8f674374:
 translate spanish mas_song_wonderwall_26b612bf:
 
     # m 1ekd "...Sometimes, it's a little scary not knowing what's ahead...{w=0.3}{nw}"
-    m 1ekd "... A veces da un poco de miedo no saber lo que hay por delante... {w=0.3}{nw}"
+    m 1ekd "A veces da un poco de miedo no saber lo que hay por delante... {w=0.3}{nw}"
 
 # game/script-songs.rpy:1612
 translate spanish mas_song_wonderwall_c2b33abc:
@@ -2961,13 +2961,13 @@ translate spanish mas_song_wonderwall_e519f04a:
 translate spanish mas_song_wonderwall_a2b8cedd:
 
     # m 1eua "...Would you like to talk about it now?{nw}"
-    m 1eua "... ¿Te gustaría hablar de ello ahora?{nw}"
+    m 1eua "¿Te gustaría hablar de ello ahora?{nw}"
 
 # game/script-songs.rpy:1620
 translate spanish mas_song_wonderwall_17055a3e:
 
     # m "...Would you like to talk about it now?{fast}" nointeract
-    m "... ¿Te gustaría hablar de ello ahora?{fast}" nointeract
+    m "¿Te gustaría hablar de ello ahora?{fast}" nointeract
 
 # game/script-songs.rpy:1623
 translate spanish mas_song_wonderwall_f754122b:

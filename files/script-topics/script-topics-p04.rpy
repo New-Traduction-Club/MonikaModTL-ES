@@ -248,7 +248,7 @@ translate spanish monika_festival_68cf2061:
 translate spanish monika_festival_ab8fc002:
 
     # m 1tsc "...Just more potential obstacles to get between us."
-    m 1tsc "... Solo más obstáculos potenciales para interponerse entre nosotros."
+    m 1tsc "Solo más obstáculos potenciales para interponerse entre nosotros."
 
 # game/script-topics.rpy:3242
 translate spanish monika_festival_785fc1ba:
