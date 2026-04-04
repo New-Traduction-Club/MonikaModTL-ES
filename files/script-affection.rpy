@@ -1247,7 +1247,7 @@ translate spanish strings:
 
     # game/script-affection.rpy:1734
     old "Something on your mind?"
-    new "¿Algo en tu mente?"
+    new "¿Qué piensas?"
 
     # game/script-affection.rpy:1734
     old "Yes, [player]?"

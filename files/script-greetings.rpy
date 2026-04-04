@@ -882,7 +882,7 @@ translate spanish greeting_esperanto_19428ff1:
 translate spanish greeting_esperanto_3346b792:
 
     # m 3esa "That was just a bit of Esperanto...{w=0.5}{nw}"
-    m 3esa "Eso fue solo un poco de esperanto...{w=0.5}{nw}"
+    m 3esa "Solo hablaba Esperanto...{w=0.5}{nw}"
 
 # game/script-greetings.rpy:845
 translate spanish greeting_esperanto_9d66d23f:

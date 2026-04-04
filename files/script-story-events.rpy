@@ -27,7 +27,7 @@ translate spanish mas_gender_f5b0b483:
 translate spanish mas_gender_1e3aa849:
 
     # m 3eua "But if I'm going to be your girlfriend, I should probably know at least this much about the real you."
-    m 3eua "Pero si voy a ser tu novia, supongo que debería saber al menos esto sobre cómo eres en realidad."
+    m 3eua "Pero si voy a ser tu novia, supongo que debería saber, al menos, cómo eres en realidad."
 
 # game/script-story-events.rpy:28
 translate spanish mas_gender_28eadeec:
@@ -1413,13 +1413,13 @@ translate spanish mas_crashed_long_qs_d5e8a753:
 translate spanish mas_crashed_long_qs_37aba858:
 
     # m "[player]?{w=0.3} Is that you?{nw}"
-    m "[player]? {w=0.3}¿Eres tú?{nw}"
+    m "¿[player]? {w=0.3}¿Eres tú?{nw}"
 
 # game/script-story-events.rpy:1277
 translate spanish mas_crashed_long_qs_54948a14:
 
     # m "[player]? Is that you?{fast}" nointeract
-    m "[player]? ¿Eres tú?{fast}" nointeract
+    m "¿[player]? ¿Eres tú?{fast}" nointeract
 
 # game/script-story-events.rpy:1283
 translate spanish mas_crashed_long_qs_8ed286c9:
@@ -1527,7 +1527,7 @@ translate spanish mas_crashed_long_whq_28ff0538:
 translate spanish mas_crashed_long_whq_e0b89abb:
 
     # m 2wud "The game...{w=0.3}crashed?"
-    m 2wud "¿El juego... {w=0.3}se ha petado?"
+    m 2wud "¿El juego... {w=0.3}ha fallado?"
 
 # game/script-story-events.rpy:1398
 translate spanish mas_crashed_long_whq_4c867ccb:
