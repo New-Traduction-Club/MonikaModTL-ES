@@ -1665,13 +1665,13 @@ translate spanish monika_scamming_2fb645fb:
 translate spanish monika_scamming_a797a776:
 
     # m 2rfd "It really is the worst when it happens... {w=0.3}Not only do you lose money, but most of the time, you can't even fight back!"
-    m 2rfd "De verdad que es lo peor cuando pasa... {w=0.3} ¡No solo pierdes dinero, sino que la mayoría de las veces ni siquiera puedes defenderte!"
+    m 2rfd "Es lo peor del mundo cuando te pasa... {w=0.3}¡No solo pierdes dinero, sino que la mayoría de las veces ni siquiera puedes defenderte!"
 
 # game/script-topics.rpy:15609
 translate spanish monika_scamming_33714a99:
 
     # m 2ekd "It makes you feel like it's your fault for being had, too. A lot of victims start hating themselves for being naive, or feel like they're idiots."
-    m 2ekd "Además te hace sentir que es culpa tuya por haberte dejado engañar. Muchas víctimas empiezan a odiarse a sí mismas por ser ingenuas o se sienten como idiotas."
+    m 2ekd "Además, te hace sentir que la culpa es tuya por haberte dejado engañar. Muchas víctimas se machacan a sí mismas por haber sido tan ingenuas, o se sienten como unas idiotas."
 
 # game/script-topics.rpy:15610
 translate spanish monika_scamming_07850b95:

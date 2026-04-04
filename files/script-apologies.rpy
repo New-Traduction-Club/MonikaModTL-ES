@@ -237,19 +237,19 @@ translate spanish mas_apology_bad_nickname_7ab16605:
 translate spanish mas_apology_bad_nickname_9369cee7:
 
     # m 2dsc "I accept your apology, but please don't do that again. Okay?"
-    m 2dsc "Acepto tu disculpa, pero por favor, no vuelvas a hacerlo, ¿vale?"
+    m 2dsc "Acepto tus disculpas, pero por favor, no vuelvas a hacerlo, ¿vale?"
 
 # game/script-apologies.rpy:286
 translate spanish mas_apology_bad_nickname_9e77f516:
 
     # m 2dsc "I can't believe you did that {i}again{/i}."
-    m 2dsc "De verdad que no me puedo creer que lo hayas vuelto a hacer."
+    m 2dsc "Me parece increíble que lo hayas vuelto a hacer."
 
 # game/script-apologies.rpy:287
 translate spanish mas_apology_bad_nickname_6741385b:
 
     # m 2dkd "Even after I gave you a second chance."
-    m 2dkd "Y eso que te di una segunda oportunidad."
+    m 2dkd "Sabiendo que te di una segunda oportunidad."
 
 # game/script-apologies.rpy:288
 translate spanish mas_apology_bad_nickname_d422b194:
@@ -261,7 +261,7 @@ translate spanish mas_apology_bad_nickname_d422b194:
 translate spanish mas_apology_bad_nickname_e42ec9b8:
 
     # m 2tfc "Don't ever do that again."
-    m 2tfc "No vuelvas a hacer eso nunca."
+    m 2tfc "No vuelvas a hacerlo nunca."
 
 # game/script-apologies.rpy:294
 translate spanish mas_apology_bad_nickname_f324b020:

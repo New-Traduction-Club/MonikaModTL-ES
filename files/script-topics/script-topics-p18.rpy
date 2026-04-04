@@ -1125,19 +1125,19 @@ translate spanish monika_dating_startdate_confirm_misclick_078b56ca:
 translate spanish monika_dating_startdate_confirm_misclick_dcfe08ce:
 
     # m 2rksdlc "That joke was a little mean."
-    m 2rksdlc "Esa broma ha sido un poco cruel."
+    m 2rksdlc "Esa broma ha sido un poco pesada."
 
 # game/script-topics.rpy:13804
 translate spanish monika_dating_startdate_confirm_misclick_6c6c30f3:
 
     # m 2eksdlc "You really had me worried there."
-    m 2eksdlc "De verdad que me tenías preocupada."
+    m 2eksdlc "Me habías dado un buen susto."
 
 # game/script-topics.rpy:13805
 translate spanish monika_dating_startdate_confirm_misclick_b796ac68:
 
     # m "Don't play around like that, okay?"
-    m "No juegues así, ¿vale?"
+    m "No juegues con esas cosas, ¿vale?"
 
 # game/script-topics.rpy:13818
 translate spanish monika_dating_startdate_confirm_tooslow_3515d1cd:
@@ -1575,7 +1575,7 @@ translate spanish monika_whydoyouloveme_7409077d:
 translate spanish monika_whydoyouloveme_26e3d489:
 
     # m 3ekbsa "You truly are my [hero], [mas_get_player_nickname(regex_replace_with_nullstr='my ')]~"
-    m 3ekbsa "De verdad que eres mi [hero], [mas_get_player_nickname(regex_replace_with_nullstr='my ')]."
+    m 3ekbsa "Eres mi verdader[end_letter_gender] [hero], [mas_get_player_nickname(regex_replace_with_nullstr='my ')]."
 
 # game/script-topics.rpy:14007
 translate spanish monika_whydoyouloveme_tease_058f0157:

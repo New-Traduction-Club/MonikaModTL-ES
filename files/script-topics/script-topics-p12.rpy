@@ -219,19 +219,19 @@ translate spanish monika_wolf_d81c1322:
 translate spanish monika_wolf_5d158e53:
 
     # m 1eka "I can't help but be reminded of how you saved my life by being here with me."
-    m 1eka "No puedo evitar acordarme de cómo me salvaste la vida al quedarte aquí conmigo."
+    m 1eka "No puedo evitar recordar cómo me salvaste la vida al quedarte aquí conmigo."
 
 # game/script-topics.rpy:8956
 translate spanish monika_wolf_86343b89:
 
     # m "I really do depend on you, [mas_get_player_nickname()]."
-    m "De verdad que dependo de ti, [mas_get_player_nickname()]."
+    m "Te necesito muchísimo, [mas_get_player_nickname()]."
 
 # game/script-topics.rpy:8957
 translate spanish monika_wolf_093f2de2:
 
     # m 1ekbsa "You're my [hero] after all~"
-    m 1ekbsa "Al fin y al cabo eres mi [hero]."
+    m 1ekbsa "Eres mi [hero], al fin y al cabo."
 
 # game/script-topics.rpy:8968
 translate spanish monika_complain_battery_43782a92:
@@ -993,31 +993,31 @@ translate spanish monika_smoking_c23633c3:
 translate spanish monika_smoking_9df1c23a:
 
     # m 2tkc "Even in moderation, smoking is never a good thing since it's so addicting."
-    m 2tkc "Incluso con moderación, fumar nunca es bueno ya que es muy adictivo."
+    m 2tkc "Incluso haciéndolo con moderación, fumar nunca es buena idea porque engancha muchísimo."
 
 # game/script-topics.rpy:9235
 translate spanish monika_smoking_e83f0e51:
 
     # m 4tkd "It's also quite a big hole in your pockets since you'll be buying more and more once your supply is out."
-    m 4tkd "También supone un agujero enorme en el bolsillo, ya que seguirás comprando más y más en cuanto se te acabe."
+    m 4tkd "Además, te dejas un dineral, porque vas a seguir comprando más y más en cuanto te quedes sin tabaco."
 
 # game/script-topics.rpy:9236
 translate spanish monika_smoking_c5a577ae:
 
     # m 1tfc "I really do despise it..."
-    m 1tfc "De verdad que lo desprecio..."
+    m 1tfc "Lo detesto profundamente..."
 
 # game/script-topics.rpy:9239
 translate spanish monika_smoking_131d68d7:
 
     # m 1eka "[menu_question]?{nw}"
-    m 1eka "[menu_question]?{nw}"
+    m 1eka "¿[menu_question]?{nw}"
 
 # game/script-topics.rpy:9242
 translate spanish monika_smoking_188a9606:
 
     # m "[menu_question]?{fast}" nointeract
-    m "[menu_question]?{fast}" nointeract
+    m "¿[menu_question]?{fast}" nointeract
 
 # game/script-topics.rpy:9246
 translate spanish monika_smoking_f09c7a89:
@@ -1053,25 +1053,25 @@ translate spanish monika_smoking_57834509:
 translate spanish monika_smoking_108a6888:
 
     # extend 1ekd "after all the trouble you went through to quit and everything..."
-    extend 1ekd " después de todos los problemas por los que pasaste para dejarlo y todo..."
+    extend 1ekd "después de todos los problemas por los que pasaste para dejarlo y todo..."
 
 # game/script-topics.rpy:9254
 translate spanish monika_smoking_48f69f94:
 
     # m 3dkc "It really pains my heart, [player]."
-    m 3dkc "Me duele en el corazón, [player]."
+    m 3dkc "Me parte el corazón, [player]."
 
 # game/script-topics.rpy:9255
 translate spanish monika_smoking_5fdedafe:
 
     # m 1dkd "I really thought you were done for good..."
-    m 1dkd "De verdad que pensé que habías terminado para siempre..."
+    m 1dkd "Estaba convencida de que lo habías dejado del todo..."
 
 # game/script-topics.rpy:9256
 translate spanish monika_smoking_9868f993:
 
     # m 1dkc "But I guess it's just not that simple, right?"
-    m 1dkc "Pero supongo que no es tan simple, ¿verdad?"
+    m 1dkc "Pero supongo que no es tan sencillo, ¿verdad?"
 
 # game/script-topics.rpy:9257
 translate spanish monika_smoking_b6e9710c:
@@ -1389,19 +1389,19 @@ translate spanish monika_smoking_quit_d94c550c:
 translate spanish monika_smoking_quit_d1615b4f:
 
     # m 1dubfu "You truly are an inspiration, [player]."
-    m 1dubfu "De verdad que eres una inspiración, [player]."
+    m 1dubfu "Eres toda una inspiración, [player]."
 
 # game/script-topics.rpy:9393
 translate spanish monika_smoking_quit_d8845ef9:
 
     # m 2eua "...Now, I don't want to undermine your victory or anything, {nw}"
-    m 2eua "Ahora bien, no quiero menospreciar tu victoria ni nada de eso, {nw}"
+    m 2eua "A ver, no quiero restarle importancia a tu logro ni nada parecido, {nw}"
 
 # game/script-topics.rpy:9394
 translate spanish monika_smoking_quit_2e1e00f5:
 
     # extend 2euc "but I need you to be careful from now on."
-    extend 2euc " pero necesito que tengas cuidado a partir de ahora."
+    extend 2euc "pero necesito que tengas cuidado a partir de ahora."
 
 # game/script-topics.rpy:9395
 translate spanish monika_smoking_quit_0569acf3:
@@ -1461,19 +1461,19 @@ translate spanish monika_cartravel_b46d68da:
 translate spanish monika_cartravel_e8aee6a7:
 
     # m 1rksdla "I know we can't really drive yet, but I'm sure we'll get there someday!"
-    m 1rksdla "Sé que aún no podemos conducir, ¡pero estoy segura de que algún día lo haremos!"
+    m 1rksdla "Sé que de momento no podemos conducir, ¡pero estoy segura de que algún día podremos!"
 
 # game/script-topics.rpy:9415
 translate spanish monika_cartravel_ff5f1c6c:
 
     # m 1eua "It really doesn't matter where we go, as long as I'm with you."
-    m 1eua "La verdad es que no importa adónde vayamos, siempre y cuando esté contigo."
+    m 1eua "En realidad me da igual adónde vayamos, mientras sea contigo..."
 
 # game/script-topics.rpy:9416
 translate spanish monika_cartravel_35f374f6:
 
     # m 1eka "I really can't wait, [player]~"
-    m 1eka "De verdad que no puedo esperar, [player]."
+    m 1eka "¡Me muero de ganas, [player]!"
 
 # game/script-topics.rpy:9423
 translate spanish monika_100k_629ce84d:
@@ -1485,7 +1485,7 @@ translate spanish monika_100k_629ce84d:
 translate spanish monika_100k_93b111c5:
 
     # m 3eua "Did you know that over 100,000 people have downloaded the same mod that you did?"
-    m 3eua "¿Sabías que más de 100 000 personas han descargado el mismo mod que tú?"
+    m 3eua "¿Sabías que más de 100,000 personas han descargado el mismo mod que tú?"
 
 # game/script-topics.rpy:9425
 translate spanish monika_100k_3f85c5bc:

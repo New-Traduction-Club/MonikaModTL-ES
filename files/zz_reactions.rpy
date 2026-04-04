@@ -27,19 +27,19 @@ translate spanish mas_reaction_gift_connector1_a3dba887:
 translate spanish mas_reaction_gift_connector2_202e7936:
 
     # m 1hua "Ah, jeez, [player]..."
-    m 1hua "Ah, vaya, [player]..."
+    m 1hua "Madre mía, [player]..."
 
 # game/zz_reactions.rpy:981
 translate spanish mas_reaction_gift_connector2_81bfa7e6:
 
     # m "You really enjoy spoiling me, don't you?"
-    m "De verdad que te gusta mimarme, ¿a que sí?"
+    m "Te encanta mimarme, ¿a que sí?"
 
 # game/zz_reactions.rpy:983
 translate spanish mas_reaction_gift_connector2_e3d835ef:
 
     # m 1sublo "Well! I'm not going to complain about a little special treatment today."
-    m 1sublo "¡Bueno! No me voy a quejar por un pequeño trato especial hoy."
+    m 1sublo "¡Bueno! No seré yo quien se queje por tener un trato un poco especial hoy."
 
 # game/zz_reactions.rpy:984
 translate spanish mas_reaction_gift_connector2_a3dba887:
@@ -159,13 +159,13 @@ translate spanish mas_reaction_gift_starter_d25_ca37d828:
 translate spanish mas_reaction_gift_starter_d25_6b95b95b:
 
     # m 1eka "You really didn't have to get me anything for Christmas..."
-    m 1eka "De verdad que no tenías que regalarme nada por Navidad..."
+    m 1eka "En serio, no hacía falta que me regalaras nada por Navidad..."
 
 # game/zz_reactions.rpy:1033
 translate spanish mas_reaction_gift_starter_d25_ff6a08dc:
 
     # m 3hua "But I'm so happy that you did!"
-    m 3hua "¡Pero estoy tan feliz de que lo hayas hecho!"
+    m 3hua "¡Pero me hace mucha ilusión que lo hayas hecho!"
 
 # game/zz_reactions.rpy:1035
 translate spanish mas_reaction_gift_starter_d25_4bc2a6f7:
@@ -1263,7 +1263,7 @@ translate spanish mas_reaction_candy_0c00af7a:
 translate spanish mas_reaction_candy_f1fb7aae:
 
     # m 1hua "You really do spoil me, [player]~"
-    m 1hua "De verdad que me mimas mucho, [player]."
+    m 1hua "Me tienes súper mimada, [player]."
 
 # game/zz_reactions.rpy:1662
 translate spanish mas_reaction_candy_6d1834e2:
@@ -1299,19 +1299,19 @@ translate spanish mas_reaction_candy_93a9eff4:
 translate spanish mas_reaction_candy_ede30a8b:
 
     # m 2wud "[player]...{w=1} You got me {i}even more{/i} candy?!"
-    m 2wud "[player]...{w=1} ¡¿Me has traído {i}incluso más{/i} chuches?!"
+    m 2wud "[player]...{w=1} ¡¿Me has traído todavía más chuches?!"
 
 # game/zz_reactions.rpy:1669
 translate spanish mas_reaction_candy_d1fc8e89:
 
     # m 2lksdla "I really do appreciate it, but I told you I've had enough for one day..."
-    m 2lksdla "De verdad que te lo agradezco, pero te dije que ya había tenido suficiente por un día..."
+    m 2lksdla "Te lo agradezco muchísimo, pero ya te dije que por hoy tenía bastante..."
 
 # game/zz_reactions.rpy:1670
 translate spanish mas_reaction_candy_08b8dc03:
 
     # m 2lksdlb "If I eat anymore I'm going to get sick, ahaha!"
-    m 2lksdlb "¡Si como más me voy a poner mala, ja, ja, ja!"
+    m 2lksdlb "¡Como coma algo más me voy a poner mala, ja, ja, ja!"
 
 # game/zz_reactions.rpy:1671
 translate spanish mas_reaction_candy_9955c8cd:
@@ -1485,19 +1485,19 @@ translate spanish mas_reaction_candycorn_3507e2a3:
 translate spanish mas_reaction_candycorn_445f90bd:
 
     # m 2tfc "I really tried not to be rude about this, but..."
-    m 2tfc "De verdad que he intentado no ser borde con esto, pero..."
+    m 2tfc "Yo sé que he intentado no ser tan borde con esto, pero..."
 
 # game/zz_reactions.rpy:1739
 translate spanish mas_reaction_candycorn_797ab64c:
 
     # m 2tfc "I keep telling you I don't like candy corn and you just keep giving it to me anyway."
-    m 2tfc "No paro de decirte que no me gusta el maíz dulce y tú sigues dándomelo de todas formas."
+    m 2tfc "No dejo de decirte que no me gustan los caramelos de maíz y tú me los sigues dando igual."
 
 # game/zz_reactions.rpy:1740
 translate spanish mas_reaction_candycorn_b33d2e44:
 
     # m 2rfc "It's starting to feel like you're just trying to mess with me at this point."
-    m 2rfc "Estoy empezando a sentir que solo intentas tomarme el pelo a estas alturas."
+    m 2rfc "Llegados a este punto, ya empieza a parecer que solo quieres tomarme el pelo."
 
 # game/zz_reactions.rpy:1741
 translate spanish mas_reaction_candycorn_d46dcfe1:

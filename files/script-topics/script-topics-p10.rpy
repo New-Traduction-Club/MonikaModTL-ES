@@ -255,13 +255,13 @@ translate spanish monika_pets_6623a217:
 translate spanish monika_pets_224f4ff5:
 
     # m 1eka "It really does keep me from feeling lonely when you're not here."
-    m 1eka "De verdad que evita que me sienta sola cuando no estás aquí."
+    m 1eka "Me hace muy buena compañía cuando no estás aquí."
 
 # game/script-topics.rpy:7628
 translate spanish monika_pets_fb7e5fbb:
 
     # m 3hua "It was such a wonderful gift~"
-    m 3hua "Fue un regalo maravilloso."
+    m 3hua "Ha sido un regalo súper bonito."
 
 # game/script-topics.rpy:7643
 translate spanish monika_plushie_9022102e:
@@ -393,25 +393,25 @@ translate spanish monika_cats_189c56ae:
 translate spanish monika_cats_e8715b9c:
 
     # m "Back then, you'd see them mostly associated with rich nobles and other higher classes in their society."
-    m "Por aquel entonces, se les veía sobre todo asociados a los nobles ricos y a otras clases altas de su sociedad."
+    m "Por aquel entonces, se los asociaba sobre todo con nobles adinerados y con otras clases altas de la sociedad."
 
 # game/script-topics.rpy:7688
 translate spanish monika_cats_c1547efe:
 
     # m 1eua "It's amazing how far people would take their love with their pets."
-    m 1eua "Es increíble hasta dónde puede llevar la gente el amor por sus mascotas."
+    m 1eua "Es increíble hasta qué punto llegaba el amor de la gente por sus mascotas."
 
 # game/script-topics.rpy:7689
 translate spanish monika_cats_00dce2f9:
 
     # m 1tku "They {i}really{/i} loved cats, [player]."
-    m 1tku "De verdad que adoraban a los gatos, [player]."
+    m 1tku "Sí que adoraban a los gatos con locura."
 
 # game/script-topics.rpy:7690
 translate spanish monika_cats_107ccc7e:
 
     # m 3hua "And people still do today!"
-    m 3hua "¡Y la gente lo sigue haciendo hoy en día!"
+    m 3hua "¡Y a día de hoy la gente los sigue adorando!"
 
 # game/script-topics.rpy:7691
 translate spanish monika_cats_a717a07c:

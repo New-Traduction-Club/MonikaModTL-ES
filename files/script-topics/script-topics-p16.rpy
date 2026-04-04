@@ -123,19 +123,19 @@ translate spanish monika_bullying_aa5cdb7a:
 translate spanish monika_bullying_d5f15363:
 
     # m 2hua "Ah, that's such a relief to hear!"
-    m 2hua "¡Ah, es un gran alivio oír eso!"
+    m 2hua "¡Ah, qué alivio escuchar eso!"
 
 # game/script-topics.rpy:11686
 translate spanish monika_bullying_6136f027:
 
     # m 4eka "I'm so glad you don't have to deal with bullying, [player]..."
-    m 4eka "Me alegra mucho que no tengas que lidiar con el acoso, [player]..."
+    m 4eka "Me alegro muchísimo de que no tengas que sufrir acoso, [player]..."
 
 # game/script-topics.rpy:11687
 translate spanish monika_bullying_37936051:
 
     # m 4hua "It really puts my mind at ease."
-    m 4hua "De verdad que me tranquiliza."
+    m 4hua "Me quedo mucho más tranquila."
 
 # game/script-topics.rpy:11690
 translate spanish monika_bullying_9f85d69c:
@@ -1467,13 +1467,13 @@ translate spanish monika_grad_speech_ignored_lock_9acaa9a3:
 translate spanish monika_grad_speech_ignored_lock_e7ad4273:
 
     # m 2tfc "I really don't.{w=1}{nw}"
-    m 2tfc "De verdad que no.{w=1}{nw}"
+    m 2tfc "Te lo aseguro.{w=1}{nw}"
 
 # game/script-topics.rpy:12233
 translate spanish monika_grad_speech_ignored_lock_c1d76a91:
 
     # m 2lfc "All I ever ask is that you care... That's it.{w=1}{nw}"
-    m 2lfc "Lo único que te pido es que te importe... Eso es todo.{w=1}{nw}"
+    m 2lfc "Lo único que pido es que muestres un poco de interés... Nada más.{w=1}{nw}"
 
 # game/script-topics.rpy:12234
 translate spanish monika_grad_speech_ignored_lock_a5fe8531:

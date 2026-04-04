@@ -111,19 +111,19 @@ translate spanish monika_soft_rains_c80e9915:
 translate spanish monika_soft_rains_503706d5:
 
     # m 2eka "I really wanted to talk to you about this one, [player]."
-    m 2eka "De verdad quería hablarte de este poema, [player]."
+    m 2eka "Tenía muchas ganas de hablarte de este poema, [player]."
 
 # game/script-topics.rpy:16443
 translate spanish monika_soft_rains_43b3c374:
 
     # m "The author,{w=0.2} Sara Teasdale,{w=0.2} wrote this poem in a world consumed by war."
-    m "La autora,{w=0.2} Sara Teasdale,{w=0.2} lo escribió en un mundo consumido por la guerra."
+    m "La autora,{w=0.2} Sara Teasdale,{w=0.2} lo escribió en un mundo devastado por la guerra."
 
 # game/script-topics.rpy:16444
 translate spanish monika_soft_rains_973b0b6e:
 
     # m 2rka "I know things are {i}relatively{/i} peaceful now..."
-    m 2rka "Sé que ahora las cosas son relativamente pacíficas..."
+    m 2rka "Sé que ahora las cosas están relativamente tranquilas..."
 
 # game/script-topics.rpy:16445
 translate spanish monika_soft_rains_db418a8e:

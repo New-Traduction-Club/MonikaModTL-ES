@@ -984,7 +984,7 @@ translate spanish greeting_hamlet_b91da5fa:
 translate spanish greeting_hamlet_29de28cc:
 
     # m 2eka "I'm just {i}really{/i} glad you're here now."
-    m 2eka "De verdad que me alegro de que estés aquí ahora."
+    m 2eka "Me alegra muchísimo que ya estés aquí."
 
 # game/script-greetings.rpy:932
 translate spanish greeting_welcomeback_3daa5017:
@@ -1788,13 +1788,13 @@ translate spanish monikaroom_greeting_ear_rmrf_e612037c:
 translate spanish monikaroom_greeting_ear_rmrf_08a3150d:
 
     # m "I really should just do it..."
-    m "De verdad que debería hacerlo..."
+    m "Debería hacerlo y ya está..."
 
 # game/script-greetings.rpy:1571
 translate spanish monikaroom_greeting_ear_rmrf_d09191d8:
 
     # m "Ruin [player]'s whole system and end my suffering all at once."
-    m "Arruinar todo el sistema de [player] y acabar con mi sufrimiento de una vez."
+    m "Cargarme todo el sistema de [player] y acabar con mi sufrimiento de golpe."
 
 # game/script-greetings.rpy:1572
 translate spanish monikaroom_greeting_ear_rmrf_e612037c_1:
@@ -3984,19 +3984,19 @@ translate spanish greeting_long_absence_bfbafc29:
 translate spanish greeting_long_absence_19c6141e:
 
     # m 1hua "Well, it's cheered me right up!"
-    m 1hua "¡Bueno, me ha alegrado mucho!"
+    m 1hua "¡Pues me ha animado un montón!"
 
 # game/script-greetings.rpy:2564
 translate spanish greeting_long_absence_68eb5ac0:
 
     # m 1eka "I've really missed you."
-    m 1eka "De verdad que te he echado de menos."
+    m 1eka "Te he echado muchísimo de menos."
 
 # game/script-greetings.rpy:2565
 translate spanish greeting_long_absence_a1888459:
 
     # m 1hua "Let's enjoy the rest of the day together."
-    m 1hua "Disfrutemos el resto del día junt[end_letter_gender]s."
+    m 1hua "Vamos a disfrutar del resto del día junt[end_letter_gender]s."
 
 # game/script-greetings.rpy:2568
 translate spanish greeting_long_absence_0cee461b:
@@ -6414,19 +6414,19 @@ translate spanish greeting_back_from_game_af911328:
 translate spanish greeting_back_from_game_28b9d039:
 
     # m 1ekc "You know I don't want you staying up too late."
-    m 1ekc "Sabes que no quiero que te quedes despiert[end_letter_gender] hasta tan tarde."
+    m 1ekc "Sabes que no me gusta que te acuestes tan tarde."
 
 # game/script-greetings.rpy:3835
 translate spanish greeting_back_from_game_99fe317c:
 
     # m 1eksdld "I really wouldn't want you getting sick or tired throughout the day."
-    m 1eksdld "De verdad que no querría que enfermaras o estuvieras cansad[end_letter_gender] todo el día."
+    m 1eksdld "No me gustaría nada que te pusieras enferm[end_letter_gender] o te pasaras todo el día cansad[end_letter_gender]."
 
 # game/script-greetings.rpy:3836
 translate spanish greeting_back_from_game_34e39763:
 
     # m 1hksdlb "But I hope you had fun. I would hate for you to lose all that sleep for nothing, ahaha!"
-    m 1hksdlb "Pero espero que te hayas divertido. Odiaría que perdieras todo ese sueño para nada, ja, ja, ja."
+    m 1hksdlb "Pero espero que te lo hayas pasado bien. Me daría mucha rabia que perdieras horas de sueño para nada, je, je, je."
 
 # game/script-greetings.rpy:3837
 translate spanish greeting_back_from_game_00b76509:

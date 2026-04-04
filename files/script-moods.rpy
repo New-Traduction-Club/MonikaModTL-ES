@@ -537,19 +537,19 @@ translate spanish mas_mood_tired_84d951d5:
 translate spanish mas_mood_tired_9304fdea:
 
     # m "You're still here?"
-    m "¿Todavía sigues aquí?"
+    m "¿Aún sigues aquí?"
 
 # game/script-moods.rpy:317
 translate spanish mas_mood_tired_0acd74cf:
 
     # m 4lksdlc "You should really be in bed right now."
-    m 4lksdlc "De verdad que ya deberías estar en la cama."
+    m 4lksdlc "A estas horas ya tendrías que estar acostad[end_letter_gender]."
 
 # game/script-moods.rpy:318
 translate spanish mas_mood_tired_8df12da8:
 
     # m 2dsc "At this point, I'm not even sure if you would call this late or early..."
-    m 2dsc "A estas alturas, no estoy segura de si llamar a esto tarde o temprano..."
+    m 2dsc "A estas alturas, ya ni siquiera sé si decir que es muy tarde o muy temprano..."
 
 # game/script-moods.rpy:319
 translate spanish mas_mood_tired_7ae83944:
@@ -561,13 +561,13 @@ translate spanish mas_mood_tired_7ae83944:
 translate spanish mas_mood_tired_4d987022:
 
     # m "You should {i}really{/i} get to bed before it's time to start the day."
-    m "De verdad que deberías irte a dormir antes de que empiece el día."
+    m "En serio, deberías irte a dormir antes de que empiece el día."
 
 # game/script-moods.rpy:321
 translate spanish mas_mood_tired_ea0e9d5a:
 
     # m 1eka "I wouldn't want you falling asleep at a bad time."
-    m 1eka "No me gustaría que te quedases dormid[end_letter_gender] en mal momento."
+    m 1eka "No me gustaría nada que te quedaras dormid[end_letter_gender] en un mal momento."
 
 # game/script-moods.rpy:322
 translate spanish mas_mood_tired_e3676293:

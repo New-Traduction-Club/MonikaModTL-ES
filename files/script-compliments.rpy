@@ -951,13 +951,13 @@ translate spanish mas_compliment_pong_4649c1bb:
 translate spanish mas_compliment_pong_4bb75334:
 
     # m 1tsb "You really don't have to let me win."
-    m 1tsb "De verdad que no tienes que dejarme ganar."
+    m 1tsb "En serio, no hace falta que me dejes ganar."
 
 # game/script-compliments.rpy:759
 translate spanish mas_compliment_pong_5db9532a:
 
     # m 3tku "And admitting that you've seriously lost to me won't make me think less of you."
-    m 3tku "Y admitir que has perdido en serio contra mí no hará que piense menos de ti."
+    m 3tku "Y reconocer que has perdido de verdad no va a hacer que piense peor de ti."
 
 # game/script-compliments.rpy:760
 translate spanish mas_compliment_pong_36ebfba7:

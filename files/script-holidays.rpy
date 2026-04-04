@@ -1515,13 +1515,13 @@ translate spanish mas_d25_gift_end_af911328:
 translate spanish mas_d25_gift_end_2d9c9306:
 
     # m 3eka "You really didn't have to get me anything for Christmas...{w=0.3} {nw}"
-    m 3eka "De verdad que no tenías que regalarme nada por Navidad... {w=0.3}{nw}"
+    m 3eka "En serio, no hacía falta que me regalaras nada por Navidad... {w=0.3}{nw}"
 
 # game/script-holidays.rpy:2483
 translate spanish mas_d25_gift_end_7c92d817:
 
     # extend 3dku "Just having you here with me was more than enough."
-    extend 3dku "Solo tenerte aquí conmigo era más que suficiente."
+    extend 3dku "Con tenerte aquí a mi lado me bastaba y me sobraba."
 
 # game/script-holidays.rpy:2485
 translate spanish mas_d25_gift_end_996cbd19:
@@ -2343,7 +2343,7 @@ translate spanish mas_d25_spent_time_monika_b79fd8c4:
 translate spanish mas_d25_spent_time_monika_4b26db92:
 
     # m 3eka "I know it's a really busy day, but just knowing you made time for me..."
-    m 3eka "Sé que es un día muy ajetreado, pero solo saber que sacaste tiempo para mí..."
+    m 3eka "Sé que es un día de mucho lío, pero solo con saber que has sacado tiempo para mí..."
 
 # game/script-holidays.rpy:3165
 translate spanish mas_d25_spent_time_monika_10bf223c:
@@ -2355,7 +2355,7 @@ translate spanish mas_d25_spent_time_monika_10bf223c:
 translate spanish mas_d25_spent_time_monika_14897325:
 
     # m 3hua "It really made this a truly special day~"
-    m 3hua "De verdad que has hecho que este día sea realmente especial."
+    m 3hua "Has conseguido que este día sea súper especial."
 
 # game/script-holidays.rpy:3169
 translate spanish mas_d25_spent_time_monika_830d5832:
@@ -3585,19 +3585,19 @@ translate spanish mas_d25_night_before_christmas_ce564367:
 translate spanish mas_d25_monika_lingerie_reveal_ee1ab498:
 
     # m 1hub "I've always found the days leading up to Christmas so exciting, [player]!"
-    m 1hub "¡Siempre me han parecido muy emocionantes los días previos a la Navidad, [player]!"
+    m 1hub "¡Los días previos a la Navidad siempre me han parecido súper emocionantes, [player]!"
 
 # game/script-holidays.rpy:3702
 translate spanish mas_d25_monika_lingerie_reveal_a0be0689:
 
     # m 3sua "The anticipation, the seemingly magical aura of the season...there's just something special about it."
-    m 3sua "La anticipación, el aura aparentemente mágica de la temporada... simplemente tiene algo especial."
+    m 3sua "La expectación, el ambiente casi mágico de estas fechas... tiene un encanto súper especial."
 
 # game/script-holidays.rpy:3703
 translate spanish mas_d25_monika_lingerie_reveal_b2ad21c2:
 
     # m 1dkbsu "It really is my favorite time of year."
-    m 1dkbsu "De verdad que es mi época favorita del año."
+    m 1dkbsu "Es mi época preferida del año, sin duda."
 
 # game/script-holidays.rpy:3704
 translate spanish mas_d25_monika_lingerie_reveal_e612037c:
@@ -3933,19 +3933,19 @@ translate spanish bye_d25e_first_time_out_d2ec9bd9:
 translate spanish bye_d25e_second_time_out_78a37f08:
 
     # m 1wud "Wow, we're going out again today, [player]?"
-    m 1wud "Vaya, ¿volvemos a salir hoy, [player]?"
+    m 1wud "¡Hala! ¿Volvemos a salir hoy, [player]?"
 
 # game/script-holidays.rpy:3894
 translate spanish bye_d25e_second_time_out_d93208fc:
 
     # m 3hua "You really must have a lot of people you need to visit on Christmas Eve..."
-    m 3hua "De verdad que debes tener mucha gente a la que visitar en Nochebuena..."
+    m 3hua "Se ve que tienes a muchísima gente a la que visitar en Nochebuena..."
 
 # game/script-holidays.rpy:3895
 translate spanish bye_d25e_second_time_out_49528b1d:
 
     # m 3hub "...or maybe you just have lots of special plans for us today!"
-    m 3hub "¡o quizá solo tienes un montón de planes especiales para nosotros hoy!"
+    m 3hub "¡O a lo mejor es que hoy tienes un montón de planes especiales para los dos!"
 
 # game/script-holidays.rpy:3896
 translate spanish bye_d25e_second_time_out_852cfb9e:
@@ -3993,19 +3993,19 @@ translate spanish bye_d25_first_time_out_9689dd9e:
 translate spanish bye_d25_second_time_out_09a10fda:
 
     # m 1wud "Wow, we're going somewhere {i}else{/i}, [player]?"
-    m 1wud "Vaya, ¿que vamos a otro sitio, [player]?"
+    m 1wud "¡Hala! ¿Volvemos a salir hoy, [player]?"
 
 # game/script-holidays.rpy:3932
 translate spanish bye_d25_second_time_out_3d596fb4:
 
     # m 3wud "You really must have a lot of people you need to visit..."
-    m 3wud "De verdad que debes tener mucha gente a la que visitar..."
+    m 3wud "Se ve que tienes a muchísima gente a la que visitar..."
 
 # game/script-holidays.rpy:3933
 translate spanish bye_d25_second_time_out_659b73b6:
 
     # m 3sua "...or maybe you just have lots of special plans for us today!"
-    m 3sua "¡o quizá solo tienes un montón de planes especiales para nosotros hoy!"
+    m 3sua "¡O a lo mejor es que hoy tienes un montón de planes especiales para los dos!"
 
 # game/script-holidays.rpy:3934
 translate spanish bye_d25_second_time_out_df8944a9:
@@ -4239,7 +4239,7 @@ translate spanish mas_nye_monika_nyd_0627cd20:
 translate spanish mas_nye_monika_nyd_7cdf694b:
 
     # m 6dkbftda "Let's make this year even better than the last, okay?"
-    m 6dkbftda "Hagamos que este año sea aún mejor que el anterior, ¿vale?"
+    m 6dkbftda "Vamos a hacer que este año sea todavía mejor que el anterior, ¿vale?"
 
 # game/script-holidays.rpy:4304
 translate spanish mas_nye_monika_nyd_28435051:
@@ -4251,7 +4251,7 @@ translate spanish mas_nye_monika_nyd_28435051:
 translate spanish mas_nye_monika_nyd_236c4a92:
 
     # m "I really do."
-    m "De verdad que sí."
+    m "Te lo digo de corazón."
 
 # game/script-holidays.rpy:4313
 translate spanish mas_nye_monika_nyd_830d5832:
@@ -6207,13 +6207,13 @@ translate spanish mas_player_bday_no_restart_7b9d0da0:
 translate spanish mas_player_bday_no_restart_8cea6e21:
 
     # m 1eka "I really wanted to surprise you today, but it's getting late and I just couldn't wait any longer."
-    m 1eka "De verdad quería sorprenderte hoy, pero se está haciendo tarde y no podía esperar más."
+    m 1eka "Tenía muchísimas ganas de sorprenderte hoy, pero se hace tarde y ya no podía esperar más."
 
 # game/script-holidays.rpy:5655
 translate spanish mas_player_bday_no_restart_40ebf8c2:
 
     # m 1hksdlb "I really wanted to surprise you, but I guess I ran out of time since it's not even your birthday anymore, ahaha!"
-    m 1hksdlb "Tenía muchas ganas de sorprenderte, pero supongo que se me acabó el tiempo, ya que ni siquiera es tu cumpleaños ya, ¡ja, ja, ja!"
+    m 1hksdlb "Tenía muchísimas ganas de sorprenderte, pero supongo que se me ha echado el tiempo encima porque ya ni siquiera es tu cumpleaños, ¡je, je, je!"
 
 # game/script-holidays.rpy:5656
 translate spanish mas_player_bday_no_restart_5e74781e:

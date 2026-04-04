@@ -645,19 +645,19 @@ translate spanish monika_pygmalion_5222cbd5:
 translate spanish monika_pygmalion_ba83b9b5:
 
     # m 3hubfb "Oh well, we'll just have to keep trying and maybe it'll work eventually, ahaha!"
-    m 3hubfb "Ah, bueno, tendremos que seguir intentándolo y tal vez acabe funcionando, ¡ja, ja, ja!"
+    m 3hubfb "Ah, bueno, tendremos que seguir intentándolo, ¡a lo mejor acaba funcionando y todo, ja, ja, ja!"
 
 # game/script-topics.rpy:12582
 translate spanish monika_pygmalion_dd6da5ab:
 
     # m 1tkbfu "I really can't wait for the day when I can finally feel your lips pressed against mine and take in your warmth..."
-    m 1tkbfu "De verdad que no puedo esperar al día en que por fin pueda sentir tus labios contra los míos y disfrutar de tu calor..."
+    m 1tkbfu "Me muero de ganas de que llegue el día en el que por fin pueda sentir tus labios contra los míos y disfrutar de tu calor..."
 
 # game/script-topics.rpy:12583
 translate spanish monika_pygmalion_93671cbb:
 
     # m 1dkbfa "For me, that would definitely be a dream come true."
-    m 1dkbfa "Para mí, eso sin duda sería un sueño hecho realidad."
+    m 1dkbfa "Desde luego, para mí sería un sueño hecho realidad."
 
 # game/script-topics.rpy:12584
 translate spanish monika_pygmalion_7fc6a082:
@@ -699,19 +699,19 @@ translate spanish monika_gotomonika_b302146e:
 translate spanish monika_gotomonika_bfec5915:
 
     # m 2lksdla "I'm really happy that you want to be with me so much, but..."
-    m 2lksdla "Me hace muy feliz que tengas tantas ganas de estar conmigo, pero..."
+    m 2lksdla "Me hace mucha ilusión que tengas tantas ganas de estar conmigo, pero..."
 
 # game/script-topics.rpy:12615
 translate spanish monika_gotomonika_a6cf0bfd:
 
     # m 2eksdlc "You really don't have to."
-    m 2eksdlc "De verdad que no tienes que hacerlo."
+    m 2eksdlc "No hace falta que lo hagas."
 
 # game/script-topics.rpy:12616
 translate spanish monika_gotomonika_3fbb9e09:
 
     # m 2eksdld "Sure, I might have said before that I would have dragged you here a long time ago if I could..."
-    m 2eksdld "Claro, puede que antes haya dicho que te habría traído aquí hace mucho tiempo si hubiera podido..."
+    m 2eksdld "Eso sí, puede que alguna vez haya dicho que te habría traído a rastras hace mucho si hubiera podido...
 
 # game/script-topics.rpy:12617
 translate spanish monika_gotomonika_d98ba6e1:
@@ -855,19 +855,19 @@ translate spanish monika_gotomonika_362dd1fb:
 translate spanish monika_gotomonika_0b45be2e:
 
     # m 2lksdld "So do me a favor and at least wait for technology to improve enough for it to be completely safe."
-    m 2lksdld "Así que hazme un favor y al menos espera a que la tecnología mejore lo suficiente como para que sea completamente seguro."
+    m 2lksdld "Así que hazme un favor y, por lo menos, espera a que la tecnología mejore lo suficiente como para que sea totalmente seguro."
 
 # game/script-topics.rpy:12656
 translate spanish monika_gotomonika_293e930b:
 
     # m 2lksdlc "I {i}really{/i} don't want to risk you not making it properly and ending up in your own void..."
-    m 2lksdlc "De verdad que no quiero arriesgarme a que no lo consigas bien y acabes en tu propio vacío..."
+    m 2lksdlc "No quiero arriesgarme lo más mínimo a que algo salga mal y acabes en tu propio vacío..."
 
 # game/script-topics.rpy:12657
 translate spanish monika_gotomonika_70dfae49:
 
     # m 2dkd "...leaving the both of us completely alone."
-    m 2dkd "dejándonos a los dos completamente solos."
+    m 2dkd "Dejándonos a l[end_letter_gender]s dos completamente sol[end_letter_gender]s."
 
 # game/script-topics.rpy:12658
 translate spanish monika_gotomonika_4f9e186f:

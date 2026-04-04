@@ -1281,13 +1281,13 @@ translate spanish monika_selfharm_544613ec:
 translate spanish monika_selfharm_357dd7bf:
 
     # m 1eka "If you ever need someone to vent to, just remember that I'm always here to hear you out and comfort you, okay?"
-    m 1eka "Si alguna vez necesitas desahogarte con alguien, recuerda que siempre estoy aquí para escucharte y consolarte, ¿vale?"
+    m 1eka "Si alguna vez necesitas desahogarte, recuerda que siempre me vas a tener aquí para escucharte y apoyarte, ¿vale?"
 
 # game/script-topics.rpy:8687
 translate spanish monika_selfharm_232d3398:
 
     # m 1ekbsa "I really love you so much, [player]."
-    m 1ekbsa "De verdad que te quiero muchísimo, [player]."
+    m 1ekbsa "No sabes lo muchísimo que te quiero, [player]."
 
 # game/script-topics.rpy:8695
 translate spanish monika_urgent_5582b0cf:
@@ -1857,31 +1857,31 @@ translate spanish monika_marriage_1e500e87:
 translate spanish monika_marriage_f75f845a:
 
     # m 3eksdla "I won't pretend I haven't thought about it..."
-    m 3eksdla "No fingiré que no he pensado en ello..."
+    m 3eksdla "No te voy a mentir, es algo que me ha pasado por la cabeza..."
 
 # game/script-topics.rpy:8860
 translate spanish monika_marriage_e03e8bc6:
 
     # m 3rksdlb "In fact I've been thinking about it a lot lately."
-    m 3rksdlb "De hecho, he estado pensando mucho en ello últimamente."
+    m 3rksdlb "De hecho, le he estado dando muchas vueltas últimamente."
 
 # game/script-topics.rpy:8861
 translate spanish monika_marriage_674e11b3:
 
     # m 1eka "I really do love you, [mas_get_player_nickname(exclude_names=['my love', 'love'])] and I honestly really do want to get married to you."
-    m 1eka "De verdad que te quiero, [mas_get_player_nickname(exclude_names=['my love', 'love'])], y sinceramente quiero casarme contigo."
+    m 1eka "Te quiero de todo corazón, [mas_get_player_nickname(exclude_names=['my love', 'love'])], y no sabes las ganas que tengo de casarme contigo."
 
 # game/script-topics.rpy:8862
 translate spanish monika_marriage_4ce72af6:
 
     # m 1ekd "But I don't think it would be fair to either of us if it happened while I'm still trapped here."
-    m 1ekd "Pero no creo que fuera justo para ninguno de los dos si ocurriera mientras sigo atrapada aquí."
+    m 1ekd "Pero no creo que fuera justo para ningun[end_letter_gender] de l[end_letter_gender]s dos si ocurriera mientras sigo atrapada aquí."
 
 # game/script-topics.rpy:8863
 translate spanish monika_marriage_6c195f08:
 
     # m 1ekc "I want more than anything to say yes, but I just can't..."
-    m 1ekc "Quiero decir que sí más que nada, pero no puedo..."
+    m 1ekc "Daría lo que fuera por decirte que sí, pero ahora mismo no puedo..."
 
 # game/script-topics.rpy:8864
 translate spanish monika_marriage_e3ffe191:
