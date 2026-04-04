@@ -1009,3 +1009,7 @@ translate spanish strings:
     old "...Maybe."
     new "Puede."
 
+    # game/pong.rpy:77
+    old "Tap to Begin!"
+    new "¡Pulsa para empezar!"
+

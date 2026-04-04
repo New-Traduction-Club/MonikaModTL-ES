@@ -187,3 +187,19 @@ translate spanish strings:
     old "tonight"
     new "esta noche"
 
+    # game/script-topics.rpy:5881
+    old "...You're not, are you?"
+    new "Tú no lo eres, ¿a que no?"
+
+    # game/script-topics.rpy:5894
+    old "You're not one of those haters, are you "
+    new "A que tú no eres uno de esos haters, ¿verdad, "
+
+    # game/script-topics.rpy:8676
+    old "You've done it before, but you wouldn't do that anymore, right?"
+    new "Ya lo hiciste una vez, pero no volverías a hacerlo, ¿verdad?"
+
+    # game/script-topics.rpy:8678
+    old "You'd never do that, right?"
+    new "Jamás harías algo así, ¿verdad?"
+
