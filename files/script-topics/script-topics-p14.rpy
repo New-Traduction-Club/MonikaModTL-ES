@@ -1011,7 +1011,7 @@ translate spanish monika_timeconcern_night_6_62f3635d:
 translate spanish monika_timeconcern_night_6_15c3db2d:
 
     # m 1ekbsa "...I love you."
-    m 1ekbsa "... Te quiero."
+    m 1ekbsa "Te quiero."
 
 # game/script-topics.rpy:10663
 translate spanish monika_timeconcern_night_6_712a2f34:
@@ -1083,7 +1083,7 @@ translate spanish monika_timeconcern_night_7_90d64ca4:
 translate spanish monika_timeconcern_night_final_23cde403:
 
     # m 2dsc "...I suppose it can't be helped."
-    m 2dsc "... Supongo que no se puede evitar."
+    m 2dsc "Supongo que no se puede evitar."
 
 # game/script-topics.rpy:10693
 translate spanish monika_timeconcern_night_final_a5d6b552:
@@ -1101,7 +1101,7 @@ translate spanish monika_timeconcern_night_final_da0525b7:
 translate spanish monika_timeconcern_night_final_9caeb368:
 
     # m 2eka "...Thank you, [player]."
-    m 2eka "... Gracias, [player]."
+    m 2eka "Gracias, [player]."
 
 # game/script-topics.rpy:10696
 translate spanish monika_timeconcern_night_final_a05c9da9:
@@ -1119,7 +1119,7 @@ translate spanish monika_timeconcern_night_final_ed18a64d:
 translate spanish monika_timeconcern_night_final_15c3db2d:
 
     # m 1ekbsa "...I love you."
-    m 1ekbsa "... Te quiero."
+    m 1ekbsa "Te quiero."
 
 # game/script-topics.rpy:10703
 translate spanish monika_timeconcern_night_finalfollowup_21ece3da:
@@ -1461,7 +1461,7 @@ translate spanish monika_timeconcern_day_final_3487a337:
 translate spanish monika_timeconcern_day_final_00652faf:
 
     # m "...Thank you."
-    m "... Gracias."
+    m "Gracias."
 
 # game/script-topics.rpy:10791
 translate spanish monika_timeconcern_day_final_bf20b1fe:
@@ -1773,7 +1773,7 @@ translate spanish monika_travelling_6be76384:
 translate spanish monika_travelling_3e719ed6:
 
     # m 3hubsb "...Or we could even spend the days wrapped in a blanket while reading a book."
-    m 3hubsb "... O incluso podríamos pasarnos los días envuelt[end_letter_gender]s en una manta mientras leemos un libro."
+    m 3hubsb "O incluso podríamos pasarnos los días envuelt[end_letter_gender]s en una manta mientras leemos un libro."
 
 # game/script-topics.rpy:10908
 translate spanish monika_travelling_f61c6d13:

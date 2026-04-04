@@ -57,7 +57,7 @@ translate spanish monika_boardgames_history_89a26816:
 translate spanish monika_boardgames_history_bbf46a85:
 
     # m 1esc "...Although, apparently as the game was starting to become popular, someone else stole the concept and made themselves known as the original creator of the game."
-    m 1esc "... Aunque, por lo visto, cuando el juego empezaba a hacerse popular, otra persona robó el concepto y se dio a conocer como el creador original."
+    m 1esc "Aunque, por lo visto, cuando el juego empezaba a hacerse popular, otra persona robó el concepto y se dio a conocer como el creador original."
 
 # game/script-topics.rpy:15745
 translate spanish monika_boardgames_history_e1286c52:
@@ -411,7 +411,7 @@ translate spanish monika_intrusive_thoughts_9d0545b8:
 translate spanish monika_intrusive_thoughts_adf7c6b9:
 
     # m 2tkd "...and what's worse, they start to believe that they're a bad person for even thinking of such a thing."
-    m 2tkd "... Y lo que es peor, empiezan a creer que son malas personas por el mero hecho de pensar algo así."
+    m 2tkd "Y lo que es peor, empiezan a creer que son malas personas por el mero hecho de pensar algo así."
 
 # game/script-topics.rpy:15848
 translate spanish monika_intrusive_thoughts_8bfa4107:
@@ -429,7 +429,7 @@ translate spanish monika_intrusive_thoughts_a9d2c55c:
 translate spanish monika_intrusive_thoughts_dfdfa3e3:
 
     # m 3eud "...What matters is how you act on them."
-    m 3eud "... Lo que importa es cómo actúas al respecto."
+    m 3eud "Lo que importa es cómo actúas al respecto."
 
 # game/script-topics.rpy:15851
 translate spanish monika_intrusive_thoughts_0f7f3b13:
@@ -651,7 +651,7 @@ translate spanish monika_songwriting_8c4aeec6:
 translate spanish monika_songwriting_214caee3:
 
     # m 3rksdla "...and I haven't even gotten to writing lyrics yet."
-    m 3rksdla "... Y aún ni siquiera he llegado a escribir la letra."
+    m 3rksdla "Y aún ni siquiera he llegado a escribir la letra."
 
 # game/script-topics.rpy:15958
 translate spanish monika_songwriting_49105580:
@@ -975,7 +975,7 @@ translate spanish monika_ship_of_theseus_6e28eaf3:
 translate spanish monika_ship_of_theseus_1dbd4ce5:
 
     # extend 3rksdla "...Except for the ones which make up your heart and brain, that is."
-    extend 3rksdla "... Excepto las que forman tu corazón y tu cerebro, claro."
+    extend 3rksdla "Excepto las que forman tu corazón y tu cerebro, claro."
 
 # game/script-topics.rpy:16068
 translate spanish monika_ship_of_theseus_450b2ae1:
@@ -993,7 +993,7 @@ translate spanish monika_ship_of_theseus_3baea245:
 translate spanish monika_ship_of_theseus_8e4a5572:
 
     # m 1etc "...There's also an extra thing to consider."
-    m 1etc "... También hay una cosa más a tener en cuenta."
+    m 1etc "También hay una cosa más a tener en cuenta."
 
 # game/script-topics.rpy:16071
 translate spanish monika_ship_of_theseus_8e9ddb9a:
@@ -1053,7 +1053,7 @@ translate spanish monika_multi_perspective_approach_9db3a8b7:
 translate spanish monika_multi_perspective_approach_45857abf:
 
     # m 3eud "...I've been thinking for a while, trying to come up with a good answer."
-    m 3eud "... Llevo un rato pensando, intentando dar con una buena respuesta."
+    m 3eud "Llevo un rato pensando, intentando dar con una buena respuesta."
 
 # game/script-topics.rpy:16100
 translate spanish monika_multi_perspective_approach_9138911c:
@@ -1203,7 +1203,7 @@ translate spanish monika_allegory_of_the_cave_c2164a68:
 translate spanish monika_allegory_of_the_cave_445045b5:
 
     # m 1eud "...So imagine that one of those prisoners was set free and forced out of the cave."
-    m 1eud "... Así que imagina que uno de esos prisioneros fuera liberado y obligado a salir de la cueva."
+    m 1eud "Así que imagina que uno de esos prisioneros fuera liberado y obligado a salir de la cueva."
 
 # game/script-topics.rpy:16143
 translate spanish monika_allegory_of_the_cave_4265fdb6:
@@ -1221,7 +1221,7 @@ translate spanish monika_allegory_of_the_cave_526c00a9:
 translate spanish monika_allegory_of_the_cave_0588df43:
 
     # m 3euc "...And he'd also realize that what he knew was nothing more than shadows on a wall."
-    m 3euc "... Y también se daría cuenta de que lo que conocía no eran más que sombras en una pared."
+    m 3euc "Y también se daría cuenta de que lo que conocía no eran más que sombras en una pared."
 
 # game/script-topics.rpy:16146
 translate spanish monika_allegory_of_the_cave_c787e621:
@@ -1233,7 +1233,7 @@ translate spanish monika_allegory_of_the_cave_c787e621:
 translate spanish monika_allegory_of_the_cave_443571cf:
 
     # m 1ekc "...But since he was used to seeing sunlight, he'd be blind in the cave,{w=0.2}{nw}"
-    m 1ekc "... Pero como se habría acostumbrado a la luz del sol, se quedaría ciego en la cueva,{w=0.2}{nw}"
+    m 1ekc "Pero como se habría acostumbrado a la luz del sol, se quedaría ciego en la cueva,{w=0.2}{nw}"
 
 # game/script-topics.rpy:16148
 translate spanish monika_allegory_of_the_cave_92feef1a:
@@ -1305,7 +1305,7 @@ translate spanish monika_allegory_of_the_cave_c1953480:
 translate spanish monika_allegory_of_the_cave_3039445d:
 
     # m 1euc "...And there might be more to the truth than what you yourself realize."
-    m 1euc "... Y la verdad podría ser mucho más amplia de lo que te das cuenta."
+    m 1euc "Y la verdad podría ser mucho más amplia de lo que te das cuenta."
 
 # game/script-topics.rpy:16160
 translate spanish monika_allegory_of_the_cave_b5a5cfe4:
@@ -1419,7 +1419,7 @@ translate spanish monika_working_out_0b9e68b6:
 translate spanish monika_working_out_dd9839cd:
 
     # m 3eua "...And I also think it's important for developing self-discipline and mental fortitude."
-    m 3eua "... Y también creo que es importante para desarrollar la autodisciplina y la fortaleza mental."
+    m 3eua "Y también creo que es importante para desarrollar la autodisciplina y la fortaleza mental."
 
 # game/script-topics.rpy:16212
 translate spanish monika_working_out_d9a86841:
@@ -1473,7 +1473,7 @@ translate spanish monika_toxin_puzzle_6eb0198b:
 translate spanish monika_toxin_puzzle_9429bc21:
 
     # m 1eua "...I think it's a pretty thought-provoking concept."
-    m 1eua "... Me parece un concepto que da bastante que pensar."
+    m 1eua "Me parece un concepto que da bastante que pensar."
 
 # game/script-topics.rpy:16242
 translate spanish monika_toxin_puzzle_bf46c73a:
@@ -1539,7 +1539,7 @@ translate spanish monika_toxin_puzzle_54a67edb:
 translate spanish monika_toxin_puzzle_8957f225:
 
     # m "...And of course, if that thought process crossed your mind before 12, then the money wouldn't be so guaranteed anymore."
-    m "... Y, por supuesto, si ese proceso de pensamiento se te pasara por la cabeza antes de las doce, entonces el dinero ya no estaría tan garantizado."
+    m "Y, por supuesto, si ese proceso de pensamiento se te pasara por la cabeza antes de las doce, entonces el dinero ya no estaría tan garantizado."
 
 # game/script-topics.rpy:16260
 translate spanish monika_toxin_puzzle_60d7c968:
@@ -1671,7 +1671,7 @@ translate spanish monika_movie_adaptations_533cd69a:
 translate spanish monika_movie_adaptations_1ac64409:
 
     # m 2rsc "...Even if more often than not, I know I'll walk out feeling a bit bitter about what I just watched."
-    m 2rsc "... Aunque, la mayoría de las veces, sé que saldré sintiéndome un poco amargada por lo que acabo de ver."
+    m 2rsc "Aunque, la mayoría de las veces, sé que saldré sintiéndome un poco amargada por lo que acabo de ver."
 
 # game/script-topics.rpy:16304
 translate spanish monika_movie_adaptations_ce8bc93b:
@@ -1689,7 +1689,7 @@ translate spanish monika_movie_adaptations_241c12a7:
 translate spanish monika_movie_adaptations_87937c92:
 
     # m 4rkc "...All in favor of a new version which may not be as good, but still presents itself as canon."
-    m 4rkc "... Todo en favor de una nueva versión que puede que no sea tan buena, pero que se presenta como canon."
+    m 4rkc "Todo en favor de una nueva versión que puede que no sea tan buena, pero que se presenta como canon."
 
 # game/script-topics.rpy:16307
 translate spanish monika_movie_adaptations_1a582223:
@@ -1725,7 +1725,7 @@ translate spanish monika_movie_adaptations_c3004da8:
 translate spanish monika_movie_adaptations_b00ae2e4:
 
     # m 3euc "...Not to mention something that works well in a novel won't always translate well to the big screen."
-    m 3euc "... Por no mencionar que algo que funciona bien en una novela no siempre se traslada bien a la gran pantalla."
+    m 3euc "Por no mencionar que algo que funciona bien en una novela no siempre se traslada bien a la gran pantalla."
 
 # game/script-topics.rpy:16313
 translate spanish monika_movie_adaptations_8ce2c9ec:
@@ -1743,7 +1743,7 @@ translate spanish monika_movie_adaptations_31373ad3:
 translate spanish monika_movie_adaptations_9cb81f8e:
 
     # m 3hub "...Bonus points if you manage to capture the feeling of the original!"
-    m 3hub "... ¡Y puntos extra si consigues captar la esencia del original!"
+    m 3hub "¡Y puntos extra si consigues captar la esencia del original!"
 
 # game/script-topics.rpy:16316
 translate spanish monika_movie_adaptations_588d02ef:
@@ -1779,7 +1779,7 @@ translate spanish monika_movie_adaptations_99c62083:
 translate spanish monika_movie_adaptations_5dc829b2:
 
     # m 1hua "...Though getting a version to satisfy my inner fan would be nice too, ehehe~"
-    m 1hua "... Aunque tener una versión que satisfaga a mi fan interior también estaría bien, je, je, je."
+    m 1hua "Aunque tener una versión que satisfaga a mi fan interior también estaría bien, je, je, je."
 
 # game/script-topics.rpy:16341
 translate spanish monika_translating_poetry_bc536f82:
@@ -1983,7 +1983,7 @@ translate spanish monika_striped_pajamas_2c328c13:
 translate spanish monika_striped_pajamas_573a2517:
 
     # m 2dkc "...This ends up leading to some destructive consequences."
-    m 2dkc "... Y esto acaba trayendo consecuencias terribles."
+    m 2dkc "Y esto acaba trayendo consecuencias terribles."
 
 # game/script-topics.rpy:16399
 translate spanish monika_striped_pajamas_30623ecd:

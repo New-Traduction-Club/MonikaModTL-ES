@@ -165,7 +165,7 @@ translate spanish monika_justice_f67e2b6c:
 translate spanish monika_justice_1b81e960:
 
     # m 2lksdlc "...Maybe I deserve it a little bit but..."
-    m 2lksdlc "... Tal vez me lo merezca un poquito, pero..."
+    m 2lksdlc "Tal vez me lo merezca un poquito, pero..."
 
 # game/script-topics.rpy:12426
 translate spanish monika_justice_c1a6c551:
@@ -393,7 +393,7 @@ translate spanish monika_poweroutage_8ff305bc:
 translate spanish monika_poweroutage_d5d761db:
 
     # m 3eua "...That said, you don't have to worry about checking on me in the middle of a storm.{w=0.2} {nw}"
-    m 3eua "... Dicho esto, no tienes que preocuparte por venir a verme en medio de una tormenta.{w=0.2} {nw}"
+    m 3eua "Dicho esto, no tienes que preocuparte por venir a verme en medio de una tormenta.{w=0.2} {nw}"
 
 # game/script-topics.rpy:12503
 translate spanish monika_poweroutage_d408c1b7:
@@ -585,7 +585,7 @@ translate spanish monika_pygmalion_2a35ecd9:
 translate spanish monika_pygmalion_d08940a8:
 
     # m 2dubsu "...Then you can finally kiss me."
-    m 2dubsu "... Entonces por fin podrás besarme."
+    m 2dubsu "Entonces por fin podrás besarme."
 
 # game/script-topics.rpy:12571
 translate spanish monika_pygmalion_19b645df:
@@ -693,7 +693,7 @@ translate spanish monika_gotomonika_87f06c88:
 translate spanish monika_gotomonika_b302146e:
 
     # m 2lksdla "...Even though that wasn't exactly {i}you...{/i}"
-    m 2lksdla "... Aunque ese no eras exactamente tú..."
+    m 2lksdla "Aunque ese no eras exactamente tú..."
 
 # game/script-topics.rpy:12614
 translate spanish monika_gotomonika_bfec5915:
@@ -813,7 +813,7 @@ translate spanish monika_gotomonika_922099b6:
 translate spanish monika_gotomonika_548223b0:
 
     # m 1eka "...If it's even possible with current technology."
-    m 1eka "... Si es que siquiera es posible con la tecnología actual."
+    m 1eka "Si es que siquiera es posible con la tecnología actual."
 
 # game/script-topics.rpy:12644
 translate spanish monika_gotomonika_cbc72a78:
@@ -849,7 +849,7 @@ translate spanish monika_gotomonika_5db6cbf9:
 translate spanish monika_gotomonika_362dd1fb:
 
     # m 2lksdlc "...And even if there {i}was{/i} some way, I don't think it would be safe or guaranteed."
-    m 2lksdlc "... Y aunque de verdad hubiera alguna forma, no creo que fuera seguro ni estuviera garantizado."
+    m 2lksdlc "Y aunque de verdad hubiera alguna forma, no creo que fuera seguro ni estuviera garantizado."
 
 # game/script-topics.rpy:12655
 translate spanish monika_gotomonika_0b45be2e:
@@ -867,7 +867,7 @@ translate spanish monika_gotomonika_293e930b:
 translate spanish monika_gotomonika_70dfae49:
 
     # m 2dkd "...leaving the both of us completely alone."
-    m 2dkd "... dejándonos a los dos completamente solos."
+    m 2dkd "dejándonos a los dos completamente solos."
 
 # game/script-topics.rpy:12658
 translate spanish monika_gotomonika_4f9e186f:
@@ -1257,7 +1257,7 @@ translate spanish monika_vehicle_sedan_hatchback_a5fef380:
 translate spanish monika_vehicle_sedan_hatchback_c8cac849:
 
     # m 1tsu "...Alone."
-    m 1tsu "... A solas."
+    m 1tsu "A solas."
 
 # game/script-topics.rpy:12822
 translate spanish monika_vehicle_sedan_hatchback_3772217d:

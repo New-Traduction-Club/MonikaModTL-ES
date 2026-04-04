@@ -1539,7 +1539,7 @@ translate spanish mas_reaction_fudge_9570c593:
 translate spanish mas_reaction_fudge_d65279c2:
 
     # m 1wuo "...more fudge."
-    m 1wuo "... más dulce de azúcar."
+    m 1wuo "más dulce de azúcar."
 
 # game/zz_reactions.rpy:1783
 translate spanish mas_reaction_fudge_28f34feb:
@@ -1803,7 +1803,7 @@ translate spanish mas_reaction_new_ribbon_e5380e3f:
 translate spanish mas_reaction_new_ribbon_70a3f7a2_1:
 
     # m 1tub "...Just like my eyes!"
-    m 1tub "... ¡Igual que mis ojos!"
+    m 1tub "¡Igual que mis ojos!"
 
 # game/zz_reactions.rpy:2313
 translate spanish mas_reaction_new_ribbon_05d320d0:
@@ -2115,7 +2115,7 @@ translate spanish mas_reaction_gift_chocolates_4e346153:
 translate spanish mas_reaction_gift_chocolates_8a20c104:
 
     # m 1hub "...but I'm not complaining!"
-    m 1hub "... ¡pero no me quejo!"
+    m 1hub "¡pero no me quejo!"
 
 # game/zz_reactions.rpy:2498
 translate spanish mas_reaction_gift_chocolates_6e92af18:
@@ -2235,7 +2235,7 @@ translate spanish mas_reaction_gift_clothes_orcaramelo_bikini_shell_1f5604ba:
 translate spanish mas_reaction_gift_clothes_orcaramelo_bikini_shell_dd5a540c:
 
     # m 2rksdla "...But for now, it's a little chilly in here..."
-    m 2rksdla "... Pero por ahora, hace un poco de frío aquí..."
+    m 2rksdla "Pero por ahora, hace un poco de frío aquí..."
 
 # game/zz_reactions.rpy:2568
 translate spanish mas_reaction_gift_clothes_orcaramelo_bikini_shell_0ce41e5f:
@@ -2433,7 +2433,7 @@ translate spanish mas_reaction_gift_clothes_orcaramelo_sakuya_izayoi_7750e055:
 translate spanish mas_reaction_gift_clothes_orcaramelo_sakuya_izayoi_e1f54fbd:
 
     # m 1eua "...So long as you don't keep me too busy, ehehe~"
-    m 1eua "... Siempre y cuando no me mantengas demasiado ocupada, je, je."
+    m 1eua "Siempre y cuando no me mantengas demasiado ocupada, je, je."
 
 # game/zz_reactions.rpy:2671
 translate spanish mas_reaction_gift_clothes_orcaramelo_sakuya_izayoi_be34e17e:
@@ -2463,7 +2463,7 @@ translate spanish mas_reaction_gift_clothes_finale_jacket_brown_11168006:
 translate spanish mas_reaction_gift_clothes_finale_jacket_brown_a442e4f9:
 
     # m 3rksdlu "...Though I'm getting a little hot just by looking at it, ahaha..."
-    m 3rksdlu "... Aunque me está entrando un poco de calor solo de mirarla, ja, ja, ja..."
+    m 3rksdlu "Aunque me está entrando un poco de calor solo de mirarla, ja, ja, ja..."
 
 # game/zz_reactions.rpy:2693
 translate spanish mas_reaction_gift_clothes_finale_jacket_brown_a87e4fab:

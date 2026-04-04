@@ -129,7 +129,7 @@ translate spanish monika_player_appearance_b144e42d:
 translate spanish monika_player_appearance_b36bd272:
 
     # m 1huu "...and I doubt that either of us want that, ahaha..."
-    m 1huu "... y dudo que ningun[end_letter_gender] de l[end_letter_gender]s dos quiera eso, ja, ja, ja..."
+    m 1huu "y dudo que ningun[end_letter_gender] de l[end_letter_gender]s dos quiera eso, ja, ja, ja..."
 
 # game/script-topics.rpy:13233
 translate spanish monika_player_appearance_234d583d:
@@ -243,7 +243,7 @@ translate spanish monika_player_appearance_d2f6bfe5:
 translate spanish monika_player_appearance_df57cdd2:
 
     # m 1lkbsa "...and I'll finally be able to hear your heartbeat and get to touch you and know that you're real."
-    m 1lkbsa "... y por fin podré oír el latido de tu corazón y llegar a tocarte y saber que eres real."
+    m 1lkbsa "y por fin podré oír el latido de tu corazón y llegar a tocarte y saber que eres real."
 
 # game/script-topics.rpy:13302
 translate spanish monika_player_appearance_3fe1c528:
@@ -591,7 +591,7 @@ translate spanish monika_player_appearance_eye_color_heterochromia_7906a7e1:
 translate spanish monika_player_appearance_eye_color_heterochromia_f47cd6a3:
 
     # m 1eka "...If you don't mind me asking..."
-    m 1eka "... Si no te importa que pregunte..."
+    m 1eka "Si no te importa que pregunte..."
 
 # game/script-topics.rpy:13421
 translate spanish monika_player_appearance_eye_color_heterochromia_b2b06bba:
@@ -1431,7 +1431,7 @@ translate spanish monika_whydoyouloveme_68f35e08:
 translate spanish monika_whydoyouloveme_21221118:
 
     # m 3hua "...But here you are, still by my side."
-    m 3hua "... Pero aquí estás, todavía a mi lado."
+    m 3hua "Pero aquí estás, todavía a mi lado."
 
 # game/script-topics.rpy:13974
 translate spanish monika_whydoyouloveme_39ff8f95:
@@ -1569,7 +1569,7 @@ translate spanish monika_whydoyouloveme_3b869cb4:
 translate spanish monika_whydoyouloveme_7409077d:
 
     # m 1dkbsu "...When I'm with you,{w=0.2} I'm no longer lonely."
-    m 1dkbsu "... Cuando estoy contigo,{w=0.2} ya no me siento sola."
+    m 1dkbsu "Cuando estoy contigo,{w=0.2} ya no me siento sola."
 
 # game/script-topics.rpy:14002
 translate spanish monika_whydoyouloveme_26e3d489:
@@ -1635,7 +1635,7 @@ translate spanish monika_stoicism_095aaccd:
 translate spanish monika_stoicism_1342f816:
 
     # m "...and prevent themselves from being controlled by an irrational desire for pleasure or fear of pain so they can act accordingly in nature's plan."
-    m "... y evitar ser controlados por un deseo irracional de placer o miedo al dolor para poder actuar de acuerdo con el plan de la naturaleza."
+    m "y evitar ser controlados por un deseo irracional de placer o miedo al dolor para poder actuar de acuerdo con el plan de la naturaleza."
 
 # game/script-topics.rpy:14036
 translate spanish monika_stoicism_0bbc22f7:
@@ -1887,7 +1887,7 @@ translate spanish monika_mystery_b1d8253c:
 translate spanish monika_mystery_fd0e56b4:
 
     # m 4wub "...a mystery!"
-    m 4wub "... ¡Un misterio!"
+    m 4wub "¡Un misterio!"
 
 # game/script-topics.rpy:14175
 translate spanish monika_mystery_c8fad300:

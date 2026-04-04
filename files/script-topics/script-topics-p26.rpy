@@ -430,7 +430,7 @@ translate spanish strings:
 
     # game/script-topics.rpy:3928
     old "...It's been a long time since I last believed that, [player]."
-    new "... Hace mucho tiempo desde la última vez que me creí eso, [player]."
+    new "Hace mucho tiempo desde la última vez que me creí eso, [player]."
 
     # game/script-topics.rpy:3928
     old "If only I believed you actually meant that, [player]."
@@ -442,11 +442,11 @@ translate spanish strings:
 
     # game/script-topics.rpy:3928
     old "...If only that were true, [player]."
-    new "... Ojalá fuera verdad, [player]."
+    new "Ojalá fuera verdad, [player]."
 
     # game/script-topics.rpy:3928
     old "...If only you meant that, [player]."
-    new "... Ojalá lo dijeras en serio, [player]."
+    new "Ojalá lo dijeras en serio, [player]."
 
     # game/script-topics.rpy:3928
     old "How long are you going to keep pretending, [player]?"

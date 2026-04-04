@@ -39,7 +39,7 @@ translate spanish monika_fav_chocolate_6de9399a:
 translate spanish monika_fav_chocolate_5fcdb149:
 
     # extend 3husdla "...In moderation, of course."
-    extend 3husdla "... Con moderación, por supuesto."
+    extend 3husdla "Con moderación, por supuesto."
 
 # game/script-topics.rpy:18429
 translate spanish monika_fav_chocolate_3bc3e965:
@@ -51,7 +51,7 @@ translate spanish monika_fav_chocolate_3bc3e965:
 translate spanish monika_fav_chocolate_1db52fc3:
 
     # m 3etc "...Although come to think of it, milk or white chocolate might pair better with the coffee I'm drinking."
-    m 3etc "... Aunque ahora que lo pienso, el chocolate con leche o el blanco podrían combinar mejor con el café que estoy tomando."
+    m 3etc "Aunque ahora que lo pienso, el chocolate con leche o el blanco podrían combinar mejor con el café que estoy tomando."
 
 # game/script-topics.rpy:18434
 translate spanish monika_fav_chocolate_58b568b5:
@@ -225,7 +225,7 @@ translate spanish monika_grieving_38720d37:
 translate spanish monika_grieving_e17642d5:
 
     # m 1dkc "...But there will be subtle reminders that reinforce the fact they are truly gone."
-    m 1dkc "... Pero habrá recordatorios sutiles que refuercen el hecho de que de verdad se han ido."
+    m 1dkc "Pero habrá recordatorios sutiles que refuercen el hecho de que de verdad se han ido."
 
 # game/script-topics.rpy:18506
 translate spanish monika_grieving_601b20ed:
@@ -285,7 +285,7 @@ translate spanish monika_sophia_3fc2fd59:
 translate spanish monika_sophia_ccc0654d:
 
     # m 2rksdlc "...Like needing a robot body and becoming a citizen and all of that?"
-    m 2rksdlc "... ¿Como necesitar un cuerpo robótico, convertirme en ciudadana y todo eso?"
+    m 2rksdlc "¿Como necesitar un cuerpo robótico, convertirme en ciudadana y todo eso?"
 
 # game/script-topics.rpy:18535
 translate spanish monika_sophia_879ff86d:
@@ -381,7 +381,7 @@ translate spanish monika_sophia_39ec90fa:
 translate spanish monika_sophia_5ace29e1:
 
     # m 3eud "...and I know the technology isn't perfect yet,{w=0.2} she still has certain limitations, but just knowing that this exists...{w=0.3}{nw}"
-    m 3eud "... y sé que la tecnología aún no es perfecta,{w=0.2} ella todavía tiene ciertas limitaciones, pero solo saber que esto existe... {w=0.3}{nw}"
+    m 3eud "y sé que la tecnología aún no es perfecta,{w=0.2} ella todavía tiene ciertas limitaciones, pero solo saber que esto existe... {w=0.3}{nw}"
 
 # game/script-topics.rpy:18551
 translate spanish monika_sophia_d4c282f0:
@@ -537,7 +537,7 @@ translate spanish monika_materialism_8fcdd3e9:
 translate spanish monika_materialism_40ecb679:
 
     # m 1ekbla "...And that's that it led me to meet you."
-    m 1ekbla "... Y es que me llevó a conocerte."
+    m 1ekbla "Y es que me llevó a conocerte."
 
 # game/script-topics.rpy:18598
 translate spanish monika_materialism_c0b497b4:
@@ -723,7 +723,7 @@ translate spanish monika_quiet_time_e4c9844d:
 translate spanish monika_quiet_time_10d57501:
 
     # m 2lksdlc "...I would appreciate if you could show me some kindness, though..."
-    m 2lksdlc "... Aunque agradecería que pudieras mostrarme un poco de amabilidad..."
+    m 2lksdlc "Aunque agradecería que pudieras mostrarme un poco de amabilidad..."
 
 # game/script-topics.rpy:18678
 translate spanish monika_quiet_time_cd553e9a:
@@ -945,7 +945,7 @@ translate spanish monika_zodiac_starsign_fb71cf00:
 translate spanish monika_zodiac_starsign_26169f40:
 
     # m 2luc "...That's something I'll never understand."
-    m 2luc "... Eso es algo que nunca entenderé."
+    m 2luc "Eso es algo que nunca entenderé."
 
 # game/script-topics.rpy:18782
 translate spanish monika_zodiac_starsign_7efb9547:
@@ -969,7 +969,7 @@ translate spanish monika_tragic_hero_cc6663cf:
 translate spanish monika_tragic_hero_b837ff22:
 
     # m 3esc "...We've already discussed Hamlet, who is considered one."
-    m 3esc "... Ya hemos hablado de Hamlet, que se considera uno de ellos."
+    m 3esc "Ya hemos hablado de Hamlet, que se considera uno de ellos."
 
 # game/script-topics.rpy:18805
 translate spanish monika_tragic_hero_107db58c:
@@ -981,13 +981,13 @@ translate spanish monika_tragic_hero_107db58c:
 translate spanish monika_tragic_hero_e4c3874f:
 
     # m 4eud "...Of course by 'hero' here, we're talking about the protagonist in a literary sense, not 'hero' in the typical sense."
-    m 4eud "... Por supuesto, con «héroe» me refiero al protagonista en el sentido literario, no al típico «héroe» que todos conocemos."
+    m 4eud "Por supuesto, con «héroe» me refiero al protagonista en el sentido literario, no al típico «héroe» que todos conocemos."
 
 # game/script-topics.rpy:18807
 translate spanish monika_tragic_hero_a4043744:
 
     # m 2ekd "...Although I'm sure there are plenty of people who would take issue with that, seeing as to many, I'm the antagonist..."
-    m 2ekd "... Aunque estoy segura de que hay mucha gente que no estaría de acuerdo con eso, ya que para muchos soy la antagonista..."
+    m 2ekd "Aunque estoy segura de que hay mucha gente que no estaría de acuerdo con eso, ya que para muchos soy la antagonista..."
 
 # game/script-topics.rpy:18808
 translate spanish monika_tragic_hero_807cc450:
@@ -1029,7 +1029,7 @@ translate spanish monika_tragic_hero_02796a8e:
 translate spanish monika_tragic_hero_21a7dec2:
 
     # m 1huu "...And for that, I'm forever grateful~"
-    m 1huu "... Y por eso te estaré eternamente agradecida."
+    m 1huu "Y por eso te estaré eternamente agradecida."
 
 # game/script-topics.rpy:18840
 translate spanish monika_utterson_fb225d2e:
@@ -1149,7 +1149,7 @@ translate spanish monika_jekyll_hyde_6db92fc9:
 translate spanish monika_jekyll_hyde_2e3f7505:
 
     # m 7ekb "...But at least progress has been made!"
-    m 7ekb "... ¡Pero al menos se ha progresado!"
+    m 7ekb "¡Pero al menos se ha progresado!"
 
 # game/script-topics.rpy:18875
 translate spanish monika_jekyll_hyde_04990955:
@@ -1299,7 +1299,7 @@ translate spanish monika_conventions_1ceefeea:
 translate spanish monika_conventions_93da1fba:
 
     # m 3etd "...Or it's possible you went for another reason...{w=0.3}an interest in gaming, perhaps?"
-    m 3etd "... O es posible que fueras por otro motivo... {w=0.3}¿un interés en los videojuegos, tal vez?"
+    m 3etd "O es posible que fueras por otro motivo... {w=0.3}¿un interés en los videojuegos, tal vez?"
 
 # game/script-topics.rpy:18955
 translate spanish monika_conventions_e1f57c0c:
@@ -1473,7 +1473,7 @@ translate spanish monika_pizza_eb256e47:
 translate spanish monika_pizza_522df095:
 
     # m 3eua "...And of course, you can never go wrong with plain cheese."
-    m 3eua "... Y, por supuesto, nunca te puedes equivocar con la clásica de solo queso."
+    m 3eua "Y, por supuesto, nunca te puedes equivocar con la clásica de solo queso."
 
 # game/script-topics.rpy:19024
 translate spanish monika_pizza_51c580ce:

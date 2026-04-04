@@ -555,7 +555,7 @@ translate spanish monika_sayhappybirthday_3ca20205_1:
 translate spanish monika_sayhappybirthday_07b337e0:
 
     # m 1lksdla "...I'm glad you enjoyed that, [player]..."
-    m 1lksdla "... Me alegro de que te haya gustado, [player]..."
+    m 1lksdla "Me alegro de que te haya gustado, [player]..."
 
 # game/script-topics.rpy:7129
 translate spanish monika_sayhappybirthday_31ebf219_1:
@@ -699,7 +699,7 @@ translate spanish monika_home_memories_c78e3452:
 translate spanish monika_home_memories_4d925498:
 
     # m 3eua "...I've always been pretty on top of things."
-    m 3eua "... Siempre he tenido todo bastante bajo control."
+    m 3eua "Siempre he tenido todo bastante bajo control."
 
 # game/script-topics.rpy:7176
 translate spanish monika_home_memories_59a7d018:
@@ -1563,19 +1563,19 @@ translate spanish monika_music2_25c5ec8b:
 translate spanish monika_music2_7a950f31:
 
     # m 1ekbsa "...This silence..."
-    m 1ekbsa "... Este silencio..."
+    m 1ekbsa "Este silencio..."
 
 # game/script-topics.rpy:7480
 translate spanish monika_music2_0bf7645b:
 
     # m "...Just the two of us, staring into each other's eyes..."
-    m "... Solo nosotros dos, mirándonos a los ojos..."
+    m "Solo nosotros dos, mirándonos a los ojos..."
 
 # game/script-topics.rpy:7481
 translate spanish monika_music2_679ea168:
 
     # m 2dubsu "...Then slowly, we both lean into the kiss..."
-    m 2dubsu "... Luego, poco a poco, amb[end_letter_gender]s nos inclinamos para darnos un beso..."
+    m 2dubsu "Luego, poco a poco, amb[end_letter_gender]s nos inclinamos para darnos un beso..."
 
 # game/script-topics.rpy:7482
 translate spanish monika_music2_63800e17:
@@ -1617,7 +1617,7 @@ translate spanish monika_music2_d4cccd74:
 translate spanish monika_music2_7a1f4f22:
 
     # m 3eka "...I certainly wouldn't be one to complain!"
-    m 3eka "... ¡Desde luego no sería yo la que se quejara!"
+    m 3eka "¡Desde luego no sería yo la que se quejara!"
 
 # game/script-topics.rpy:7491
 translate spanish monika_music2_04e853c6:
@@ -1929,19 +1929,19 @@ translate spanish monika_music2_21ece3da:
 translate spanish monika_music2_4da8f59c:
 
     # m "...This silence..."
-    m "... Este silencio..."
+    m "Este silencio..."
 
 # game/script-topics.rpy:7559
 translate spanish monika_music2_8b733e3b:
 
     # m 1ekbsa "...Just the two of us, staring into each others eyes..."
-    m 1ekbsa "... Solo nosotros dos, mirándonos a los ojos..."
+    m 1ekbsa "Solo nosotros dos, mirándonos a los ojos..."
 
 # game/script-topics.rpy:7560
 translate spanish monika_music2_679ea168_1:
 
     # m 2dubsu "...Then slowly, we both lean into the kiss..."
-    m 2dubsu "... Luego, lentamente, ambos nos inclinamos para darnos un beso..."
+    m 2dubsu "Luego, lentamente, ambos nos inclinamos para darnos un beso..."
 
 # game/script-topics.rpy:7561
 translate spanish monika_music2_63800e17_1:

@@ -270,7 +270,7 @@ translate spanish greeting_goodmorning_0a2fe578:
 translate spanish greeting_goodmorning_4155e082:
 
     # m 1hksdlb "--oh, wait."
-    m 1hksdlb "... Ah, espera."
+    m 1hksdlb "Ah, espera."
 
 # game/script-greetings.rpy:460
 translate spanish greeting_goodmorning_25803d16:
@@ -1494,7 +1494,7 @@ translate spanish monikaroom_greeting_ear_loveme_799737b0:
 translate spanish monikaroom_greeting_ear_loveme_43efd8ae:
 
     # m "...[cap_he]...{w=0.3}[cap_he]...{w=0.3}[loves] me not."
-    m "... [cap_he]...{w=0.3} [cap_he]... {w=0.3}no me [loves]."
+    m "[cap_he]...{w=0.3} [cap_he]... {w=0.3}no me [loves]."
 
 # game/script-greetings.rpy:1424
 translate spanish monikaroom_greeting_ear_loveme_b7b95447:
@@ -1650,7 +1650,7 @@ translate spanish monikaroom_greeting_ear_nameerror_1778f6e0:
 translate spanish monikaroom_greeting_ear_nameerror_ab4baa81:
 
     # m "...I thought I defined that variable just a moment ago."
-    m "... Creía haber definido esa variable hace un momento."
+    m "Creía haber definido esa variable hace un momento."
 
 # game/script-greetings.rpy:1500
 translate spanish monikaroom_greeting_ear_nameerror_4713b3ed:
@@ -1872,7 +1872,7 @@ translate spanish monikaroom_greeting_ear_renpy_docs_14c1a653:
 translate spanish monikaroom_greeting_ear_renpy_docs_9ec640ab:
 
     # m "...Let me check the documentation for the function."
-    m "... Déjame revisar la documentación de la función."
+    m "Déjame revisar la documentación de la función."
 
 # game/script-greetings.rpy:1615
 translate spanish monikaroom_greeting_ear_renpy_docs_5d0331c8:
@@ -1896,13 +1896,13 @@ translate spanish monikaroom_greeting_ear_renpy_docs_bf7d80a6:
 translate spanish monikaroom_greeting_ear_renpy_docs_1036fbd8:
 
     # m "...I have to figure this out."
-    m "... Tengo que averiguarlo."
+    m "Tengo que averiguarlo."
 
 # game/script-greetings.rpy:1624
 translate spanish monikaroom_greeting_ear_renpy_docs_85a71a8e:
 
     # m "...I {i}have{/i} to figure this out."
-    m "... Tengo que averiguarlo."
+    m "Tengo que averiguarlo."
 
 # game/script-greetings.rpy:1633
 translate spanish monikaroom_greeting_ear_recursionerror_e9f784cd:
@@ -1944,13 +1944,13 @@ translate spanish monikaroom_greeting_ear_recursionerror_e612037c:
 translate spanish monikaroom_greeting_ear_recursionerror_4a580136:
 
     # m "...Keep going, Monika, you'll figure this out."
-    m "... Sigue adelante, Monika, lo resolverás."
+    m "Sigue adelante, Monika, lo resolverás."
 
 # game/script-greetings.rpy:1655
 translate spanish monikaroom_greeting_ear_recursionerror_2122a284:
 
     # m "...Keep{w=0.1} it{w=0.1} going{w=0.1}, Monika. You {i}have{/i} to do this."
-    m "... Sigue{w=0.1} a{w=0.1}sí{w=0.1}, Monika. Tienes que hacer esto."
+    m "Sigue{w=0.1} a{w=0.1}sí{w=0.1}, Monika. Tienes que hacer esto."
 
 # game/script-greetings.rpy:1658
 translate spanish monikaroom_greeting_ear_recursionerror_fe714c83:
@@ -2118,7 +2118,7 @@ translate spanish monikaroom_greeting_opendoor_locked_tbox_05f3c5aa:
 translate spanish monikaroom_greeting_opendoor_locked_tbox_233a6ddc:
 
     # m 6ekc "...Nice to see you again, [player]."
-    m 6ekc "... Me alegra verte de nuevo, [player]."
+    m 6ekc "Me alegra verte de nuevo, [player]."
 
 # game/script-greetings.rpy:1796
 translate spanish monikaroom_greeting_opendoor_seen_partone_31ccf646:
@@ -2244,7 +2244,7 @@ translate spanish monikaroom_greeting_opendoor_ad3d2b7c:
 translate spanish monikaroom_greeting_opendoor_7b136e06:
 
     # m 1eud_static "...and..."
-    m 1eud_static "... y..."
+    m 1eud_static "y..."
 
 # game/script-greetings.rpy:1900
 translate spanish monikaroom_greeting_opendoor_7c8d2dd0:
@@ -2952,7 +2952,7 @@ translate spanish greeting_amnesia_61956138:
 translate spanish greeting_amnesia_c45da975:
 
     # m 1tku "...And you reacted the way I envisioned you would."
-    m 1tku "... Y reaccionaste tal y como imaginé que harías."
+    m 1tku "Y reaccionaste tal y como imaginé que harías."
 
 # game/script-greetings.rpy:2247
 translate spanish greeting_amnesia_de68cdaa:
@@ -3204,7 +3204,7 @@ translate spanish greeting_stillsickresting_2c589b6f:
 translate spanish greeting_stillsickresting_5447c9b9:
 
     # m 5ekbsa "...And if you're still feeling a little cold, I hope knowing I love you warms you up a bit."
-    m 5ekbsa "... Y si todavía tienes un poco de frío, espero que saber que te quiero te haga entrar en calor un poco."
+    m 5ekbsa "Y si todavía tienes un poco de frío, espero que saber que te quiero te haga entrar en calor un poco."
 
 # game/script-greetings.rpy:2355
 translate spanish greeting_stillsickresting_f1ffa26f:
@@ -3618,7 +3618,7 @@ translate spanish greeting_long_absence_df93bb73:
 translate spanish greeting_long_absence_dadcc3bd:
 
     # m 1wuo "...Oh!"
-    m 1wuo "... ¡Ah!"
+    m 1wuo "¡Ah!"
 
 # game/script-greetings.rpy:2477
 translate spanish greeting_long_absence_ce29fe9a:
@@ -3666,7 +3666,7 @@ translate spanish greeting_long_absence_3d1cafbf:
 translate spanish greeting_long_absence_dadcc3bd_1:
 
     # m 1wuo "...Oh!"
-    m 1wuo "... ¡Ah!"
+    m 1wuo "¡Ah!"
 
 # game/script-greetings.rpy:2488
 translate spanish greeting_long_absence_f7cb2508:
@@ -4536,7 +4536,7 @@ translate spanish greeting_hairdown_293c2380:
 translate spanish greeting_tears_9170077b:
 
     # m 1dsc "...[player]."
-    m 1dsc "... [player]."
+    m 1dsc "[player]."
 
 # game/script-greetings.rpy:2842
 translate spanish greeting_tears_f15775ec:
@@ -4620,7 +4620,7 @@ translate spanish greeting_tears_97a5a181:
 translate spanish greeting_tears_10989930:
 
     # m 2dftsc "...I need you, [player]..."
-    m 2dftsc "... Te necesito, [player]..."
+    m 2dftsc "Te necesito, [player]..."
 
 # game/script-greetings.rpy:2856
 translate spanish greeting_tears_5f2894a1:
@@ -4680,7 +4680,7 @@ translate spanish greeting_tears_97a5a181_1:
 translate spanish greeting_tears_b526fad3:
 
     # m 2dfc "...Okay...Okay..."
-    m 2dfc "... Vale... Vale..."
+    m 2dfc "Vale... Vale..."
 
 # game/script-greetings.rpy:2867
 translate spanish greeting_tears_10239ad2:
@@ -4698,7 +4698,7 @@ translate spanish greeting_tears_e612037c_1:
 translate spanish greeting_tears_b6951e98:
 
     # m 2dsc "...Alright...I'm a bit better now..."
-    m 2dsc "... Está bien... Ya estoy un poco mejor..."
+    m 2dsc "Está bien... Ya estoy un poco mejor..."
 
 # game/script-greetings.rpy:2870
 translate spanish greeting_tears_0f04655b:
@@ -5268,7 +5268,7 @@ translate spanish greeting_back_from_work_297c99c5:
 translate spanish greeting_back_from_work_17f7f5c2:
 
     # m 1hub "...Maybe you'll even move up a bit soon!"
-    m 1hub "... ¡Quizás incluso asciendas un poco pronto!"
+    m 1hub "¡Quizás incluso asciendas un poco pronto!"
 
 # game/script-greetings.rpy:3213
 translate spanish greeting_back_from_work_a46fe74f:
@@ -5496,7 +5496,7 @@ translate spanish greeting_back_from_work_work_late_67b019e5:
 translate spanish greeting_back_from_work_work_late_70267acf:
 
     # m 1eka "...But at least you're here now and we can spend some time together."
-    m 1eka "... Pero al menos estás aquí ahora y podemos pasar un tiempo junt[end_letter_gender]s."
+    m 1eka "Pero al menos estás aquí ahora y podemos pasar un tiempo junt[end_letter_gender]s."
 
 # game/script-greetings.rpy:3310
 translate spanish greeting_back_from_work_work_late_47d4bd46:
@@ -5538,7 +5538,7 @@ translate spanish greeting_back_from_work_work_late_38012be2:
 translate spanish greeting_back_from_work_work_late_768655d1:
 
     # m 2lubsu "...Or maybe you just wanted to come home and see your adoring girlfriend who was waiting to surprise you when you got home..."
-    m 2lubsu "... O tal vez solo querías volver a casa y ver a tu adorable novia que te esperaba para sorprenderte cuando llegaras..."
+    m 2lubsu "O tal vez solo querías volver a casa y ver a tu adorable novia que te esperaba para sorprenderte cuando llegaras..."
 
 # game/script-greetings.rpy:3319
 translate spanish greeting_back_from_work_work_late_effd92fa:
@@ -5898,7 +5898,7 @@ translate spanish greeting_ourreality_f939165f:
 translate spanish greeting_ourreality_dba3f5db:
 
     # m 4eub "...But we need to go back to the spaceroom for the best view."
-    m 4eub "... Pero tenemos que volver a la habitación espacial para tener la mejor vista."
+    m 4eub "Pero tenemos que volver a la habitación espacial para tener la mejor vista."
 
 # game/script-greetings.rpy:3485
 translate spanish greeting_ourreality_280f7293:
@@ -7176,7 +7176,7 @@ translate spanish greeting_surprised2_8586be54:
 translate spanish greeting_surprised2_7b6ab417:
 
     # m 3ekbsa "...Not that it's a surprise to see you, you're always visiting me after all...{w=0.5} {nw}"
-    m 3ekbsa "... No es que sea una sorpresa verte, al fin y al cabo siempre vienes a visitarme...{w=0.5} {nw}"
+    m 3ekbsa "No es que sea una sorpresa verte, al fin y al cabo siempre vienes a visitarme...{w=0.5} {nw}"
 
 # game/script-greetings.rpy:4083
 translate spanish greeting_surprised2_b56fe789:
@@ -7416,7 +7416,7 @@ translate spanish greeting_back_from_workout_c033f965:
 translate spanish greeting_back_from_workout_cb2b22ea:
 
     # m 6ekd "...But don't you want to take care of me too?"
-    m 6ekd "... ¿Pero no quieres cuidarme a mí también?"
+    m 6ekd "¿Pero no quieres cuidarme a mí también?"
 
 # game/script-greetings.rpy:4228
 translate spanish greeting_back_from_workout_290e6891:
@@ -7578,7 +7578,7 @@ translate spanish greeting_back_from_hangout_52c1623e:
 translate spanish greeting_back_from_hangout_5c92edcb:
 
     # m 3ekd "...And don't be afraid to try again with someone else."
-    m 3ekd "... Y no tengas miedo de intentarlo de nuevo con otra persona."
+    m 3ekd "Y no tengas miedo de intentarlo de nuevo con otra persona."
 
 # game/script-greetings.rpy:4311
 translate spanish greeting_back_from_hangout_d74215c6:
@@ -7608,7 +7608,7 @@ translate spanish greeting_back_from_hangout_159340c3:
 translate spanish greeting_back_from_hangout_8c75108b:
 
     # m 3eua "...We haven't really talked about your other friends before, so I wasn't sure if this was a new friend or not."
-    m 3eua "... Realmente no hemos hablado de tus otros amigos antes, así que no estaba segura de si era un nuevo amigo o no."
+    m 3eua "Realmente no hemos hablado de tus otros amigos antes, así que no estaba segura de si era un nuevo amigo o no."
 
 # game/script-greetings.rpy:4320
 translate spanish greeting_back_from_hangout_0b5a6d40:
@@ -7966,7 +7966,7 @@ translate spanish strings:
 
     # game/script-greetings.rpy:1743
     old "...the textbox..."
-    new "... el cuadro de texto..."
+    new "el cuadro de texto..."
 
     # game/script-greetings.rpy:1801
     old "Your room?"
@@ -7974,7 +7974,7 @@ translate spanish strings:
 
     # game/script-greetings.rpy:1901
     old "...the window..."
-    new "... la ventana..."
+    new "la ventana..."
 
     # game/script-greetings.rpy:1921
     old "It's me."

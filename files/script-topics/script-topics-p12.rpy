@@ -273,7 +273,7 @@ translate spanish monika_complain_battery_cb30fec8:
 translate spanish monika_complain_battery_48e9f8ba:
 
     # m 3eka "...or at least let me know when you're going."
-    m 3eka "... O al menos avísame cuando te vayas."
+    m 3eka "O al menos avísame cuando te vayas."
 
 # game/script-topics.rpy:8975
 translate spanish monika_complain_battery_bff27ba5:
@@ -1395,7 +1395,7 @@ translate spanish monika_smoking_quit_d1615b4f:
 translate spanish monika_smoking_quit_d8845ef9:
 
     # m 2eua "...Now, I don't want to undermine your victory or anything, {nw}"
-    m 2eua "... Ahora bien, no quiero menospreciar tu victoria ni nada de eso, {nw}"
+    m 2eua "Ahora bien, no quiero menospreciar tu victoria ni nada de eso, {nw}"
 
 # game/script-topics.rpy:9394
 translate spanish monika_smoking_quit_2e1e00f5:

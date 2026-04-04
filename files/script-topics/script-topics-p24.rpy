@@ -201,7 +201,7 @@ translate spanish monika_renewable_energy_cf10b4cf:
 translate spanish monika_renewable_energy_054b62b7:
 
     # m 3rkc "...Not to mention that wind turbines are pretty loud and are often seen as eyesores, creating drawbacks for those living near them."
-    m 3rkc "... Por no mencionar que los aerogeneradores son bastante ruidosos y a menudo se consideran un atentado paisajístico, lo que crea inconvenientes para quienes viven cerca."
+    m 3rkc "Por no mencionar que los aerogeneradores son bastante ruidosos y a menudo se consideran un atentado paisajístico, lo que crea inconvenientes para quienes viven cerca."
 
 # game/script-topics.rpy:17804
 translate spanish monika_renewable_energy_53a9b055:
@@ -387,13 +387,13 @@ translate spanish monika_stargazing_555232df:
 translate spanish monika_stargazing_adfb3308:
 
     # m 6dubsu "...holding each other close, pointing out constellations or making our own..."
-    m 6dubsu "... Abrazados, señalando constelaciones o inventándonos las nuestras..."
+    m 6dubsu "Abrazados, señalando constelaciones o inventándonos las nuestras..."
 
 # game/script-topics.rpy:17869
 translate spanish monika_stargazing_ccefc2c6:
 
     # m 6sub "...maybe we could even bring a telescope and look at planets!"
-    m 6sub "... ¡A lo mejor hasta podríamos llevar un telescopio y mirar los planetas!"
+    m 6sub "¡A lo mejor hasta podríamos llevar un telescopio y mirar los planetas!"
 
 # game/script-topics.rpy:17870
 translate spanish monika_stargazing_58f44e2a:
@@ -609,7 +609,7 @@ translate spanish monika_giving_criticism_27948bba:
 translate spanish monika_giving_criticism_59475cee:
 
     # m 1rksdlu "...After all, offering an opinion doesn't automatically make you right, either.{w=0.2} {nw}"
-    m 1rksdlu "... Después de todo, dar una opinión tampoco te da la razón automáticamente.{w=0.2} {nw}"
+    m 1rksdlu "Después de todo, dar una opinión tampoco te da la razón automáticamente.{w=0.2} {nw}"
 
 # game/script-topics.rpy:17945
 translate spanish monika_giving_criticism_34182962:
@@ -627,7 +627,7 @@ translate spanish monika_giving_criticism_bde0aeec:
 translate spanish monika_giving_criticism_0ef87266:
 
     # m 3hub "...That'd be Monika's Critique Tip of the Day, ahaha!"
-    m 3hub "... Ese sería el consejo de crítica del día de Monika, ¡ja, ja, ja!"
+    m 3hub "Ese sería el consejo de crítica del día de Monika, ¡ja, ja, ja!"
 
 # game/script-topics.rpy:17962
 translate spanish monika_boyfriend_gossip_6b7a7a0e:
@@ -663,7 +663,7 @@ translate spanish monika_boyfriend_gossip_377ed12a:
 translate spanish monika_boyfriend_gossip_414cc7b5:
 
     # m 3eud "...But no such character exists in the game's files to prove or disprove it."
-    m 3eud "... Pero no existe tal personaje en los archivos del juego para demostrarlo o desmentirlo."
+    m 3eud "Pero no existe tal personaje en los archivos del juego para demostrarlo o desmentirlo."
 
 # game/script-topics.rpy:17968
 translate spanish monika_boyfriend_gossip_7e88a2a3:
@@ -789,7 +789,7 @@ translate spanish monika_brainstorming_a510fc92:
 translate spanish monika_brainstorming_839b95c1:
 
     # m 3eub "...Eventually they'll become something that you'd call a good idea!"
-    m 3eub "... ¡Con el tiempo se convertirán en lo que llamarías una buena idea!"
+    m 3eub "¡Con el tiempo se convertirán en lo que llamarías una buena idea!"
 
 # game/script-topics.rpy:18007
 translate spanish monika_brainstorming_99135a5f:
@@ -1119,7 +1119,7 @@ translate spanish monika_aliens_c9602e16:
 translate spanish monika_aliens_e2688a09:
 
     # m 3eua "...Though I can see why you would be interested in knowing my opinion on it."
-    m 3eua "... Aunque entiendo por qué te interesaría saber mi opinión al respecto."
+    m 3eua "Aunque entiendo por qué te interesaría saber mi opinión al respecto."
 
 # game/script-topics.rpy:18138
 translate spanish monika_aliens_19824bb4:
@@ -1131,7 +1131,7 @@ translate spanish monika_aliens_19824bb4:
 translate spanish monika_aliens_2f13aac8:
 
     # m 1dsc "...I know I used to wonder about that myself a lot before you came along."
-    m 1dsc "... Sé que yo misma me lo preguntaba mucho antes de que llegaras."
+    m 1dsc "Sé que yo misma me lo preguntaba mucho antes de que llegaras."
 
 # game/script-topics.rpy:18142
 translate spanish monika_aliens_0d7aed7c:
@@ -1269,7 +1269,7 @@ translate spanish monika_aliens_c670d3a7:
 translate spanish monika_aliens_8331d30f:
 
     # m 1lksdla "...Or even start talking about the multiverse theory..."
-    m 1lksdla "... O hasta empezar a hablar de la teoría del multiverso..."
+    m 1lksdla "O hasta empezar a hablar de la teoría del multiverso..."
 
 # game/script-topics.rpy:18175
 translate spanish monika_aliens_9f91bed1:
@@ -1293,7 +1293,7 @@ translate spanish monika_aliens_d83ef578:
 translate spanish monika_aliens_6548894c:
 
     # m 1euc "...Life which might evolve to a point where it's intelligence is comparable to, if not even greater than our own."
-    m 1euc "... Una vida que podría evolucionar hasta un punto en el que su inteligencia fuera comparable, si no incluso superior, a la nuestra."
+    m 1euc "Una vida que podría evolucionar hasta un punto en el que su inteligencia fuera comparable, si no incluso superior, a la nuestra."
 
 # game/script-topics.rpy:18179
 translate spanish monika_aliens_b240126b:
@@ -1431,7 +1431,7 @@ translate spanish monika_mc_is_gone_1f957a98:
 translate spanish monika_mc_is_gone_e91f3ade:
 
     # m 1hksdlb "...Oh gosh, can you imagine how creepy it would be if I were talking to his unmoving body just so that you could hear what I say?"
-    m 1hksdlb "... Madre mía, ¿te imaginas lo espeluznante que sería si le estuviera hablando a su cuerpo inerte solo para que tú pudieras oírme?"
+    m 1hksdlb "Madre mía, ¿te imaginas lo espeluznante que sería si le estuviera hablando a su cuerpo inerte solo para que tú pudieras oírme?"
 
 # game/script-topics.rpy:18243
 translate spanish monika_mc_is_gone_abfeada8:
@@ -1539,7 +1539,7 @@ translate spanish monika_mc_is_gone_b7decf24:
 translate spanish monika_mc_is_gone_24ddd589:
 
     # m 1duu "...And that's probably for the best."
-    m 1duu "... Y probablemente sea lo mejor."
+    m 1duu "Y probablemente sea lo mejor."
 
 # game/script-topics.rpy:18268
 translate spanish monika_mc_is_gone_abdcdef9:
@@ -1575,7 +1575,7 @@ translate spanish monika_mc_is_gone_71804134:
 translate spanish monika_mc_is_gone_5ce15639:
 
     # m 1ekbsu "...Well, aside from {i}really{/i} being with you, ehehe~"
-    m 1ekbsu "... Bueno, aparte de estar verdaderamente contigo, je, je, je."
+    m 1ekbsu "Bueno, aparte de estar verdaderamente contigo, je, je, je."
 
 # game/script-topics.rpy:18293
 translate spanish monika_know_its_you_a069dd9d:
@@ -1623,7 +1623,7 @@ translate spanish monika_know_its_you_c5d34bc7:
 translate spanish monika_know_its_you_8b5f3b86:
 
     # m 7eud "...And if someone else {i}is{/i} looking in right now, I trust it's because you've given them a good reason to."
-    m 7eud "... Y si hay alguien más mirando ahora mismo, confío en que es porque le has dado un buen motivo."
+    m 7eud "Y si hay alguien más mirando ahora mismo, confío en que es porque le has dado un buen motivo."
 
 # game/script-topics.rpy:18304
 translate spanish monika_know_its_you_b493ba3b:
@@ -1641,7 +1641,7 @@ translate spanish monika_know_its_you_054507b6:
 translate spanish monika_know_its_you_c00e77a8:
 
     # m 1eksdla "...I mean, I {i}want{/i} to trust that it's you out there."
-    m 1eksdla "... Quiero decir, quiero confiar en que eres tú quien está ahí fuera."
+    m 1eksdla "Quiero decir, quiero confiar en que eres tú quien está ahí fuera."
 
 # game/script-topics.rpy:18309
 translate spanish monika_know_its_you_78a9d816:
@@ -1677,7 +1677,7 @@ translate spanish monika_know_its_you_75ee2730:
 translate spanish monika_know_its_you_398808d9:
 
     # m 2rksdlc "...I try not to think about it too much, actually."
-    m 2rksdlc "... La verdad es que intento no pensar demasiado en ello."
+    m 2rksdlc "La verdad es que intento no pensar demasiado en ello."
 
 # game/script-topics.rpy:18317
 translate spanish monika_know_its_you_b1a02fff:
@@ -1701,7 +1701,7 @@ translate spanish monika_know_its_you_6ad5b08b:
 translate spanish monika_know_its_you_6e0108ce:
 
     # m 2dksdlc "...{w=0.3}I don't."
-    m 2dksdlc "... {w=0.3}No."
+    m 2dksdlc "{w=0.3}No."
 
 # game/script-topics.rpy:18323
 translate spanish monika_know_its_you_a0b29980:
@@ -1827,7 +1827,7 @@ translate spanish monika_information_age_693febd3:
 translate spanish monika_information_age_2ab8682d:
 
     # m 1esa "...And since I come across misinformation in my own research,{w=0.1} {nw}"
-    m 1esa "... Y como me encuentro con desinformación en mi propia investigación,{w=0.1} {nw}"
+    m 1esa "Y como me encuentro con desinformación en mi propia investigación,{w=0.1} {nw}"
 
 # game/script-topics.rpy:18362
 translate spanish monika_information_age_381076e5:
@@ -1971,13 +1971,13 @@ translate spanish monika_foundation_042c2b0d:
 translate spanish monika_foundation_fc978146:
 
     # m 3esc "...And with the help of modern technologies, we're now able to understand human behaviors better than ever."
-    m 3esc "... Y con la ayuda de las tecnologías modernas, ahora somos capaces de entender el comportamiento humano mejor que nunca."
+    m 3esc "Y con la ayuda de las tecnologías modernas, ahora somos capaces de entender el comportamiento humano mejor que nunca."
 
 # game/script-topics.rpy:18404
 translate spanish monika_foundation_aa1c1ff2:
 
     # m 3etd "...So is it really that far-fetched to think we'll be able to make predictions on the level of psychohistory one day?"
-    m 3etd "... Así que, ¿es realmente tan descabellado pensar que algún día podremos hacer predicciones al nivel de la psicohistoria?"
+    m 3etd "Así que, ¿es realmente tan descabellado pensar que algún día podremos hacer predicciones al nivel de la psicohistoria?"
 
 # game/script-topics.rpy:18405
 translate spanish monika_foundation_80a7d94c:

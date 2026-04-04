@@ -1323,7 +1323,7 @@ translate spanish monika_holdme_long_e4665cf0:
 translate spanish monika_holdme_long_089333d3:
 
     # m 3hubfb "...So make sure to hug me often, ahaha!"
-    m 3hubfb "... Así que asegúrate de abrazarme a menudo, ¡ja, ja, ja!"
+    m 3hubfb "Así que asegúrate de abrazarme a menudo, ¡ja, ja, ja!"
 
 # game/script-topics.rpy:2807
 translate spanish monika_holdme_long_2adc75af:
@@ -1347,7 +1347,7 @@ translate spanish monika_holdme_long_37340438:
 translate spanish monika_holdme_long_dd1ab88e:
 
     # m 6dkbsa "...{w=1}Hm?"
-    m 6dkbsa "... {w=1}¿Mh?"
+    m 6dkbsa "{w=1}¿Mh?"
 
 # game/script-topics.rpy:2813
 translate spanish monika_holdme_long_a6d4907a:
@@ -1455,7 +1455,7 @@ translate spanish monika_holdme_long_31ef719a:
 translate spanish monika_holdme_long_fcd0eb08:
 
     # m 6dubsc "...{w=1}Hm?"
-    m 6dubsc "... {w=1}¿Mh?"
+    m 6dubsc "{w=1}¿Mh?"
 
 # game/script-topics.rpy:2837
 translate spanish monika_holdme_long_23b9d43f:
@@ -1611,13 +1611,13 @@ translate spanish monika_closeness_27c78f3f:
 translate spanish monika_closeness_fa2918a9:
 
     # m 1ekbsa "...And to feel your warmth."
-    m 1ekbsa "... Y sentir tu calor."
+    m 1ekbsa "Y sentir tu calor."
 
 # game/script-topics.rpy:2954
 translate spanish monika_closeness_27f36651:
 
     # m 1dubsu "...And to hear the sound of your heartbeat."
-    m 1dubsu "... Y escuchar el sonido de tu latido."
+    m 1dubsu "Y escuchar el sonido de tu latido."
 
 # game/script-topics.rpy:2955
 translate spanish monika_closeness_5908bf9e:

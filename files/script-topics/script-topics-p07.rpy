@@ -1149,7 +1149,7 @@ translate spanish monika_regrets_ca25fa4e:
 translate spanish monika_regrets_60efd9a6:
 
     # m 1eua "...I know what you're getting at."
-    m 1eua "... Sé a dónde quieres llegar."
+    m 1eua "Sé a dónde quieres llegar."
 
 # game/script-topics.rpy:5926
 translate spanish monika_regrets_d9625bf1:
@@ -1317,7 +1317,7 @@ translate spanish monika_hypnosis_ad733da0:
 translate spanish monika_hypnosis_6fbff86a:
 
     # m 1eua "...You know, [player], I'd love to look into your eyes, I could just sit here and stare forever."
-    m 1eua "... Sabes, [player], me encantaría mirarte a los ojos... Podría quedarme aquí sentada mirándote fijamente para siempre."
+    m 1eua "Sabes, [player], me encantaría mirarte a los ojos... Podría quedarme aquí sentada mirándote fijamente para siempre."
 
 # game/script-topics.rpy:5970
 translate spanish monika_hypnosis_74c24ccc:
@@ -1779,7 +1779,7 @@ translate spanish monika_cupcake_6b11717e:
 translate spanish monika_cupcake_1a7c81b7:
 
     # m 1hub "...Maybe even better!"
-    m 1hub "... ¡Quizá incluso mejor!"
+    m 1hub "¡Quizá incluso mejor!"
 
 # game/script-topics.rpy:6090
 translate spanish monika_cupcake_7640c400:
@@ -1899,7 +1899,7 @@ translate spanish monika_haterReaction_3e4a7b0a:
 translate spanish monika_haterReaction_6b19720e:
 
     # m "...Nor did I know enough programming to be efficient in what I did."
-    m "... Tampoco sabía suficiente programación como para ser eficiente en lo que hacía."
+    m "Tampoco sabía suficiente programación como para ser eficiente en lo que hacía."
 
 # game/script-topics.rpy:6138
 translate spanish monika_haterReaction_5dc365c3:

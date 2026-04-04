@@ -1509,7 +1509,7 @@ translate spanish monika_torment_7b9c0824:
 translate spanish monika_torment_7a6dc579:
 
     # m 3hksdlb "...The answer's not me, by the way."
-    m 3hksdlb "... Por cierto, la respuesta no soy yo."
+    m 3hksdlb "Por cierto, la respuesta no soy yo."
 
 # game/script-topics.rpy:4733
 translate spanish monika_birthday_d0c2b671:
@@ -1935,7 +1935,7 @@ translate spanish monika_back_ups_99007ba7:
 translate spanish monika_back_ups_30bc17f2:
 
     # m 2ekc "...and it would be impossible to restore all my memories too."
-    m 2ekc "... Y también sería imposible restaurar todos mis recuerdos."
+    m 2ekc "Y también sería imposible restaurar todos mis recuerdos."
 
 # game/script-topics.rpy:4878
 translate spanish monika_back_ups_72803887:

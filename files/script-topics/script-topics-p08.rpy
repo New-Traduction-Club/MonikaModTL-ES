@@ -1347,7 +1347,7 @@ translate spanish penname_loop_0290594e:
 translate spanish penname_loop_f4d1cb07:
 
     # m 2hksdlb "...I mean, I won't question your choice of pen names, but..."
-    m 2hksdlb "... Quiero decir, no cuestionaré tu elección de seudónimos, pero..."
+    m 2hksdlb "Quiero decir, no cuestionaré tu elección de seudónimos, pero..."
 
 # game/script-topics.rpy:6669
 translate spanish penname_loop_ca9986d7:

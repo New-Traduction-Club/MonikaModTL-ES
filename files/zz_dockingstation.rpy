@@ -171,7 +171,7 @@ translate spanish mas_dockstat_generic_cancelled_still_going_ask_26233271:
 translate spanish mas_dockstat_generic_cancelled_still_going_ask_4edac8b9:
 
     # m 2eka "...Thank you."
-    m 2eka "... Gracias."
+    m 2eka "Gracias."
 
 # game/zz_dockingstation.rpy:2568
 translate spanish mas_dockstat_generic_cancelled_still_going_ask_09e19c2a:
@@ -225,7 +225,7 @@ translate spanish mas_dockstat_generic_failed_io_still_going_ask_9a3c6744:
 translate spanish mas_dockstat_generic_failed_io_still_going_ask_32fb3839:
 
     # m 1eka "...Thank you, [player]. That means more to me than you could possibly understand."
-    m 1eka "... Gracias, [player]. Eso significa más para mí de lo que puedas imaginar."
+    m 1eka "Gracias, [player]. Eso significa más para mí de lo que puedas imaginar."
 
 translate spanish strings:
 

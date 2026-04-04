@@ -561,7 +561,7 @@ translate spanish monika_archetype_17e6fb27:
 translate spanish monika_archetype_ab80dbc1:
 
     # m 4eka "...You wouldn't like me more if I was like that, right?"
-    m 4eka "... No te gustaría más de esa forma, ¿verdad?"
+    m 4eka "No te gustaría más de esa forma, ¿verdad?"
 
 # game/script-topics.rpy:1625
 translate spanish monika_archetype_1595feef:

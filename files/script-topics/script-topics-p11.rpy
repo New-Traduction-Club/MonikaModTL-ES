@@ -879,7 +879,7 @@ translate spanish monika_writingtip3_4e876e32:
 translate spanish monika_writingtip3_ef5575ee:
 
     # m 1lksdla "...I can't promise that I won't peek, though. It's way too tempting!"
-    m 1lksdla "... Aunque no puedo prometer que no echaré un vistazo. ¡Es una tentación muy grande!"
+    m 1lksdla "Aunque no puedo prometer que no echaré un vistazo. ¡Es una tentación muy grande!"
 
 # game/script-topics.rpy:8551
 translate spanish monika_writingtip3_a3c03db4:
@@ -1185,7 +1185,7 @@ translate spanish monika_selfharm_cd5f107f:
 translate spanish monika_selfharm_85c46129:
 
     # m 2lksdlc "...like cutting yourself..."
-    m 2lksdlc "... como cortarte..."
+    m 2lksdlc "como cortarte..."
 
 # game/script-topics.rpy:8671
 translate spanish monika_selfharm_eedd66bd:
@@ -1905,7 +1905,7 @@ translate spanish monika_marriage_713fb825:
 translate spanish monika_marriage_d2606a4e:
 
     # m 1ekd "...I'm sorry. Please do believe me that I would say yes under any other circumstance."
-    m 1ekd "... Lo siento. Por favor, créeme que diría que sí en cualquier otra circunstancia."
+    m 1ekd "Lo siento. Por favor, créeme que diría que sí en cualquier otra circunstancia."
 
 # game/script-topics.rpy:8868
 translate spanish monika_marriage_319893f7:

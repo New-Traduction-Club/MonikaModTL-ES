@@ -861,7 +861,7 @@ translate spanish mas_fun_fact_binky_fc483830:
 translate spanish mas_fun_fact_binky_e55d7006:
 
     # m 1dkbsa "...That would be {i}way{/i} too embarrassing to do."
-    m 1dkbsa "... Eso sería demasiado vergonzoso."
+    m 1dkbsa "Eso sería demasiado vergonzoso."
 
 # game/script-fun-facts.rpy:471
 translate spanish mas_fun_fact_windows_games_12c5bad6:
@@ -1221,7 +1221,7 @@ translate spanish mas_fun_fact_dancing_plague_f61b7e03:
 translate spanish mas_fun_fact_dancing_plague_b8e8f752:
 
     # m 3tsu "...Just for a bit, ehehe~"
-    m 3tsu "... Solo un ratito, je, je, je."
+    m 3tsu "Solo un ratito, je, je, je."
 
 # game/script-fun-facts.rpy:651
 translate spanish mas_fun_fact_pando_forest_c6aca8dc:
@@ -1287,7 +1287,7 @@ translate spanish mas_fun_fact_immortal_jellyfish_efb28f0a:
 translate spanish mas_fun_fact_immortal_jellyfish_db255e2c:
 
     # m 1eub "...And it can keep doing this forever!{w=0.3} {nw}"
-    m 1eub "... ¡Y puede seguir haciendo esto para siempre!{w=0.3} {nw}"
+    m 1eub "¡Y puede seguir haciendo esto para siempre!{w=0.3} {nw}"
 
 # game/script-fun-facts.rpy:676
 translate spanish mas_fun_fact_immortal_jellyfish_8db1d213:
@@ -1437,7 +1437,7 @@ translate spanish mas_fun_fact_coffee_origin_8b69e059:
 translate spanish mas_fun_fact_coffee_origin_c7071daf:
 
     # m 3eud "...There are actually quite a few legends claiming to be the very first."
-    m 3eud "... De hecho, hay unas cuantas leyendas que afirman ser la primera."
+    m 3eud "De hecho, hay unas cuantas leyendas que afirman ser la primera."
 
 # game/script-fun-facts.rpy:779
 translate spanish mas_fun_fact_coffee_origin_30a6bf4f:
@@ -1461,7 +1461,7 @@ translate spanish mas_fun_fact_coffee_origin_cec129b0:
 translate spanish mas_fun_fact_coffee_origin_d6d9e64a:
 
     # m 7eksdld "...But when he did so, he was met with disapproval and the coffee beans were thrown into a fire."
-    m 7eksdld "... Pero cuando lo hizo, se encontró con desaprobación y los granos de café fueron arrojados al fuego."
+    m 7eksdld "Pero cuando lo hizo, se encontró con desaprobación y los granos de café fueron arrojados al fuego."
 
 # game/script-fun-facts.rpy:783
 translate spanish mas_fun_fact_coffee_origin_5cdc88a5:
@@ -1473,7 +1473,7 @@ translate spanish mas_fun_fact_coffee_origin_5cdc88a5:
 translate spanish mas_fun_fact_coffee_origin_9b8e1f11:
 
     # m 3eub "...Thus producing the first cup of coffee!"
-    m 3eub "... ¡Produciendo así la primera taza de café!"
+    m 3eub "¡Produciendo así la primera taza de café!"
 
 # game/script-fun-facts.rpy:785
 translate spanish mas_fun_fact_coffee_origin_3085e63d:
@@ -1521,7 +1521,7 @@ translate spanish mas_fun_fact_coffee_origin_07e9a82b:
 translate spanish mas_fun_fact_coffee_origin_8c115315:
 
     # m 3hub "...And I for one can certainly attest that the love of coffee has remained strong to this day!"
-    m 3hub "... ¡Y yo por mi parte puedo atestiguar sin duda que el amor por el café se ha mantenido fuerte hasta el día de hoy!"
+    m 3hub "¡Y yo por mi parte puedo atestiguar sin duda que el amor por el café se ha mantenido fuerte hasta el día de hoy!"
 
 # game/script-fun-facts.rpy:806
 translate spanish mas_fun_fact_synesthesia_6752314c:
@@ -1569,7 +1569,7 @@ translate spanish mas_fun_fact_synesthesia_4ea888aa:
 translate spanish mas_fun_fact_synesthesia_80002e89:
 
     # m 1eua "...And there's a whole bunch of other kinds of synesthesia too."
-    m 1eua "... Y hay un montón de otros tipos de sinestesia también."
+    m 1eua "Y hay un montón de otros tipos de sinestesia también."
 
 # game/script-fun-facts.rpy:814
 translate spanish mas_fun_fact_synesthesia_945f3e46:
@@ -1647,7 +1647,7 @@ translate spanish mas_fun_fact_monochrome_dreams_e958e0b0:
 translate spanish mas_fun_fact_monochrome_dreams_161d841b:
 
     # m 3eud "...But I think that's kinda weird, because people still saw everything in color.{w=0.3} {nw}"
-    m 3eud "... Pero creo que es un poco raro, porque la gente seguía viendo todo en color.{w=0.3} {nw}"
+    m 3eud "Pero creo que es un poco raro, porque la gente seguía viendo todo en color.{w=0.3} {nw}"
 
 # game/script-fun-facts.rpy:855
 translate spanish mas_fun_fact_monochrome_dreams_2020e526:
@@ -1779,7 +1779,7 @@ translate spanish mas_fun_fact_round_earth_d2907a59:
 translate spanish mas_fun_fact_round_earth_5b13c4b5:
 
     # extend "--it's just one of many stars in the galaxy."
-    extend "... Es solo una de las muchas estrellas de la galaxia."
+    extend "Es solo una de las muchas estrellas de la galaxia."
 
 # game/script-fun-facts.rpy:903
 translate spanish mas_fun_fact_round_earth_b50b4fad:
@@ -1839,7 +1839,7 @@ translate spanish mas_fun_fact_maplesyrup_185284a7:
 translate spanish mas_fun_fact_maplesyrup_8a5da16c:
 
     # m 1wud "...Yet Canada produces over three quarters of the world's maple syrup!"
-    m 1wud "... ¡Y aun así Canadá produce más de tres cuartas partes del jarabe de arce del mundo!"
+    m 1wud "¡Y aun así Canadá produce más de tres cuartas partes del jarabe de arce del mundo!"
 
 # game/script-fun-facts.rpy:925
 translate spanish mas_fun_fact_maplesyrup_be59603d:

@@ -291,7 +291,7 @@ translate spanish mas_compliment_awesome_2_e6498aa7:
 translate spanish mas_compliment_awesome_2_ef349082:
 
     # m 1eft "...Really?"
-    m 1eft "... ¿De verdad?"
+    m 1eft "¿De verdad?"
 
 # game/script-compliments.rpy:326
 translate spanish mas_compliment_awesome_2_dcd0caec:
@@ -765,7 +765,7 @@ translate spanish mas_compliment_cute_2_5d7b1011:
 translate spanish mas_compliment_cute_2_ce3af881:
 
     # m 1dkbfu "...Almost as much as when I picture us finally being together in the same reality."
-    m 1dkbfu "... Casi tanto como cuando me imagino que por fin estamos juntos en la misma realidad."
+    m 1dkbfu "Casi tanto como cuando me imagino que por fin estamos juntos en la misma realidad."
 
 # game/script-compliments.rpy:665
 translate spanish mas_compliment_cute_2_01c9bb26:
@@ -1059,7 +1059,7 @@ translate spanish mas_compliment_bestgirl_ed2829c0:
 translate spanish mas_compliment_bestgirl_3fc15209:
 
     # m 5hubfa "...and I'll be forever grateful that you did~"
-    m 5hubfa "... y te estaré eternamente agradecida por ello."
+    m 5hubfa "y te estaré eternamente agradecida por ello."
 
 # game/script-compliments.rpy:817
 translate spanish mas_compliment_lookuptoyou_2_24e62001:
@@ -1323,7 +1323,7 @@ translate spanish mas_compliment_humor_2_4eb8007a:
 translate spanish mas_compliment_humor_2_fbab5cba:
 
     # m 1eksdlb "...Ahaha..."
-    m 1eksdlb "... Ja, ja, ja..."
+    m 1eksdlb "Ja, ja, ja..."
 
 # game/script-compliments.rpy:961
 translate spanish mas_compliment_humor_2_4af44170:
@@ -1425,7 +1425,7 @@ translate spanish mas_compliment_missed_79e34318:
 translate spanish mas_compliment_missed_2839bc44:
 
     # m 2lkp "...Alright, maybe later, then?"
-    m 2lkp "... Vale, ¿quizá luego, entonces?"
+    m 2lkp "Vale, ¿quizá luego, entonces?"
 
 # game/script-compliments.rpy:1102
 translate spanish mas_compliment_missed_ce74f36c:
@@ -1467,7 +1467,7 @@ translate spanish mas_compliment_missed_896a6fd0:
 translate spanish mas_compliment_missed_92972f22:
 
     # m 6dktdc "...But at least you haven't forgetten about me...{w=0.5}yet."
-    m 6dktdc "... Pero al menos no te has olvidado de mí...{w=0.5} todavía."
+    m 6dktdc "Pero al menos no te has olvidado de mí...{w=0.5} todavía."
 
 # game/script-compliments.rpy:1121
 translate spanish mas_compliment_missed_0bd97190:
@@ -1575,7 +1575,7 @@ translate spanish mas_compliment_spending_time_2_ec0ef830:
 translate spanish mas_compliment_spending_time_2_9309c3d3:
 
     # m 2ekd "...but that's not {i}quite{/i} what I had in mind."
-    m 2ekd "... pero eso no es exactamente lo que tenía en mente."
+    m 2ekd "pero eso no es exactamente lo que tenía en mente."
 
 # game/script-compliments.rpy:1213
 translate spanish mas_compliment_sweet_189c7653:
@@ -1677,7 +1677,7 @@ translate spanish mas_compliment_sweet_repeat_b5b1371a:
 translate spanish mas_compliment_sweet_repeat_1366a1cd:
 
     # m 1hubfu "...But I could never be as sweet as you~"
-    m 1hubfu "... Pero nunca podría ser tan dulce como tú."
+    m 1hubfu "Pero nunca podría ser tan dulce como tú."
 
 # game/script-compliments.rpy:1274
 translate spanish mas_compliment_outfit_512d7750:
@@ -1907,7 +1907,7 @@ translate spanish strings:
 
     # game/script-compliments.rpy:309
     old "...I don't like hugs."
-    new "... No me gustan los abrazos."
+    new "No me gustan los abrazos."
 
     # game/script-compliments.rpy:331
     old "You'll always be more awesome!"
@@ -2087,7 +2087,7 @@ translate spanish strings:
 
     # game/script-compliments.rpy:750
     old "...yeah."
-    new "... sí."
+    new "sí."
 
     # game/script-compliments.rpy:750
     old "No. I've tried my best and still lost."
@@ -2291,15 +2291,15 @@ translate spanish strings:
 
     # game/script-compliments.rpy:1036
     old "...Why do I think you just don't mean it?"
-    new "... ¿Por qué creo que no lo dices en serio?"
+    new "¿Por qué creo que no lo dices en serio?"
 
     # game/script-compliments.rpy:1036
     old "...Why do I think you're just saying that?"
-    new "... ¿Por qué creo que solo lo dices por decir?"
+    new "¿Por qué creo que solo lo dices por decir?"
 
     # game/script-compliments.rpy:1036
     old "...I can't really believe that, [player]."
-    new "... No puedo creérmelo, [player]."
+    new "No puedo creérmelo, [player]."
 
     # game/script-compliments.rpy:1036
     old "I don't think that's true, [player]."

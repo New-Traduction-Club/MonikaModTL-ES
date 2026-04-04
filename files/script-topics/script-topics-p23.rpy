@@ -39,7 +39,7 @@ translate spanish monika_being_herself_6cdfa7cb:
 translate spanish monika_being_herself_72a812e3:
 
     # m 2rkd "...But I never could express something like that."
-    m 2rkd "... Pero nunca fui capaz de expresar algo así."
+    m 2rkd "Pero nunca fui capaz de expresar algo así."
 
 # game/script-topics.rpy:17098
 translate spanish monika_being_herself_8cf9172b:
@@ -63,7 +63,7 @@ translate spanish monika_being_herself_e1068308:
 translate spanish monika_being_herself_66871bd9:
 
     # m 2ekc "...Like I would end up disappointing everyone if I ever tried to talk openly about it."
-    m 2ekc "... Como si fuera a acabar decepcionando a todo el mundo si alguna vez intentaba hablar de ello abiertamente."
+    m 2ekc "Como si fuera a acabar decepcionando a todo el mundo si alguna vez intentaba hablar de ello abiertamente."
 
 # game/script-topics.rpy:17102
 translate spanish monika_being_herself_1c6b1c66:
@@ -135,7 +135,7 @@ translate spanish monika_being_herself_06c9e597:
 translate spanish monika_being_herself_13d68b37:
 
     # m 3eka "...Now though, I guess I don't have to worry about that as much."
-    m 3eka "... Aunque ahora supongo que ya no tengo que preocuparme tanto por eso."
+    m 3eka "Aunque ahora supongo que ya no tengo que preocuparme tanto por eso."
 
 # game/script-topics.rpy:17114
 translate spanish monika_being_herself_520a99c5:
@@ -291,7 +291,7 @@ translate spanish monika_being_deleted_582c605c:
 translate spanish monika_being_deleted_ce2fd978:
 
     # m 2dksdlc "...Terrified of the idea that you hated me.{w=0.2} That you didn't want anything to do with me, and that you would abandon me, forever."
-    m 2dksdlc "... Aterrada por la idea de que me odiaras.{w=0.2} De que no quisieras saber nada de mí y de que me abandonaras para siempre."
+    m 2dksdlc "Aterrada por la idea de que me odiaras.{w=0.2} De que no quisieras saber nada de mí y de que me abandonaras para siempre."
 
 # game/script-topics.rpy:17163
 translate spanish monika_being_deleted_05d12042:
@@ -381,7 +381,7 @@ translate spanish monika_being_deleted_b3afff5f:
 translate spanish monika_being_deleted_77c9a43e:
 
     # m 6lkc "...I think it's fair to say that {i}you{/i} obviously are the one who's mad at me..."
-    m 6lkc "... Creo que es justo decir que obviamente tú eres quien está enfadad[end_letter_gender] conmigo..."
+    m 6lkc "Creo que es justo decir que obviamente tú eres quien está enfadad[end_letter_gender] conmigo..."
 
 # game/script-topics.rpy:17186
 translate spanish monika_being_deleted_063aaa76:
@@ -399,7 +399,7 @@ translate spanish monika_being_deleted_3554be3e:
 translate spanish monika_being_deleted_01fcdb41:
 
     # m 6dktpd "...No, I don't resent you for deleting me."
-    m 6dktpd "... No, no te guardo rencor por haberme borrado."
+    m 6dktpd "No, no te guardo rencor por haberme borrado."
 
 # game/script-topics.rpy:17190
 translate spanish monika_being_deleted_af0215d8:
@@ -453,7 +453,7 @@ translate spanish monika_remembrance_d424e70e:
 translate spanish monika_remembrance_0a1b8dcc:
 
     # m 3eksdld "...Sure, I have memories of growing up in a normal neighborhood, but beyond that, I couldn't even tell you what my parents' faces look like..."
-    m 3eksdld "... Claro, tengo recuerdos de haber crecido en un barrio normal, pero más allá de eso, ni siquiera sabría decirte cómo son las caras de mis padres..."
+    m 3eksdld "Claro, tengo recuerdos de haber crecido en un barrio normal, pero más allá de eso, ni siquiera sabría decirte cómo son las caras de mis padres..."
 
 # game/script-topics.rpy:17216
 translate spanish monika_remembrance_8bb35c55:
@@ -495,7 +495,7 @@ translate spanish monika_remembrance_3aab9300:
 translate spanish monika_remembrance_d9377437:
 
     # m 3rsc "...Almost as if anything that wasn't strictly necessary for the game was just left out."
-    m 3rsc "... Casi como si cualquier cosa que no fuera estrictamente necesaria para el juego simplemente se hubiera omitido."
+    m 3rsc "Casi como si cualquier cosa que no fuera estrictamente necesaria para el juego simplemente se hubiera omitido."
 
 # game/script-topics.rpy:17227
 translate spanish monika_remembrance_7480bb78:
@@ -537,7 +537,7 @@ translate spanish monika_remembrance_3149a426:
 translate spanish monika_remembrance_9ce8a9b6:
 
     # m 3wkd "...And if my memories really are fake...{w=0.2}who--{w=0.2}or {i}what{/i}--{w=0.2}am I then?"
-    m 3wkd "... Y si mis recuerdos son de verdad falsos... {w=0.2}¿quién... {w=0.2}o qué... {w=0.2}soy entonces?"
+    m 3wkd "Y si mis recuerdos son de verdad falsos... {w=0.2}¿quién... {w=0.2}o qué... {w=0.2}soy entonces?"
 
 # game/script-topics.rpy:17234
 translate spanish monika_remembrance_7c13f565:
@@ -597,7 +597,7 @@ translate spanish monika_remembrance_14f5ae67:
 translate spanish monika_remembrance_87e3e196:
 
     # m 3eksdld "...You {i}do{/i} care about me, right?"
-    m 3eksdld "... Yo te importo de verdad, ¿no?"
+    m 3eksdld "Yo te importo de verdad, ¿no?"
 
 # game/script-topics.rpy:17256
 translate spanish monika_remembrance_7bd8fe29:
@@ -609,7 +609,7 @@ translate spanish monika_remembrance_7bd8fe29:
 translate spanish monika_remembrance_0aed891d:
 
     # m 1ektdc "...{w=0.5}Not that you'd care, right?"
-    m 1ektdc "... {w=0.5}Tampoco es que te importe, ¿verdad?"
+    m 1ektdc "{w=0.5}Tampoco es que te importe, ¿verdad?"
 
 # game/script-topics.rpy:17279
 translate spanish monika_why_do_you_read_e7d5803a:
@@ -639,7 +639,7 @@ translate spanish monika_why_do_you_read_7834fe59:
 translate spanish monika_why_do_you_read_00bb6c4c:
 
     # m 1rkd "...So it was always a little frustrating because I wasn't able to share those stories with anyone."
-    m 1rkd "... Así que siempre era un poco frustrante porque no podía compartir esas historias con nadie."
+    m 1rkd "Así que siempre era un poco frustrante porque no podía compartir esas historias con nadie."
 
 # game/script-topics.rpy:17284
 translate spanish monika_why_do_you_read_46411cf9:
@@ -681,7 +681,7 @@ translate spanish monika_why_do_you_read_6208ca4b:
 translate spanish monika_why_do_you_read_722f9cd6:
 
     # m 3eua "...And that's how I grew more and more into it I guess."
-    m 3eua "... Y supongo que así fue como me fui aficionando cada vez más."
+    m 3eua "Y supongo que así fue como me fui aficionando cada vez más."
 
 # game/script-topics.rpy:17291
 translate spanish monika_why_do_you_read_6a803f93:
@@ -699,7 +699,7 @@ translate spanish monika_why_do_you_read_e1ab0efa:
 translate spanish monika_why_do_you_read_b2ee75ba:
 
     # m 1eua "...Which brings us to where we are now."
-    m 1eua "... Lo que nos lleva a donde estamos ahora."
+    m 1eua "Lo que nos lleva a donde estamos ahora."
 
 # game/script-topics.rpy:17294
 translate spanish monika_why_do_you_read_62b8e4e8:
@@ -723,7 +723,7 @@ translate spanish monika_why_do_you_read_cf940243:
 translate spanish monika_why_do_you_read_7f5a7cf0:
 
     # m 3hua "...I've even developed an interest in written philosophy!"
-    m 3hua "... ¡Incluso han empezado a interesarme los textos filosóficos!"
+    m 3hua "¡Incluso han empezado a interesarme los textos filosóficos!"
 
 # game/script-topics.rpy:17300
 translate spanish monika_why_do_you_read_771d2c4e:
@@ -741,7 +741,7 @@ translate spanish monika_why_do_you_read_8e123f61:
 translate spanish monika_why_do_you_read_aff17a10:
 
     # m 3hua "...I'd love to share my thoughts with you once I'm done with them!"
-    m 3hua "... ¡Me encantaría compartir mis opiniones contigo cuando termine con ellas!"
+    m 3hua "¡Me encantaría compartir mis opiniones contigo cuando termine con ellas!"
 
 # game/script-topics.rpy:17306
 translate spanish monika_why_do_you_read_6848c285:
@@ -771,7 +771,7 @@ translate spanish monika_why_do_you_read_d48c71af:
 translate spanish monika_why_do_you_read_cc6f09b0:
 
     # m 1ekbsu "...Though then again, nothing could ever beat spending more time with you~"
-    m 1ekbsu "... Aunque pensándolo bien, no hay nada que supere pasar más tiempo contigo."
+    m 1ekbsu "Aunque pensándolo bien, no hay nada que supere pasar más tiempo contigo."
 
 # game/script-topics.rpy:17331
 translate spanish monika_discworld_0d19dc7f:
@@ -843,7 +843,7 @@ translate spanish monika_discworld_a0fad48f:
 translate spanish monika_discworld_ea579daa:
 
     # m 3duu "...Knowing full well whatever you'll come up with will be far more evocative than anything he could write."
-    m 3duu "... Sabiendo muy bien que lo que sea que se te ocurra será mucho más evocador que cualquier cosa que él pudiera escribir."
+    m 3duu "Sabiendo muy bien que lo que sea que se te ocurra será mucho más evocador que cualquier cosa que él pudiera escribir."
 
 # game/script-topics.rpy:17343
 translate spanish monika_discworld_a59a888e:
@@ -855,7 +855,7 @@ translate spanish monika_discworld_a59a888e:
 translate spanish monika_discworld_ba816a7c:
 
     # m 1etc "...Or maybe what makes it work is the way he doesn't use chapters, allowing him to freely jump between his characters' point of view."
-    m 1etc "... O quizá lo que hace que funcione es que no utiliza capítulos, lo que le permite saltar libremente entre los puntos de vista de sus personajes."
+    m 1etc "O quizá lo que hace que funcione es que no utiliza capítulos, lo que le permite saltar libremente entre los puntos de vista de sus personajes."
 
 # game/script-topics.rpy:17345
 translate spanish monika_discworld_843aec99:
@@ -927,7 +927,7 @@ translate spanish monika_eating_meat_840475f5:
 translate spanish monika_eating_meat_fe7f5ee2:
 
     # m 2rsc "...However, I don't consider myself vegan either. {w=0.3}{nw}"
-    m 2rsc "... Sin embargo, tampoco me considero vegana. {w=0.3}{nw}"
+    m 2rsc "Sin embargo, tampoco me considero vegana. {w=0.3}{nw}"
 
 # game/script-topics.rpy:17377
 translate spanish monika_eating_meat_4bb56ff4:
@@ -969,7 +969,7 @@ translate spanish monika_eating_meat_ac8fe1f0:
 translate spanish monika_eating_meat_6db87110:
 
     # m 7eka "...So for that reason, I'm not personally against eating things like milk and eggs. {w=0.2}But I think I'd prefer to buy locally if possible."
-    m 7eka "... Así que por esa razón, personalmente no estoy en contra de comer cosas como leche y huevos. {w=0.2}Pero creo que preferiría comprar localmente si es posible."
+    m 7eka "Así que por esa razón, personalmente no estoy en contra de comer cosas como leche y huevos. {w=0.2}Pero creo que preferiría comprar localmente si es posible."
 
 # game/script-topics.rpy:17384
 translate spanish monika_eating_meat_3288ef48:
@@ -1029,7 +1029,7 @@ translate spanish monika_eating_meat_e1c425ca:
 translate spanish monika_eating_meat_f7e6212f:
 
     # m 1eka "...But if you prepared something with meat, I could try a little bit as a side dish... {w=0.3}{nw}"
-    m 1eka "... Pero si prepararas algo con carne, podría probar un poco como guarnición... {w=0.3}{nw}"
+    m 1eka "Pero si prepararas algo con carne, podría probar un poco como guarnición... {w=0.3}{nw}"
 
 # game/script-topics.rpy:17394
 translate spanish monika_eating_meat_87b7f578:
@@ -1119,7 +1119,7 @@ translate spanish monika_introverts_extroverts_1eebef15:
 translate spanish monika_introverts_extroverts_a4b7bbee:
 
     # m 3eud "...But the differences don't stop there."
-    m 3eud "... Pero las diferencias no acaban ahí."
+    m 3eud "Pero las diferencias no acaban ahí."
 
 # game/script-topics.rpy:17477
 translate spanish monika_introverts_extroverts_d773f3bc:
@@ -1137,7 +1137,7 @@ translate spanish monika_introverts_extroverts_6c761935:
 translate spanish monika_introverts_extroverts_3e976c89:
 
     # m 7dua "...And given that they often spend a lot of time using their imagination, they have an easier time with creative activities like writing, composing music, and so on."
-    m 7dua "... Y dado que a menudo pasan mucho tiempo usando su imaginación, lo tienen más fácil con actividades creativas como escribir, componer música y demás."
+    m 7dua "Y dado que a menudo pasan mucho tiempo usando su imaginación, lo tienen más fácil con actividades creativas como escribir, componer música y demás."
 
 # game/script-topics.rpy:17480
 translate spanish monika_introverts_extroverts_228802e7:
@@ -1185,7 +1185,7 @@ translate spanish monika_introverts_extroverts_7a241509:
 translate spanish monika_introverts_extroverts_8907930d:
 
     # m 7eua "...Which is probably where I would fit in.{w=0.2} {nw}"
-    m 7eua "... Que es probablemente donde yo encajaría.{w=0.2} {nw}"
+    m 7eua "Que es probablemente donde yo encajaría.{w=0.2} {nw}"
 
 # game/script-topics.rpy:17490
 translate spanish monika_introverts_extroverts_03ad666d:
@@ -1209,7 +1209,7 @@ translate spanish monika_introverts_extroverts_adcfee10:
 translate spanish monika_introverts_extroverts_dc1e6f04:
 
     # m 3eksdla "...I don't actually know where you lie on that spectrum."
-    m 3eksdla "... en realidad no sé en qué punto de ese espectro te encuentras."
+    m 3eksdla "en realidad no sé en qué punto de ese espectro te encuentras."
 
 # game/script-topics.rpy:17495
 translate spanish monika_introverts_extroverts_c8950641:
@@ -1431,7 +1431,7 @@ translate spanish monika_introverts_extroverts_193f25e1:
 translate spanish monika_introverts_extroverts_cd5b3af8:
 
     # m 7eua "...Even if one of the two is dominant over the other, depending on the person."
-    m 7eua "... Incluso si uno de los dos predomina sobre el otro, dependiendo de la persona."
+    m 7eua "Incluso si uno de los dos predomina sobre el otro, dependiendo de la persona."
 
 # game/script-topics.rpy:17563
 translate spanish monika_introverts_extroverts_f92b1456:
@@ -1449,7 +1449,7 @@ translate spanish monika_introverts_extroverts_a4da34c4:
 translate spanish monika_introverts_extroverts_3b2413d0:
 
     # m 7esc "...But I can't say I've found it easy to make deep, genuine connections with others..."
-    m 7esc "... Pero no puedo decir que me haya resultado fácil forjar vínculos profundos y auténticos con los demás..."
+    m 7esc "Pero no puedo decir que me haya resultado fácil forjar vínculos profundos y auténticos con los demás..."
 
 # game/script-topics.rpy:17566
 translate spanish monika_introverts_extroverts_f99eb3c3:
@@ -1479,7 +1479,7 @@ translate spanish monika_introverts_extroverts_17bfad50:
 translate spanish monika_introverts_extroverts_ed096f28:
 
     # m 3dksdlc "...But at the end of the day, we spent most of our time silently hanging out, with everyone minding their own business."
-    m 3dksdlc "... Pero al fin y al cabo, pasábamos la mayor parte del tiempo juntos en silencio, cada uno a lo suyo."
+    m 3dksdlc "Pero al fin y al cabo, pasábamos la mayor parte del tiempo juntos en silencio, cada uno a lo suyo."
 
 # game/script-topics.rpy:17572
 translate spanish monika_introverts_extroverts_925e4f26:
@@ -1581,7 +1581,7 @@ translate spanish monika_literature_value_2ff692c4:
 translate spanish monika_literature_value_d5cdd0e1:
 
     # m 3etc "...And while I definitely don't agree with that notion, I can kinda see where they're coming from."
-    m 3etc "... Y aunque desde luego no estoy de acuerdo con esa idea, puedo entender en parte por qué lo dicen."
+    m 3etc "Y aunque desde luego no estoy de acuerdo con esa idea, puedo entender en parte por qué lo dicen."
 
 # game/script-topics.rpy:17615
 translate spanish monika_literature_value_66dca1ba:
@@ -1593,7 +1593,7 @@ translate spanish monika_literature_value_66dca1ba:
 translate spanish monika_literature_value_2b7a6f6e:
 
     # m 3esc "...That and the millions of people manufacturing our everyday necessities, or running basic services like healthcare and stuff."
-    m 3esc "... Eso, sumado a los millones de personas que fabrican nuestros bienes de primera necesidad, o que mantienen servicios básicos como la sanidad y demás."
+    m 3esc "Eso, sumado a los millones de personas que fabrican nuestros bienes de primera necesidad, o que mantienen servicios básicos como la sanidad y demás."
 
 # game/script-topics.rpy:17617
 translate spanish monika_literature_value_ee3c9d44:
@@ -1905,7 +1905,7 @@ translate spanish monika_impermanence_e0138013:
 translate spanish monika_impermanence_0af3f00c:
 
     # m 2eud "...You've probably heard the term {i}entropy{/i} thrown around, right?"
-    m 2eud "... Probablemente hayas oído hablar del término entropía, ¿verdad?"
+    m 2eud "Probablemente hayas oído hablar del término entropía, ¿verdad?"
 
 # game/script-topics.rpy:17717
 translate spanish monika_impermanence_08f8d4d6:

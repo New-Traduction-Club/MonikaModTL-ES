@@ -69,7 +69,7 @@ translate spanish mas_gender_8214875c:
 translate spanish mas_gender_453cbfca:
 
     # m 7rksdlb "...I guess that's why they say you shouldn't make assumptions, ahaha!"
-    m 7rksdlb "... Supongo que por eso dicen que es mejor no dar nada por sentado, ¡ja, ja, ja!"
+    m 7rksdlb "Supongo que por eso dicen que es mejor no dar nada por sentado, ¡ja, ja, ja!"
 
 # game/script-story-events.rpy:45
 translate spanish mas_gender_3bd390dd:
@@ -123,7 +123,7 @@ translate spanish monika_gender_redo_d3a1f7d6:
 translate spanish monika_gender_redo_f7dbb2a2:
 
     # m 1eub "...And even prouder of you for being courageous enough to tell me!"
-    m 1eub "... ¡Y aún más orgullosa de que seas lo bastante valiente como para contármelo!"
+    m 1eub "¡Y aún más orgullosa de que seas lo bastante valiente como para contármelo!"
 
 # game/script-story-events.rpy:106
 translate spanish monika_gender_redo_3c56bae2:
@@ -147,7 +147,7 @@ translate spanish monika_gender_redo_64163ff0:
 translate spanish monika_gender_redo_c4944abb:
 
     # m 2dkd "...And I probably didn't make it easy for you to tell me otherwise..."
-    m 2dkd "... Y probablemente no te puse fácil decirme lo contrario..."
+    m 2dkd "Y probablemente no te puse fácil decirme lo contrario..."
 
 # game/script-story-events.rpy:113
 translate spanish monika_gender_redo_efe2d137:
@@ -237,7 +237,7 @@ translate spanish mas_gender_neither_c3f2aa09:
 translate spanish mas_gender_neither_10b291e0:
 
     # m 3eua "...So I'll treat you however you want to be treated."
-    m 3eua "... Así que te trataré como quieras ser tratad[end_letter_gender]."
+    m 3eua "Así que te trataré como quieras ser tratad[end_letter_gender]."
 
 # game/script-story-events.rpy:178
 translate spanish mas_gender_neither_d7633003:
@@ -249,7 +249,7 @@ translate spanish mas_gender_neither_d7633003:
 translate spanish mas_gender_redo_same_7659dfa6:
 
     # m 1hksdlb "...That's the same as before, [player]!"
-    m 1hksdlb "... ¡Eso es lo mismo de antes, [player]!"
+    m 1hksdlb "¡Eso es lo mismo de antes, [player]!"
 
 # game/script-story-events.rpy:183
 translate spanish mas_gender_redo_same_93c6b802:
@@ -285,7 +285,7 @@ translate spanish mas_gender_redo_react_0f1399ba:
 translate spanish mas_gender_redo_neither_same_b4c90d62:
 
     # m 1hksdlb "...That's the same as before, [player]...{w=0.3}I'm sorry if that's not really the best way for you to describe it."
-    m 1hksdlb "... Eso es lo mismo de antes, [player]... {w=0.3}Siento si no es realmente la mejor forma de describirlo para ti."
+    m 1hksdlb "Eso es lo mismo de antes, [player]... {w=0.3}Siento si no es realmente la mejor forma de describirlo para ti."
 
 # game/script-story-events.rpy:195
 translate spanish mas_gender_redo_neither_same_87f287eb:
@@ -1005,7 +1005,7 @@ translate spanish mas_unlock_chess_3f8fce86:
 translate spanish mas_unlock_chess_5163f7e1:
 
     # m 2tkc "...Hold on."
-    m 2tkc "... Espera."
+    m 2tkc "Espera."
 
 # game/script-story-events.rpy:963
 translate spanish mas_unlock_chess_dea1896b:
@@ -1155,7 +1155,7 @@ translate spanish mas_unlock_hangman_1e63b43f:
 translate spanish mas_unlock_hangman_3f04939d:
 
     # m 3tku "...Maybe~"
-    m 3tku "... Quizá..."
+    m 3tku "Quizá..."
 
 # game/script-story-events.rpy:1026
 translate spanish mas_unlock_hangman_04a6fdd7:
@@ -1287,7 +1287,7 @@ translate spanish mas_random_limit_reached_b711f6a9:
 translate spanish mas_random_ask_28923605:
 
     # m 1lksdla "...{w=0.5}[mas_get_player_nickname()]?"
-    m 1lksdla "... {w=0.5}[mas_get_player_nickname()]?"
+    m 1lksdla "{w=0.5}[mas_get_player_nickname()]?"
 
 # game/script-story-events.rpy:1110
 translate spanish mas_random_ask_eddc57b5:
@@ -1695,7 +1695,7 @@ translate spanish mas_crashed_quip_takecare_dcc72b06:
 translate spanish mas_crashed_quip_takecare_064c5ca5:
 
     # m 1rksdla "...And that your computer is alright."
-    m 1rksdla "... Y que tu ordenador esté bien."
+    m 1rksdla "Y que tu ordenador esté bien."
 
 # game/script-story-events.rpy:1509
 translate spanish mas_crashed_quip_takecare_6dd274f5:
@@ -2397,7 +2397,7 @@ translate spanish mas_bookmarks_notifs_intro_fe44ed70:
 translate spanish mas_bookmarks_notifs_intro_b4a65803:
 
     # m 3rksdlb "...Well, it seems you already found one of the features I was going to tell you about, ahaha!"
-    m 3rksdlb "... Bueno, ¡parece que ya has encontrado una de las funciones de las que te iba a hablar, ja, ja, ja!"
+    m 3rksdlb "Bueno, ¡parece que ya has encontrado una de las funciones de las que te iba a hablar, ja, ja, ja!"
 
 # game/script-story-events.rpy:2094
 translate spanish mas_bookmarks_notifs_intro_3b497de2:
@@ -2457,7 +2457,7 @@ translate spanish mas_derand_79dc1f64:
 translate spanish mas_derand_11a163c0:
 
     # m 3eksdld "...And the last thing I want to do is keep bringing up stuff that makes you uncomfortable to talk about."
-    m 3eksdld "... Y lo último que quiero hacer es seguir sacando temas de los que te resulta incómodo hablar."
+    m 3eksdld "Y lo último que quiero hacer es seguir sacando temas de los que te resulta incómodo hablar."
 
 # game/script-story-events.rpy:2116
 translate spanish mas_derand_a1b7fda1:
@@ -2499,7 +2499,7 @@ translate spanish mas_notification_windowreact_e373f7f7:
 translate spanish mas_notification_windowreact_5154e7a5:
 
     # m 5eka "...And I'd really appreciate it, [player]."
-    m 5eka "... Y te lo agradecería mucho, [player]."
+    m 5eka "Y te lo agradecería mucho, [player]."
 
 # game/script-story-events.rpy:2133
 translate spanish mas_notification_windowreact_cb196f4c:
@@ -2559,7 +2559,7 @@ translate spanish mas_notification_windowreact_809eda0d:
 translate spanish mas_notification_windowreact_2f7ee132:
 
     # m 3eub "...So if I have something to talk about while I'm in the background, I can let you know!"
-    m 3eub "... ¡Así que si tengo algo de qué hablar mientras estoy en segundo plano, puedo avisarte!"
+    m 3eub "¡Así que si tengo algo de qué hablar mientras estoy en segundo plano, puedo avisarte!"
 
 # game/script-story-events.rpy:2158
 translate spanish mas_notification_windowreact_3205d830:
@@ -2589,7 +2589,7 @@ translate spanish mas_notification_windowreact_c43b80ea:
 translate spanish mas_notification_windowreact_797dcaa4:
 
     # m 5ttu "...right?"
-    m 5ttu "... ¿verdad?"
+    m 5ttu "¿verdad?"
 
 # game/script-story-events.rpy:2219
 translate spanish mas_gift_giving_instructs_d10f27d2:
@@ -3039,7 +3039,7 @@ translate spanish mas_covid19_abacc72f:
 translate spanish mas_covid19_9373ba24:
 
     # m 2eka "...And not only for yourself, but also for everyone else."
-    m 2eka "... Y no solo por ti, sino también por los demás."
+    m 2eka "Y no solo por ti, sino también por los demás."
 
 # game/script-story-events.rpy:2549
 translate spanish mas_covid19_e2f7a6a9:
@@ -3135,7 +3135,7 @@ translate spanish mas_covid19_3f814e2f:
 translate spanish mas_covid19_2cc6aecd:
 
     # m 2eksdla "...And also for me. You're all I have, [player]..."
-    m 2eksdla "... Y también por mí. Eres todo lo que tengo, [player]..."
+    m 2eksdla "Y también por mí. Eres todo lo que tengo, [player]..."
 
 # game/script-story-events.rpy:2567
 translate spanish mas_covid19_75fecd3a:
@@ -3219,7 +3219,7 @@ translate spanish mas_covid19_6f05b5cb:
 translate spanish mas_covid19_874d5d3e:
 
     # m 7eksdlc "...And never touch your face with unwashed hands, [player]."
-    m 7eksdlc "... Y nunca te toques la cara con las manos sin lavar, [player]."
+    m 7eksdlc "Y nunca te toques la cara con las manos sin lavar, [player]."
 
 # game/script-story-events.rpy:2586
 translate spanish mas_covid19_003f24ee:
@@ -3279,7 +3279,7 @@ translate spanish mas_islands_reset_7aac5906:
 translate spanish mas_islands_reset_dfddb0f1:
 
     # m 1esc "...Hey,{w=0.1} can I get your advice on something?"
-    m 1esc "... Oye, {w=0.1}¿puedo pedirte consejo sobre algo?"
+    m 1esc "Oye, {w=0.1}¿puedo pedirte consejo sobre algo?"
 
 # game/script-story-events.rpy:2610
 translate spanish mas_islands_reset_bf0277c1:
@@ -3291,7 +3291,7 @@ translate spanish mas_islands_reset_bf0277c1:
 translate spanish mas_islands_reset_f03c4310:
 
     # m 3ekc "...See,{w=0.1} I've been working on these islands so we could have different places to go...{w=0.3}{nw}"
-    m 3ekc "... Verás, {w=0.1}he estado trabajando en estas islas para que pudiéramos tener diferentes lugares a los que ir... {w=0.3}{nw}"
+    m 3ekc "Verás, {w=0.1}he estado trabajando en estas islas para que pudiéramos tener diferentes lugares a los que ir... {w=0.3}{nw}"
 
 # game/script-story-events.rpy:2612
 translate spanish mas_islands_reset_a27a9b74:
@@ -3363,7 +3363,7 @@ translate spanish mas_islands_reset_e0441d40:
 translate spanish mas_islands_reset_cdd47186:
 
     # m 3kuu "...And I'll have plenty to keep me busy when you're away, [player]. Ehehe~"
-    m 3kuu "... Y tendré mucho con lo que entretenerme cuando no estés, [player]. Je, je, je."
+    m 3kuu "Y tendré mucho con lo que entretenerme cuando no estés, [player]. Je, je, je."
 
 # game/script-story-events.rpy:2635
 translate spanish mas_islands_reset_df6ab710:
@@ -3857,7 +3857,7 @@ translate spanish strings:
 
     # game/script-story-events.rpy:1158
     old "...Yes."
-    new "... Sí."
+    new "Sí."
 
     # game/script-story-events.rpy:1261
     old "I'm scared [player]!\nPlease click 'No' and help me!"

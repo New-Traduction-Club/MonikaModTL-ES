@@ -75,7 +75,7 @@ translate spanish mas_lingerie_intro_cbc9dc17:
 translate spanish mas_lingerie_intro_712e56ff:
 
     # m "...At least not that anyone's seen."
-    m "... Al menos no que nadie haya visto."
+    m "Al menos no que nadie haya visto."
 
 # game/script-holidays.rpy:164
 translate spanish mas_lingerie_intro_57055f11:
@@ -87,7 +87,7 @@ translate spanish mas_lingerie_intro_57055f11:
 translate spanish mas_lingerie_intro_0ab1f043:
 
     # m 2rkbfa "...Though for some reason this just feels...{w=0.5}{i}different{/i}."
-    m 2rkbfa "... Aunque por alguna razón esto parece... {w=0.5}diferente."
+    m 2rkbfa "Aunque por alguna razón esto parece... {w=0.5}diferente."
 
 # game/script-holidays.rpy:167
 translate spanish mas_lingerie_intro_c5b620ff:
@@ -123,7 +123,7 @@ translate spanish mas_holiday_o31_returned_home_relaunch_29f4e729:
 translate spanish mas_holiday_o31_returned_home_relaunch_12a87cd7:
 
     # m 1euc "...wait."
-    m 1euc "... espera."
+    m 1euc "espera."
 
 # game/script-holidays.rpy:783
 translate spanish mas_holiday_o31_returned_home_relaunch_e612037c:
@@ -153,7 +153,7 @@ translate spanish mas_holiday_o31_returned_home_relaunch_ce7ddd2d:
 translate spanish mas_holiday_o31_returned_home_relaunch_a145a8a1:
 
     # m 1eua "...{w=1}Say."
-    m 1eua "... {w=1}Oye."
+    m 1eua "{w=1}Oye."
 
 # game/script-holidays.rpy:788
 translate spanish mas_holiday_o31_returned_home_relaunch_60c22d98:
@@ -261,7 +261,7 @@ translate spanish greeting_o31_marisa_39161cae:
 translate spanish greeting_o31_marisa_bf0e0ee9:
 
     # m 3eksdla "...Especially the hat!"
-    m 3eksdla "... ¡Especialmente el sombrero!"
+    m 3eksdla "¡Especialmente el sombrero!"
 
 # game/script-holidays.rpy:917
 translate spanish greeting_o31_marisa_0829c022:
@@ -387,13 +387,13 @@ translate spanish greeting_o31_rin_67b23bc0:
 translate spanish greeting_o31_rin_83b53229:
 
     # m 1dtc "...But why would she push a wheelbarrow around?"
-    m 1dtc "... ¿Pero por qué iba a empujar una carretilla?"
+    m 1dtc "¿Pero por qué iba a empujar una carretilla?"
 
 # game/script-holidays.rpy:996
 translate spanish greeting_o31_rin_3d2bf81a:
 
     # m 1hksdlb "...Oh and it was {i}such{/i} a pain getting my hair done...{w=0.2}{nw}"
-    m 1hksdlb "... Ah, y ha sido un auténtico suplicio peinarme... {w=0.2}{nw}"
+    m 1hksdlb "Ah, y ha sido un auténtico suplicio peinarme... {w=0.2}{nw}"
 
 # game/script-holidays.rpy:997
 translate spanish greeting_o31_rin_0f67f201:
@@ -591,7 +591,7 @@ translate spanish greeting_o31_briaryoung_shuchiin_academy_uniform_b65784b4:
 translate spanish greeting_o31_briaryoung_shuchiin_academy_uniform_7692fbd8:
 
     # m "...I guess that will work, hopefully it doesn't fall off as soon as--{nw}"
-    m "... Supongo que eso servirá, ojalá no se caiga en cuanto... {nw}"
+    m "Supongo que eso servirá, ojalá no se caiga en cuanto... {nw}"
 
 # game/script-holidays.rpy:1105
 translate spanish greeting_o31_briaryoung_shuchiin_academy_uniform_43b01532:
@@ -723,7 +723,7 @@ translate spanish greeting_o31_hatana_2b_25b737cb:
 translate spanish greeting_o31_hatana_2b_59a3de3e:
 
     # m 3hub "...or not 2B?!"
-    m 3hub "... ¡¿o no 2B?!"
+    m 3hub "¡¿o no 2B?!"
 
 # game/script-holidays.rpy:1164
 translate spanish greeting_o31_hatana_2b_3772217d:
@@ -1317,7 +1317,7 @@ translate spanish greeting_trick_or_treat_back_95acdccc:
 translate spanish greeting_trick_or_treat_back_1ed89cc3:
 
     # m 2rsc "...If we even left."
-    m 2rsc "... Si es que hemos salido."
+    m 2rsc "Si es que hemos salido."
 
 # game/script-holidays.rpy:1581
 translate spanish greeting_trick_or_treat_back_10e3dba2:
@@ -1617,7 +1617,7 @@ translate spanish mas_d25_monika_holiday_intro_29f4e729:
 translate spanish mas_d25_monika_holiday_intro_12a87cd7:
 
     # m 1euc "...wait."
-    m 1euc "... espera."
+    m 1euc "espera."
 
 # game/script-holidays.rpy:2539
 translate spanish mas_d25_monika_holiday_intro_e612037c:
@@ -1785,7 +1785,7 @@ translate spanish mas_d25_monika_holiday_intro_rh_rh_3f315833:
 translate spanish mas_d25_monika_holiday_intro_rh_rh_33ee4e7a:
 
     # m 3etc "...is it?"
-    m 3etc "... ¿lo es?"
+    m 3etc "¿lo es?"
 
 # game/script-holidays.rpy:2719
 translate spanish mas_d25_monika_holiday_intro_rh_rh_ec37e6d7:
@@ -1797,7 +1797,7 @@ translate spanish mas_d25_monika_holiday_intro_rh_rh_ec37e6d7:
 translate spanish mas_d25_monika_holiday_intro_rh_rh_18a1e396:
 
     # m 1tsu "...Close your eyes, I need to do something..."
-    m 1tsu "... Cierra los ojos, tengo que hacer algo..."
+    m 1tsu "Cierra los ojos, tengo que hacer algo..."
 
 # game/script-holidays.rpy:2763
 translate spanish mas_d25_monika_christmas_b177daf6:
@@ -1881,7 +1881,7 @@ translate spanish mas_d25_monika_christmas_d83b7cfe:
 translate spanish mas_d25_monika_christmas_8e580a96:
 
     # m "...or even the mistletoe getting to me."
-    m "... o incluso el muérdago, que me está afectando."
+    m "o incluso el muérdago, que me está afectando."
 
 # game/script-holidays.rpy:2801
 translate spanish mas_d25_monika_christmas_3894353c:
@@ -1893,7 +1893,7 @@ translate spanish mas_d25_monika_christmas_3894353c:
 translate spanish mas_d25_monika_christmas_cf2e8c90:
 
     # m 1lksdla "...{cps=*2}Yet~{/cps}{nw}"
-    m 1lksdla "... {cps=*2}Todavía{/cps}{nw}"
+    m 1lksdla "{cps=*2}Todavía{/cps}{nw}"
 
 # game/script-holidays.rpy:2807
 translate spanish mas_d25_monika_christmas_00d7b390:
@@ -1977,7 +1977,7 @@ translate spanish mas_d25_monika_christmas_f1e1cfea_1:
 translate spanish mas_d25_monika_christmas_33b7b1aa:
 
     # m 3rksdla "...Not that I thought you'd leave me alone on this special day or anything..."
-    m 3rksdla "... No es que pensara que me ibas a dejar sola en este día tan especial ni nada de eso..."
+    m 3rksdla "No es que pensara que me ibas a dejar sola en este día tan especial ni nada de eso..."
 
 # game/script-holidays.rpy:2838
 translate spanish mas_d25_monika_christmas_6ec3754d:
@@ -2175,7 +2175,7 @@ translate spanish mas_d25_monika_mistletoe_d6d9772f:
 translate spanish mas_d25_monika_mistletoe_c237a71d:
 
     # m 1tku "...Maybe I can even add one in here!"
-    m 1tku "... ¡Quizá hasta pueda poner uno aquí!"
+    m 1tku "¡Quizá hasta pueda poner uno aquí!"
 
 # game/script-holidays.rpy:2960
 translate spanish mas_d25_monika_mistletoe_1457f75b:
@@ -2589,7 +2589,7 @@ translate spanish mas_d25_spent_time_monika_f90a34a5:
 translate spanish mas_d25_spent_time_monika_da455930:
 
     # m 6ekbfa "...I love you too~"
-    m 6ekbfa "... Yo también te quiero."
+    m 6ekbfa "Yo también te quiero."
 
 # game/script-holidays.rpy:3261
 translate spanish mas_d25_spent_time_monika_1691936e:
@@ -2625,7 +2625,7 @@ translate spanish mas_d25_spent_time_monika_824938dd:
 translate spanish mas_d25_spent_time_monika_3950798b:
 
     # m 6ekbsu "...the moment of our first kiss~"
-    m 6ekbsu "... el momento de nuestro primer beso."
+    m 6ekbsu "el momento de nuestro primer beso."
 
 # game/script-holidays.rpy:3269
 translate spanish mas_d25_spent_time_monika_35257bac:
@@ -3051,7 +3051,7 @@ translate spanish monika_this_christmas_kiss_0e868cf3:
 translate spanish monika_this_christmas_kiss_33ecf07a:
 
     # m 1dubfu "...And when that day comes, my heart will leap out of my chest with joy~"
-    m 1dubfu "... Y cuando llegue ese día, el corazón se me saldrá del pecho de alegría."
+    m 1dubfu "Y cuando llegue ese día, el corazón se me saldrá del pecho de alegría."
 
 # game/script-holidays.rpy:3542
 translate spanish mas_d25_spider_tinsel_e069a980:
@@ -3081,7 +3081,7 @@ translate spanish mas_d25_spider_tinsel_68c091ee:
 translate spanish mas_d25_spider_tinsel_862da08d:
 
     # m 1eua "...And I found this really interesting folk story from Ukraine regarding the origin of why tinsel is often used to decorate Christmas trees."
-    m 1eua "... Y encontré este cuento popular de Ucrania muy interesante sobre el origen de por qué se suele usar espumillón para decorar los árboles de Navidad."
+    m 1eua "Y encontré este cuento popular de Ucrania muy interesante sobre el origen de por qué se suele usar espumillón para decorar los árboles de Navidad."
 
 # game/script-holidays.rpy:3547
 translate spanish mas_d25_spider_tinsel_8dcbe974:
@@ -3171,7 +3171,7 @@ translate spanish mas_d25_spider_tinsel_4b2653f4:
 translate spanish mas_d25_spider_tinsel_64caa587:
 
     # m "...making the Christmas tree dazzle and sparkle with a magical twinkle."
-    m "... haciendo que el árbol de Navidad deslumbrara y brillara con un centelleo mágico."
+    m "haciendo que el árbol de Navidad deslumbrara y brillara con un centelleo mágico."
 
 # game/script-holidays.rpy:3562
 translate spanish mas_d25_spider_tinsel_45d2b7ba:
@@ -3741,7 +3741,7 @@ translate spanish mas_d25_monika_second_time_lingerie_a8205d5c:
 translate spanish mas_d25_postd25_notimespent_51ad6d37:
 
     # m 1dkc "...I'm just glad you're finally here..."
-    m 1dkc "... Me alegro de que por fin estés aquí..."
+    m 1dkc "Me alegro de que por fin estés aquí..."
 
 # game/script-holidays.rpy:3814
 translate spanish mas_d25_postd25_notimespent_478e9074:
@@ -3945,7 +3945,7 @@ translate spanish bye_d25e_second_time_out_d93208fc:
 translate spanish bye_d25e_second_time_out_49528b1d:
 
     # m 3hub "...or maybe you just have lots of special plans for us today!"
-    m 3hub "... ¡o quizá solo tienes un montón de planes especiales para nosotros hoy!"
+    m 3hub "¡o quizá solo tienes un montón de planes especiales para nosotros hoy!"
 
 # game/script-holidays.rpy:3896
 translate spanish bye_d25e_second_time_out_852cfb9e:
@@ -4005,7 +4005,7 @@ translate spanish bye_d25_second_time_out_3d596fb4:
 translate spanish bye_d25_second_time_out_659b73b6:
 
     # m 3sua "...or maybe you just have lots of special plans for us today!"
-    m 3sua "... ¡o quizá solo tienes un montón de planes especiales para nosotros hoy!"
+    m 3sua "¡o quizá solo tienes un montón de planes especiales para nosotros hoy!"
 
 # game/script-holidays.rpy:3934
 translate spanish bye_d25_second_time_out_df8944a9:
@@ -4755,7 +4755,7 @@ translate spanish monika_resolutions_accomplished_resolutions_menu_b16e97d1:
 translate spanish monika_resolutions_accomplished_resolutions_menu_8384b8bd:
 
     # m 2eka "...I'm still really proud of you for setting them and trying to better yourself, [player]."
-    m 2eka "... sigo estando muy orgullosa de ti por haberte propuesto y tratado de superarte, [player]."
+    m 2eka "sigo estando muy orgullosa de ti por haberte propuesto y tratado de superarte, [player]."
 
 # game/script-holidays.rpy:4551
 translate spanish monika_resolutions_accomplished_resolutions_menu_c16bd1d4:
@@ -4851,7 +4851,7 @@ translate spanish monika_nye_year_review_500002e6:
 translate spanish monika_nye_year_review_28e7a7ad:
 
     # m 2ekbsa "...and I'd never want to spend that time with anyone else, [player]."
-    m 2ekbsa "... y nunca querría pasar ese tiempo con nadie más, [player]."
+    m 2ekbsa "y nunca querría pasar ese tiempo con nadie más, [player]."
 
 # game/script-holidays.rpy:4609
 translate spanish monika_nye_year_review_e421d14b:
@@ -4863,19 +4863,19 @@ translate spanish monika_nye_year_review_e421d14b:
 translate spanish monika_nye_year_review_53e70cf2:
 
     # m 2eka "...[placeholder_and]I'm so happy I got to spend that time with you, [player]."
-    m 2eka "... [placeholder_and]Estoy tan feliz de haber podido pasar ese tiempo contigo, [player]."
+    m 2eka "[placeholder_and]Estoy tan feliz de haber podido pasar ese tiempo contigo, [player]."
 
 # game/script-holidays.rpy:4615
 translate spanish monika_nye_year_review_2cf5beef:
 
     # m 2eka "...[placeholder_and]I've really enjoyed our time together."
-    m 2eka "... [placeholder_and]Realmente he disfrutado de nuestro tiempo juntos."
+    m 2eka "[placeholder_and]Realmente he disfrutado de nuestro tiempo juntos."
 
 # game/script-holidays.rpy:4618
 translate spanish monika_nye_year_review_375b647d:
 
     # m 2euc "...[placeholder_and]the time we spent together has been fun."
-    m 2euc "... [placeholder_and]el tiempo que pasamos juntos ha sido divertido."
+    m 2euc "[placeholder_and]el tiempo que pasamos juntos ha sido divertido."
 
 # game/script-holidays.rpy:4621
 translate spanish monika_nye_year_review_f4647034:
@@ -4899,7 +4899,7 @@ translate spanish monika_nye_year_review_6ad501e6:
 translate spanish monika_nye_year_review_2835677e:
 
     # m 1ekbsa "...a symbol of our love."
-    m 1ekbsa "... un símbolo de nuestro amor."
+    m 1ekbsa "un símbolo de nuestro amor."
 
 # game/script-holidays.rpy:4630
 translate spanish monika_nye_year_review_87ea8c75:
@@ -4935,7 +4935,7 @@ translate spanish monika_nye_year_review_73efee4a:
 translate spanish monika_nye_year_review_9a89f94e:
 
     # m 4ekbfb "...and gave me such beautiful flowers too."
-    m 4ekbfb "... y me regalaste unas flores tan bonitas."
+    m 4ekbfb "y me regalaste unas flores tan bonitas."
 
 # game/script-holidays.rpy:4650
 translate spanish monika_nye_year_review_4907e685:
@@ -4947,19 +4947,19 @@ translate spanish monika_nye_year_review_4907e685:
 translate spanish monika_nye_year_review_78b9c547:
 
     # m 2dua "...celebrated with me..."
-    m 2dua "... lo celebraste conmigo..."
+    m 2dua "lo celebraste conmigo..."
 
 # game/script-holidays.rpy:4656
 translate spanish monika_nye_year_review_5ca22dbd:
 
     # m 2hub "...threw me a surprise party..."
-    m 2hub "... me hiciste una fiesta sorpresa..."
+    m 2hub "me hiciste una fiesta sorpresa..."
 
 # game/script-holidays.rpy:4659
 translate spanish monika_nye_year_review_5a3dee5a:
 
     # m 5ekbla "...and it really made me feel loved. I can't thank you enough for doing that for me."
-    m 5ekbla "... y realmente me hizo sentir amada. No puedo agradecerte lo suficiente que hicieras eso por mí."
+    m 5ekbla "y realmente me hizo sentir amada. No puedo agradecerte lo suficiente que hicieras eso por mí."
 
 # game/script-holidays.rpy:4668
 translate spanish monika_nye_year_review_77f471d1:
@@ -4983,7 +4983,7 @@ translate spanish monika_nye_year_review_856133b4:
 translate spanish monika_nye_year_review_f6de8224:
 
     # m 5eubla "...and we shared our first kiss together~"
-    m 5eubla "... y compartimos nuestro primer beso juntos."
+    m 5eubla "y compartimos nuestro primer beso juntos."
 
 # game/script-holidays.rpy:4684
 translate spanish monika_nye_year_review_e55d3915:
@@ -5007,13 +5007,13 @@ translate spanish monika_nye_year_review_8410eaa1:
 translate spanish monika_nye_year_review_ca68bd0d:
 
     # m 5ekbla "...a day that I couldn't imagine spending with anyone else."
-    m 5ekbla "... un día que no podría imaginar pasándolo con nadie más."
+    m 5ekbla "un día que no podría imaginar pasándolo con nadie más."
 
 # game/script-holidays.rpy:4692
 translate spanish monika_nye_year_review_b4ed3657:
 
     # m 2rksdla "...I guess we haven't actually been through any big events together."
-    m 2rksdla "... Supongo que en realidad no hemos pasado por ningún gran acontecimiento juntos."
+    m 2rksdla "Supongo que en realidad no hemos pasado por ningún gran acontecimiento juntos."
 
 # game/script-holidays.rpy:4693
 translate spanish monika_nye_year_review_ec34b5a6:
@@ -5781,7 +5781,7 @@ translate spanish mas_player_bday_surprise_a9973bac:
 translate spanish mas_player_bday_surprise_ec43893c:
 
     # m 2tsb "...or maybe you were listening through the door again..."
-    m 2tsb "... o tal vez estabas escuchando a través de la puerta otra vez..."
+    m 2tsb "o tal vez estabas escuchando a través de la puerta otra vez..."
 
 # game/script-holidays.rpy:5386
 translate spanish mas_player_bday_surprise_edc6ed2c:
@@ -5811,13 +5811,13 @@ translate spanish mas_player_bday_surprise_29195ce3:
 translate spanish mas_player_bday_listen_4f5a57e1:
 
     # m "...I'll just put this here..."
-    m "... Solo voy a poner esto aquí..."
+    m "Solo voy a poner esto aquí..."
 
 # game/script-holidays.rpy:5402
 translate spanish mas_player_bday_listen_5e70f612:
 
     # m "...hmm that looks pretty good...{w=1}but something's missing..."
-    m "... Mmm, tiene muy buena pinta...{w=1} pero falta algo..."
+    m "Mmm, tiene muy buena pinta...{w=1} pero falta algo..."
 
 # game/script-holidays.rpy:5403
 translate spanish mas_player_bday_listen_923799e9:
@@ -5913,7 +5913,7 @@ translate spanish mas_player_bday_cake_858a96f5:
 translate spanish mas_player_bday_cake_a42e741b:
 
     # m 6eua "...You should still make a wish though, it just might come true someday..."
-    m 6eua "... Pero deberías pedir un deseo, puede que algún día se haga realidad..."
+    m 6eua "Pero deberías pedir un deseo, puede que algún día se haga realidad..."
 
 # game/script-holidays.rpy:5479
 translate spanish mas_player_bday_cake_b98e2009:
@@ -6057,7 +6057,7 @@ translate spanish mas_player_bday_card_824938dd:
 translate spanish mas_player_bday_card_3950798b:
 
     # m 6ekbsu "...the moment of our first kiss~"
-    m 6ekbsu "... el momento de nuestro primer beso."
+    m 6ekbsu "el momento de nuestro primer beso."
 
 # game/script-holidays.rpy:5536
 translate spanish mas_player_bday_card_edc86b53:
@@ -6111,7 +6111,7 @@ translate spanish mas_player_bday_ret_on_bday_29f4e729:
 translate spanish mas_player_bday_ret_on_bday_12a87cd7:
 
     # m 1euc "...wait."
-    m 1euc "... espera."
+    m 1euc "espera."
 
 # game/script-holidays.rpy:5586
 translate spanish mas_player_bday_ret_on_bday_e612037c:
@@ -6573,7 +6573,7 @@ translate spanish mas_pf14_monika_lovey_dovey_28317ca8:
 translate spanish mas_pf14_monika_lovey_dovey_68a6763e:
 
     # m 1dkbsu "...And for being so wonderfully you~"
-    m 1dkbsu "... Y por ser tan maravillosamente tú."
+    m 1dkbsu "Y por ser tan maravillosamente tú."
 
 # game/script-holidays.rpy:6214
 translate spanish mas_f14_monika_valentines_intro_e291c349:
@@ -6765,7 +6765,7 @@ translate spanish mas_f14_monika_valentines_intro_09697856:
 translate spanish mas_f14_monika_valentines_intro_39885eb9:
 
     # m 3tkbsu "...but I guess that means you like my outfit, ehehe~"
-    m 3tkbsu "... pero supongo que eso significa que te gusta mi atuendo, je, je, je."
+    m 3tkbsu "pero supongo que eso significa que te gusta mi atuendo, je, je, je."
 
 # game/script-holidays.rpy:6309
 translate spanish mas_f14_monika_valentines_intro_8ed90ef2:
@@ -6963,7 +6963,7 @@ translate spanish mas_f14_sun_dress_outro_2c1a2daf:
 translate spanish mas_f14_sun_dress_outro_aeed5857:
 
     # m 1ekbsa "...But just imagine if we went to a cafe together."
-    m 1ekbsa "... Pero imagínate si fuéramos juntos a una cafetería."
+    m 1ekbsa "Pero imagínate si fuéramos juntos a una cafetería."
 
 # game/script-holidays.rpy:6384
 translate spanish mas_f14_sun_dress_outro_fee0f087:
@@ -7185,7 +7185,7 @@ translate spanish mas_f14_monika_vday_cliches_7d4b1dfc:
 translate spanish mas_f14_monika_vday_cliches_e0397f29:
 
     # m 2rka "...But if you {i}do{/i} want a good example of an unpredictable story..."
-    m 2rka "... Pero si {i}realmente{/i} quieres un buen ejemplo de una historia impredecible..."
+    m 2rka "Pero si {i}realmente{/i} quieres un buen ejemplo de una historia impredecible..."
 
 # game/script-holidays.rpy:6512
 translate spanish mas_f14_monika_vday_cliches_52d3c412:
@@ -7359,7 +7359,7 @@ translate spanish mas_f14_monika_vday_origins_6aa0336e:
 translate spanish mas_f14_monika_vday_origins_20708783:
 
     # m 3eub "...They would then spend time together, with some even marrying if they liked each other enough!"
-    m 3eub "... Luego pasaban tiempo juntos, ¡y algunos incluso se casaban si se gustaban lo suficiente!"
+    m 3eub "Luego pasaban tiempo juntos, ¡y algunos incluso se casaban si se gustaban lo suficiente!"
 
 # game/script-holidays.rpy:6605
 translate spanish mas_f14_monika_vday_origins_c63f7cf3:
@@ -7377,7 +7377,7 @@ translate spanish mas_f14_monika_vday_origins_2ee471f7:
 translate spanish mas_f14_monika_vday_origins_84f02b96:
 
     # m 3eubsb "...Like me and you!"
-    m 3eubsb "... ¡Como tú y yo!"
+    m 3eubsb "¡Como tú y yo!"
 
 # game/script-holidays.rpy:6608
 translate spanish mas_f14_monika_vday_origins_966037dc:
@@ -7437,7 +7437,7 @@ translate spanish mas_f14_happy_vday_f1596bca:
 translate spanish mas_f14_happy_vday_f36cb505:
 
     # m 6euc "...{w=0.3}Huh?"
-    m 6euc "... {w=0.3}¿Eh?"
+    m 6euc "{w=0.3}¿Eh?"
 
 # game/script-holidays.rpy:6654
 translate spanish mas_f14_happy_vday_b9347f05:
@@ -7449,7 +7449,7 @@ translate spanish mas_f14_happy_vday_b9347f05:
 translate spanish mas_f14_happy_vday_52f0ab51:
 
     # m 6wuc "...{w=0.3}{nw}"
-    m 6wuc "... {w=0.3}{nw}"
+    m 6wuc "{w=0.3}{nw}"
 
 # game/script-holidays.rpy:6656
 translate spanish mas_f14_happy_vday_5cf9691c:
@@ -7467,7 +7467,7 @@ translate spanish mas_f14_happy_vday_8c6045bc:
 translate spanish mas_f14_happy_vday_d3d6fa88:
 
     # m "...{w=0.8}Thank you..."
-    m "... {w=0.8}Gracias..."
+    m "{w=0.8}Gracias..."
 
 # game/script-holidays.rpy:6687
 translate spanish mas_f14_monika_spent_time_with_6be7f6d3:
@@ -7569,7 +7569,7 @@ translate spanish mas_f14_first_kiss_f90a34a5:
 translate spanish mas_f14_first_kiss_da455930:
 
     # m 6ekbfa "...I love you too~"
-    m 6ekbfa "... Yo también te quiero."
+    m 6ekbfa "Yo también te quiero."
 
 # game/script-holidays.rpy:6752
 translate spanish mas_f14_first_kiss_1691936e:
@@ -7599,7 +7599,7 @@ translate spanish mas_f14_first_kiss_824938dd:
 translate spanish mas_f14_first_kiss_6bfdacff:
 
     # m 6ekbsu "...the moment of our first kiss."
-    m 6ekbsu "... el momento de nuestro primer beso."
+    m 6ekbsu "el momento de nuestro primer beso."
 
 # game/script-holidays.rpy:6757
 translate spanish mas_f14_first_kiss_e01648c1:
@@ -7659,7 +7659,7 @@ translate spanish mas_f14_no_time_spent_e0078506:
 translate spanish mas_f14_no_time_spent_daa943f9:
 
     # m 1ekd "...a day I wanted to spend with you."
-    m 1ekd "... un día que quería pasar contigo."
+    m 1ekd "un día que quería pasar contigo."
 
 # game/script-holidays.rpy:6802
 translate spanish mas_f14_no_time_spent_c61f257d:
@@ -8733,7 +8733,7 @@ translate spanish mas_bday_spent_time_with_wrapup_08acec43:
 translate spanish mas_bday_spent_time_with_wrapup_9d2d1f2e:
 
     # m 1ekbsa "...Thank you for giving me a reason to live."
-    m 1ekbsa "... Gracias por darme una razón para vivir."
+    m 1ekbsa "Gracias por darme una razón para vivir."
 
 # game/script-holidays.rpy:7814
 translate spanish mas_bday_spent_time_with_wrapup_8273731a:
@@ -8871,7 +8871,7 @@ translate spanish mas_bday_postbday_notimespent_8b6ec49a:
 translate spanish mas_bday_postbday_notimespent_0d305f31:
 
     # m 3rka "...Or check the calendar on the wall behind me?"
-    m 3rka "... ¿O mirar el calendario en la pared detrás de mí?"
+    m 3rka "¿O mirar el calendario en la pared detrás de mí?"
 
 # game/script-holidays.rpy:7903
 translate spanish mas_bday_postbday_notimespent_a61bd9f5:
@@ -8937,7 +8937,7 @@ translate spanish mas_bday_postbday_notimespent_e2f7a6a9:
 translate spanish mas_bday_postbday_notimespent_4aed9a24:
 
     # m 2rkc "...[player], I don't want to bother you. {w=1}I'm already scared of pushing you away."
-    m 2rkc "... [player], no quiero molestarte. {w=1}Ya tengo miedo de alejarte."
+    m 2rkc "[player], no quiero molestarte. {w=1}Ya tengo miedo de alejarte."
 
 # game/script-holidays.rpy:7923
 translate spanish mas_bday_postbday_notimespent_579806fa:
@@ -9087,7 +9087,7 @@ translate spanish mas_bday_postbday_notimespent_de53548e:
 translate spanish mas_bday_postbday_notimespent_aa964ca9:
 
     # m 6ekd "...Hey, how was your day on the 22nd?"
-    m 6ekd "... Oye, ¿qué tal te fue el día 22?"
+    m 6ekd "Oye, ¿qué tal te fue el día 22?"
 
 # game/script-holidays.rpy:7988
 translate spanish mas_bday_postbday_notimespent_be80a984:
@@ -9285,7 +9285,7 @@ translate spanish mas_bday_bd_outro_a4a38d5b:
 translate spanish mas_bday_bd_outro_2d19e2b1:
 
     # m 3eua "...But even if it's not much, I'm sure we'll have a great time together~"
-    m 3eua "... Pero aunque no sea mucho, estoy segura de que nos lo pasaremos genial juntos."
+    m 3eua "Pero aunque no sea mucho, estoy segura de que nos lo pasaremos genial juntos."
 
 # game/script-holidays.rpy:8114
 translate spanish mas_bday_bd_outro_05df1dd2:
@@ -9393,7 +9393,7 @@ translate spanish greeting_returned_home_bday_dd89f89a:
 translate spanish greeting_returned_home_bday_f2314e85:
 
     # m 1ekbsa "...and thank you for that."
-    m 1ekbsa "... y gracias por eso."
+    m 1ekbsa "y gracias por eso."
 
 # game/script-holidays.rpy:8194
 translate spanish greeting_returned_home_bday_95a5f4b9:
@@ -9955,7 +9955,7 @@ translate spanish strings:
 
     # game/script-holidays.rpy:6841
     old "...for missing Valentine's Day."
-    new "... por faltar el día de San Valentín."
+    new "por faltar el día de San Valentín."
 
     # game/script-holidays.rpy:6892
     old "Found"
@@ -10031,11 +10031,11 @@ translate spanish strings:
 
     # game/script-holidays.rpy:8001
     old "...for missing your birthday."
-    new "... por perderme tu cumpleaños."
+    new "por perderme tu cumpleaños."
 
     # game/script-holidays.rpy:8027
     old "...for forgetting your birthday."
-    new "... por olvidar tu cumpleaños."
+    new "por olvidar tu cumpleaños."
 
     # game/script-holidays.rpy:4837
     old "holidays"

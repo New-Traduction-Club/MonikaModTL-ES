@@ -33,7 +33,7 @@ translate spanish monika_gtod_tip000_e17ef418:
 translate spanish monika_gtod_tip000_f86044a6:
 
     # m 3eksdld "...Maybe you think of strict teachers, or stuck-up editors..."
-    m 3eksdld "... Quizás pienses en profesores estrictos o editores estirados..."
+    m 3eksdld "Quizás pienses en profesores estrictos o editores estirados..."
 
 # game/script-grammar.rpy:71
 translate spanish monika_gtod_tip000_7179ab84:

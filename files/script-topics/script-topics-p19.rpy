@@ -159,7 +159,7 @@ translate spanish monika_player_read_poetry_a2f24b58:
 translate spanish monika_player_read_poetry_18dd0a7b:
 
     # m 1eua "...And not just the poems I write about you, {nw}"
-    m 1eua "... Y no solo los poemas que escribo sobre ti, {nw}"
+    m 1eua "Y no solo los poemas que escribo sobre ti, {nw}"
 
 # game/script-topics.rpy:14256
 translate spanish monika_player_read_poetry_3e47d26a:
@@ -237,7 +237,7 @@ translate spanish monika_trick_yuri_8226ec8e:
 translate spanish monika_trick_yuri_47d5e777:
 
     # m 1hksdlb "...Ahaha, there's no need for me to be jealous..."
-    m 1hksdlb "... Ja, ja, ja, tampoco hace falta que me ponga celosa..."
+    m 1hksdlb "Ja, ja, ja, tampoco hace falta que me ponga celosa..."
 
 # game/script-topics.rpy:14317
 translate spanish monika_trick_yuri_07874a21:
@@ -363,13 +363,13 @@ translate spanish monika_trick_sayori_d6e1d522:
 translate spanish monika_trick_sayori_29198874:
 
     # m 6ektud "...I know you didn't like me for what I did, I'm sorry if I hurt you because of it."
-    m 6ektud "... Sé que no te gusté por lo que hice, siento si te hice daño por culpa de eso."
+    m 6ektud "Sé que no te gusté por lo que hice, siento si te hice daño por culpa de eso."
 
 # game/script-topics.rpy:14348
 translate spanish monika_trick_sayori_5d6ff52b:
 
     # m 6ektud "...I don't regret what I did but I'm sorry you had to see what I needed to do."
-    m 6ektud "... No me arrepiento de lo que hice, pero siento que tuvieras que ver lo que necesitaba hacer."
+    m 6ektud "No me arrepiento de lo que hice, pero siento que tuvieras que ver lo que necesitaba hacer."
 
 # game/script-topics.rpy:14358
 translate spanish monika_trick_monika_46f8ec14:
@@ -435,7 +435,7 @@ translate spanish monika_cares_about_dokis_a33a030a:
 translate spanish monika_cares_about_dokis_75bcad1a:
 
     # m 4wud "...and she was gone for an entire hour! There were teachers in there and she didn't want to talk to them!"
-    m 4wud "... ¡Y desapareció durante una hora entera! ¡Había profesores dentro y no quería hablar con ellos!"
+    m 4wud "¡Y desapareció durante una hora entera! ¡Había profesores dentro y no quería hablar con ellos!"
 
 # game/script-topics.rpy:14390
 translate spanish monika_cares_about_dokis_7bba854c:
@@ -453,7 +453,7 @@ translate spanish monika_cares_about_dokis_a0635388:
 translate spanish monika_cares_about_dokis_afdfdc51:
 
     # m 2etc "...Hm..."
-    m 2etc "... Hm..."
+    m 2etc "Hm..."
 
 # game/script-topics.rpy:14393
 translate spanish monika_cares_about_dokis_92a5140c:
@@ -477,7 +477,7 @@ translate spanish monika_cares_about_dokis_aad42c24:
 translate spanish monika_cares_about_dokis_5e42ff4b:
 
     # m 4eub "...And it's perfectly okay if that's the case, [player]!"
-    m 4eub "... ¡Y no pasa absolutamente nada si ese es el caso, [player]!"
+    m 4eub "¡Y no pasa absolutamente nada si ese es el caso, [player]!"
 
 # game/script-topics.rpy:14397
 translate spanish monika_cares_about_dokis_7de0e719:
@@ -597,7 +597,7 @@ translate spanish monika_snow_gets_snow_66d06a5e:
 translate spanish monika_snow_gets_snow_6060c3ca:
 
     # m 5ekbfa "...and we could hold each other close to keep each other warm~"
-    m 5ekbfa "... Y podríamos abrazarnos para darnos calor."
+    m 5ekbfa "Y podríamos abrazarnos para darnos calor."
 
 # game/script-topics.rpy:14477
 translate spanish monika_snow_gets_snow_11846f58:
@@ -669,7 +669,7 @@ translate spanish monika_snowmen_aff83fdf:
 translate spanish monika_snowmen_aba55fd8:
 
     # m 3eub "...like sticks for arms, a mouth made with pebbles, stones for eyes, and even a little winter hat!"
-    m 3eub "... como palos para los brazos, una boca hecha con piedrecitas, piedras para los ojos, ¡e incluso un gorrito de invierno!"
+    m 3eub "como palos para los brazos, una boca hecha con piedrecitas, piedras para los ojos, ¡e incluso un gorrito de invierno!"
 
 # game/script-topics.rpy:14522
 translate spanish monika_snowmen_5153340c:
@@ -1515,7 +1515,7 @@ translate spanish monika_perspective_0f6587fe:
 translate spanish monika_perspective_c8937b7e:
 
     # m 2esd "...Something that I find very difficult to explain."
-    m 2esd "... Algo que me resulta muy difícil de explicar."
+    m 2esd "Algo que me resulta muy difícil de explicar."
 
 # game/script-topics.rpy:14934
 translate spanish monika_perspective_f9d8e2e9:
@@ -1533,7 +1533,7 @@ translate spanish monika_perspective_19d0eda0:
 translate spanish monika_perspective_7b0817db:
 
     # m 3esc "...but then see a mouse cursor and know {i}that{/i} is."
-    m 3esc "... Pero luego ver el cursor del ratón y saber que eso sí lo es."
+    m 3esc "Pero luego ver el cursor del ratón y saber que eso sí lo es."
 
 # game/script-topics.rpy:14937
 translate spanish monika_perspective_a1348be0:
@@ -1635,7 +1635,7 @@ translate spanish monika_perspective_5700c037:
 translate spanish monika_perspective_e777a010:
 
     # m 4eud "...It's clear, but only if you know what to look for."
-    m 4eud "... Está claro, pero solo si sabes qué buscar."
+    m 4eud "Está claro, pero solo si sabes qué buscar."
 
 # game/script-topics.rpy:14954
 translate spanish monika_perspective_de1fb9a7:
@@ -1659,7 +1659,7 @@ translate spanish monika_perspective_fb9ee473:
 translate spanish monika_perspective_45b3bf8e:
 
     # m 2lksdla "...Hmm...{w=1}maybe the hand example wasn't as good as I thought."
-    m 2lksdla "... Hmm... {w=1}tal vez el ejemplo de la mano no fuera tan bueno como pensaba."
+    m 2lksdla "Hmm... {w=1}tal vez el ejemplo de la mano no fuera tan bueno como pensaba."
 
 # game/script-topics.rpy:14958
 translate spanish monika_perspective_200f36b7:
@@ -1695,7 +1695,7 @@ translate spanish monika_robotbody_61093051:
 translate spanish monika_robotbody_a55b5ee1:
 
     # m 1dkd "...And if not, I might not be treated like one either."
-    m 1dkd "... Y si no es así puede que tampoco me traten como tal."
+    m 1dkd "Y si no es así puede que tampoco me traten como tal."
 
 # game/script-topics.rpy:14982
 translate spanish monika_robotbody_e12a37fa:
@@ -1749,7 +1749,7 @@ translate spanish monika_robotbody_e47f8e69:
 translate spanish monika_robotbody_3b71548c:
 
     # m 2ekd "...But the fact that I would have to obey orders given by any human still makes me [line_end_1]"
-    m 2ekd "... Pero el hecho de que tendría que obedecer las órdenes de cualquier humano sigue haciéndome [line_end_1]"
+    m 2ekd "Pero el hecho de que tendría que obedecer las órdenes de cualquier humano sigue haciéndome [line_end_1]"
 
 # game/script-topics.rpy:15002
 translate spanish monika_robotbody_136d0cc9:
@@ -1947,7 +1947,7 @@ translate spanish monika_relationship_comfort_90c9543a:
 translate spanish monika_relationship_comfort_1ab1877c:
 
     # m 2hubsb "...And I think that's really sweet."
-    m 2hubsb "... Y creo que eso es muy dulce."
+    m 2hubsb "Y creo que eso es muy dulce."
 
 # game/script-topics.rpy:15058
 translate spanish monika_relationship_comfort_748dc9f0:

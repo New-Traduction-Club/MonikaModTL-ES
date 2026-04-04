@@ -1437,7 +1437,7 @@ translate spanish monika_sports_582eb60a:
 translate spanish monika_sports_dd5169e0:
 
     # m 1lksdla "...Though the long rallies can be a little tiring, ehehe~"
-    m 1lksdla "... Aunque los peloteos largos pueden ser un poco agotadores, je, je, je."
+    m 1lksdla "Aunque los peloteos largos pueden ser un poco agotadores, je, je, je."
 
 # game/script-topics.rpy:8040
 translate spanish monika_sports_8c3337a2:
@@ -1623,7 +1623,7 @@ translate spanish monika_meditation_3ca57519:
 translate spanish monika_meditation_abf77486:
 
     # m 1dsc "...a time where I could just forget about everything that was going on in my life."
-    m 1dsc "... Un momento en el que pudiera simplemente olvidarme de todo lo que pasaba en mi vida."
+    m 1dsc "Un momento en el que pudiera simplemente olvidarme de todo lo que pasaba en mi vida."
 
 # game/script-topics.rpy:8107
 translate spanish monika_meditation_59262d6f:
@@ -1911,7 +1911,7 @@ translate spanish monika_orchestra_49248d3a:
 translate spanish monika_orchestra_f7bac668:
 
     # m 3eub "...Oh!"
-    m 3eub "... ¡Ah!"
+    m 3eub "¡Ah!"
 
 # game/script-topics.rpy:8243
 translate spanish monika_orchestra_417ff6b1:

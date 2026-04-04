@@ -441,7 +441,7 @@ translate spanish mas_story_gray_hair_74cdccf1:
 translate spanish mas_story_gray_hair_fac51c13:
 
     # m 1lksdla "...Not that being bald is bad, [player]."
-    m 1lksdla "... No es que ser calvo sea malo, [player]."
+    m 1lksdla "No es que ser calvo sea malo, [player]."
 
 # game/script-stories.rpy:532
 translate spanish mas_story_gray_hair_268e6c0a:
@@ -717,7 +717,7 @@ translate spanish mas_story_genie_simple_12667c75:
 translate spanish mas_story_genie_simple_ef96b4fe:
 
     # m 1hua "...Except maybe you of course."
-    m 1hua "... Excepto quizás tú, por supuesto."
+    m 1hua "Excepto quizás tú, por supuesto."
 
 # game/script-stories.rpy:626
 translate spanish mas_story_genie_simple_bbb00f93:
@@ -981,7 +981,7 @@ translate spanish mas_story_genie_end_58c9e333:
 translate spanish mas_story_genie_end_779602bf:
 
     # m 1dsd "...Everything that had led up to this moment, where he could make his own wish for the first time in a long while."
-    m 1dsd "... Todo lo que le había llevado a este momento, en el que podía pedir su propio deseo por primera vez en mucho tiempo."
+    m 1dsd "Todo lo que le había llevado a este momento, en el que podía pedir su propio deseo por primera vez en mucho tiempo."
 
 # game/script-stories.rpy:709
 translate spanish mas_story_genie_end_6111571a:
@@ -1017,13 +1017,13 @@ translate spanish mas_story_genie_end_ca20b2fd:
 translate spanish mas_story_genie_end_801662b4:
 
     # m 3eud "...How he came across someone who made him give it all up just to be with someone he loved."
-    m 3eud "... Cómo se cruzó con alguien que le hizo renunciar a todo solo para estar con la persona que amaba."
+    m 3eud "Cómo se cruzó con alguien que le hizo renunciar a todo solo para estar con la persona que amaba."
 
 # game/script-stories.rpy:715
 translate spanish mas_story_genie_end_f3bc866f:
 
     # m 3ekd "...And how he had been slowly getting sick and tired of what was left of his life."
-    m 3ekd "... Y cómo poco a poco se había ido hartando de lo que le quedaba de vida."
+    m 3ekd "Y cómo poco a poco se había ido hartando de lo que le quedaba de vida."
 
 # game/script-stories.rpy:716
 translate spanish mas_story_genie_end_8dc48c93:
@@ -1383,7 +1383,7 @@ translate spanish mas_story_mother_and_trees_568f9ada:
 translate spanish mas_story_mother_and_trees_fffd0a6a:
 
     # m 2duu "...And he even went ahead and planted one more tree."
-    m 2duu "... E incluso fue y plantó un árbol más."
+    m 2duu "E incluso fue y plantó un árbol más."
 
 # game/script-stories.rpy:824
 translate spanish mas_story_self_hate_85775f43:
@@ -1779,7 +1779,7 @@ translate spanish mas_story_crow_and_pitcher_164d21d1:
 translate spanish mas_story_crow_and_pitcher_add521cc:
 
     # m 3wud "...Then he had an idea."
-    m 3wud "... Entonces tuvo una idea."
+    m 3wud "Entonces tuvo una idea."
 
 # game/script-stories.rpy:924
 translate spanish mas_story_crow_and_pitcher_82d9953d:
@@ -1833,7 +1833,7 @@ translate spanish mas_story_crow_and_pitcher_3d8bfc61:
 translate spanish mas_story_crow_and_pitcher_5e541c1d:
 
     # m 1tkd "...Believe me, I tried."
-    m 1tkd "... Créeme, lo intenté."
+    m 1tkd "Créeme, lo intenté."
 
 # game/script-stories.rpy:933
 translate spanish mas_story_crow_and_pitcher_cb73ab71:
@@ -2049,7 +2049,7 @@ translate spanish mas_story_tanabata_93661680:
 translate spanish mas_story_tanabata_43174421:
 
     # m 3hubsu "...And my love for you is so strong that not even the Heavens themselves would be able to keep us apart."
-    m 3hubsu "... Y mi amor por ti es tan fuerte que ni los mismísimos Cielos serían capaces de separarnos."
+    m 3hubsu "Y mi amor por ti es tan fuerte que ni los mismísimos Cielos serían capaces de separarnos."
 
 # game/script-stories.rpy:1019
 translate spanish mas_story_mindthegap_7d92ebc2:
@@ -2205,7 +2205,7 @@ translate spanish mas_story_knock_e6e563e9:
 translate spanish mas_story_knock_462007fc:
 
     # m 3rud "...There was a knock on the door."
-    m 3rud "... Llamaron a la puerta."
+    m 3rud "Llamaron a la puerta."
 
 # game/script-stories.rpy:1061
 translate spanish mas_story_knock_72160657:
@@ -2307,7 +2307,7 @@ translate spanish mas_story_knock_98bf51a0:
 translate spanish mas_story_knock_43cfb639:
 
     # m 1euc "...But he could help. {w=0.2}On one condition: {w=0.2}The last woman on Earth had to help too."
-    m 1euc "... Pero él podía ayudar. {w=0.2}Con una condición: {w=0.2}La última mujer de la Tierra tenía que ayudar también."
+    m 1euc "Pero él podía ayudar. {w=0.2}Con una condición: {w=0.2}La última mujer de la Tierra tenía que ayudar también."
 
 # game/script-stories.rpy:1078
 translate spanish mas_story_knock_572c0b62:
@@ -2337,7 +2337,7 @@ translate spanish mas_story_knock_b4c9e440:
 translate spanish mas_story_knock_5ed92a2a:
 
     # m 3ttu "...But perhaps they could be killed."
-    m 3ttu "... Pero quizás se les podía matar."
+    m 3ttu "Pero quizás se les podía matar."
 
 # game/script-stories.rpy:1083
 translate spanish mas_story_knock_65ad1665:
@@ -2373,7 +2373,7 @@ translate spanish mas_story_knock_e0702a40:
 translate spanish mas_story_knock_57b888a2:
 
     # m 1euc "...And so the Zan did."
-    m 1euc "... Y así lo hizo el Zan."
+    m 1euc "Y así lo hizo el Zan."
 
 # game/script-stories.rpy:1089
 translate spanish mas_story_knock_4b7a0c05:
@@ -2553,7 +2553,7 @@ translate spanish mas_scary_story_hunter_4ce5394b:
 translate spanish mas_scary_story_hunter_360193a1:
 
     # m 1dsd "...{w=1}or so he thought."
-    m 1dsd "... {w=1}o eso creía él."
+    m 1dsd "{w=1}o eso creía él."
 
 # game/script-stories.rpy:1129
 translate spanish mas_scary_story_hunter_d06517f8:
@@ -2595,7 +2595,7 @@ translate spanish mas_scary_story_hunter_2c646d4e:
 translate spanish mas_scary_story_hunter_9e9119c2:
 
     # m 1wkd "...and to his horror,{w=1} he saw that she had gained on him significantly."
-    m 1wkd "... Y para su horror,{w=1} vio que ella había ganado terreno significativamente."
+    m 1wkd "Y para su horror,{w=1} vio que ella había ganado terreno significativamente."
 
 # game/script-stories.rpy:1136
 translate spanish mas_scary_story_hunter_812a34c4:
@@ -2613,7 +2613,7 @@ translate spanish mas_scary_story_hunter_73c237af:
 translate spanish mas_scary_story_hunter_1fbcda89:
 
     # m 1esc "...It was instead on the figure that he promised to be with eternally in the afterlife."
-    m 1esc "... Estaba en la figura con la que prometió estar eternamente en la otra vida."
+    m 1esc "Estaba en la figura con la que prometió estar eternamente en la otra vida."
 
 # game/script-stories.rpy:1146
 translate spanish mas_scary_story_hunter_31245fb0:
@@ -2889,7 +2889,7 @@ translate spanish mas_scary_story_mujina_abe084b4:
 translate spanish mas_scary_story_mujina_4ad019e5:
 
     # m 1dsc "...and then there was darkness."
-    m 1dsc "... Y entonces se hizo la oscuridad."
+    m 1dsc "Y entonces se hizo la oscuridad."
 
 # game/script-stories.rpy:1285
 translate spanish mas_scary_story_ubume_cf6a9b0b:
@@ -3651,7 +3651,7 @@ translate spanish mas_scary_story_serial_killer_a458d9cc:
 translate spanish mas_scary_story_serial_killer_6eb05250:
 
     # m 1dfc "...and his broken and bloody fingernails on the roof."
-    m 1dfc "... Y sus uñas rotas y ensangrentadas sobre el techo."
+    m 1dfc "Y sus uñas rotas y ensangrentadas sobre el techo."
 
 # game/script-stories.rpy:1546
 translate spanish mas_scary_story_revenant_12889e42:
@@ -4251,13 +4251,13 @@ translate spanish mas_scary_story_flowered_lantern_367322ac:
 translate spanish mas_scary_story_flowered_lantern_83982e2a:
 
     # m 1hua "...And that's it for part one! Do you want to continue to the next one?{nw}"
-    m 1hua "... ¡Y hasta aquí la primera parte! ¿Quieres continuar con la siguiente?{nw}"
+    m 1hua "¡Y hasta aquí la primera parte! ¿Quieres continuar con la siguiente?{nw}"
 
 # game/script-stories.rpy:1743
 translate spanish mas_scary_story_flowered_lantern_99a43432:
 
     # m "...And that's it for part one! Do you want to continue to the next one?{fast}" nointeract
-    m "... ¡Y hasta aquí la primera parte! ¿Quieres continuar con la siguiente?{fast}" nointeract
+    m "¡Y hasta aquí la primera parte! ¿Quieres continuar con la siguiente?{fast}" nointeract
 
 # game/script-stories.rpy:1767
 translate spanish mas_scary_story_flowered_lantern_2_63b9e5b1:
@@ -4467,13 +4467,13 @@ translate spanish mas_scary_story_flowered_lantern_2_abfcdd00:
 translate spanish mas_scary_story_flowered_lantern_2_94244c7c:
 
     # m 1hua "...And that's it for part two! Do you want to continue to the next one?{nw}"
-    m 1hua "... ¡Y hasta aquí la segunda parte! ¿Quieres continuar con la siguiente?{nw}"
+    m 1hua "¡Y hasta aquí la segunda parte! ¿Quieres continuar con la siguiente?{nw}"
 
 # game/script-stories.rpy:1811
 translate spanish mas_scary_story_flowered_lantern_2_2f210465:
 
     # m "...And that's it for part two! Do you want to continue to the next one?{fast}" nointeract
-    m "... ¡Y hasta aquí la segunda parte! ¿Quieres continuar con la siguiente?{fast}" nointeract
+    m "¡Y hasta aquí la segunda parte! ¿Quieres continuar con la siguiente?{fast}" nointeract
 
 # game/script-stories.rpy:1835
 translate spanish mas_scary_story_flowered_lantern_3_82dcd93c:
@@ -4605,7 +4605,7 @@ translate spanish mas_scary_story_flowered_lantern_3_4ca126ed:
 translate spanish mas_scary_story_flowered_lantern_3_07fa8e10:
 
     # m 4wuw "...Only to flee from the house crying in horror after seeing him."
-    m 4wuw "... Solo para huir de la casa llorando de horror tras verle."
+    m 4wuw "Solo para huir de la casa llorando de horror tras verle."
 
 # game/script-stories.rpy:1872
 translate spanish mas_scary_story_flowered_lantern_3_c7ce5c0e:

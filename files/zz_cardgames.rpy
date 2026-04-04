@@ -591,7 +591,7 @@ translate spanish monika_explain_nou_rules_8d2439c3:
 translate spanish monika_explain_nou_rules_79a347f9:
 
     # m 3eua "...Or you can play any {i}Draw Two{/i} to mirror another {i}Draw Two{/i} back to your opponent. The color won't matter in that case."
-    m 3eua "... O puedes jugar cualquier {i}Roba Dos{/i} para contrarrestar otro {i}Roba Dos{/i} a tu oponente. El color no importará en ese caso."
+    m 3eua "O puedes jugar cualquier {i}Roba Dos{/i} para contrarrestar otro {i}Roba Dos{/i} a tu oponente. El color no importará en ese caso."
 
 # game/zz_cardgames.rpy:4370
 translate spanish monika_explain_nou_rules_a7578a65:
@@ -2431,7 +2431,7 @@ translate spanish strings:
 
     # game/zz_cardgames.rpy:2022
     old ".. If you're brave enough~"
-    new "... Si eres lo bastante valiente."
+    new "Si eres lo bastante valiente."
 
     # game/zz_cardgames.rpy:2026
     old "You need to play a {{i}}{}{{/i}} or any {} card."

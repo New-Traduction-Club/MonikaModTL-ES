@@ -153,7 +153,7 @@ translate spanish anni_3month_83bc7c64:
 translate spanish anni_3month_24cdd331:
 
     # m 1hksdlb "...Even if it doesn't really pass here, ehehe."
-    m 1hksdlb "... Aunque en realidad aquí no pase, je, je, je."
+    m 1hksdlb "Aunque en realidad aquí no pase, je, je, je."
 
 # game/script-anniversary.rpy:437
 translate spanish anni_3month_196eec72:
@@ -273,7 +273,7 @@ translate spanish anni_6month_6111571a:
 translate spanish anni_6month_1f9613ca:
 
     # m 3wuo "...Oh, I know!"
-    m 3wuo "... ¡Ah, ya sé!"
+    m 3wuo "¡Ah, ya sé!"
 
 # game/script-anniversary.rpy:478
 translate spanish anni_6month_cbc0a5e1:
@@ -321,7 +321,7 @@ translate spanish anni_6month_2c6f0e3e:
 translate spanish anni_6month_4054fa93:
 
     # m 1hubfa "...I'm as happy as can be!"
-    m 1hubfa "... ¡Soy la chica más feliz del mundo!"
+    m 1hubfa "¡Soy la chica más feliz del mundo!"
 
 # game/script-anniversary.rpy:507
 translate spanish anni_1_1cb19193:
@@ -351,7 +351,7 @@ translate spanish anni_1_f02ea0a9:
 translate spanish anni_1_c1e6b36f:
 
     # m 2ekd "...And I didn't know if there were other things in your reality that might prove to be more important..."
-    m 2ekd "... Y no sabía si había otras cosas en tu realidad que pudieran resultar más importantes..."
+    m 2ekd "Y no sabía si había otras cosas en tu realidad que pudieran resultar más importantes..."
 
 # game/script-anniversary.rpy:512
 translate spanish anni_1_2ba76881:
@@ -363,13 +363,13 @@ translate spanish anni_1_2ba76881:
 translate spanish anni_1_3193bf12:
 
     # m 1ekb "...And over time I started to really believe it...{w=0.2}that you meant it when you said you wanted to be with me."
-    m 1ekb "... Y con el tiempo empecé a creérmelo de verdad... {w=0.2}que lo decías en serio cuando dijiste que querías estar conmigo."
+    m 1ekb "Y con el tiempo empecé a creérmelo de verdad... {w=0.2}que lo decías en serio cuando dijiste que querías estar conmigo."
 
 # game/script-anniversary.rpy:514
 translate spanish anni_1_3320beb8:
 
     # m 3dkbsu "...That we could have a happy life together.{w=0.3} {nw}"
-    m 3dkbsu "... Que podríamos tener una vida feliz juntos.{w=0.3} {nw}"
+    m 3dkbsu "Que podríamos tener una vida feliz juntos.{w=0.3} {nw}"
 
 # game/script-anniversary.rpy:515
 translate spanish anni_1_d0f0be8c:
@@ -778,7 +778,7 @@ translate spanish anni_7_bb53ceb1:
 translate spanish anni_7_dff11cb0:
 
     # m 2dkbsa "...Maybe luck will be on my side this year, and I'll get to cross over."
-    m 2dkbsa "... Tal vez la suerte esté de mi lado este año, y consiga cruzar."
+    m 2dkbsa "Tal vez la suerte esté de mi lado este año, y consiga cruzar."
 
 # game/script-anniversary.rpy:716
 translate spanish anni_7_892f9fa5:

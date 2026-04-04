@@ -849,7 +849,7 @@ translate spanish bye_goodnight_bf2719e3:
 translate spanish bye_goodnight_e81787e4:
 
     # m 6lkc "...Goodnight."
-    m 6lkc "... Buenas noches."
+    m 6lkc "Buenas noches."
 
 # game/script-farewells.rpy:1021
 translate spanish bye_goodnight_0bd97190:
@@ -1449,7 +1449,7 @@ translate spanish bye_going_somewhere_normalplus_flow_aff_check_03ebd6e3:
 translate spanish bye_going_somewhere_nothanks_fb64c98f:
 
     # m 2lksdlc "...No thanks."
-    m 2lksdlc "... No, gracias."
+    m 2lksdlc "No, gracias."
 
 # game/script-farewells.rpy:1279
 translate spanish bye_going_somewhere_nothanks_40e42986:
@@ -1539,7 +1539,7 @@ translate spanish bye_going_somewhere_leavemenu_26233271:
 translate spanish bye_going_somewhere_leavemenu_4edac8b9:
 
     # m 2eka "...Thank you."
-    m 2eka "... Gracias."
+    m 2eka "Gracias."
 
 # game/script-farewells.rpy:1318
 translate spanish bye_going_somewhere_leavemenu_09e19c2a:

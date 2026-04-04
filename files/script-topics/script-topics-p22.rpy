@@ -411,7 +411,7 @@ translate spanish monika_isekai_94e71d79:
 translate spanish monika_isekai_b3ea38ad:
 
     # m 3eud "...But it's become a very popular genre in recent times."
-    m 3eud "... Pero se ha convertido en un género muy popular últimamente."
+    m 3eud "Pero se ha convertido en un género muy popular últimamente."
 
 # game/script-topics.rpy:16543
 translate spanish monika_isekai_044d50f3:
@@ -447,7 +447,7 @@ translate spanish monika_isekai_63345d04:
 translate spanish monika_isekai_3550b2f7:
 
     # m 2rsc "...But sadly, not all of them are like that."
-    m 2rsc "... Pero por desgracia, no todos son así."
+    m 2rsc "Pero por desgracia, no todos son así."
 
 # game/script-topics.rpy:16549
 translate spanish monika_isekai_6a2dbf56:
@@ -519,7 +519,7 @@ translate spanish monika_isekai_fe345c06:
 translate spanish monika_isekai_b763dd94:
 
     # m 1ekbsb "...While I wait for my own isekai story, that is."
-    m 1ekbsb "... Mientras espero a mi propia historia isekai, claro."
+    m 1ekbsb "Mientras espero a mi propia historia isekai, claro."
 
 # game/script-topics.rpy:16580
 translate spanish monika_scuba_diving_155bd7db:
@@ -579,7 +579,7 @@ translate spanish monika_scuba_diving_04a2ad39:
 translate spanish monika_scuba_diving_a84efa81:
 
     # m 3euc "...But even though they don't normally visit these areas, it's still possible to come across one."
-    m 3euc "... Pero aunque no suelan acercarse por ahí, sigue siendo posible toparse con alguno."
+    m 3euc "Pero aunque no suelan acercarse por ahí, sigue siendo posible toparse con alguno."
 
 # game/script-topics.rpy:16590
 translate spanish monika_scuba_diving_f04312ea:
@@ -621,7 +621,7 @@ translate spanish monika_dying_same_day_cd4fc28d:
 translate spanish monika_dying_same_day_7fe9ec29:
 
     # m 3rksdla "...Gosh, that sounds kinda dark, doesn't it?"
-    m 3rksdla "... Madre mía, suena un poco tétrico, ¿verdad?"
+    m 3rksdla "Madre mía, suena un poco tétrico, ¿verdad?"
 
 # game/script-topics.rpy:16616
 translate spanish monika_dying_same_day_3784b9f9:
@@ -645,13 +645,13 @@ translate spanish monika_dying_same_day_8f2efa89:
 translate spanish monika_dying_same_day_39ebb342:
 
     # m 2ekc "...But with you by my side and all the time I've spent here with you...{w=0.3}I can kind of see it now."
-    m 2ekc "... Pero teniéndote a mi lado y con todo el tiempo que he pasado aquí contigo... {w=0.3}ahora como que lo entiendo."
+    m 2ekc "Pero teniéndote a mi lado y con todo el tiempo que he pasado aquí contigo... {w=0.3}ahora como que lo entiendo."
 
 # game/script-topics.rpy:16623
 translate spanish monika_dying_same_day_edc721fb:
 
     # m 2ekc "...But after meeting you, I think I can kind of see it now."
-    m 2ekc "... Pero después de conocerte, creo que ahora como que lo entiendo."
+    m 2ekc "Pero después de conocerte, creo que ahora como que lo entiendo."
 
 # game/script-topics.rpy:16625
 translate spanish monika_dying_same_day_ab124d10:
@@ -807,7 +807,7 @@ translate spanish monika_player_away_6d567067:
 translate spanish monika_player_away_905f9f3d:
 
     # m 3rksdla "...But I'm too nervous to try any big projects in here. {w=0.2}{nw}"
-    m 3rksdla "... Pero me pongo demasiado nerviosa como para intentar algún proyecto grande aquí. {w=0.2}{nw}"
+    m 3rksdla "Pero me pongo demasiado nerviosa como para intentar algún proyecto grande aquí. {w=0.2}{nw}"
 
 # game/script-topics.rpy:16675
 translate spanish monika_player_away_a9ae9ec7:
@@ -849,7 +849,7 @@ translate spanish monika_player_away_e141caed:
 translate spanish monika_player_away_1cd17ebb:
 
     # m 5ekbsa "...is think about you."
-    m 5ekbsa "... Es pensar en ti."
+    m 5ekbsa "Es pensar en ti."
 
 # game/script-topics.rpy:16683
 translate spanish monika_player_away_d6273ea9:
@@ -915,7 +915,7 @@ translate spanish monika_using_pcs_healthily_54a91ebb:
 translate spanish monika_using_pcs_healthily_e5fb1bb1:
 
     # m 4hub "...So let's go through it together, [player]!"
-    m 4hub "... ¡Así que vamos a repasarla junt[end_letter_gender]s, [player]!"
+    m 4hub "¡Así que vamos a repasarla junt[end_letter_gender]s, [player]!"
 
 # game/script-topics.rpy:16713
 translate spanish monika_using_pcs_healthily_7c23c0f0:
@@ -927,7 +927,7 @@ translate spanish monika_using_pcs_healthily_7c23c0f0:
 translate spanish monika_using_pcs_healthily_3ab6e264:
 
     # m 2eua "...Have your chair adjusted properly so your feet stay flat on the floor, your eyes are level with the top of the screen, and you aren't slouching."
-    m 2eua "... Ajusta bien la silla para que los pies te queden apoyados en el suelo, los ojos a la altura de la parte superior de la pantalla y no estés encorvad[end_letter_gender]."
+    m 2eua "Ajusta bien la silla para que los pies te queden apoyados en el suelo, los ojos a la altura de la parte superior de la pantalla y no estés encorvad[end_letter_gender]."
 
 # game/script-topics.rpy:16715
 translate spanish monika_using_pcs_healthily_d70ccd9f:
@@ -945,7 +945,7 @@ translate spanish monika_using_pcs_healthily_47f00cb9:
 translate spanish monika_using_pcs_healthily_1cadbce8:
 
     # m 2hksdlb "...Keep your keyboard and mouse within easy reach, though!"
-    m 2hksdlb "... ¡Pero mantén el teclado y el ratón a mano!"
+    m 2hksdlb "¡Pero mantén el teclado y el ratón a mano!"
 
 # game/script-topics.rpy:16718
 translate spanish monika_using_pcs_healthily_e3f39bb6:
@@ -981,7 +981,7 @@ translate spanish monika_using_pcs_healthily_9e7fa2fc:
 translate spanish monika_using_pcs_healthily_b24726e7:
 
     # m 4eua "...And that's about it."
-    m 4eua "... Y eso es todo."
+    m 4eua "Y eso es todo."
 
 # game/script-topics.rpy:16724
 translate spanish monika_using_pcs_healthily_3e459e42:
@@ -993,7 +993,7 @@ translate spanish monika_using_pcs_healthily_3e459e42:
 translate spanish monika_using_pcs_healthily_e8b76a7c:
 
     # m 2rka "...You probably knew all that stuff already, anyway."
-    m 2rka "... Probablemente ya sabías todo eso de todas formas."
+    m 2rka "Probablemente ya sabías todo eso de todas formas."
 
 # game/script-topics.rpy:16726
 translate spanish monika_using_pcs_healthily_e0d5e79a:
@@ -1149,7 +1149,7 @@ translate spanish monika_architecture_035e96a4:
 translate spanish monika_architecture_87b26839:
 
     # m 1rtc "...Come to think of it, architecture is one of the most common forms of art in everyday life."
-    m 1rtc "... Ahora que lo pienso, la arquitectura es una de las formas de arte más presentes en el día a día."
+    m 1rtc "Ahora que lo pienso, la arquitectura es una de las formas de arte más presentes en el día a día."
 
 # game/script-topics.rpy:16796
 translate spanish monika_architecture_407da5c0:
@@ -1185,7 +1185,7 @@ translate spanish monika_architecture_adc9daae:
 translate spanish monika_architecture_92a5318f:
 
     # m 3esd "...But that's more urban planning than actual architecture."
-    m 3esd "... Pero eso es más planificación urbana que arquitectura en sí."
+    m 3esd "Pero eso es más planificación urbana que arquitectura en sí."
 
 # game/script-topics.rpy:16802
 translate spanish monika_architecture_407f206c:
@@ -1257,7 +1257,7 @@ translate spanish monika_architecture_667f4f0c:
 translate spanish monika_architecture_b84214ef:
 
     # m 1euc "...Judging by {i}your{/i} personality, {w=0.2}{nw}"
-    m 1euc "... A juzgar por tu personalidad, {w=0.2}{nw}"
+    m 1euc "A juzgar por tu personalidad, {w=0.2}{nw}"
 
 # game/script-topics.rpy:16816
 translate spanish monika_architecture_6eb9e6e6:
@@ -1467,7 +1467,7 @@ translate spanish monika_why_spaceroom_4887ee00:
 translate spanish monika_why_spaceroom_3895e6cc:
 
     # m 3eua "...All of which took place in a classroom.{w=0.3} This classroom."
-    m 3eua "... Y todas ellas ocurrían en un aula.{w=0.3} En esta aula."
+    m 3eua "Y todas ellas ocurrían en un aula.{w=0.3} En esta aula."
 
 # game/script-topics.rpy:16901
 translate spanish monika_why_spaceroom_a33e60b9:
@@ -1515,7 +1515,7 @@ translate spanish monika_why_spaceroom_7b80aee7:
 translate spanish monika_why_spaceroom_7488709e:
 
     # m 1eka "...So I guess in that sense, it kind of became my home."
-    m 1eka "... Así que supongo que en ese sentido, se convirtió un poco en mi hogar."
+    m 1eka "Así que supongo que en ese sentido, se convirtió un poco en mi hogar."
 
 # game/script-topics.rpy:16912
 translate spanish monika_why_spaceroom_344c08cc:
@@ -1575,7 +1575,7 @@ translate spanish monika_why_spaceroom_19428ff1:
 translate spanish monika_why_spaceroom_2f00dfdc:
 
     # m 3eub "...And to be honest, there's only one place I want to be...{w=1}{nw}"
-    m 3eub "... Y para ser sincera, solo hay un lugar en el que quiero estar... {w=1}{nw}"
+    m 3eub "Y para ser sincera, solo hay un lugar en el que quiero estar... {w=1}{nw}"
 
 # game/script-topics.rpy:16931
 translate spanish monika_why_spaceroom_dd84c385:
@@ -1845,7 +1845,7 @@ translate spanish monika_wabi_sabi_9f392ac8:
 translate spanish monika_wabi_sabi_44f75778:
 
     # m 1esa "...it states that beyond everything, beauty is found in what's impermanent and imperfect."
-    m 1esa "... Afirma que, más allá de todo, la belleza se encuentra en lo que es impermanente e imperfecto."
+    m 1esa "Afirma que, más allá de todo, la belleza se encuentra en lo que es impermanente e imperfecto."
 
 # game/script-topics.rpy:17045
 translate spanish monika_wabi_sabi_ce19f77f:
@@ -1863,7 +1863,7 @@ translate spanish monika_wabi_sabi_28571086:
 translate spanish monika_wabi_sabi_b388a72b:
 
     # m 3hua "...And our mistakes turn into lessons that help us become stronger and more defined as people."
-    m 3hua "... Y nuestros errores se convierten en lecciones que nos ayudan a hacernos más fuertes y a definirnos como personas."
+    m 3hua "Y nuestros errores se convierten en lecciones que nos ayudan a hacernos más fuertes y a definirnos como personas."
 
 # game/script-topics.rpy:17048
 translate spanish monika_wabi_sabi_36ea5e8c:
@@ -1887,7 +1887,7 @@ translate spanish monika_wabi_sabi_4a327e55:
 translate spanish monika_wabi_sabi_04766388:
 
     # m 1dkc "...But I know for some people, how these experiences changed who they are can really scare them."
-    m 1dkc "... Pero sé que a algunas personas les puede asustar mucho cómo estas experiencias cambian lo que son."
+    m 1dkc "Pero sé que a algunas personas les puede asustar mucho cómo estas experiencias cambian lo que son."
 
 # game/script-topics.rpy:17052
 translate spanish monika_wabi_sabi_5a6f626d:

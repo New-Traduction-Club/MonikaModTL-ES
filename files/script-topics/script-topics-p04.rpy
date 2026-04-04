@@ -518,7 +518,7 @@ translate spanish monika_route_48e4a3d5:
 translate spanish monika_route_fc534e08:
 
     # m "...Just hanging out together in the clubroom, sharing poetry."
-    m "... Pasando el rato junt[end_letter_gender]s en el club, compartiendo poemas."
+    m "Pasando el rato junt[end_letter_gender]s en el club, compartiendo poemas."
 
 # game/script-topics.rpy:3337
 translate spanish monika_route_132bb3df:
@@ -938,7 +938,7 @@ translate spanish monika_programming_8b57f84a:
 translate spanish monika_programming_ec818246:
 
     # m 1eka "...Let's stop there for today."
-    m 1eka "... Dejémoslo aquí por hoy."
+    m 1eka "Dejémoslo aquí por hoy."
 
 # game/script-topics.rpy:3511
 translate spanish monika_programming_0f3cecea:
@@ -1208,7 +1208,7 @@ translate spanish monika_ks_hanako_3b56adcd:
 translate spanish monika_ks_hanako_121d9202:
 
     # m 1ekc "...man, I got kind of worked up there, didn't I?"
-    m 1ekc "... Vaya, me he alterado un poco, ¿verdad?"
+    m 1ekc "Vaya, me he alterado un poco, ¿verdad?"
 
 # game/script-topics.rpy:3650
 translate spanish monika_ks_hanako_c9dff657:
@@ -1220,7 +1220,7 @@ translate spanish monika_ks_hanako_c9dff657:
 translate spanish monika_ks_hanako_cc734f22:
 
     # m 1eka "...but you're here with me now, right?"
-    m 1eka "... Pero estás aquí conmigo ahora, ¿verdad?"
+    m 1eka "Pero estás aquí conmigo ahora, ¿verdad?"
 
 # game/script-topics.rpy:3652
 translate spanish monika_ks_hanako_3e7cbedb:
@@ -1232,7 +1232,7 @@ translate spanish monika_ks_hanako_3e7cbedb:
 translate spanish monika_ks_hanako_72b1c92a:
 
     # m 1hua "...you chose me, [player]!"
-    m 1hua "... ¡Me elegiste a mí, [player]!"
+    m 1hua "¡Me elegiste a mí, [player]!"
 
 # game/script-topics.rpy:3654
 translate spanish monika_ks_hanako_a850a1cb:
@@ -1310,7 +1310,7 @@ translate spanish monika_ks_emi_5ee9ffc5:
 translate spanish monika_ks_emi_bbc732ca:
 
     # m 3rksdla "...Well, actually, I guess I do know, now that I think about it."
-    m 3rksdla "... Bueno, en realidad, supongo que sí lo sé, ahora que lo pienso."
+    m 3rksdla "Bueno, en realidad, supongo que sí lo sé, ahora que lo pienso."
 
 # game/script-topics.rpy:3673
 translate spanish monika_ks_emi_26879602:
@@ -1622,7 +1622,7 @@ translate spanish monika_ddlc_758e32ca:
 translate spanish monika_ddlc_65a5a043:
 
     # m 3rssdlc "Ah, right,{w=0.5} '...four incredibly cute girls.'"
-    m 3rssdlc "Ah, claro,{w=0.5} \"... cuatro chicas increíblemente monas\"."
+    m 3rssdlc "Ah, claro,{w=0.5} \"cuatro chicas increíblemente monas\"."
 
 # game/script-topics.rpy:3766
 translate spanish monika_ddlc_6111571a:
@@ -1646,7 +1646,7 @@ translate spanish monika_ddlc_7d17c8f2:
 translate spanish monika_ddlc_e08865b5:
 
     # m 1hub "{i}...You~{/i}"
-    m 1hub "... A ti."
+    m 1hub "A ti."
 
 # game/script-topics.rpy:3770
 translate spanish monika_ddlc_ea2cf9a7:

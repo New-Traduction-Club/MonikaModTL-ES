@@ -333,7 +333,7 @@ translate spanish monika_idle_shower_callback_2ca5e984:
 translate spanish monika_idle_shower_callback_5a677e53:
 
     # m 1hksdlb "...Or maybe I'm overthinking this and you just didn't come back right away, ahaha!"
-    m 1hksdlb "... O igual le estoy dando demasiadas vueltas y simplemente no has vuelto de inmediato, ¡ja, ja, ja!"
+    m 1hksdlb "O igual le estoy dando demasiadas vueltas y simplemente no has vuelto de inmediato, ¡ja, ja, ja!"
 
 # game/script-brbs.rpy:453
 translate spanish monika_idle_shower_callback_1a305b96:
@@ -549,7 +549,7 @@ translate spanish monika_idle_coding_1afef050:
 translate spanish monika_idle_coding_883e0f2c:
 
     # m 3hksdlb "...You'll thank yourself later!"
-    m 3hksdlb "... ¡Te lo agradecerás luego!"
+    m 3hksdlb "¡Te lo agradecerás luego!"
 
 # game/script-brbs.rpy:596
 translate spanish monika_idle_coding_fa21740a:
@@ -951,7 +951,7 @@ translate spanish monika_idle_homework_bb0fd6dc:
 translate spanish monika_idle_homework_24585474:
 
     # m 2rkc "...Good luck with your homework, [player]."
-    m 2rkc "... Buena suerte con los deberes, [player]."
+    m 2rkc "Buena suerte con los deberes, [player]."
 
 # game/script-brbs.rpy:822
 translate spanish monika_idle_homework_0bd97190:
@@ -981,7 +981,7 @@ translate spanish monika_idle_homework_callback_b419de91:
 translate spanish monika_idle_homework_callback_687523a0:
 
     # m 3rkbla "...Although, that's assuming we don't get {i}too{/i} distracted, ehehe..."
-    m 3rkbla "... Aunque, eso suponiendo que no nos distraigamos demasiado, je, je, je..."
+    m 3rkbla "Aunque, eso suponiendo que no nos distraigamos demasiado, je, je, je..."
 
 # game/script-brbs.rpy:838
 translate spanish monika_idle_homework_callback_e6d0b159:
@@ -1035,7 +1035,7 @@ translate spanish monika_idle_working_8cc4ded4:
 translate spanish monika_idle_working_2851d833:
 
     # m 2rkc "...Please come back soon..."
-    m 2rkc "... Por favor, vuelve pronto..."
+    m 2rkc "Por favor, vuelve pronto..."
 
 # game/script-brbs.rpy:880
 translate spanish monika_idle_working_0bd97190:
@@ -1065,7 +1065,7 @@ translate spanish monika_idle_working_callback_4a3ac37f:
 translate spanish monika_idle_working_callback_e9650808:
 
     # m 2eud "...Was there anything else you wanted to do, now that you're done with your work?"
-    m 2eud "... ¿Había algo más que quisieras hacer, ahora que has terminado el trabajo?"
+    m 2eud "¿Había algo más que quisieras hacer, ahora que has terminado el trabajo?"
 
 # game/script-brbs.rpy:896
 translate spanish monika_idle_working_callback_0bd97190:

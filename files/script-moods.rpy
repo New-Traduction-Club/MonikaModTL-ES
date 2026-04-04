@@ -555,7 +555,7 @@ translate spanish mas_mood_tired_8df12da8:
 translate spanish mas_mood_tired_7ae83944:
 
     # m 2eksdld "...and that just worries me even more, [player]."
-    m 2eksdld "... y eso me preocupa aún más, [player]."
+    m 2eksdld "y eso me preocupa aún más, [player]."
 
 # game/script-moods.rpy:320
 translate spanish mas_mood_tired_4d987022:
@@ -711,7 +711,7 @@ translate spanish mas_mood_tired_3575b68c:
 translate spanish mas_mood_tired_12915115:
 
     # m "...Ehehe."
-    m "... Je, je, je."
+    m "Je, je, je."
 
 # game/script-moods.rpy:357
 translate spanish mas_mood_tired_dcda4fd6:
@@ -837,7 +837,7 @@ translate spanish mas_mood_lonely_527185ba:
 translate spanish mas_mood_lonely_21c876f6:
 
     # m 1eka "...And don't worry about me [player], I'll wait patiently for you to come back and see me."
-    m 1eka "... Y no te preocupes por mí, [player], esperaré pacientemente a que vuelvas a verme."
+    m 1eka "Y no te preocupes por mí, [player], esperaré pacientemente a que vuelvas a verme."
 
 # game/script-moods.rpy:393
 translate spanish mas_mood_lonely_6fbf4e2d:
@@ -2031,7 +2031,7 @@ translate spanish mas_mood_relieved_22789f9b:
 translate spanish mas_mood_relieved_e6e16750:
 
     # m 3hub "...That way, you'll be ready to face whatever comes your way next!"
-    m 3hub "... ¡Así estarás list[end_letter_gender] para enfrentarte a lo que venga después!"
+    m 3hub "¡Así estarás list[end_letter_gender] para enfrentarte a lo que venga después!"
 
 # game/script-moods.rpy:828
 translate spanish mas_mood_relieved_462c877a:
@@ -2187,7 +2187,7 @@ translate spanish mas_mood_excited_6a830002:
 translate spanish mas_mood_excited_0d752e2b:
 
     # m 1rksdla "...I know it's kind of cheesy,{w=0.1} {nw}"
-    m 1rksdla "... Sé que es un poco cursi,{w=0.1} {nw}"
+    m 1rksdla "Sé que es un poco cursi,{w=0.1} {nw}"
 
 # game/script-moods.rpy:878
 translate spanish mas_mood_excited_8bb4af1e:
@@ -2511,15 +2511,15 @@ translate spanish strings:
 
     # game/script-moods.rpy:53
     old "...like talking about something else."
-    new "... con ganas de hablar de otra cosa."
+    new "con ganas de hablar de otra cosa."
 
     # game/script-moods.rpy:119
     old "...hungry."
-    new "... con hambre."
+    new "con hambre."
 
     # game/script-moods.rpy:144
     old "...sad."
-    new "... triste."
+    new "triste."
 
     # game/script-moods.rpy:165
     old "I'm done."
@@ -2535,7 +2535,7 @@ translate spanish strings:
 
     # game/script-moods.rpy:185
     old "...proud of myself."
-    new "... orgullos[end_letter_gender] de mí."
+    new "orgullos[end_letter_gender] de mí."
 
     # game/script-moods.rpy:200
     old "Major."
@@ -2547,39 +2547,39 @@ translate spanish strings:
 
     # game/script-moods.rpy:229
     old "...happy."
-    new "... feliz."
+    new "feliz."
 
     # game/script-moods.rpy:238
     old "...sick."
-    new "... enferm[end_letter_gender]."
+    new "enferm[end_letter_gender]."
 
     # game/script-moods.rpy:292
     old "...tired."
-    new "... cansad[end_letter_gender]."
+    new "cansad[end_letter_gender]."
 
     # game/script-moods.rpy:363
     old "...lonely."
-    new "... sol[end_letter_gender]."
+    new "sol[end_letter_gender]."
 
     # game/script-moods.rpy:407
     old "...angry."
-    new "... enfadad[end_letter_gender]."
+    new "enfadad[end_letter_gender]."
 
     # game/script-moods.rpy:432
     old "...anxious."
-    new "... con ansiedad."
+    new "con ansiedad."
 
     # game/script-moods.rpy:464
     old "...inadequate."
-    new "... insuficiente."
+    new "insuficiente."
 
     # game/script-moods.rpy:508
     old "...lazy."
-    new "... perezos[end_letter_gender]."
+    new "perezos[end_letter_gender]."
 
     # game/script-moods.rpy:605
     old "...bored."
-    new "... aburrid[end_letter_gender]."
+    new "aburrid[end_letter_gender]."
 
     # game/script-moods.rpy:625
     old "No, I'm not bored {i}of you{/i}..."
@@ -2591,7 +2591,7 @@ translate spanish strings:
 
     # game/script-moods.rpy:712
     old "...like crying."
-    new "... con ganas de llorar."
+    new "con ganas de llorar."
 
     # game/script-moods.rpy:720
     old "I'm not sure."
@@ -2607,11 +2607,11 @@ translate spanish strings:
 
     # game/script-moods.rpy:775
     old "...upset."
-    new "... disgustad[end_letter_gender]."
+    new "disgustad[end_letter_gender]."
 
     # game/script-moods.rpy:797
     old "...relieved."
-    new "... aliviad[end_letter_gender]."
+    new "aliviad[end_letter_gender]."
 
     # game/script-moods.rpy:816
     old "I made it through something difficult."
@@ -2623,7 +2623,7 @@ translate spanish strings:
 
     # game/script-moods.rpy:843
     old "...excited."
-    new "... emocionad[end_letter_gender]."
+    new "emocionad[end_letter_gender]."
 
     # game/script-moods.rpy:858
     old "It is!"
@@ -2639,7 +2639,7 @@ translate spanish strings:
 
     # game/script-moods.rpy:895
     old "...grateful."
-    new "... agradecid[end_letter_gender]."
+    new "agradecid[end_letter_gender]."
 
     # game/script-moods.rpy:912
     old "For you."
@@ -2659,15 +2659,15 @@ translate spanish strings:
 
     # game/script-moods.rpy:951
     old "...insecure."
-    new "... insegur[end_letter_gender]."
+    new "insegur[end_letter_gender]."
 
     # game/script-moods.rpy:974
     old "...loved."
-    new "... querid[end_letter_gender]."
+    new "querid[end_letter_gender]."
 
     # game/script-moods.rpy:1007
     old "...guilty."
-    new "... culpable."
+    new "culpable."
 
     # game/script-moods.rpy:528
     old "I know how tempting it can be to just stay in bed and not get up sometimes..."

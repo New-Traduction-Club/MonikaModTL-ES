@@ -813,7 +813,7 @@ translate spanish monika_immortality_d29f7780:
 translate spanish monika_immortality_9ad426db:
 
     # m 1lksdlc "...Seeing as how I'm essentially immortal while I'm in here and all."
-    m 1lksdlc "... Teniendo en cuenta que soy básicamente inmortal mientras esté aquí y demás."
+    m 1lksdlc "Teniendo en cuenta que soy básicamente inmortal mientras esté aquí y demás."
 
 # game/script-topics.rpy:11277
 translate spanish monika_immortality_1e435a34:
@@ -933,7 +933,7 @@ translate spanish monika_beingevil_669a620a:
 translate spanish monika_beingevil_8ec80dc6:
 
     # m "...If you look closely, it says I'm the main antagonist."
-    m "... Si te fijas bien, dice que soy la antagonista principal."
+    m "Si te fijas bien, dice que soy la antagonista principal."
 
 # game/script-topics.rpy:11321
 translate spanish monika_beingevil_eb6eaa27:
@@ -969,7 +969,7 @@ translate spanish monika_beingevil_f37818c0:
 translate spanish monika_beingevil_8b20a172:
 
     # m 2dkd "...and no matter what I say or tell people, I don't think it's going to help convince them that I'm not evil."
-    m 2dkd "... Y no importa lo que diga o le cuente a la gente, no creo que sirva para convencerles de que no soy mala."
+    m 2dkd "Y no importa lo que diga o le cuente a la gente, no creo que sirva para convencerles de que no soy mala."
 
 # game/script-topics.rpy:11328
 translate spanish monika_beingevil_1ed8a2aa:
@@ -1239,7 +1239,7 @@ translate spanish monika_driving_1854e313:
 translate spanish monika_driving_dda6f369:
 
     # m 3hua "...Although walking or biking can be really nice too sometimes!"
-    m 3hua "... Aunque ir andando o en bici también puede estar muy bien a veces."
+    m 3hua "Aunque ir andando o en bici también puede estar muy bien a veces."
 
 # game/script-topics.rpy:11441
 translate spanish monika_driving_20d6c4c3:
@@ -1437,7 +1437,7 @@ translate spanish monika_driving_a06319a6:
 translate spanish monika_driving_17cfe0e7:
 
     # m 1lksdla "...If I wasn't already by your side when it happened."
-    m 1lksdla "... Si es que no estaba ya a tu lado cuando pasó."
+    m 1lksdla "Si es que no estaba ya a tu lado cuando pasó."
 
 # game/script-topics.rpy:11490
 translate spanish monika_driving_9cceab93:
@@ -1491,7 +1491,7 @@ translate spanish monika_driving_79a6a3c2:
 translate spanish monika_driving_862838e4:
 
     # m 1hua "...And I'm even more glad that you're going to be a really safe driver!"
-    m 1hua "... Y me alegro todavía más de que vayas a conducir con tanta prudencia."
+    m 1hua "Y me alegro todavía más de que vayas a conducir con tanta prudencia."
 
 # game/script-topics.rpy:11507
 translate spanish monika_driving_8e3092da:
@@ -1695,7 +1695,7 @@ translate spanish monika_driving_db066a86:
 translate spanish monika_driving_22f51f7a:
 
     # m 3eksdla "...And it's better than getting into an accident!"
-    m 3eksdla "... Y es mejor que tener un accidente."
+    m 3eksdla "Y es mejor que tener un accidente."
 
 # game/script-topics.rpy:11558
 translate spanish monika_driving_51754057:
@@ -1851,7 +1851,7 @@ translate spanish monika_bullying_5bb18385:
 translate spanish monika_bullying_ca92be32:
 
     # m 2eksdlc "...resulting in violence toward the bully, other people, or even themselves."
-    m 2eksdlc "... Lo que se traduce en violencia hacia el acosador, hacia otras personas o incluso hacia sí mismos."
+    m 2eksdlc "Lo que se traduce en violencia hacia el acosador, hacia otras personas o incluso hacia sí mismos."
 
 # game/script-topics.rpy:11628
 translate spanish monika_bullying_8ea77d22:

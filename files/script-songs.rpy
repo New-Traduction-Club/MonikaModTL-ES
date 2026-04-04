@@ -3027,7 +3027,7 @@ translate spanish mas_song_wonderwall_analysis_93a81984:
 translate spanish mas_song_wonderwall_analysis_81a12a21:
 
     # m 3hksdlb "...I hope you won't get tired of {i}my{/i} song anytime soon [player], ahaha~"
-    m 3hksdlb "... Espero que mi canción no te canse pronto, [player], ja, ja, ja."
+    m 3hksdlb "Espero que mi canción no te canse pronto, [player], ja, ja, ja."
 
 # game/script-songs.rpy:1658
 translate spanish mas_song_wonderwall_analysis_5b21b3ab:
@@ -3063,7 +3063,7 @@ translate spanish mas_song_wonderwall_analysis_20c1061c:
 translate spanish mas_song_wonderwall_analysis_0136faf5:
 
     # m 1efc "...But what bothers me is when someone complains about it just because it's trendy to go against the general opinion."
-    m 1efc "... Pero me da mucha rabia que haya gente que se queje de ella solo por ir de guay y llevar la contraria a la mayoría."
+    m 1efc "Pero me da mucha rabia que haya gente que se queje de ella solo por ir de guay y llevar la contraria a la mayoría."
 
 # game/script-songs.rpy:1664
 translate spanish mas_song_wonderwall_analysis_ce5fdd73:
@@ -3837,7 +3837,7 @@ translate spanish mas_song_save_the_last_dance_for_me_analysis_e59be872:
 translate spanish mas_song_save_the_last_dance_for_me_analysis_cf98827d:
 
     # m 2rkp "...And I guess if I'm being honest,{w=0.1} I am kind of jealous that you can dance with someone while I'm stuck here on the sidelines."
-    m 2rkp "... Y, si te soy sincera,{w=0.1} me da bastante envidia que puedas bailar con alguien mientras yo estoy aquí atrapada mirando desde la barrera."
+    m 2rkp "Y, si te soy sincera,{w=0.1} me da bastante envidia que puedas bailar con alguien mientras yo estoy aquí atrapada mirando desde la barrera."
 
 # game/script-songs.rpy:1981
 translate spanish mas_song_save_the_last_dance_for_me_analysis_d704d705:

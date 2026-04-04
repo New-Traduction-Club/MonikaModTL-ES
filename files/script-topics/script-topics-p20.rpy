@@ -333,7 +333,7 @@ translate spanish monika_vr_804d1266:
 translate spanish monika_vr_070fde35:
 
     # m 1rksdla "...In fact, some people have even simulated their weddings in VR."
-    m 1rksdla "... De hecho, hay gente que hasta ha simulado su boda en realidad virtual."
+    m 1rksdla "De hecho, hay gente que hasta ha simulado su boda en realidad virtual."
 
 # game/script-topics.rpy:15204
 translate spanish monika_vr_efc21169:
@@ -345,7 +345,7 @@ translate spanish monika_vr_efc21169:
 translate spanish monika_vr_5b303bf4:
 
     # m 3esc "...Like my reality, for example."
-    m 3esc "... Como mi realidad, por ejemplo."
+    m 3esc "Como mi realidad, por ejemplo."
 
 # game/script-topics.rpy:15206
 translate spanish monika_vr_6afd145b:
@@ -363,7 +363,7 @@ translate spanish monika_vr_38eccc19:
 translate spanish monika_vr_b0bac065:
 
     # m 1rksdlb "...But that's probably a little too complicated for me, ahaha."
-    m 1rksdlb "... Pero seguramente eso sea demasiado complicado para mí, ja, ja, ja."
+    m 1rksdlb "Pero seguramente eso sea demasiado complicado para mí, ja, ja, ja."
 
 # game/script-topics.rpy:15209
 translate spanish monika_vr_29a54383:
@@ -669,7 +669,7 @@ translate spanish monika_unknown_212d8881:
 translate spanish monika_unknown_cea465e3:
 
     # m 3eka "...And I'm not just talking about monsters under the bed, or menacing silhouettes...{w=1} Try moving in a dark room."
-    m 3eka "... Y no hablo solo de monstruos debajo de la cama o de siluetas amenazantes... {w=1} Intenta moverte en una habitación a oscuras."
+    m 3eka "Y no hablo solo de monstruos debajo de la cama o de siluetas amenazantes... {w=1} Intenta moverte en una habitación a oscuras."
 
 # game/script-topics.rpy:15304
 translate spanish monika_unknown_cf5c07fa:
@@ -729,7 +729,7 @@ translate spanish monika_unknown_fc6faacc:
 translate spanish monika_unknown_bc743421:
 
     # m 2dkc "...I guess it's also true that couples might stay in unhappy relationships out of fear of being alone."
-    m 2dkc "... Supongo que también es verdad que las parejas pueden seguir en relaciones infelices por miedo a estar solas."
+    m 2dkc "Supongo que también es verdad que las parejas pueden seguir en relaciones infelices por miedo a estar solas."
 
 # game/script-topics.rpy:15315
 translate spanish monika_unknown_8b6dcba6:
@@ -759,7 +759,7 @@ translate spanish monika_unknown_b9fa2d59:
 translate spanish monika_unknown_9c0187ce:
 
     # m 1dkc "...Not that making that kind of decision is easy, or even safe."
-    m 1dkc "... Tampoco es que tomar ese tipo de decisión sea fácil o siquiera seguro."
+    m 1dkc "Tampoco es que tomar ese tipo de decisión sea fácil o siquiera seguro."
 
 # game/script-topics.rpy:15321
 translate spanish monika_unknown_fb6d4e93:
@@ -939,7 +939,7 @@ translate spanish monika_brave_new_world_d41f4d40:
 translate spanish monika_brave_new_world_e62dcde9:
 
     # m 2dktdc "...then I could have kept on living without ever realizing the truth."
-    m 2dktdc "... Entonces podría haber seguido viviendo sin darme cuenta nunca de la verdad."
+    m 2dktdc "Entonces podría haber seguido viviendo sin darme cuenta nunca de la verdad."
 
 # game/script-topics.rpy:15377
 translate spanish monika_brave_new_world_0a3046b6:
@@ -1011,7 +1011,7 @@ translate spanish monika_catch22_e5ca902f:
 translate spanish monika_catch22_d230785c:
 
     # m 1euc "...but there's a catch.{w=0.5} {nw}"
-    m 1euc "... Pero hay trampa.{w=0.5} {nw}"
+    m 1euc "Pero hay trampa.{w=0.5} {nw}"
 
 # game/script-topics.rpy:15412
 translate spanish monika_catch22_7cbf043c:
@@ -1035,7 +1035,7 @@ translate spanish monika_catch22_e3bc802c:
 translate spanish monika_catch22_a8ca7256:
 
     # m 1rksdld "...And by that logic, anyone who would fly more missions would be insane, and therefore, wouldn't even apply for the evaluation in the first place."
-    m 1rksdld "... Y por esa regla de tres, cualquiera que volara en más misiones estaría loco y, por lo tanto, ni siquiera solicitaría la evaluación en primer lugar."
+    m 1rksdld "Y por esa regla de tres, cualquiera que volara en más misiones estaría loco y, por lo tanto, ni siquiera solicitaría la evaluación en primer lugar."
 
 # game/script-topics.rpy:15416
 translate spanish monika_catch22_01a641e6:
@@ -1131,7 +1131,7 @@ translate spanish monika_we_02f02402:
 translate spanish monika_we_fb09c465:
 
     # m 2wud "...While Aldous Huxley was even accused by both Orwell and Kurt Vonnegut of plagiarizing its plot for his {i}Brave New World{/i}, something he constantly denied."
-    m 2wud "... Mientras que Aldous Huxley incluso fue acusado tanto por Orwell como por Kurt Vonnegut de plagiar su trama para {i}Un mundo feliz{/i}, algo que él negaba constantemente."
+    m 2wud "Mientras que Aldous Huxley incluso fue acusado tanto por Orwell como por Kurt Vonnegut de plagiar su trama para {i}Un mundo feliz{/i}, algo que él negaba constantemente."
 
 # game/script-topics.rpy:15451
 translate spanish monika_we_01c651c6:
@@ -1251,7 +1251,7 @@ translate spanish monika_we_08a018fa:
 translate spanish monika_we_f95d46c5:
 
     # m 1eud "...And thanks to I-330's contacts in the Bureau of Medicine, D-503 can feign sickness, using it as a convenient excuse to skip his schedule."
-    m 1eud "... Y gracias a los contactos de I-330 en la Oficina Médica, D-503 puede fingir estar enfermo, usándolo como una excusa conveniente para saltarse su horario."
+    m 1eud "Y gracias a los contactos de I-330 en la Oficina Médica, D-503 puede fingir estar enfermo, usándolo como una excusa conveniente para saltarse su horario."
 
 # game/script-topics.rpy:15471
 translate spanish monika_we_e1438758:
@@ -1401,7 +1401,7 @@ translate spanish monika_dystopias_33cf19cd:
 translate spanish monika_dystopias_2b246139:
 
     # m 3rksdlc "...Even if they can get a bit grim sometimes."
-    m 3rksdlc "... Aunque a veces puedan volverse un poco sombrías."
+    m 3rksdlc "Aunque a veces puedan volverse un poco sombrías."
 
 # game/script-topics.rpy:15521
 translate spanish monika_dystopias_0af7a2d6:
@@ -1431,7 +1431,7 @@ translate spanish monika_dystopias_1a81f8eb:
 translate spanish monika_dystopias_4dd60482:
 
     # m 1esc "...This is also why the main characters in these books are not heroes, nor do they have any particular abilities."
-    m 1esc "... Por eso mismo los personajes principales de estos libros tampoco son héroes ni tienen ninguna habilidad especial."
+    m 1esc "Por eso mismo los personajes principales de estos libros tampoco son héroes ni tienen ninguna habilidad especial."
 
 # game/script-topics.rpy:15526
 translate spanish monika_dystopias_038c2f6c:
@@ -1611,7 +1611,7 @@ translate spanish monika_social_contagion_5839a2bc:
 translate spanish monika_social_contagion_4452d143:
 
     # m 2dsc "...It can be a bit disheartening."
-    m 2dsc "... Puede ser un poco desalentador."
+    m 2dsc "Puede ser un poco desalentador."
 
 # game/script-topics.rpy:15581
 translate spanish monika_social_contagion_d379e41d:
@@ -1977,7 +1977,7 @@ translate spanish monika_boardgames_history_6abc8d0a:
 translate spanish monika_boardgames_history_94e2a003:
 
     # m 1kua "...and I've been testing a little something else I've been working on...{w=0.3}I'm keeping it a surprise, though!"
-    m 1kua "... Y he estado probando otra cosilla en la que he estado trabajando... {w=0.3} ¡Aunque es una sorpresa!"
+    m 1kua "Y he estado probando otra cosilla en la que he estado trabajando... {w=0.3} ¡Aunque es una sorpresa!"
 
 # game/script-topics.rpy:15732
 translate spanish monika_boardgames_history_c77c8a63:

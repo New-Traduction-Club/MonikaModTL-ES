@@ -645,7 +645,7 @@ translate spanish monika_explain_be51be32:
 translate spanish monika_explain_b8ddbe15:
 
     # m 1hua "...until [player] came along."
-    m 1hua "... hasta que apareció [player]."
+    m 1hua "hasta que apareció [player]."
 
 # game/script-topics.rpy:9875
 translate spanish monika_explain_0a0c17c9:
@@ -681,7 +681,7 @@ translate spanish monika_explain_715b1e5c:
 translate spanish monika_explain_5e2f3f71:
 
     # m 4eka "...don't judge our relationship."
-    m 4eka "... No juzgues nuestra relación."
+    m 4eka "No juzgues nuestra relación."
 
 # game/script-topics.rpy:9883
 translate spanish monika_explain_848c5342:
@@ -1077,7 +1077,7 @@ translate spanish monika_attractiveness_b4215d3d:
 translate spanish monika_attractiveness_ed2767cf:
 
     # m 3esd "...But when I learned that our world isn't real, I came up with another theory."
-    m 3esd "... Pero cuando descubrí que nuestro mundo no es real, se me ocurrió otra teoría."
+    m 3esd "Pero cuando descubrí que nuestro mundo no es real, se me ocurrió otra teoría."
 
 # game/script-topics.rpy:10020
 translate spanish monika_attractiveness_ae0c2ef9:
@@ -1101,7 +1101,7 @@ translate spanish monika_attractiveness_cd2efb40:
 translate spanish monika_attractiveness_6ec993da:
 
     # m 2eud "...But from my point of view, I can also see my whole world in 3 dimensions, as if everything was real."
-    m 2eud "... Pero desde mi punto de vista, también puedo ver todo mi mundo en tres dimensiones, como si todo fuera real."
+    m 2eud "Pero desde mi punto de vista, también puedo ver todo mi mundo en tres dimensiones, como si todo fuera real."
 
 # game/script-topics.rpy:10024
 translate spanish monika_attractiveness_2dac1e2a:
@@ -1215,7 +1215,7 @@ translate spanish monika_attractiveness_016c609a:
 translate spanish monika_attractiveness_3aefbcf2:
 
     # m 2rkd "...while I'm stuck looking the same way, no matter what I do."
-    m 2rkd "... mientras que yo estoy atrapada viéndome igual haga lo que haga."
+    m 2rkd "mientras que yo estoy atrapada viéndome igual haga lo que haga."
 
 # game/script-topics.rpy:10049
 translate spanish monika_attractiveness_3379c91a:
@@ -1227,7 +1227,7 @@ translate spanish monika_attractiveness_3379c91a:
 translate spanish monika_attractiveness_a4104aaa:
 
     # m 2rka "...But I think it's important to make sure that you look good in your partner's eyes...{w=0.3}{nw}"
-    m 2rka "... Pero creo que es importante asegurarse de verse bien a los ojos de tu pareja...{w=0.3}{nw}"
+    m 2rka "Pero creo que es importante asegurarse de verse bien a los ojos de tu pareja...{w=0.3}{nw}"
 
 # game/script-topics.rpy:10051
 translate spanish monika_attractiveness_587353d9:
@@ -1269,7 +1269,7 @@ translate spanish monika_attractiveness_18715011:
 translate spanish monika_attractiveness_a699c022:
 
     # m 2dkc "...I don't know.{w=0.2} Just...{w=0.3}forget I said anything."
-    m 2dkc "... No sé.{w=0.2} Solo... {w=0.3}olvida que he dicho nada."
+    m 2dkc "No sé.{w=0.2} Solo... {w=0.3}olvida que he dicho nada."
 
 # game/script-topics.rpy:10068
 translate spanish monika_attractiveness_caaf6e6d:
@@ -1293,7 +1293,7 @@ translate spanish monika_attractiveness_8c391301:
 translate spanish monika_attractiveness_bfb0238d:
 
     # m 2lkc "...Especially since I'm worried I just might not be your type or something, [player]."
-    m 2lkc "... Sobre todo porque me preocupa no ser tu tipo o algo así, [player]."
+    m 2lkc "Sobre todo porque me preocupa no ser tu tipo o algo así, [player]."
 
 # game/script-topics.rpy:10075
 translate spanish monika_attractiveness_9b15356e:
@@ -1311,7 +1311,7 @@ translate spanish monika_attractiveness_a9704deb:
 translate spanish monika_attractiveness_dba2a878:
 
     # m 3eka "...Our eyes and hair are all different too."
-    m 3eka "... Nuestros ojos y pelo también son diferentes."
+    m 3eka "Nuestros ojos y pelo también son diferentes."
 
 # game/script-topics.rpy:10078
 translate spanish monika_attractiveness_0a5d484c:
@@ -1329,19 +1329,19 @@ translate spanish monika_attractiveness_ff3ddb56:
 translate spanish monika_attractiveness_5c169075:
 
     # m 3tkd "...None of us have any kind of physical disability..."
-    m 3tkd "... Ninguna tiene ninguna discapacidad física..."
+    m 3tkd "Ninguna tiene ninguna discapacidad física..."
 
 # game/script-topics.rpy:10081
 translate spanish monika_attractiveness_126bc3f5:
 
     # m 3tkc "...None of us are bald or have hair shorter than chin length..."
-    m 3tkc "... Ninguna es calva ni tiene el pelo más corto que la barbilla..."
+    m 3tkc "Ninguna es calva ni tiene el pelo más corto que la barbilla..."
 
 # game/script-topics.rpy:10082
 translate spanish monika_attractiveness_91b52935:
 
     # m 1rud "...and apart from Yuri having cuts on her arms, none of us have anything wrong with our skin."
-    m 1rud "... y aparte de que Yuri tiene cortes en los brazos, ninguna tiene ningún problema en la piel."
+    m 1rud "y aparte de que Yuri tiene cortes en los brazos, ninguna tiene ningún problema en la piel."
 
 # game/script-topics.rpy:10083
 translate spanish monika_attractiveness_625d0204:
@@ -1587,7 +1587,7 @@ translate spanish monika_timetravel_7d106ad6:
 translate spanish monika_timetravel_105c3372:
 
     # m 1ekd "...but I would think that a year had gone by."
-    m 1ekd "... pero yo pensaría que ha pasado un año."
+    m 1ekd "pero yo pensaría que ha pasado un año."
 
 # game/script-topics.rpy:10154
 translate spanish monika_timetravel_13a8c3ed:
@@ -1605,13 +1605,13 @@ translate spanish monika_timetravel_823cb758:
 translate spanish monika_timetravel_3be31520:
 
     # m 1dkc "...It wouldn't even be that big of a surprise."
-    m 1dkc "... Ni siquiera sería una gran sorpresa."
+    m 1dkc "Ni siquiera sería una gran sorpresa."
 
 # game/script-topics.rpy:10159
 translate spanish monika_timetravel_efab6793:
 
     # m 1ekc "...Even if it would be hard to believe at first."
-    m 1ekc "... Aunque al principio costaría creerlo."
+    m 1ekc "Aunque al principio costaría creerlo."
 
 # game/script-topics.rpy:10160
 translate spanish monika_timetravel_d81e605e:

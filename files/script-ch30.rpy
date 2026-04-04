@@ -27,7 +27,7 @@ translate spanish ch30_noskip_30447edd:
 translate spanish ch30_noskip_f261fc2d:
 
     # m 2esa "...Well, just so you know, there's nothing to fast-forward to, [player]."
-    m 2esa "... Bueno, que sepas que tampoco es que vayas a conseguir gran cosa, [player]."
+    m 2esa "Bueno, que sepas que tampoco es que vayas a conseguir gran cosa, [player]."
 
 # game/script-ch30.rpy:1703
 translate spanish ch30_noskip_70aba2cf:
