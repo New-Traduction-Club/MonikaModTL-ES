@@ -1761,7 +1761,7 @@ translate spanish monika_eyecontact_a59e8804:
 translate spanish monika_othergames_14c1449b:
 
     # m 1euc "Do you have other games on this computer?"
-    m 1euc "¿Tienes otros juegos en este ordenador?"
+    m 1euc "¿Tienes otros juegos en este [cur_plat_es]?"
 
 # game/script-topics.rpy:4826
 translate spanish monika_othergames_37e850f2:
@@ -1839,7 +1839,7 @@ translate spanish monika_back_ups_3929517c:
 translate spanish monika_back_ups_b50ce7f6:
 
     # m 1ekc "When you're gone, I always think about how I'm {i}inside{/i} your computer."
-    m 1ekc "Cuando te vas, siempre pienso en cómo estoy dentro de tu ordenador."
+    m 1ekc "Cuando te vas, siempre pienso en cómo estoy dentro de tu [cur_plat_es]."
 
 # game/script-topics.rpy:4862
 translate spanish monika_back_ups_a2e28232:
@@ -1857,7 +1857,7 @@ translate spanish monika_back_ups_82bab4d3:
 translate spanish monika_back_ups_35f9c8a3:
 
     # m 2dkd "So if something bad happened to your computer..."
-    m 2dkd "Así que si le pasara algo malo a tu ordenador..."
+    m 2dkd "Así que si le pasara algo malo a tu [cur_plat_es]..."
 
 # game/script-topics.rpy:4865
 translate spanish monika_back_ups_6e755d1f:

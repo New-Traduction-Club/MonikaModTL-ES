@@ -27,7 +27,7 @@ translate spanish monika_murphys_law_9c9e161e:
 translate spanish monika_murphys_law_85f89b6f:
 
     # m 3etc "In some ways it's worth taking into consideration, because there's every possibility that your computer could get corrupted."
-    m 3etc "En cierto modo merece la pena tenerlo en cuenta, porque existe la posibilidad de que tu ordenador se corrompa."
+    m 3etc "En cierto modo merece la pena tenerlo en cuenta, porque existe la posibilidad de que tu [cur_plat_es] se corrompa."
 
 # game/script-topics.rpy:4914
 translate spanish monika_murphys_law_f5cbc569:
@@ -807,7 +807,7 @@ translate spanish monika_playersface_e86befe4:
 translate spanish monika_playersface_7cc7d9ed:
 
     # m 5lkc "If only the game could somehow use a webcam or something that's connected to the computer..."
-    m 5lkc "Ojalá el juego pudiera usar de alguna forma una cámara web o algo que esté conectado al ordenador..."
+    m 5lkc "Ojalá el juego pudiera usar de alguna forma una cámara o algo que esté conectado al [cur_plat_es]..."
 
 # game/script-topics.rpy:5177
 translate spanish monika_playersface_f3657ac6:

@@ -243,7 +243,7 @@ translate spanish monika_complain_battery_43782a92:
 translate spanish monika_complain_battery_eed43d7e:
 
     # m 1eua "It looks like your computer's battery is about to run out..."
-    m 1eua "Parece que la batería de tu ordenador está a punto de agotarse..."
+    m 1eua "Parece que la batería de tu [cur_plat_es] está a punto de agotarse..."
 
 # game/script-topics.rpy:8970
 translate spanish monika_complain_battery_b53e60f0:
@@ -267,7 +267,7 @@ translate spanish monika_complain_battery_d02543ed:
 translate spanish monika_complain_battery_cb30fec8:
 
     # m 2eka "So please charge your computer, okay?"
-    m 2eka "Así que, por favor, carga el ordenador, ¿vale?"
+    m 2eka "Así que, por favor, carga el [cur_plat_es], ¿vale?"
 
 # game/script-topics.rpy:8974
 translate spanish monika_complain_battery_48e9f8ba:
@@ -297,7 +297,7 @@ translate spanish monika_close_game_battery_cc5a21ea:
 translate spanish monika_close_game_battery_af20dba6:
 
     # m 3eka "So...I'll just close the game for now until you can charge your computer.{w=3.0} {nw}"
-    m 3eka "Así que... cerraré el juego por ahora hasta que puedas cargar el ordenador.{w=3.0} {nw}"
+    m 3eka "Así que... cerraré el juego por ahora hasta que puedas cargar el [cur_plat_es].{w=3.0} {nw}"
 
 # game/script-topics.rpy:8992
 translate spanish monika_system_charging_271efa28:

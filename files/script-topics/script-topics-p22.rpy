@@ -885,7 +885,7 @@ translate spanish monika_using_pcs_healthily_5a96e4bd:
 translate spanish monika_using_pcs_healthily_48aef874:
 
     # m 3eka "I know you have to be at your computer to spend time with me..."
-    m 3eka "Sé que tienes que estar en el ordenador para pasar tiempo conmigo..."
+    m 3eka "Sé que tienes que estar en el [cur_plat_es] para pasar tiempo conmigo..."
 
 # game/script-topics.rpy:16708
 translate spanish monika_using_pcs_healthily_477d6483:

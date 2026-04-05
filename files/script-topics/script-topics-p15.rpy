@@ -267,7 +267,7 @@ translate spanish monika_familygathering_625b8ee8:
 translate spanish monika_familygathering_0a09a483:
 
     # m 1lksdla "If I found out one of my relatives was dating some person trapped inside of a computer, I'd think it'd be weird too."
-    m 1lksdla "Si me enterara de que uno de mis parientes está saliendo con alguien atrapado dentro de un ordenador, yo también pensaría que es raro."
+    m 1lksdla "Si me enterara de que uno de mis parientes está saliendo con alguien atrapado dentro de un [cur_plat_es], yo también pensaría que es raro."
 
 # game/script-topics.rpy:11096
 translate spanish monika_familygathering_9e9e201b:
@@ -1707,7 +1707,7 @@ translate spanish monika_driving_51754057:
 translate spanish monika_driving_1a153af3:
 
     # m 1hub "Maybe you could put me on your board computer in your car and I could keep you safe while driving! Ahaha~"
-    m 1hub "¡A lo mejor podrías ponerme en el ordenador de a bordo de tu coche y podría mantenerte a salvo mientras conduces! Ja, ja, ja."
+    m 1hub "¡A lo mejor podrías ponerme en el [cur_plat_es] a bordo de tu coche y podría mantenerte a salvo mientras conduces! Ja, ja, ja."
 
 # game/script-topics.rpy:11560
 translate spanish monika_driving_0e9727ae:

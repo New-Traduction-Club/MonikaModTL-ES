@@ -465,7 +465,7 @@ translate spanish mas_preferredname_73b575b9:
 translate spanish mas_preferredname_947321d0:
 
     # m 3esa "I mean, it's the same as your computer's name..."
-    m 3esa "Quiero decir, es el mismo que el nombre de tu ordenador..."
+    m 3esa "Quiero decir, es el mismo que el nombre de tu [cur_plat_es]..."
 
 # game/script-story-events.rpy:622
 translate spanish mas_preferredname_25362864:
@@ -975,7 +975,7 @@ translate spanish mas_unlock_chess_541225a9:
 translate spanish mas_unlock_chess_ef1e0de9:
 
     # m 3eua "Computers are supposed to be very good at chess, after all."
-    m 3eua "Se supone que los ordenadores son muy buenos al ajedrez, después de todo."
+    m 3eua "Se supone que los [cur_plat_es]es son muy buenos al ajedrez, después de todo."
 
 # game/script-story-events.rpy:956
 translate spanish mas_unlock_chess_df75f776:
@@ -1695,7 +1695,7 @@ translate spanish mas_crashed_quip_takecare_dcc72b06:
 translate spanish mas_crashed_quip_takecare_064c5ca5:
 
     # m 1rksdla "...And that your computer is alright."
-    m 1rksdla "Y que tu ordenador esté bien."
+    m 1rksdla "Y que tu [cur_plat_es] esté bien."
 
 # game/script-story-events.rpy:1509
 translate spanish mas_crashed_quip_takecare_6dd274f5:
@@ -1743,7 +1743,7 @@ translate spanish mas_crashed_quip_takecare_9985d2d5:
 translate spanish mas_crashed_quip_takecare_7cb80869:
 
     # m 2ekc "Maybe you should take better care of your computer."
-    m 2ekc "Quizá deberías cuidar mejor de tu ordenador."
+    m 2ekc "Quizá deberías cuidar mejor de tu [cur_plat_es]."
 
 # game/script-story-events.rpy:1519
 translate spanish mas_crashed_quip_takecare_f07bc0cd:
@@ -2469,7 +2469,7 @@ translate spanish mas_derand_a1b7fda1:
 translate spanish mas_notification_windowreact_9784ab94:
 
     # m 3eua "I've been practicing coding a bit more and I've learned how to use the notifications on your computer!"
-    m 3eua "He estado practicando un poco más de programación y he aprendido a usar las notificaciones de tu ordenador."
+    m 3eua "He estado practicando un poco más de programación y he aprendido a usar las notificaciones de tu [cur_plat_es]."
 
 # game/script-story-events.rpy:2121
 translate spanish mas_notification_windowreact_4734609b:
@@ -2487,7 +2487,7 @@ translate spanish mas_notification_windowreact_e978a55e:
 translate spanish mas_notification_windowreact_dc48441f:
 
     # m 3ekd "I can't send notifications on your computer because you're missing the notify-send command..."
-    m 3ekd "No puedo enviar notificaciones a tu ordenador porque te falta el comando notify-send..."
+    m 3ekd "No puedo enviar notificaciones a tu [cur_plat_es] porque te falta el comando notify-send..."
 
 # game/script-story-events.rpy:2127
 translate spanish mas_notification_windowreact_e373f7f7:
@@ -3483,7 +3483,7 @@ translate spanish mas_backup_restored_6b6c264c:
 translate spanish mas_backup_restored_94d72937:
 
     # m 3esd "You should be more mindful of what you install on this computer."
-    m 3esd "Deberías tener más cuidado con lo que instalas en este ordenador."
+    m 3esd "Deberías tener más cuidado con lo que instalas en este [cur_plat_es]."
 
 # game/script-story-events.rpy:2753
 translate spanish mas_backup_restored_6319f04b:
@@ -4033,7 +4033,7 @@ translate spanish strings:
 
     # game/script-story-events.rpy:2739
     old "My PC broke."
-    new "Se rompió mi ordenador."
+    new "Se rompió mi [cur_plat_es]."
 
     # game/script-story-events.rpy:197
     old "And what gender do you identify as?"

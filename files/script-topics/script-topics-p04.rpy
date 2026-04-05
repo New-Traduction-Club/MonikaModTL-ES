@@ -746,7 +746,7 @@ translate spanish monika_anime_3e0c027b:
 translate spanish monika_anime_4603fa2d:
 
     # m "I'll watch through your computer screen. Make sure it's something I'll like!"
-    m "Miraré a través de la pantalla de tu ordenador. ¡Asegúrate de que sea algo que me guste!"
+    m "Miraré a través de la pantalla de tu [cur_plat_es]. ¡Asegúrate de que sea algo que me guste!"
 
 # game/script-topics.rpy:3449
 translate spanish monika_libitina_b8d2afe1:

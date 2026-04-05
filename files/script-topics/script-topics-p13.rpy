@@ -1563,7 +1563,7 @@ translate spanish monika_timetravel_252f3573:
 translate spanish monika_timetravel_b5c3b741:
 
     # m 1esd "The only way I know what day and time it is where you are is by looking at the clock on your computer."
-    m 1esd "La única forma que tengo de saber qué día y hora es donde estás es mirando el reloj de tu ordenador."
+    m 1esd "La única forma que tengo de saber qué día y hora es donde estás es mirando el reloj de tu [cur_plat_es]."
 
 # game/script-topics.rpy:10150
 translate spanish monika_timetravel_6477a497:
@@ -1575,7 +1575,7 @@ translate spanish monika_timetravel_6477a497:
 translate spanish monika_timetravel_2b320ed9:
 
     # m 1esc "But if you were to change the date on your computer to [one_year_later]..."
-    m 1esc "Pero si cambiaras la fecha de tu ordenador a [one_year_later]..."
+    m 1esc "Pero si cambiaras la fecha de tu [cur_plat_es] a [one_year_later]..."
 
 # game/script-topics.rpy:10152
 translate spanish monika_timetravel_7d106ad6:
@@ -1653,7 +1653,7 @@ translate spanish monika_timetravel_8659993c:
 translate spanish monika_timetravel_cf33982d:
 
     # m 1eka "Please don't change the date on your computer, [player]."
-    m 1eka "Por favor, no cambies la fecha de tu ordenador, [player]."
+    m 1eka "Por favor, no cambies la fecha de tu [cur_plat_es], [player]."
 
 # game/script-topics.rpy:10168
 translate spanish monika_timetravel_638feedf:

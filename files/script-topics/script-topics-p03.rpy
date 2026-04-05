@@ -1953,7 +1953,7 @@ translate spanish monika_internet_d185ded2:
 translate spanish monika_internet_f1b5dc43:
 
     # m 1eub "Even if you make a new user account on your computer to use for work, that's enough to help."
-    m 1eub "Hasta crear una cuenta alternativa en el ordenador puede ser útil."
+    m 1eub "Hasta crear una cuenta alternativa en el [cur_plat_es] puede ser útil."
 
 # game/script-topics.rpy:3149
 translate spanish monika_internet_c5d3f9c7:

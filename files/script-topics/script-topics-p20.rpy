@@ -549,7 +549,7 @@ translate spanish monika_life_skills_96366241:
 translate spanish monika_life_skills_4d316ec4:
 
     # m 2esc "Now I know most people wouldn't necessarily consider programming a life skill, but most people don't live inside a computer, either."
-    m 2esc "Ya sé que la mayoría de la gente no consideraría necesariamente la programación como una habilidad para la vida, pero la mayoría de la gente tampoco vive dentro de un ordenador."
+    m 2esc "Ya sé que la mayoría de la gente no consideraría necesariamente la programación como una habilidad para la vida, pero la mayoría de la gente tampoco vive dentro de un [cur_plat_es]."
 
 # game/script-topics.rpy:15267
 translate spanish monika_life_skills_c106bc88:

@@ -962,7 +962,7 @@ translate spanish strings:
 
     # game/script-topics.rpy:6038
     old "Why did you hack my computer?"
-    new "¿Por qué hackeaste mi ordenador?"
+    new "¿Por qué hackeaste mi [cur_plat_es]?"
 
     # game/script-topics.rpy:6064
     old "Baking cupcakes"
@@ -2234,7 +2234,7 @@ translate spanish strings:
 
     # game/script-topics.rpy:16691
     old "Using computers healthily"
-    new "Usar los ordenadores de forma saludable"
+    new "Usar los [cur_plat_es]es de forma saludable"
 
     # game/script-topics.rpy:16746
     old "Language nuances"

@@ -345,7 +345,7 @@ translate spanish monika_poweroutage_56af0da9:
 translate spanish monika_poweroutage_7bd9d7e1:
 
     # m 2ekc "What would happen to me if something surged and fried your computer?"
-    m 2ekc "¿Qué me pasaría si hubiera una sobrecarga y se friera tu ordenador?"
+    m 2ekc "¿Qué me pasaría si hubiera una sobrecarga y se friera tu [cur_plat_es]?"
 
 # game/script-topics.rpy:12493
 translate spanish monika_poweroutage_8a563448:
