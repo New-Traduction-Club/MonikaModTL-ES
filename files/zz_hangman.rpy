@@ -385,7 +385,7 @@ translate spanish strings:
 
     # game/zz_hangman.rpy:352
     old "Guess a letter: (Type {0}'!' to give up)"
-    new "Adivina una letra: (Escribe '{0}!' para rendirte)"
+    new "Adivina una letra: (Escribe {0}'!' para rendirte)"
 
     # game/zz_hangman.rpy:362
     old "Easy."
@@ -402,4 +402,24 @@ translate spanish strings:
     # game/zz_hangman.rpy:382
     old "Missed:"
     new "Fallaste:"
+
+    # game/zz_hangman.rpy:356
+    old "'?' to repeat the hint, "
+    new "'?' para repetir la pista, "
+
+    # game/zz_hangman.rpy:654
+    old "your name"
+    new "tu nombre"
+
+    # game/zz_hangman.rpy:656
+    old "the word"
+    new "la palabra"
+
+    # game/zz_hangman.rpy:728
+    old "Let's play again soon, okay?"
+    new "Juguemos de nuevo pronto, ¿vale?"
+
+    # game/zz_hangman.rpy:730
+    old "Okay. Let's play again soon!"
+    new "Vale, ¡volvamos a jugar pronto!"
 
