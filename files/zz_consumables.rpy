@@ -1,15 +1,116 @@
 ﻿
+init -4 python in mas_consumables:
+    def es_consumable_name(consumable, plural=False):
+        cid = getattr(consumable, "consumable_id", None)
+
+        if cid == "coffee":
+            return "café"
+        if cid == "hotchoc":
+            return "chocolate caliente"
+        if cid == "candycane":
+            return "bastones de caramelo" if plural else "bastón de caramelo"
+        if cid == "christmascookies":
+            return "galletas de Navidad" if plural else "galleta de Navidad"
+
+        base_name = __(consumable.disp_name)
+        if plural and not base_name.endswith("s"):
+            return base_name + "s"
+
+        return base_name
+
+    def es_consumable_with_possessive(consumable, plural=False):
+        return ("mis " if plural else "mi ") + es_consumable_name(consumable, plural)
+
+    def es_ready_verb(plural=False):
+        return "están" if plural else "está"
+
+    def es_ready_adj(consumable, plural=False):
+        if getattr(consumable, "consumable_id", None) == "christmascookies":
+            return "listas" if plural else "lista"
+
+        return "listos" if plural else "listo"
+
+    def es_about(about):
+        return "aprox. " if about else ""
+
+    def es_have_verb(amount):
+        return "quedan" if amount != 1 else "queda"
+
+    def es_count_phrase(consumable, amount):
+        cid = getattr(consumable, "consumable_id", None)
+
+        if cid == "coffee":
+            return "taza de café" if amount == 1 else "tazas de café"
+        if cid == "hotchoc":
+            return "taza de chocolate caliente" if amount == 1 else "tazas de chocolate caliente"
+
+        return es_consumable_name(consumable, plural=(amount != 1))
+
+    def es_low_cons_list(low_cons):
+        if not low_cons:
+            return ""
+
+        if len(low_cons) == 1:
+            return es_count_phrase(low_cons[0], 2)
+
+        if len(low_cons) == 2:
+            return "{0} y {1}".format(
+                es_count_phrase(low_cons[0], 2),
+                es_count_phrase(low_cons[1], 2)
+            )
+
+        return ", ".join([
+            es_count_phrase(consumable, 2)
+            for consumable in low_cons
+        ])
+
+    def es_get_line(consumable):
+        cid = getattr(consumable, "consumable_id", None)
+
+        if cid == "coffee":
+            return "Voy a por una taza de café."
+        if cid == "hotchoc":
+            return "Voy a por una taza de chocolate caliente."
+        if cid == "christmascookies":
+            return "Voy a por un plato de galletas de Navidad."
+        if cid == "candycane":
+            return "Voy a por bastones de caramelo."
+
+        return "Voy a por {0}.".format(es_consumable_name(consumable))
+
+    def es_finish_line(consumable, get_more):
+        cid = getattr(consumable, "consumable_id", None)
+
+        if get_more:
+            if cid == "coffee":
+                return "Voy a por otra taza de café."
+            if cid == "hotchoc":
+                return "Voy a por otra taza de chocolate caliente."
+            if cid == "christmascookies":
+                return "Voy a por otro plato de galletas de Navidad."
+            if cid == "candycane":
+                return "Voy a por más bastones de caramelo."
+
+            return "Voy a por más."
+
+        if cid in ("coffee", "hotchoc"):
+            return "Voy a guardar esta taza."
+        if cid == "christmascookies":
+            return "Voy a guardar este plato."
+
+        return "Voy a guardar esto."
+
 # game/zz_consumables.rpy:1398
 translate spanish mas_consumables_generic_get_1640fa5f:
 
     # m 1eua "[line_starter] I'll be right back.{w=1}{nw}"
-    m 1eua "[line_starter] Ahora vuelvo.{w=1}{nw}"
+    m 1eua "[mas_consumables.es_get_line(consumable)] Ahora vuelvo.{w=1}{nw}"
 
 # game/zz_consumables.rpy:1401
 translate spanish mas_consumables_generic_get_237b8a80:
 
     # m 1eua "[line_starter]"
-    m 1eua "[line_starter]"
+    m 1eua "[mas_consumables.es_get_line(consumable)]"
 
 # game/zz_consumables.rpy:1402
 translate spanish mas_consumables_generic_get_a644a99b:
@@ -33,13 +134,13 @@ translate spanish mas_consumables_generic_get_7a2f3a16:
 translate spanish mas_consumables_generic_finish_having_8a1f94e7:
 
     # m 1eud "I finished my [consumable.disp_name][plur].{w=0.2} {nw}"
-    m 1eud "Me he terminado mi [consumable.disp_name][plur].{w=0.2} {nw}"
+    m 1eud "Me he terminado [mas_consumables.es_consumable_with_possessive(consumable, bool(plur))].{w=0.2} {nw}"
 
 # game/zz_consumables.rpy:1476
 translate spanish mas_consumables_generic_finish_having_ac142054:
 
     # extend 1eua "[line_starter]"
-    extend 1eua "[line_starter]"
+    extend 1eua "[mas_consumables.es_finish_line(consumable, get_more)]"
 
 # game/zz_consumables.rpy:1477
 translate spanish mas_consumables_generic_finish_having_8b7b43c5:
@@ -51,13 +152,13 @@ translate spanish mas_consumables_generic_finish_having_8b7b43c5:
 translate spanish mas_consumables_generic_finish_having_460692de:
 
     # m 1esd "Oh, I've finished my [consumable.disp_name][plur].{w=1}{nw}"
-    m 1esd "Ah, me he terminado mi [consumable.disp_name][plur].{w=1}{nw}"
+    m 1esd "Ah, me he terminado [mas_consumables.es_consumable_with_possessive(consumable, bool(plur))].{w=1}{nw}"
 
 # game/zz_consumables.rpy:1481
 translate spanish mas_consumables_generic_finish_having_1640fa5f:
 
     # m 1eua "[line_starter] I'll be right back.{w=1}{nw}"
-    m 1eua "[line_starter] Ahora vuelvo.{w=1}{nw}"
+    m 1eua "[mas_consumables.es_finish_line(consumable, get_more)] Ahora vuelvo.{w=1}{nw}"
 
 # game/zz_consumables.rpy:1512
 translate spanish mas_consumables_generic_finish_having_cd3329c1:
@@ -75,7 +176,7 @@ translate spanish mas_consumables_generic_finish_having_7a2f3a16:
 translate spanish mas_consumables_generic_finished_prepping_548d993c:
 
     # m 1esd "Oh, my [consumable.disp_name][plur] [is_are] ready."
-    m 1esd "Ah, mi [consumable.disp_name][plur] ya [is_are] lista."
+    m 1esd "Ah, [mas_consumables.es_consumable_with_possessive(consumable, bool(plur))] ya [mas_consumables.es_ready_verb(bool(plur))] [mas_consumables.es_ready_adj(consumable, bool(plur))]."
 
 # game/zz_consumables.rpy:1544
 translate spanish mas_consumables_generic_finished_prepping_a644a99b:
@@ -87,7 +188,7 @@ translate spanish mas_consumables_generic_finished_prepping_a644a99b:
 translate spanish mas_consumables_generic_finished_prepping_014c9fc2:
 
     # m 1eua "I'm going to get my [consumable.disp_name][plur]. I'll be right back.{w=1}{nw}"
-    m 1eua "Voy a por mi [consumable.disp_name][plur]. Ahora vuelvo.{w=1}{nw}"
+    m 1eua "Voy a por [mas_consumables.es_consumable_with_possessive(consumable, bool(plur))]. Ahora vuelvo.{w=1}{nw}"
 
 # game/zz_consumables.rpy:1575
 translate spanish mas_consumables_generic_finished_prepping_cd3329c1:
@@ -129,13 +230,13 @@ translate spanish mas_consumables_generic_running_out_bf9fbe47:
 translate spanish mas_consumables_generic_running_out_5b012938:
 
     # m 3eud "I just wanted to let you know I only have [about][amt_left] [line_ender]"
-    m 3eud "Quería avisarte de que solo me queda [about][amt_left] [line_ender]"
+    m 3eud "Quería avisarte de que solo me [mas_consumables.es_have_verb(amt_left)] [mas_consumables.es_about(about)][amt_left] [mas_consumables.es_count_phrase(consumable, amt_left)]."
 
 # game/zz_consumables.rpy:1626
 translate spanish mas_consumables_generic_running_out_a3784acf:
 
     # m 3eud "I just wanted to let you know that I'm out of [consumable.disp_name][plur]."
-    m 3eud "Solo quería que supieras que me he quedado sin [consumable.disp_name][plur]."
+    m 3eud "Solo quería que supieras que me he quedado sin [mas_consumables.es_consumable_name(consumable, bool(plur))]."
 
 # game/zz_consumables.rpy:1628
 translate spanish mas_consumables_generic_running_out_a2abda03:
@@ -153,7 +254,7 @@ translate spanish mas_consumables_generic_critical_low_df5cc50f:
 translate spanish mas_consumables_generic_critical_low_fba607d9:
 
     # m 3eua "I only have one [line_ender]"
-    m 3eua "Solo me queda uno [line_ender]"
+    m 3eua "Solo me [mas_consumables.es_have_verb(1)] [mas_consumables.es_count_phrase(consumable, 1)]."
 
 # game/zz_consumables.rpy:1658
 translate spanish mas_consumables_generic_critical_low_e5ac8747:
@@ -189,13 +290,13 @@ translate spanish mas_consumables_generic_queued_running_out_dlg_e134897a:
 translate spanish mas_consumables_generic_queued_running_out_dlg_2ed3ad8a:
 
     # m 3rksdla "I'm running out of [items_running_out_of]."
-    m 3rksdla "Me estoy quedando sin [items_running_out_of]."
+    m 3rksdla "Me estoy quedando sin [mas_consumables.es_low_cons_list(low_cons)]."
 
 # game/zz_consumables.rpy:1715
 translate spanish mas_consumables_generic_queued_running_out_dlg_63f39e8f:
 
     # m 1eka "You wouldn't mind getting [them] for me, would you?"
-    m 1eka "No te importaría conseguir [them] para mí, ¿verdad?"
+    m 1eka "No te importaría conseguir más para mí, ¿verdad?"
 
 # game/zz_consumables.rpy:1729
 translate spanish mas_consumables_remove_thermos_8f907c3a:
@@ -279,7 +380,7 @@ translate spanish monika_consumables_check_d789c0e9:
 translate spanish monika_consumables_check_bf389125:
 
     # m 1rksdla "I've been running out of [items_running_out_of]."
-    m 1rksdla "Me he estado quedando sin [items_running_out_of]."
+    m 1rksdla "Me he estado quedando sin [mas_consumables.es_low_cons_list(low_cons)]."
 
 # game/zz_consumables.rpy:1854
 translate spanish monika_consumables_check_f9bef97b:
@@ -327,7 +428,7 @@ translate spanish monika_consumables_check_207b80b8:
 translate spanish monika_consumables_check_2ed3ad8a:
 
     # m 3rksdla "I'm running out of [items_running_out_of]."
-    m 3rksdla "Me estoy quedando sin [items_running_out_of]."
+    m 3rksdla "Me estoy quedando sin [mas_consumables.es_low_cons_list(low_cons)]."
 
 # game/zz_consumables.rpy:1885
 translate spanish monika_consumables_check_a2abda03:
@@ -412,4 +513,3 @@ translate spanish strings:
     # game/zz_consumables.rpy:1710
     old "some more"
     new "algo más"
-
