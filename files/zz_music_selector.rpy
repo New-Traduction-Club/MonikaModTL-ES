@@ -13,3 +13,7 @@ translate spanish strings:
     old "No Music"
     new "Silenciar"
 
+    # game/zz_music_selector.rpy:1061
+    old "Music Menu"
+    new "Música"
+
