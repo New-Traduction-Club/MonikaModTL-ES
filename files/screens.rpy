@@ -169,7 +169,7 @@ translate spanish strings:
 
     # game/screens.rpy:864
     old "Hotkeys"
-    new "Acceso directo"
+    new "Atajos"
 
     # game/screens.rpy:868
     old "Help"
@@ -405,7 +405,7 @@ translate spanish strings:
 
     # game/screens.rpy:1929
     old "Mute"
-    new "Simenciar"
+    new "Silenciar"
 
     # game/screens.rpy:1934
     old "+"
@@ -421,7 +421,7 @@ translate spanish strings:
 
     # game/screens.rpy:1985
     old "The dialogue history is empty."
-    new "El diálogo de la historia está vacío"
+    new "El historial está vacío"
 
     # game/screens.rpy:2219
     old "OK"
@@ -477,7 +477,7 @@ translate spanish strings:
 
     # game/screens.rpy:2435
     old "Monika After Story is up to date."
-    new "Monika After Story se encuentra actualizada."
+    new "Monika After Story se encuentra actualizado."
 
     # game/screens.rpy:2437
     old "Preparing to download the updates."
@@ -561,11 +561,11 @@ translate spanish strings:
 
     # game/screens.rpy:1271
     old "{b}MASL: An After Story Launcher (Unofficial Android Port){/b}\n\nUnoffucial Project: This is an unofficial, fan-made Android wrapper/launcher and is not affiliated with Team Salvato or the Monika After Story team.\n\n{b}Overview{/b}\nMASL is a custom Android port intended to run Monika After Story in mobile environments without distributing copyrighted content.\n\n{b}Acknowledgments & Credits{/b}\nTeam Salvato: creators of Doki Doki Literature Club!\nMonika After Story Team: creators of the original mod.\nRen'Py: visual novel engine and RAPT framework.\nLattyware: foundational unrpa logic.\n\nDeveloped and maintained by Traduction Club!.\n"
-    new "{b}MASL: An After Story Launcher (Unofficial Android Port){/b}\n\nUnoffucial Project: This is an unofficial, fan-made Android wrapper/launcher and is not affiliated with Team Salvato or the Monika After Story team.\n\n{b}Overview{/b}\nMASL is a custom Android port intended to run Monika After Story in mobile environments without distributing copyrighted content.\n\n{b}Acknowledgments & Credits{/b}\nTeam Salvato: creators of Doki Doki Literature Club!\nMonika After Story Team: creators of the original mod.\nRen'Py: visual novel engine and RAPT framework.\nLattyware: foundational unrpa logic.\n\nDeveloped and maintained by Traduction Club!.\n"
+    new "{b}MASL: An After Story Launcher (Versión no oficial para Android){/b}\n\nProyecto no oficial: Se trata de un launcher/port para Android creado por fans y no oficial, que no está afiliado a Team Salvato ni a Monika After Story Team.\n\n{b}Descripción general{/b}\nMASL es una adaptación para Android destinada a ejecutar Monika After Story en entornos móviles sin distribuir contenido protegido por derechos de autor.\n\n{b}Acknowledgments & Credits{/b}\nTeam Salvato: creadores de Doki Doki Literature Club!\nMonika After Story Team: creadores del mod original.\nRen'Py: motor de novelas visuales y RAPT.\nLattyware: lógica de unrpa.\n\nDesarrollado por Traduction Club!.\n"
 
     # game/screens.rpy:1285
     old "Original creators of the Monika After Story mod: Monika After Story Team.\nOriginal game creators: Team Salvato.\nModifications for this build by Traduction Club!.\n"
-    new "Original creators of the Monika After Story mod: Monika After Story Team.\nOriginal game creators: Team Salvato.\nModifications for this build by Traduction Club!.\n"
+    new "Creadores originales de Monika After Story: Monika After Story Team.\nCreadores originales del juego: Team Salvato.\nModificaciones hechas por Traduction Club!.\n"
 
     # game/screens.rpy:1988
     old "Click 'Help' for the complete list."

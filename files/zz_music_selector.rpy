@@ -17,3 +17,7 @@ translate spanish strings:
     old "Music Menu"
     new "Música"
 
+    # game/zz_music_selector.rpy:1185
+    old "Random Play: [random_play_status]"
+    new "Aleatorio: [random_play_status]"
+

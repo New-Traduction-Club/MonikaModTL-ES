@@ -2067,7 +2067,7 @@ translate spanish strings:
 
     # game/script-compliments.rpy:684
     old "You can be really cute a lot of the time too, you know~"
-    new "Tú también puedes ser muy mon[end_letter_gender] muchas veces, ¿sabes?"
+    new "Tú también puedes ser una lindura muchas veces, ¿sabes?"
 
     # game/script-compliments.rpy:684
     old "You'll always be my cutie~"
