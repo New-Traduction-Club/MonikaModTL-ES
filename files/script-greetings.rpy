@@ -8120,3 +8120,23 @@ translate spanish strings:
     old "night"
     new "noche"
 
+    # game/script-greetings.rpy:3246
+    old "I got yelled at."
+    new "Me han echado una bronca."
+
+    # game/script-greetings.rpy:3246
+    old "I got passed over for someone else."
+    new "Le han dado mi puesto a otro."
+
+    # game/script-greetings.rpy:3246
+    old "I had to work late."
+    new "Me ha tocado hacer horas extra."
+
+    # game/script-greetings.rpy:3246
+    old "I didn't get much done today."
+    new "Hoy no me ha cundido nada el tiempo."
+
+    # game/script-greetings.rpy:3246
+    old "Just another bad day."
+    new "Otro mal día sin más."
+
