@@ -429,7 +429,7 @@ translate spanish mas_player_nickname_loop_bb34c753:
 translate spanish mas_player_nickname_loop_6959599a:
 
     # m "[dlg_line]{fast}" nointeract
-    m "dlg_line]{fast}" nointeract
+    m "[dlg_line]{fast}" nointeract
 
 # game/script-affection.rpy:3123
 translate spanish mas_player_nickname_loop_name_enter_skip_loop_d543b2c4:
@@ -1563,7 +1563,7 @@ translate spanish strings:
 
     # game/script-affection.rpy:3159
     old "Just let me know if you ever want me to call you some other names, okay?"
-    new "Sólo hazme saber si en algún momento quieres que te llame de otra manera, vale?"
+    new "Sólo hazme saber si en algún momento quieres que te llame de otra manera, ¿vale?"
 
     # game/script-affection.rpy:3162
     old "Just let me know if you ever change your mind, okay?"
